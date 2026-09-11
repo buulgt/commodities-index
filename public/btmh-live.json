@@ -1,0 +1,29 @@
+{
+  "source": "https://baotinmanhhai.vn/bang-gia-vang",
+  "syncedAt": "2026-09-11T04:51:10.581Z",
+  "latestDate": "11:51:10",
+  "gold": {
+    "kimGiaBao": {
+      "name": "Kim Gia Bảo 24K (99.99%)",
+      "buy": 142400000,
+      "sell": 146400000
+    },
+    "sjc": {
+      "name": "Vàng miếng SJC (BTMH)",
+      "buy": 142000000,
+      "sell": 145000000
+    }
+  },
+  "silver": {
+    "nganGiaBao": {
+      "name": "Ngân Gia Bảo - Bạc thỏi (99.9%)",
+      "buy": 2162000,
+      "sell": 2229000
+    },
+    "bacKg": {
+      "name": "Bạc thỏi 1 Kilogram (99.9%)",
+      "buy": 57654000,
+      "sell": 59440000
+    }
+  }
+}
