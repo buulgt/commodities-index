@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback, useMemo } from 'react';
+import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { VaultHeader } from './components/VaultHeader';
 import { ControlRibbon } from './components/ControlRibbon';
 import { BranchMatrix } from './components/BranchMatrix';
@@ -6,6 +6,7 @@ import { TerminalChart } from './components/TerminalChart';
 import { PALETTES } from './styles/palettes';
 import type {
   CommoditySummary,
+  PricePoint,
   Timeframe,
   ViewMode,
   UnitMode,
@@ -13,7 +14,6 @@ import type {
   GoldDealerKey,
   SilverDealerKey,
   BullionMatrixData,
-
 } from './types/commodity';
 import { fetchMarketSummaries, fetchBullionMatrix, generateHistory } from './services/marketData';
 
@@ -22,6 +22,8 @@ export function App() {
   const [silverSummary, setSilverSummary] = useState<CommoditySummary | null>(null);
   const [bullionMatrix, setBullionMatrix] = useState<BullionMatrixData | null>(null);
   const [isRefreshing, setIsRefreshing] = useState(false);
+  const goldSeriesRef = useRef<PricePoint[] | null>(null);
+  const silverSeriesRef = useRef<PricePoint[] | null>(null);
 
   // Layout & dealer state
   const [viewMode, setViewMode] = useState<ViewMode>('stacked');
@@ -51,8 +53,8 @@ export function App() {
   }, [currentPalette]);
 
   // Load live matrix and summaries based on selected dealers
-  const loadSummaries = useCallback(async () => {
-    setIsRefreshing(true);
+  const loadSummaries = useCallback(async (silent = false) => {
+    if (!silent) setIsRefreshing(true);
     try {
       const matrix = await fetchBullionMatrix();
       if (matrix) setBullionMatrix(matrix);
@@ -61,27 +63,48 @@ export function App() {
       setGoldSummary(gold);
       setSilverSummary(silver);
     } finally {
-      setIsRefreshing(false);
+      if (!silent) setIsRefreshing(false);
     }
   }, [selectedGoldDealer, selectedSilverDealer]);
 
-  // Initial load + interval polling every 30 seconds
   useEffect(() => {
+    goldSeriesRef.current = null;
+    silverSeriesRef.current = null;
     loadSummaries();
-    const interval = setInterval(loadSummaries, 30000);
+    const interval = setInterval(() => {
+      void loadSummaries(true);
+    }, 8000);
     return () => clearInterval(interval);
   }, [loadSummaries]);
 
-  // Historical datasets are derived synchronously with the timeframe, so the
-  // chart never receives a stale series from a previous timeframe.
-  const goldData = useMemo(
-    () => generateHistory('gold', goldSummary?.worldPrice, goldSummary?.vnSellPrice),
-    [goldSummary?.worldPrice, goldSummary?.vnSellPrice]
-  );
-  const silverData = useMemo(
-    () => generateHistory('silver', silverSummary?.worldPrice, silverSummary?.vnSellPrice),
-    [silverSummary?.worldPrice, silverSummary?.vnSellPrice]
-  );
+  const goldData = useMemo(() => {
+    const w = goldSummary?.worldPrice;
+    const vn = goldSummary?.vnSellPrice;
+    if (w == null || vn == null) return [];
+    if (!goldSeriesRef.current) {
+      goldSeriesRef.current = generateHistory('gold', w, vn);
+      return goldSeriesRef.current;
+    }
+    const next = goldSeriesRef.current.slice();
+    const last = next[next.length - 1];
+    next[next.length - 1] = { ...last, worldPrice: w, vnPrice: vn };
+    goldSeriesRef.current = next;
+    return next;
+  }, [goldSummary?.worldPrice, goldSummary?.vnSellPrice]);
+  const silverData = useMemo(() => {
+    const w = silverSummary?.worldPrice;
+    const vn = silverSummary?.vnSellPrice;
+    if (w == null || vn == null) return [];
+    if (!silverSeriesRef.current) {
+      silverSeriesRef.current = generateHistory('silver', w, vn);
+      return silverSeriesRef.current;
+    }
+    const next = silverSeriesRef.current.slice();
+    const last = next[next.length - 1];
+    next[next.length - 1] = { ...last, worldPrice: w, vnPrice: vn };
+    silverSeriesRef.current = next;
+    return next;
+  }, [silverSummary?.worldPrice, silverSummary?.vnSellPrice]);
   // Compute Gold to Silver Ratio (GSR) series
   const ratioData = useMemo(() => {
     if (goldData.length === 0 || silverData.length === 0) return [];
