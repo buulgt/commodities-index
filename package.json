@@ -10,7 +10,9 @@
     "preview": "vite preview",
     "sync:sjc": "node scripts/sync-sjc.mjs",
     "sync:btmh": "node scripts/sync-btmh.mjs",
-    "sync:all": "node scripts/sync-all.mjs"
+    "sync:all": "node scripts/sync-all.mjs",
+    "sync:tinyfish": "node scripts/sync-tinyfish.mjs --once",
+    "sync:watch": "node scripts/sync-tinyfish.mjs"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.3.3",

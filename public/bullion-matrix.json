@@ -1,15 +1,15 @@
 {
-  "syncedAt": "2026-09-11T05:02:57.795Z",
+  "syncedAt": "2026-09-16T05:49:58.040Z",
   "usdRate": 25850,
   "goldWorld": 4334.5,
   "silverWorld": 63.65,
   "sge": {
     "contract": "Au99.99",
     "name": "Shanghai Gold Exchange",
-    "priceCnyPerGram": 1018.50,
+    "priceCnyPerGram": 1018.5,
     "usdCnyRate": 7.24,
     "sgeUsdPerOz": 4375.54,
-    "worldUsdPerOz": 4334.50,
+    "worldUsdPerOz": 4334.5,
     "spreadUsd": 41.04,
     "premiumPercent": 0.95,
     "updated": "15:30 CST (SGE Close)"
@@ -20,36 +20,33 @@
       "name": "SJC Official",
       "city": "Hồ Chí Minh",
       "productName": "Vàng SJC 1L, 10L, 1KG",
-      "buy": 141400000,
-      "sell": 144400000,
+      "buy": 142900000,
+      "sell": 145900000,
       "spread": 3000000,
       "badge": "Chuẩn Quốc Gia",
-      "updated": "11:04 11/09/2026 (SJC Official)",
-      "premiumPercent": 6.89
+      "updated": "12:50:28 (TinyFish Live)"
     },
     "mihong": {
       "id": "mihong",
       "name": "Mi Hồng",
       "city": "Bà Chiểu, HCM",
       "productName": "Vàng Miếng SJC & Nhẫn 99.9%",
-      "buy": 143000000,
-      "sell": 144500000,
+      "buy": 143800000,
+      "sell": 145300000,
       "spread": 1500000,
       "badge": "Spread Thấp Nhất",
-      "updated": "12:02:57 (Mi Hồng)",
-      "premiumPercent": 6.97
+      "updated": "12:50:28 (TinyFish Live)"
     },
     "btmc": {
       "id": "btmc",
       "name": "Bảo Tín Minh Châu",
       "city": "Trần Nhân Tông, HN",
       "productName": "Vàng Rồng Thăng Long 999.9",
-      "buy": 142400000,
-      "sell": 146400000,
-      "spread": 4000000,
+      "buy": 142900000,
+      "sell": 145900000,
+      "spread": 3000000,
       "badge": "Top 1 Hà Nội",
-      "updated": "10:30 (BTMC)",
-      "premiumPercent": 8.37
+      "updated": "12:50:28 (TinyFish Live)"
     },
     "btmh": {
       "id": "btmh",
@@ -67,25 +64,23 @@
       "id": "doji",
       "name": "DOJI Group",
       "city": "Hà Nội & HCM",
-      "productName": "Hưng Thịnh Vượng 999.9",
-      "buy": 141400000,
-      "sell": 144400000,
+      "productName": "Vàng SJC & Hưng Thịnh Vượng",
+      "buy": 142900000,
+      "sell": 145900000,
       "spread": 3000000,
       "badge": "Tập Đoàn DOJI",
-      "updated": "10:00 (DOJI)",
-      "premiumPercent": 6.89
+      "updated": "12:50:28 (TinyFish Live)"
     },
     "pnj": {
       "id": "pnj",
       "name": "PNJ",
       "city": "Toàn Quốc (Phú Nhuận)",
-      "productName": "Vàng Miếng & Nhẫn Trơn 24K",
-      "buy": 141400000,
-      "sell": 145000000,
-      "spread": 3600000,
+      "productName": "Vàng Miếng PNJ & SJC",
+      "buy": 142900000,
+      "sell": 145900000,
+      "spread": 3000000,
       "badge": "Hệ Thống Lớn Nhất",
-      "updated": "09:30 (PNJ)",
-      "premiumPercent": 7.34
+      "updated": "12:50:28 (TinyFish Live)"
     }
   },
   "silverDealers": {
