@@ -1,0 +1,22796 @@
+window.SGE_SPREAD_DATA = {
+  "generatedAt": "2026-09-16T05:16:30.335875+00:00",
+  "count": 2532,
+  "startDate": "2016-04-18",
+  "endDate": "2026-09-14",
+  "data": [
+    {
+      "date": "2016-04-18",
+      "sge_cny_per_g": 257.29,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1199.58,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -106.22,
+      "premium_percent": -8.13
+    },
+    {
+      "date": "2016-04-19",
+      "sge_cny_per_g": 259.97,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1212.07,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -93.73,
+      "premium_percent": -7.18
+    },
+    {
+      "date": "2016-04-20",
+      "sge_cny_per_g": 261.82,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1220.7,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -85.1,
+      "premium_percent": -6.52
+    },
+    {
+      "date": "2016-04-21",
+      "sge_cny_per_g": 260.41,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1214.12,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -91.68,
+      "premium_percent": -7.02
+    },
+    {
+      "date": "2016-04-24",
+      "sge_cny_per_g": 258.8,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1206.62,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -99.18,
+      "premium_percent": -7.6
+    },
+    {
+      "date": "2016-04-25",
+      "sge_cny_per_g": 258.53,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1205.36,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -100.44,
+      "premium_percent": -7.69
+    },
+    {
+      "date": "2016-04-26",
+      "sge_cny_per_g": 259.9,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1211.75,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -94.05,
+      "premium_percent": -7.2
+    },
+    {
+      "date": "2016-04-27",
+      "sge_cny_per_g": 261.88,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1220.98,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -84.82,
+      "premium_percent": -6.5
+    },
+    {
+      "date": "2016-04-28",
+      "sge_cny_per_g": 265.54,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1238.04,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -67.76,
+      "premium_percent": -5.19
+    },
+    {
+      "date": "2016-05-02",
+      "sge_cny_per_g": 269.06,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1254.45,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -51.35,
+      "premium_percent": -3.93
+    },
+    {
+      "date": "2016-05-03",
+      "sge_cny_per_g": 268.02,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1249.6,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -56.2,
+      "premium_percent": -4.3
+    },
+    {
+      "date": "2016-05-04",
+      "sge_cny_per_g": 267.97,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1249.37,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -56.43,
+      "premium_percent": -4.32
+    },
+    {
+      "date": "2016-05-05",
+      "sge_cny_per_g": 267.52,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1247.27,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -58.53,
+      "premium_percent": -4.48
+    },
+    {
+      "date": "2016-05-08",
+      "sge_cny_per_g": 268.27,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1250.77,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -55.03,
+      "premium_percent": -4.21
+    },
+    {
+      "date": "2016-05-09",
+      "sge_cny_per_g": 265.72,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1238.88,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -66.92,
+      "premium_percent": -5.12
+    },
+    {
+      "date": "2016-05-10",
+      "sge_cny_per_g": 267.09,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1245.27,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -60.53,
+      "premium_percent": -4.64
+    },
+    {
+      "date": "2016-05-11",
+      "sge_cny_per_g": 266.5,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1242.52,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -63.28,
+      "premium_percent": -4.85
+    },
+    {
+      "date": "2016-05-12",
+      "sge_cny_per_g": 267.51,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1247.23,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -58.57,
+      "premium_percent": -4.49
+    },
+    {
+      "date": "2016-05-15",
+      "sge_cny_per_g": 269.39,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1255.99,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -49.81,
+      "premium_percent": -3.81
+    },
+    {
+      "date": "2016-05-16",
+      "sge_cny_per_g": 267.85,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1248.81,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -56.99,
+      "premium_percent": -4.36
+    },
+    {
+      "date": "2016-05-17",
+      "sge_cny_per_g": 268.15,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1250.21,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -55.59,
+      "premium_percent": -4.26
+    },
+    {
+      "date": "2016-05-18",
+      "sge_cny_per_g": 264.47,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1233.05,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -72.75,
+      "premium_percent": -5.57
+    },
+    {
+      "date": "2016-05-19",
+      "sge_cny_per_g": 264.46,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1233.01,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -72.79,
+      "premium_percent": -5.57
+    },
+    {
+      "date": "2016-05-22",
+      "sge_cny_per_g": 263.96,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1230.67,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -75.13,
+      "premium_percent": -5.75
+    },
+    {
+      "date": "2016-05-23",
+      "sge_cny_per_g": 262.98,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1226.11,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -79.69,
+      "premium_percent": -6.1
+    },
+    {
+      "date": "2016-05-24",
+      "sge_cny_per_g": 258.68,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1206.06,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -99.74,
+      "premium_percent": -7.64
+    },
+    {
+      "date": "2016-05-25",
+      "sge_cny_per_g": 259.6,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1210.35,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -95.45,
+      "premium_percent": -7.31
+    },
+    {
+      "date": "2016-05-26",
+      "sge_cny_per_g": 258.36,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1204.57,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -101.23,
+      "premium_percent": -7.75
+    },
+    {
+      "date": "2016-05-29",
+      "sge_cny_per_g": 254.94,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1188.62,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -117.18,
+      "premium_percent": -8.97
+    },
+    {
+      "date": "2016-05-30",
+      "sge_cny_per_g": 257.26,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1199.44,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -106.36,
+      "premium_percent": -8.15
+    },
+    {
+      "date": "2016-05-31",
+      "sge_cny_per_g": 258.17,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1203.68,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -102.12,
+      "premium_percent": -7.82
+    },
+    {
+      "date": "2016-06-01",
+      "sge_cny_per_g": 257.56,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1200.84,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -104.96,
+      "premium_percent": -8.04
+    },
+    {
+      "date": "2016-06-02",
+      "sge_cny_per_g": 257.01,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1198.27,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -107.53,
+      "premium_percent": -8.23
+    },
+    {
+      "date": "2016-06-05",
+      "sge_cny_per_g": 262.51,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1223.91,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -81.89,
+      "premium_percent": -6.27
+    },
+    {
+      "date": "2016-06-06",
+      "sge_cny_per_g": 263.17,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1226.99,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -78.81,
+      "premium_percent": -6.04
+    },
+    {
+      "date": "2016-06-07",
+      "sge_cny_per_g": 264.66,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1233.94,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -71.86,
+      "premium_percent": -5.5
+    },
+    {
+      "date": "2016-06-12",
+      "sge_cny_per_g": 271.99,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1268.11,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -37.69,
+      "premium_percent": -2.89
+    },
+    {
+      "date": "2016-06-13",
+      "sge_cny_per_g": 271.15,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1264.2,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -41.6,
+      "premium_percent": -3.19
+    },
+    {
+      "date": "2016-06-14",
+      "sge_cny_per_g": 273.14,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1273.47,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -32.33,
+      "premium_percent": -2.48
+    },
+    {
+      "date": "2016-06-15",
+      "sge_cny_per_g": 277.07,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1291.8,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -14.0,
+      "premium_percent": -1.07
+    },
+    {
+      "date": "2016-06-16",
+      "sge_cny_per_g": 272.38,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1269.93,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -35.87,
+      "premium_percent": -2.75
+    },
+    {
+      "date": "2016-06-19",
+      "sge_cny_per_g": 272.19,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1269.05,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -36.75,
+      "premium_percent": -2.81
+    },
+    {
+      "date": "2016-06-20",
+      "sge_cny_per_g": 271.86,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1267.51,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -38.29,
+      "premium_percent": -2.93
+    },
+    {
+      "date": "2016-06-21",
+      "sge_cny_per_g": 268.0,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1249.51,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -56.29,
+      "premium_percent": -4.31
+    },
+    {
+      "date": "2016-06-22",
+      "sge_cny_per_g": 268.66,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1252.59,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -53.21,
+      "premium_percent": -4.08
+    },
+    {
+      "date": "2016-06-23",
+      "sge_cny_per_g": 278.92,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1300.42,
+      "world_gold_usd": 1305.8,
+      "spread_usd": -5.38,
+      "premium_percent": -0.41
+    },
+    {
+      "date": "2016-06-26",
+      "sge_cny_per_g": 283.43,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1321.45,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 15.65,
+      "premium_percent": 1.2
+    },
+    {
+      "date": "2016-06-27",
+      "sge_cny_per_g": 282.15,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1315.48,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 9.68,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2016-06-28",
+      "sge_cny_per_g": 282.87,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1318.84,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 13.04,
+      "premium_percent": 1.0
+    },
+    {
+      "date": "2016-06-29",
+      "sge_cny_per_g": 281.78,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1313.76,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 7.96,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2016-06-30",
+      "sge_cny_per_g": 285.5,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1331.1,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 25.3,
+      "premium_percent": 1.94
+    },
+    {
+      "date": "2016-07-03",
+      "sge_cny_per_g": 290.01,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1352.13,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 46.33,
+      "premium_percent": 3.55
+    },
+    {
+      "date": "2016-07-04",
+      "sge_cny_per_g": 288.48,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1345.0,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 39.2,
+      "premium_percent": 3.0
+    },
+    {
+      "date": "2016-07-05",
+      "sge_cny_per_g": 295.0,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1375.39,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 69.59,
+      "premium_percent": 5.33
+    },
+    {
+      "date": "2016-07-06",
+      "sge_cny_per_g": 294.43,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1372.74,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 66.94,
+      "premium_percent": 5.13
+    },
+    {
+      "date": "2016-07-07",
+      "sge_cny_per_g": 292.05,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1361.64,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 55.84,
+      "premium_percent": 4.28
+    },
+    {
+      "date": "2016-07-10",
+      "sge_cny_per_g": 293.48,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1368.31,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 62.51,
+      "premium_percent": 4.79
+    },
+    {
+      "date": "2016-07-11",
+      "sge_cny_per_g": 291.86,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1360.75,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 54.95,
+      "premium_percent": 4.21
+    },
+    {
+      "date": "2016-07-12",
+      "sge_cny_per_g": 288.16,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1343.5,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 37.7,
+      "premium_percent": 2.89
+    },
+    {
+      "date": "2016-07-13",
+      "sge_cny_per_g": 287.6,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1340.89,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 35.09,
+      "premium_percent": 2.69
+    },
+    {
+      "date": "2016-07-14",
+      "sge_cny_per_g": 286.62,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1336.32,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 30.52,
+      "premium_percent": 2.34
+    },
+    {
+      "date": "2016-07-17",
+      "sge_cny_per_g": 286.77,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1337.02,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 31.22,
+      "premium_percent": 2.39
+    },
+    {
+      "date": "2016-07-18",
+      "sge_cny_per_g": 286.57,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1336.09,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 30.29,
+      "premium_percent": 2.32
+    },
+    {
+      "date": "2016-07-19",
+      "sge_cny_per_g": 286.5,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1335.76,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 29.96,
+      "premium_percent": 2.29
+    },
+    {
+      "date": "2016-07-20",
+      "sge_cny_per_g": 282.96,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1319.26,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 13.46,
+      "premium_percent": 1.03
+    },
+    {
+      "date": "2016-07-21",
+      "sge_cny_per_g": 284.88,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1328.21,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 22.41,
+      "premium_percent": 1.72
+    },
+    {
+      "date": "2016-07-24",
+      "sge_cny_per_g": 283.41,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1321.36,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 15.56,
+      "premium_percent": 1.19
+    },
+    {
+      "date": "2016-07-25",
+      "sge_cny_per_g": 283.71,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1322.76,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 16.96,
+      "premium_percent": 1.3
+    },
+    {
+      "date": "2016-07-26",
+      "sge_cny_per_g": 283.17,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1320.24,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 14.44,
+      "premium_percent": 1.11
+    },
+    {
+      "date": "2016-07-27",
+      "sge_cny_per_g": 287.55,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1340.66,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 34.86,
+      "premium_percent": 2.67
+    },
+    {
+      "date": "2016-07-28",
+      "sge_cny_per_g": 286.01,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1333.48,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 27.68,
+      "premium_percent": 2.12
+    },
+    {
+      "date": "2016-07-31",
+      "sge_cny_per_g": 287.95,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1342.52,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 36.72,
+      "premium_percent": 2.81
+    },
+    {
+      "date": "2016-08-01",
+      "sge_cny_per_g": 289.32,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1348.91,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 43.11,
+      "premium_percent": 3.3
+    },
+    {
+      "date": "2016-08-02",
+      "sge_cny_per_g": 291.42,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1358.7,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 52.9,
+      "premium_percent": 4.05
+    },
+    {
+      "date": "2016-08-03",
+      "sge_cny_per_g": 289.08,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1347.79,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 41.99,
+      "premium_percent": 3.22
+    },
+    {
+      "date": "2016-08-04",
+      "sge_cny_per_g": 292.05,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1361.64,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 55.84,
+      "premium_percent": 4.28
+    },
+    {
+      "date": "2016-08-07",
+      "sge_cny_per_g": 286.54,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1335.95,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 30.15,
+      "premium_percent": 2.31
+    },
+    {
+      "date": "2016-08-08",
+      "sge_cny_per_g": 285.87,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1332.83,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 27.03,
+      "premium_percent": 2.07
+    },
+    {
+      "date": "2016-08-09",
+      "sge_cny_per_g": 289.47,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1349.61,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 43.81,
+      "premium_percent": 3.36
+    },
+    {
+      "date": "2016-08-10",
+      "sge_cny_per_g": 287.36,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1339.77,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 33.97,
+      "premium_percent": 2.6
+    },
+    {
+      "date": "2016-08-11",
+      "sge_cny_per_g": 286.95,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1337.86,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 32.06,
+      "premium_percent": 2.46
+    },
+    {
+      "date": "2016-08-14",
+      "sge_cny_per_g": 286.97,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1337.95,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 32.15,
+      "premium_percent": 2.46
+    },
+    {
+      "date": "2016-08-15",
+      "sge_cny_per_g": 288.47,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1344.95,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 39.15,
+      "premium_percent": 3.0
+    },
+    {
+      "date": "2016-08-16",
+      "sge_cny_per_g": 287.39,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1339.91,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 34.11,
+      "premium_percent": 2.61
+    },
+    {
+      "date": "2016-08-17",
+      "sge_cny_per_g": 288.84,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1346.67,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 40.87,
+      "premium_percent": 3.13
+    },
+    {
+      "date": "2016-08-18",
+      "sge_cny_per_g": 288.68,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1345.93,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 40.13,
+      "premium_percent": 3.07
+    },
+    {
+      "date": "2016-08-21",
+      "sge_cny_per_g": 286.29,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1334.78,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 28.98,
+      "premium_percent": 2.22
+    },
+    {
+      "date": "2016-08-22",
+      "sge_cny_per_g": 286.56,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1336.04,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 30.24,
+      "premium_percent": 2.32
+    },
+    {
+      "date": "2016-08-23",
+      "sge_cny_per_g": 286.73,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1336.84,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 31.04,
+      "premium_percent": 2.38
+    },
+    {
+      "date": "2016-08-24",
+      "sge_cny_per_g": 284.52,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1326.53,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 20.73,
+      "premium_percent": 1.59
+    },
+    {
+      "date": "2016-08-25",
+      "sge_cny_per_g": 284.44,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1326.16,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 20.36,
+      "premium_percent": 1.56
+    },
+    {
+      "date": "2016-08-28",
+      "sge_cny_per_g": 283.68,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1322.62,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 16.82,
+      "premium_percent": 1.29
+    },
+    {
+      "date": "2016-08-29",
+      "sge_cny_per_g": 284.56,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1326.72,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 20.92,
+      "premium_percent": 1.6
+    },
+    {
+      "date": "2016-08-30",
+      "sge_cny_per_g": 282.78,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1318.42,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 12.62,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2016-08-31",
+      "sge_cny_per_g": 281.63,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1313.06,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 7.26,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2016-09-01",
+      "sge_cny_per_g": 282.5,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1317.11,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 11.31,
+      "premium_percent": 0.87
+    },
+    {
+      "date": "2016-09-04",
+      "sge_cny_per_g": 285.24,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1329.89,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 24.09,
+      "premium_percent": 1.84
+    },
+    {
+      "date": "2016-09-05",
+      "sge_cny_per_g": 285.73,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1332.17,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 26.37,
+      "premium_percent": 2.02
+    },
+    {
+      "date": "2016-09-06",
+      "sge_cny_per_g": 290.13,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1352.69,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 46.89,
+      "premium_percent": 3.59
+    },
+    {
+      "date": "2016-09-07",
+      "sge_cny_per_g": 289.35,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1349.05,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 43.25,
+      "premium_percent": 3.31
+    },
+    {
+      "date": "2016-09-08",
+      "sge_cny_per_g": 287.75,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1341.59,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 35.79,
+      "premium_percent": 2.74
+    },
+    {
+      "date": "2016-09-11",
+      "sge_cny_per_g": 286.04,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1333.62,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 27.82,
+      "premium_percent": 2.13
+    },
+    {
+      "date": "2016-09-12",
+      "sge_cny_per_g": 286.14,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1334.09,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 28.29,
+      "premium_percent": 2.17
+    },
+    {
+      "date": "2016-09-13",
+      "sge_cny_per_g": 284.41,
+      "usd_cny": 6.6712,
+      "sge_usd_per_oz": 1326.02,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 20.22,
+      "premium_percent": 1.55
+    },
+    {
+      "date": "2016-09-18",
+      "sge_cny_per_g": 283.49,
+      "usd_cny": 6.6707,
+      "sge_usd_per_oz": 1321.83,
+      "world_gold_usd": 1305.8,
+      "spread_usd": 16.03,
+      "premium_percent": 1.23
+    },
+    {
+      "date": "2016-09-19",
+      "sge_cny_per_g": 283.29,
+      "usd_cny": 6.6662,
+      "sge_usd_per_oz": 1321.79,
+      "world_gold_usd": 1313.5,
+      "spread_usd": 8.29,
+      "premium_percent": 0.63
+    },
+    {
+      "date": "2016-09-20",
+      "sge_cny_per_g": 284.17,
+      "usd_cny": 6.6695,
+      "sge_usd_per_oz": 1325.24,
+      "world_gold_usd": 1313.7,
+      "spread_usd": 11.54,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2016-09-21",
+      "sge_cny_per_g": 286.63,
+      "usd_cny": 6.6736,
+      "sge_usd_per_oz": 1335.89,
+      "world_gold_usd": 1326.9,
+      "spread_usd": 8.99,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2016-09-22",
+      "sge_cny_per_g": 286.95,
+      "usd_cny": 6.6638,
+      "sge_usd_per_oz": 1339.35,
+      "world_gold_usd": 1340.4,
+      "spread_usd": -1.05,
+      "premium_percent": -0.08
+    },
+    {
+      "date": "2016-09-25",
+      "sge_cny_per_g": 287.06,
+      "usd_cny": 6.6572,
+      "sge_usd_per_oz": 1341.19,
+      "world_gold_usd": 1340.4,
+      "spread_usd": 0.79,
+      "premium_percent": 0.06
+    },
+    {
+      "date": "2016-09-26",
+      "sge_cny_per_g": 286.85,
+      "usd_cny": 6.6677,
+      "sge_usd_per_oz": 1338.1,
+      "world_gold_usd": 1339.7,
+      "spread_usd": -1.6,
+      "premium_percent": -0.12
+    },
+    {
+      "date": "2016-09-27",
+      "sge_cny_per_g": 285.02,
+      "usd_cny": 6.6698,
+      "sge_usd_per_oz": 1329.14,
+      "world_gold_usd": 1325.9,
+      "spread_usd": 3.24,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2016-09-28",
+      "sge_cny_per_g": 284.4,
+      "usd_cny": 6.6752,
+      "sge_usd_per_oz": 1325.18,
+      "world_gold_usd": 1319.4,
+      "spread_usd": 5.78,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2016-09-29",
+      "sge_cny_per_g": 284.88,
+      "usd_cny": 6.6687,
+      "sge_usd_per_oz": 1328.71,
+      "world_gold_usd": 1321.7,
+      "spread_usd": 7.01,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2016-10-09",
+      "sge_cny_per_g": 273.07,
+      "usd_cny": 6.6769,
+      "sge_usd_per_oz": 1272.06,
+      "world_gold_usd": 1321.7,
+      "spread_usd": -49.64,
+      "premium_percent": -3.76
+    },
+    {
+      "date": "2016-10-10",
+      "sge_cny_per_g": 272.9,
+      "usd_cny": 6.7077,
+      "sge_usd_per_oz": 1265.43,
+      "world_gold_usd": 1321.7,
+      "spread_usd": -56.27,
+      "premium_percent": -4.26
+    },
+    {
+      "date": "2016-10-11",
+      "sge_cny_per_g": 272.36,
+      "usd_cny": 6.7235,
+      "sge_usd_per_oz": 1259.96,
+      "world_gold_usd": 1253.0,
+      "spread_usd": 6.96,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2016-10-12",
+      "sge_cny_per_g": 273.81,
+      "usd_cny": 6.7188,
+      "sge_usd_per_oz": 1267.55,
+      "world_gold_usd": 1251.1,
+      "spread_usd": 16.45,
+      "premium_percent": 1.32
+    },
+    {
+      "date": "2016-10-13",
+      "sge_cny_per_g": 272.68,
+      "usd_cny": 6.7293,
+      "sge_usd_per_oz": 1260.35,
+      "world_gold_usd": 1255.0,
+      "spread_usd": 5.35,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2016-10-16",
+      "sge_cny_per_g": 273.03,
+      "usd_cny": 6.731,
+      "sge_usd_per_oz": 1261.65,
+      "world_gold_usd": 1255.0,
+      "spread_usd": 6.65,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2016-10-17",
+      "sge_cny_per_g": 273.84,
+      "usd_cny": 6.7315,
+      "sge_usd_per_oz": 1265.3,
+      "world_gold_usd": 1254.4,
+      "spread_usd": 10.9,
+      "premium_percent": 0.87
+    },
+    {
+      "date": "2016-10-18",
+      "sge_cny_per_g": 274.43,
+      "usd_cny": 6.743,
+      "sge_usd_per_oz": 1265.86,
+      "world_gold_usd": 1260.8,
+      "spread_usd": 5.06,
+      "premium_percent": 0.4
+    },
+    {
+      "date": "2016-10-19",
+      "sge_cny_per_g": 276.34,
+      "usd_cny": 6.7354,
+      "sge_usd_per_oz": 1276.11,
+      "world_gold_usd": 1267.9,
+      "spread_usd": 8.21,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2016-10-20",
+      "sge_cny_per_g": 275.58,
+      "usd_cny": 6.743,
+      "sge_usd_per_oz": 1271.17,
+      "world_gold_usd": 1265.6,
+      "spread_usd": 5.57,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2016-10-23",
+      "sge_cny_per_g": 276.41,
+      "usd_cny": 6.7663,
+      "sge_usd_per_oz": 1270.61,
+      "world_gold_usd": 1265.6,
+      "spread_usd": 5.01,
+      "premium_percent": 0.4
+    },
+    {
+      "date": "2016-10-24",
+      "sge_cny_per_g": 276.93,
+      "usd_cny": 6.7762,
+      "sge_usd_per_oz": 1271.14,
+      "world_gold_usd": 1262.0,
+      "spread_usd": 9.14,
+      "premium_percent": 0.72
+    },
+    {
+      "date": "2016-10-25",
+      "sge_cny_per_g": 278.55,
+      "usd_cny": 6.7806,
+      "sge_usd_per_oz": 1277.74,
+      "world_gold_usd": 1271.9,
+      "spread_usd": 5.84,
+      "premium_percent": 0.46
+    },
+    {
+      "date": "2016-10-26",
+      "sge_cny_per_g": 277.64,
+      "usd_cny": 6.7697,
+      "sge_usd_per_oz": 1275.62,
+      "world_gold_usd": 1264.8,
+      "spread_usd": 10.82,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2016-10-27",
+      "sge_cny_per_g": 277.78,
+      "usd_cny": 6.7848,
+      "sge_usd_per_oz": 1273.42,
+      "world_gold_usd": 1267.9,
+      "spread_usd": 5.52,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2016-10-30",
+      "sge_cny_per_g": 279.25,
+      "usd_cny": 6.7848,
+      "sge_usd_per_oz": 1280.16,
+      "world_gold_usd": 1267.9,
+      "spread_usd": 12.26,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2016-10-31",
+      "sge_cny_per_g": 279.95,
+      "usd_cny": 6.7834,
+      "sge_usd_per_oz": 1283.64,
+      "world_gold_usd": 1271.5,
+      "spread_usd": 12.14,
+      "premium_percent": 0.95
+    },
+    {
+      "date": "2016-11-01",
+      "sge_cny_per_g": 282.08,
+      "usd_cny": 6.7746,
+      "sge_usd_per_oz": 1295.08,
+      "world_gold_usd": 1286.4,
+      "spread_usd": 8.68,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2016-11-02",
+      "sge_cny_per_g": 283.75,
+      "usd_cny": 6.7663,
+      "sge_usd_per_oz": 1304.35,
+      "world_gold_usd": 1306.8,
+      "spread_usd": -2.45,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2016-11-03",
+      "sge_cny_per_g": 283.0,
+      "usd_cny": 6.7471,
+      "sge_usd_per_oz": 1304.6,
+      "world_gold_usd": 1302.1,
+      "spread_usd": 2.5,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2016-11-06",
+      "sge_cny_per_g": 281.99,
+      "usd_cny": 6.7471,
+      "sge_usd_per_oz": 1299.95,
+      "world_gold_usd": 1302.1,
+      "spread_usd": -2.15,
+      "premium_percent": -0.17
+    },
+    {
+      "date": "2016-11-07",
+      "sge_cny_per_g": 280.9,
+      "usd_cny": 6.7555,
+      "sge_usd_per_oz": 1293.31,
+      "world_gold_usd": 1278.3,
+      "spread_usd": 15.01,
+      "premium_percent": 1.17
+    },
+    {
+      "date": "2016-11-08",
+      "sge_cny_per_g": 288.63,
+      "usd_cny": 6.7741,
+      "sge_usd_per_oz": 1325.25,
+      "world_gold_usd": 1273.4,
+      "spread_usd": 51.85,
+      "premium_percent": 4.07
+    },
+    {
+      "date": "2016-11-09",
+      "sge_cny_per_g": 282.7,
+      "usd_cny": 6.7848,
+      "sge_usd_per_oz": 1295.98,
+      "world_gold_usd": 1272.6,
+      "spread_usd": 23.38,
+      "premium_percent": 1.84
+    },
+    {
+      "date": "2016-11-10",
+      "sge_cny_per_g": 277.87,
+      "usd_cny": 6.7787,
+      "sge_usd_per_oz": 1274.98,
+      "world_gold_usd": 1265.5,
+      "spread_usd": 9.48,
+      "premium_percent": 0.75
+    },
+    {
+      "date": "2016-11-13",
+      "sge_cny_per_g": 269.5,
+      "usd_cny": 6.7787,
+      "sge_usd_per_oz": 1236.58,
+      "world_gold_usd": 1265.5,
+      "spread_usd": -28.92,
+      "premium_percent": -2.29
+    },
+    {
+      "date": "2016-11-14",
+      "sge_cny_per_g": 272.48,
+      "usd_cny": 6.8051,
+      "sge_usd_per_oz": 1245.4,
+      "world_gold_usd": 1221.2,
+      "spread_usd": 24.2,
+      "premium_percent": 1.98
+    },
+    {
+      "date": "2016-11-15",
+      "sge_cny_per_g": 274.03,
+      "usd_cny": 6.8457,
+      "sge_usd_per_oz": 1245.06,
+      "world_gold_usd": 1224.0,
+      "spread_usd": 21.06,
+      "premium_percent": 1.72
+    },
+    {
+      "date": "2016-11-16",
+      "sge_cny_per_g": 273.11,
+      "usd_cny": 6.8581,
+      "sge_usd_per_oz": 1238.63,
+      "world_gold_usd": 1223.4,
+      "spread_usd": 15.23,
+      "premium_percent": 1.25
+    },
+    {
+      "date": "2016-11-17",
+      "sge_cny_per_g": 270.34,
+      "usd_cny": 6.7892,
+      "sge_usd_per_oz": 1238.51,
+      "world_gold_usd": 1216.5,
+      "spread_usd": 22.01,
+      "premium_percent": 1.81
+    },
+    {
+      "date": "2016-11-20",
+      "sge_cny_per_g": 271.74,
+      "usd_cny": 6.7892,
+      "sge_usd_per_oz": 1244.93,
+      "world_gold_usd": 1216.5,
+      "spread_usd": 28.43,
+      "premium_percent": 2.34
+    },
+    {
+      "date": "2016-11-21",
+      "sge_cny_per_g": 273.49,
+      "usd_cny": 6.8925,
+      "sge_usd_per_oz": 1234.17,
+      "world_gold_usd": 1209.6,
+      "spread_usd": 24.57,
+      "premium_percent": 2.03
+    },
+    {
+      "date": "2016-11-22",
+      "sge_cny_per_g": 272.72,
+      "usd_cny": 6.8889,
+      "sge_usd_per_oz": 1231.33,
+      "world_gold_usd": 1211.0,
+      "spread_usd": 20.33,
+      "premium_percent": 1.68
+    },
+    {
+      "date": "2016-11-23",
+      "sge_cny_per_g": 269.95,
+      "usd_cny": 6.8893,
+      "sge_usd_per_oz": 1218.76,
+      "world_gold_usd": 1189.1,
+      "spread_usd": 29.66,
+      "premium_percent": 2.49
+    },
+    {
+      "date": "2016-11-24",
+      "sge_cny_per_g": 266.77,
+      "usd_cny": 6.9102,
+      "sge_usd_per_oz": 1200.76,
+      "world_gold_usd": 1189.1,
+      "spread_usd": 11.66,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2016-11-27",
+      "sge_cny_per_g": 270.23,
+      "usd_cny": 6.9102,
+      "sge_usd_per_oz": 1216.33,
+      "world_gold_usd": 1189.1,
+      "spread_usd": 27.23,
+      "premium_percent": 2.29
+    },
+    {
+      "date": "2016-11-28",
+      "sge_cny_per_g": 269.28,
+      "usd_cny": 6.9217,
+      "sge_usd_per_oz": 1210.04,
+      "world_gold_usd": 1190.6,
+      "spread_usd": 19.44,
+      "premium_percent": 1.63
+    },
+    {
+      "date": "2016-11-29",
+      "sge_cny_per_g": 267.74,
+      "usd_cny": 6.9063,
+      "sge_usd_per_oz": 1205.8,
+      "world_gold_usd": 1187.9,
+      "spread_usd": 17.9,
+      "premium_percent": 1.51
+    },
+    {
+      "date": "2016-11-30",
+      "sge_cny_per_g": 265.59,
+      "usd_cny": 6.8973,
+      "sge_usd_per_oz": 1197.68,
+      "world_gold_usd": 1170.8,
+      "spread_usd": 26.88,
+      "premium_percent": 2.3
+    },
+    {
+      "date": "2016-12-01",
+      "sge_cny_per_g": 265.15,
+      "usd_cny": 6.8908,
+      "sge_usd_per_oz": 1196.83,
+      "world_gold_usd": 1166.9,
+      "spread_usd": 29.93,
+      "premium_percent": 2.56
+    },
+    {
+      "date": "2016-12-04",
+      "sge_cny_per_g": 265.48,
+      "usd_cny": 6.8908,
+      "sge_usd_per_oz": 1198.32,
+      "world_gold_usd": 1166.9,
+      "spread_usd": 31.42,
+      "premium_percent": 2.69
+    },
+    {
+      "date": "2016-12-05",
+      "sge_cny_per_g": 264.59,
+      "usd_cny": 6.8855,
+      "sge_usd_per_oz": 1195.22,
+      "world_gold_usd": 1174.0,
+      "spread_usd": 21.22,
+      "premium_percent": 1.81
+    },
+    {
+      "date": "2016-12-06",
+      "sge_cny_per_g": 264.39,
+      "usd_cny": 6.871,
+      "sge_usd_per_oz": 1196.83,
+      "world_gold_usd": 1167.6,
+      "spread_usd": 29.23,
+      "premium_percent": 2.5
+    },
+    {
+      "date": "2016-12-07",
+      "sge_cny_per_g": 266.7,
+      "usd_cny": 6.872,
+      "sge_usd_per_oz": 1207.12,
+      "world_gold_usd": 1175.0,
+      "spread_usd": 32.12,
+      "premium_percent": 2.73
+    },
+    {
+      "date": "2016-12-08",
+      "sge_cny_per_g": 265.82,
+      "usd_cny": 6.8705,
+      "sge_usd_per_oz": 1203.4,
+      "world_gold_usd": 1169.8,
+      "spread_usd": 33.6,
+      "premium_percent": 2.87
+    },
+    {
+      "date": "2016-12-11",
+      "sge_cny_per_g": 264.12,
+      "usd_cny": 6.8705,
+      "sge_usd_per_oz": 1195.7,
+      "world_gold_usd": 1169.8,
+      "spread_usd": 25.9,
+      "premium_percent": 2.21
+    },
+    {
+      "date": "2016-12-12",
+      "sge_cny_per_g": 264.93,
+      "usd_cny": 6.9067,
+      "sge_usd_per_oz": 1193.08,
+      "world_gold_usd": 1163.5,
+      "spread_usd": 29.58,
+      "premium_percent": 2.54
+    },
+    {
+      "date": "2016-12-13",
+      "sge_cny_per_g": 264.99,
+      "usd_cny": 6.8969,
+      "sge_usd_per_oz": 1195.05,
+      "world_gold_usd": 1156.7,
+      "spread_usd": 38.35,
+      "premium_percent": 3.32
+    },
+    {
+      "date": "2016-12-14",
+      "sge_cny_per_g": 263.45,
+      "usd_cny": 6.8917,
+      "sge_usd_per_oz": 1189.0,
+      "world_gold_usd": 1161.3,
+      "spread_usd": 27.7,
+      "premium_percent": 2.39
+    },
+    {
+      "date": "2016-12-15",
+      "sge_cny_per_g": 261.75,
+      "usd_cny": 6.9038,
+      "sge_usd_per_oz": 1179.25,
+      "world_gold_usd": 1127.8,
+      "spread_usd": 51.45,
+      "premium_percent": 4.56
+    },
+    {
+      "date": "2016-12-18",
+      "sge_cny_per_g": 262.78,
+      "usd_cny": 6.9038,
+      "sge_usd_per_oz": 1183.89,
+      "world_gold_usd": 1127.8,
+      "spread_usd": 56.09,
+      "premium_percent": 4.97
+    },
+    {
+      "date": "2016-12-19",
+      "sge_cny_per_g": 262.19,
+      "usd_cny": 6.9583,
+      "sge_usd_per_oz": 1171.98,
+      "world_gold_usd": 1140.5,
+      "spread_usd": 31.48,
+      "premium_percent": 2.76
+    },
+    {
+      "date": "2016-12-20",
+      "sge_cny_per_g": 260.77,
+      "usd_cny": 6.953,
+      "sge_usd_per_oz": 1166.53,
+      "world_gold_usd": 1131.5,
+      "spread_usd": 35.03,
+      "premium_percent": 3.1
+    },
+    {
+      "date": "2016-12-21",
+      "sge_cny_per_g": 259.34,
+      "usd_cny": 6.9498,
+      "sge_usd_per_oz": 1160.66,
+      "world_gold_usd": 1131.1,
+      "spread_usd": 29.56,
+      "premium_percent": 2.61
+    },
+    {
+      "date": "2016-12-22",
+      "sge_cny_per_g": 259.85,
+      "usd_cny": 6.9414,
+      "sge_usd_per_oz": 1164.35,
+      "world_gold_usd": 1128.8,
+      "spread_usd": 35.55,
+      "premium_percent": 3.15
+    },
+    {
+      "date": "2016-12-25",
+      "sge_cny_per_g": 260.4,
+      "usd_cny": 6.9414,
+      "sge_usd_per_oz": 1166.82,
+      "world_gold_usd": 1128.8,
+      "spread_usd": 38.02,
+      "premium_percent": 3.37
+    },
+    {
+      "date": "2016-12-26",
+      "sge_cny_per_g": 261.05,
+      "usd_cny": 6.9453,
+      "sge_usd_per_oz": 1169.07,
+      "world_gold_usd": 1128.8,
+      "spread_usd": 40.27,
+      "premium_percent": 3.57
+    },
+    {
+      "date": "2016-12-27",
+      "sge_cny_per_g": 262.04,
+      "usd_cny": 6.9447,
+      "sge_usd_per_oz": 1173.61,
+      "world_gold_usd": 1137.3,
+      "spread_usd": 36.31,
+      "premium_percent": 3.19
+    },
+    {
+      "date": "2016-12-28",
+      "sge_cny_per_g": 262.58,
+      "usd_cny": 6.9425,
+      "sge_usd_per_oz": 1176.4,
+      "world_gold_usd": 1139.4,
+      "spread_usd": 37.0,
+      "premium_percent": 3.25
+    },
+    {
+      "date": "2016-12-29",
+      "sge_cny_per_g": 264.7,
+      "usd_cny": 6.9581,
+      "sge_usd_per_oz": 1183.24,
+      "world_gold_usd": 1156.4,
+      "spread_usd": 26.84,
+      "premium_percent": 2.32
+    },
+    {
+      "date": "2017-01-02",
+      "sge_cny_per_g": 264.3,
+      "usd_cny": 6.9438,
+      "sge_usd_per_oz": 1183.88,
+      "world_gold_usd": 1156.4,
+      "spread_usd": 27.48,
+      "premium_percent": 2.38
+    },
+    {
+      "date": "2017-01-03",
+      "sge_cny_per_g": 264.77,
+      "usd_cny": 6.944,
+      "sge_usd_per_oz": 1185.95,
+      "world_gold_usd": 1160.4,
+      "spread_usd": 25.55,
+      "premium_percent": 2.2
+    },
+    {
+      "date": "2017-01-04",
+      "sge_cny_per_g": 264.87,
+      "usd_cny": 6.9598,
+      "sge_usd_per_oz": 1183.71,
+      "world_gold_usd": 1163.8,
+      "spread_usd": 19.91,
+      "premium_percent": 1.71
+    },
+    {
+      "date": "2017-01-05",
+      "sge_cny_per_g": 264.97,
+      "usd_cny": 6.9251,
+      "sge_usd_per_oz": 1190.09,
+      "world_gold_usd": 1179.7,
+      "spread_usd": 10.39,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2017-01-08",
+      "sge_cny_per_g": 265.71,
+      "usd_cny": 6.9251,
+      "sge_usd_per_oz": 1193.41,
+      "world_gold_usd": 1179.7,
+      "spread_usd": 13.71,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2017-01-09",
+      "sge_cny_per_g": 268.41,
+      "usd_cny": 6.9175,
+      "sge_usd_per_oz": 1206.86,
+      "world_gold_usd": 1183.5,
+      "spread_usd": 23.36,
+      "premium_percent": 1.97
+    },
+    {
+      "date": "2017-01-10",
+      "sge_cny_per_g": 269.0,
+      "usd_cny": 6.9367,
+      "sge_usd_per_oz": 1206.17,
+      "world_gold_usd": 1184.2,
+      "spread_usd": 21.97,
+      "premium_percent": 1.86
+    },
+    {
+      "date": "2017-01-11",
+      "sge_cny_per_g": 269.25,
+      "usd_cny": 6.9212,
+      "sge_usd_per_oz": 1209.99,
+      "world_gold_usd": 1195.6,
+      "spread_usd": 14.39,
+      "premium_percent": 1.2
+    },
+    {
+      "date": "2017-01-12",
+      "sge_cny_per_g": 268.96,
+      "usd_cny": 6.9361,
+      "sge_usd_per_oz": 1206.09,
+      "world_gold_usd": 1198.9,
+      "spread_usd": 7.19,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2017-01-15",
+      "sge_cny_per_g": 270.15,
+      "usd_cny": 6.9361,
+      "sge_usd_per_oz": 1211.43,
+      "world_gold_usd": 1198.9,
+      "spread_usd": 12.53,
+      "premium_percent": 1.05
+    },
+    {
+      "date": "2017-01-16",
+      "sge_cny_per_g": 272.18,
+      "usd_cny": 6.8988,
+      "sge_usd_per_oz": 1227.13,
+      "world_gold_usd": 1198.9,
+      "spread_usd": 28.23,
+      "premium_percent": 2.35
+    },
+    {
+      "date": "2017-01-17",
+      "sge_cny_per_g": 271.12,
+      "usd_cny": 6.891,
+      "sge_usd_per_oz": 1223.74,
+      "world_gold_usd": 1212.0,
+      "spread_usd": 11.74,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2017-01-18",
+      "sge_cny_per_g": 268.26,
+      "usd_cny": 6.8446,
+      "sge_usd_per_oz": 1219.04,
+      "world_gold_usd": 1211.3,
+      "spread_usd": 7.74,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2017-01-19",
+      "sge_cny_per_g": 268.92,
+      "usd_cny": 6.838,
+      "sge_usd_per_oz": 1223.22,
+      "world_gold_usd": 1200.9,
+      "spread_usd": 22.32,
+      "premium_percent": 1.86
+    },
+    {
+      "date": "2017-01-22",
+      "sge_cny_per_g": 270.74,
+      "usd_cny": 6.838,
+      "sge_usd_per_oz": 1231.49,
+      "world_gold_usd": 1200.9,
+      "spread_usd": 30.59,
+      "premium_percent": 2.55
+    },
+    {
+      "date": "2017-01-23",
+      "sge_cny_per_g": 269.7,
+      "usd_cny": 6.8755,
+      "sge_usd_per_oz": 1220.07,
+      "world_gold_usd": 1215.0,
+      "spread_usd": 5.07,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2017-01-24",
+      "sge_cny_per_g": 267.84,
+      "usd_cny": 6.844,
+      "sge_usd_per_oz": 1217.23,
+      "world_gold_usd": 1210.3,
+      "spread_usd": 6.93,
+      "premium_percent": 0.57
+    },
+    {
+      "date": "2017-01-25",
+      "sge_cny_per_g": 266.82,
+      "usd_cny": 6.849,
+      "sge_usd_per_oz": 1211.71,
+      "world_gold_usd": 1197.3,
+      "spread_usd": 14.41,
+      "premium_percent": 1.2
+    },
+    {
+      "date": "2017-02-02",
+      "sge_cny_per_g": 269.52,
+      "usd_cny": 6.8809,
+      "sge_usd_per_oz": 1218.3,
+      "world_gold_usd": 1216.7,
+      "spread_usd": 1.6,
+      "premium_percent": 0.13
+    },
+    {
+      "date": "2017-02-05",
+      "sge_cny_per_g": 271.92,
+      "usd_cny": 6.8809,
+      "sge_usd_per_oz": 1229.15,
+      "world_gold_usd": 1216.7,
+      "spread_usd": 12.45,
+      "premium_percent": 1.02
+    },
+    {
+      "date": "2017-02-06",
+      "sge_cny_per_g": 274.38,
+      "usd_cny": 6.8722,
+      "sge_usd_per_oz": 1241.84,
+      "world_gold_usd": 1230.0,
+      "spread_usd": 11.84,
+      "premium_percent": 0.96
+    },
+    {
+      "date": "2017-02-07",
+      "sge_cny_per_g": 275.01,
+      "usd_cny": 6.8636,
+      "sge_usd_per_oz": 1246.25,
+      "world_gold_usd": 1234.2,
+      "spread_usd": 12.05,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2017-02-08",
+      "sge_cny_per_g": 276.5,
+      "usd_cny": 6.8845,
+      "sge_usd_per_oz": 1249.2,
+      "world_gold_usd": 1237.6,
+      "spread_usd": 11.6,
+      "premium_percent": 0.94
+    },
+    {
+      "date": "2017-02-09",
+      "sge_cny_per_g": 273.14,
+      "usd_cny": 6.8725,
+      "sge_usd_per_oz": 1236.17,
+      "world_gold_usd": 1235.1,
+      "spread_usd": 1.07,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2017-02-12",
+      "sge_cny_per_g": 274.26,
+      "usd_cny": 6.8725,
+      "sge_usd_per_oz": 1241.24,
+      "world_gold_usd": 1235.1,
+      "spread_usd": 6.14,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2017-02-13",
+      "sge_cny_per_g": 274.1,
+      "usd_cny": 6.8952,
+      "sge_usd_per_oz": 1236.43,
+      "world_gold_usd": 1224.4,
+      "spread_usd": 12.03,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2017-02-14",
+      "sge_cny_per_g": 273.34,
+      "usd_cny": 6.8795,
+      "sge_usd_per_oz": 1235.82,
+      "world_gold_usd": 1223.9,
+      "spread_usd": 11.92,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2017-02-15",
+      "sge_cny_per_g": 274.79,
+      "usd_cny": 6.8668,
+      "sge_usd_per_oz": 1244.67,
+      "world_gold_usd": 1231.7,
+      "spread_usd": 12.97,
+      "premium_percent": 1.05
+    },
+    {
+      "date": "2017-02-16",
+      "sge_cny_per_g": 275.89,
+      "usd_cny": 6.8684,
+      "sge_usd_per_oz": 1249.36,
+      "world_gold_usd": 1240.0,
+      "spread_usd": 9.36,
+      "premium_percent": 0.76
+    },
+    {
+      "date": "2017-02-19",
+      "sge_cny_per_g": 275.04,
+      "usd_cny": 6.8684,
+      "sge_usd_per_oz": 1245.52,
+      "world_gold_usd": 1240.0,
+      "spread_usd": 5.52,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2017-02-20",
+      "sge_cny_per_g": 275.19,
+      "usd_cny": 6.8557,
+      "sge_usd_per_oz": 1248.5,
+      "world_gold_usd": 1240.0,
+      "spread_usd": 8.5,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2017-02-21",
+      "sge_cny_per_g": 275.8,
+      "usd_cny": 6.8781,
+      "sge_usd_per_oz": 1247.2,
+      "world_gold_usd": 1237.5,
+      "spread_usd": 9.7,
+      "premium_percent": 0.78
+    },
+    {
+      "date": "2017-02-22",
+      "sge_cny_per_g": 275.93,
+      "usd_cny": 6.8826,
+      "sge_usd_per_oz": 1246.97,
+      "world_gold_usd": 1232.0,
+      "spread_usd": 14.97,
+      "premium_percent": 1.21
+    },
+    {
+      "date": "2017-02-23",
+      "sge_cny_per_g": 279.76,
+      "usd_cny": 6.8737,
+      "sge_usd_per_oz": 1265.91,
+      "world_gold_usd": 1250.2,
+      "spread_usd": 15.71,
+      "premium_percent": 1.26
+    },
+    {
+      "date": "2017-02-26",
+      "sge_cny_per_g": 280.57,
+      "usd_cny": 6.8737,
+      "sge_usd_per_oz": 1269.58,
+      "world_gold_usd": 1250.2,
+      "spread_usd": 19.38,
+      "premium_percent": 1.55
+    },
+    {
+      "date": "2017-02-27",
+      "sge_cny_per_g": 279.65,
+      "usd_cny": 6.9007,
+      "sge_usd_per_oz": 1260.46,
+      "world_gold_usd": 1257.4,
+      "spread_usd": 3.06,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2017-02-28",
+      "sge_cny_per_g": 278.11,
+      "usd_cny": 6.8701,
+      "sge_usd_per_oz": 1259.11,
+      "world_gold_usd": 1252.6,
+      "spread_usd": 6.51,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2017-03-01",
+      "sge_cny_per_g": 278.27,
+      "usd_cny": 6.8664,
+      "sge_usd_per_oz": 1260.51,
+      "world_gold_usd": 1248.9,
+      "spread_usd": 11.61,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2017-03-02",
+      "sge_cny_per_g": 276.09,
+      "usd_cny": 6.8822,
+      "sge_usd_per_oz": 1247.76,
+      "world_gold_usd": 1231.9,
+      "spread_usd": 15.86,
+      "premium_percent": 1.29
+    },
+    {
+      "date": "2017-03-05",
+      "sge_cny_per_g": 276.61,
+      "usd_cny": 6.8822,
+      "sge_usd_per_oz": 1250.11,
+      "world_gold_usd": 1231.9,
+      "spread_usd": 18.21,
+      "premium_percent": 1.48
+    },
+    {
+      "date": "2017-03-06",
+      "sge_cny_per_g": 275.49,
+      "usd_cny": 6.8962,
+      "sge_usd_per_oz": 1242.52,
+      "world_gold_usd": 1224.5,
+      "spread_usd": 18.02,
+      "premium_percent": 1.47
+    },
+    {
+      "date": "2017-03-07",
+      "sge_cny_per_g": 274.09,
+      "usd_cny": 6.8967,
+      "sge_usd_per_oz": 1236.12,
+      "world_gold_usd": 1215.1,
+      "spread_usd": 21.02,
+      "premium_percent": 1.73
+    },
+    {
+      "date": "2017-03-08",
+      "sge_cny_per_g": 271.92,
+      "usd_cny": 6.9023,
+      "sge_usd_per_oz": 1225.34,
+      "world_gold_usd": 1208.5,
+      "spread_usd": 16.84,
+      "premium_percent": 1.39
+    },
+    {
+      "date": "2017-03-09",
+      "sge_cny_per_g": 270.31,
+      "usd_cny": 6.9119,
+      "sge_usd_per_oz": 1216.39,
+      "world_gold_usd": 1202.4,
+      "spread_usd": 13.99,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2017-03-12",
+      "sge_cny_per_g": 272.49,
+      "usd_cny": 6.9119,
+      "sge_usd_per_oz": 1226.2,
+      "world_gold_usd": 1202.4,
+      "spread_usd": 23.8,
+      "premium_percent": 1.98
+    },
+    {
+      "date": "2017-03-13",
+      "sge_cny_per_g": 271.47,
+      "usd_cny": 6.8566,
+      "sge_usd_per_oz": 1231.46,
+      "world_gold_usd": 1202.4,
+      "spread_usd": 29.06,
+      "premium_percent": 2.42
+    },
+    {
+      "date": "2017-03-14",
+      "sge_cny_per_g": 271.58,
+      "usd_cny": 6.913,
+      "sge_usd_per_oz": 1221.91,
+      "world_gold_usd": 1201.9,
+      "spread_usd": 20.01,
+      "premium_percent": 1.67
+    },
+    {
+      "date": "2017-03-15",
+      "sge_cny_per_g": 275.79,
+      "usd_cny": 6.9145,
+      "sge_usd_per_oz": 1240.59,
+      "world_gold_usd": 1200.1,
+      "spread_usd": 40.49,
+      "premium_percent": 3.37
+    },
+    {
+      "date": "2017-03-16",
+      "sge_cny_per_g": 275.78,
+      "usd_cny": 6.9136,
+      "sge_usd_per_oz": 1240.7,
+      "world_gold_usd": 1226.5,
+      "spread_usd": 14.2,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2017-03-19",
+      "sge_cny_per_g": 276.93,
+      "usd_cny": 6.9136,
+      "sge_usd_per_oz": 1245.88,
+      "world_gold_usd": 1226.5,
+      "spread_usd": 19.38,
+      "premium_percent": 1.58
+    },
+    {
+      "date": "2017-03-20",
+      "sge_cny_per_g": 275.98,
+      "usd_cny": 6.9041,
+      "sge_usd_per_oz": 1243.31,
+      "world_gold_usd": 1233.6,
+      "spread_usd": 9.71,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2017-03-21",
+      "sge_cny_per_g": 278.46,
+      "usd_cny": 6.906,
+      "sge_usd_per_oz": 1254.14,
+      "world_gold_usd": 1246.1,
+      "spread_usd": 8.04,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2017-03-22",
+      "sge_cny_per_g": 278.38,
+      "usd_cny": 6.8849,
+      "sge_usd_per_oz": 1257.62,
+      "world_gold_usd": 1249.3,
+      "spread_usd": 8.32,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2017-03-23",
+      "sge_cny_per_g": 277.94,
+      "usd_cny": 6.883,
+      "sge_usd_per_oz": 1255.98,
+      "world_gold_usd": 1246.9,
+      "spread_usd": 9.08,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2017-03-26",
+      "sge_cny_per_g": 280.61,
+      "usd_cny": 6.8535,
+      "sge_usd_per_oz": 1273.5,
+      "world_gold_usd": 1246.9,
+      "spread_usd": 26.6,
+      "premium_percent": 2.13
+    },
+    {
+      "date": "2017-03-27",
+      "sge_cny_per_g": 280.17,
+      "usd_cny": 6.8721,
+      "sge_usd_per_oz": 1268.06,
+      "world_gold_usd": 1255.4,
+      "spread_usd": 12.66,
+      "premium_percent": 1.01
+    },
+    {
+      "date": "2017-03-28",
+      "sge_cny_per_g": 279.64,
+      "usd_cny": 6.8783,
+      "sge_usd_per_oz": 1264.52,
+      "world_gold_usd": 1255.3,
+      "spread_usd": 9.22,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2017-03-29",
+      "sge_cny_per_g": 279.7,
+      "usd_cny": 6.8877,
+      "sge_usd_per_oz": 1263.07,
+      "world_gold_usd": 1253.4,
+      "spread_usd": 9.67,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2017-03-30",
+      "sge_cny_per_g": 277.99,
+      "usd_cny": 6.889,
+      "sge_usd_per_oz": 1255.11,
+      "world_gold_usd": 1245.0,
+      "spread_usd": 10.11,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2017-04-04",
+      "sge_cny_per_g": 280.03,
+      "usd_cny": 6.8852,
+      "sge_usd_per_oz": 1265.02,
+      "world_gold_usd": 1255.0,
+      "spread_usd": 10.02,
+      "premium_percent": 0.8
+    },
+    {
+      "date": "2017-04-05",
+      "sge_cny_per_g": 280.42,
+      "usd_cny": 6.8939,
+      "sge_usd_per_oz": 1265.18,
+      "world_gold_usd": 1245.4,
+      "spread_usd": 19.78,
+      "premium_percent": 1.59
+    },
+    {
+      "date": "2017-04-06",
+      "sge_cny_per_g": 283.18,
+      "usd_cny": 6.8978,
+      "sge_usd_per_oz": 1276.91,
+      "world_gold_usd": 1250.3,
+      "spread_usd": 26.61,
+      "premium_percent": 2.13
+    },
+    {
+      "date": "2017-04-09",
+      "sge_cny_per_g": 281.52,
+      "usd_cny": 6.9057,
+      "sge_usd_per_oz": 1267.97,
+      "world_gold_usd": 1250.3,
+      "spread_usd": 17.67,
+      "premium_percent": 1.41
+    },
+    {
+      "date": "2017-04-10",
+      "sge_cny_per_g": 281.53,
+      "usd_cny": 6.9033,
+      "sge_usd_per_oz": 1268.46,
+      "world_gold_usd": 1251.1,
+      "spread_usd": 17.36,
+      "premium_percent": 1.39
+    },
+    {
+      "date": "2017-04-11",
+      "sge_cny_per_g": 284.53,
+      "usd_cny": 6.8908,
+      "sge_usd_per_oz": 1284.3,
+      "world_gold_usd": 1271.2,
+      "spread_usd": 13.1,
+      "premium_percent": 1.03
+    },
+    {
+      "date": "2017-04-12",
+      "sge_cny_per_g": 286.25,
+      "usd_cny": 6.8909,
+      "sge_usd_per_oz": 1292.05,
+      "world_gold_usd": 1275.3,
+      "spread_usd": 16.75,
+      "premium_percent": 1.31
+    },
+    {
+      "date": "2017-04-13",
+      "sge_cny_per_g": 286.8,
+      "usd_cny": 6.8865,
+      "sge_usd_per_oz": 1295.36,
+      "world_gold_usd": 1285.9,
+      "spread_usd": 9.46,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2017-04-16",
+      "sge_cny_per_g": 286.48,
+      "usd_cny": 6.891,
+      "sge_usd_per_oz": 1293.07,
+      "world_gold_usd": 1285.9,
+      "spread_usd": 7.17,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2017-04-17",
+      "sge_cny_per_g": 286.03,
+      "usd_cny": 6.8686,
+      "sge_usd_per_oz": 1295.25,
+      "world_gold_usd": 1289.4,
+      "spread_usd": 5.85,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2017-04-18",
+      "sge_cny_per_g": 285.75,
+      "usd_cny": 6.8819,
+      "sge_usd_per_oz": 1291.48,
+      "world_gold_usd": 1291.7,
+      "spread_usd": -0.22,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2017-04-19",
+      "sge_cny_per_g": 285.23,
+      "usd_cny": 6.886,
+      "sge_usd_per_oz": 1288.36,
+      "world_gold_usd": 1281.4,
+      "spread_usd": 6.96,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2017-04-20",
+      "sge_cny_per_g": 285.11,
+      "usd_cny": 6.8817,
+      "sge_usd_per_oz": 1288.62,
+      "world_gold_usd": 1281.9,
+      "spread_usd": 6.72,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2017-04-23",
+      "sge_cny_per_g": 283.49,
+      "usd_cny": 6.7921,
+      "sge_usd_per_oz": 1298.2,
+      "world_gold_usd": 1281.9,
+      "spread_usd": 16.3,
+      "premium_percent": 1.27
+    },
+    {
+      "date": "2017-04-24",
+      "sge_cny_per_g": 283.39,
+      "usd_cny": 6.8825,
+      "sge_usd_per_oz": 1280.7,
+      "world_gold_usd": 1275.8,
+      "spread_usd": 4.9,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2017-04-25",
+      "sge_cny_per_g": 282.17,
+      "usd_cny": 6.8817,
+      "sge_usd_per_oz": 1275.33,
+      "world_gold_usd": 1265.6,
+      "spread_usd": 9.73,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2017-04-26",
+      "sge_cny_per_g": 282.81,
+      "usd_cny": 6.8921,
+      "sge_usd_per_oz": 1276.3,
+      "world_gold_usd": 1262.1,
+      "spread_usd": 14.2,
+      "premium_percent": 1.12
+    },
+    {
+      "date": "2017-04-27",
+      "sge_cny_per_g": 282.67,
+      "usd_cny": 6.8969,
+      "sge_usd_per_oz": 1274.78,
+      "world_gold_usd": 1263.7,
+      "spread_usd": 11.08,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2017-05-01",
+      "sge_cny_per_g": 280.79,
+      "usd_cny": 6.893,
+      "sge_usd_per_oz": 1267.02,
+      "world_gold_usd": 1253.3,
+      "spread_usd": 13.72,
+      "premium_percent": 1.09
+    },
+    {
+      "date": "2017-05-02",
+      "sge_cny_per_g": 280.04,
+      "usd_cny": 6.8935,
+      "sge_usd_per_oz": 1263.54,
+      "world_gold_usd": 1255.1,
+      "spread_usd": 8.44,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2017-05-03",
+      "sge_cny_per_g": 276.41,
+      "usd_cny": 6.8967,
+      "sge_usd_per_oz": 1246.58,
+      "world_gold_usd": 1246.4,
+      "spread_usd": 0.18,
+      "premium_percent": 0.01
+    },
+    {
+      "date": "2017-05-04",
+      "sge_cny_per_g": 275.73,
+      "usd_cny": 6.8954,
+      "sge_usd_per_oz": 1243.75,
+      "world_gold_usd": 1226.5,
+      "spread_usd": 17.25,
+      "premium_percent": 1.41
+    },
+    {
+      "date": "2017-05-07",
+      "sge_cny_per_g": 275.3,
+      "usd_cny": 6.8847,
+      "sge_usd_per_oz": 1243.74,
+      "world_gold_usd": 1226.5,
+      "spread_usd": 17.24,
+      "premium_percent": 1.41
+    },
+    {
+      "date": "2017-05-08",
+      "sge_cny_per_g": 274.59,
+      "usd_cny": 6.9045,
+      "sge_usd_per_oz": 1236.98,
+      "world_gold_usd": 1225.3,
+      "spread_usd": 11.68,
+      "premium_percent": 0.95
+    },
+    {
+      "date": "2017-05-09",
+      "sge_cny_per_g": 273.91,
+      "usd_cny": 6.9071,
+      "sge_usd_per_oz": 1233.45,
+      "world_gold_usd": 1214.3,
+      "spread_usd": 19.15,
+      "premium_percent": 1.58
+    },
+    {
+      "date": "2017-05-10",
+      "sge_cny_per_g": 274.02,
+      "usd_cny": 6.903,
+      "sge_usd_per_oz": 1234.68,
+      "world_gold_usd": 1217.3,
+      "spread_usd": 17.38,
+      "premium_percent": 1.43
+    },
+    {
+      "date": "2017-05-11",
+      "sge_cny_per_g": 274.9,
+      "usd_cny": 6.9037,
+      "sge_usd_per_oz": 1238.52,
+      "world_gold_usd": 1222.7,
+      "spread_usd": 15.82,
+      "premium_percent": 1.29
+    },
+    {
+      "date": "2017-05-14",
+      "sge_cny_per_g": 275.73,
+      "usd_cny": 6.9021,
+      "sge_usd_per_oz": 1242.54,
+      "world_gold_usd": 1222.7,
+      "spread_usd": 19.84,
+      "premium_percent": 1.62
+    },
+    {
+      "date": "2017-05-15",
+      "sge_cny_per_g": 276.49,
+      "usd_cny": 6.894,
+      "sge_usd_per_oz": 1247.43,
+      "world_gold_usd": 1228.6,
+      "spread_usd": 18.83,
+      "premium_percent": 1.53
+    },
+    {
+      "date": "2017-05-16",
+      "sge_cny_per_g": 277.63,
+      "usd_cny": 6.8886,
+      "sge_usd_per_oz": 1253.56,
+      "world_gold_usd": 1235.0,
+      "spread_usd": 18.56,
+      "premium_percent": 1.5
+    },
+    {
+      "date": "2017-05-17",
+      "sge_cny_per_g": 280.6,
+      "usd_cny": 6.8813,
+      "sge_usd_per_oz": 1268.31,
+      "world_gold_usd": 1257.5,
+      "spread_usd": 10.81,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2017-05-18",
+      "sge_cny_per_g": 279.28,
+      "usd_cny": 6.8891,
+      "sge_usd_per_oz": 1260.92,
+      "world_gold_usd": 1251.7,
+      "spread_usd": 9.22,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2017-05-21",
+      "sge_cny_per_g": 279.76,
+      "usd_cny": 6.8539,
+      "sge_usd_per_oz": 1269.57,
+      "world_gold_usd": 1251.7,
+      "spread_usd": 17.87,
+      "premium_percent": 1.43
+    },
+    {
+      "date": "2017-05-22",
+      "sge_cny_per_g": 281.41,
+      "usd_cny": 6.8844,
+      "sge_usd_per_oz": 1271.4,
+      "world_gold_usd": 1260.7,
+      "spread_usd": 10.7,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2017-05-23",
+      "sge_cny_per_g": 278.55,
+      "usd_cny": 6.8912,
+      "sge_usd_per_oz": 1257.24,
+      "world_gold_usd": 1254.8,
+      "spread_usd": 2.44,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2017-05-24",
+      "sge_cny_per_g": 280.04,
+      "usd_cny": 6.89,
+      "sge_usd_per_oz": 1264.18,
+      "world_gold_usd": 1252.4,
+      "spread_usd": 11.78,
+      "premium_percent": 0.94
+    },
+    {
+      "date": "2017-05-25",
+      "sge_cny_per_g": 279.6,
+      "usd_cny": 6.8677,
+      "sge_usd_per_oz": 1266.29,
+      "world_gold_usd": 1255.8,
+      "spread_usd": 10.49,
+      "premium_percent": 0.84
+    },
+    {
+      "date": "2017-05-30",
+      "sge_cny_per_g": 278.9,
+      "usd_cny": 6.8558,
+      "sge_usd_per_oz": 1265.32,
+      "world_gold_usd": 1262.1,
+      "spread_usd": 3.22,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2017-05-31",
+      "sge_cny_per_g": 278.63,
+      "usd_cny": 6.8112,
+      "sge_usd_per_oz": 1272.37,
+      "world_gold_usd": 1272.0,
+      "spread_usd": 0.37,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2017-06-01",
+      "sge_cny_per_g": 277.96,
+      "usd_cny": 6.8086,
+      "sge_usd_per_oz": 1269.79,
+      "world_gold_usd": 1267.0,
+      "spread_usd": 2.79,
+      "premium_percent": 0.22
+    },
+    {
+      "date": "2017-06-04",
+      "sge_cny_per_g": 281.35,
+      "usd_cny": 6.8128,
+      "sge_usd_per_oz": 1284.49,
+      "world_gold_usd": 1267.0,
+      "spread_usd": 17.49,
+      "premium_percent": 1.38
+    },
+    {
+      "date": "2017-06-05",
+      "sge_cny_per_g": 282.97,
+      "usd_cny": 6.8028,
+      "sge_usd_per_oz": 1293.78,
+      "world_gold_usd": 1279.3,
+      "spread_usd": 14.48,
+      "premium_percent": 1.13
+    },
+    {
+      "date": "2017-06-06",
+      "sge_cny_per_g": 283.67,
+      "usd_cny": 6.7957,
+      "sge_usd_per_oz": 1298.34,
+      "world_gold_usd": 1294.4,
+      "spread_usd": 3.94,
+      "premium_percent": 0.3
+    },
+    {
+      "date": "2017-06-07",
+      "sge_cny_per_g": 283.13,
+      "usd_cny": 6.7975,
+      "sge_usd_per_oz": 1295.52,
+      "world_gold_usd": 1290.1,
+      "spread_usd": 5.42,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2017-06-08",
+      "sge_cny_per_g": 280.3,
+      "usd_cny": 6.7992,
+      "sge_usd_per_oz": 1282.25,
+      "world_gold_usd": 1276.3,
+      "spread_usd": 5.95,
+      "premium_percent": 0.47
+    },
+    {
+      "date": "2017-06-11",
+      "sge_cny_per_g": 278.7,
+      "usd_cny": 6.7848,
+      "sge_usd_per_oz": 1277.64,
+      "world_gold_usd": 1276.3,
+      "spread_usd": 1.34,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2017-06-12",
+      "sge_cny_per_g": 278.36,
+      "usd_cny": 6.7976,
+      "sge_usd_per_oz": 1273.68,
+      "world_gold_usd": 1266.1,
+      "spread_usd": 7.58,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2017-06-13",
+      "sge_cny_per_g": 279.07,
+      "usd_cny": 6.7988,
+      "sge_usd_per_oz": 1276.7,
+      "world_gold_usd": 1265.8,
+      "spread_usd": 10.9,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2017-06-14",
+      "sge_cny_per_g": 277.37,
+      "usd_cny": 6.791,
+      "sge_usd_per_oz": 1270.38,
+      "world_gold_usd": 1272.8,
+      "spread_usd": -2.42,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2017-06-15",
+      "sge_cny_per_g": 276.75,
+      "usd_cny": 6.8085,
+      "sge_usd_per_oz": 1264.29,
+      "world_gold_usd": 1252.2,
+      "spread_usd": 12.09,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2017-06-18",
+      "sge_cny_per_g": 276.18,
+      "usd_cny": 6.8034,
+      "sge_usd_per_oz": 1262.63,
+      "world_gold_usd": 1252.2,
+      "spread_usd": 10.43,
+      "premium_percent": 0.83
+    },
+    {
+      "date": "2017-06-19",
+      "sge_cny_per_g": 275.91,
+      "usd_cny": 6.8197,
+      "sge_usd_per_oz": 1258.38,
+      "world_gold_usd": 1244.2,
+      "spread_usd": 14.18,
+      "premium_percent": 1.14
+    },
+    {
+      "date": "2017-06-20",
+      "sge_cny_per_g": 275.69,
+      "usd_cny": 6.8264,
+      "sge_usd_per_oz": 1256.14,
+      "world_gold_usd": 1241.0,
+      "spread_usd": 15.14,
+      "premium_percent": 1.22
+    },
+    {
+      "date": "2017-06-21",
+      "sge_cny_per_g": 277.3,
+      "usd_cny": 6.8283,
+      "sge_usd_per_oz": 1263.12,
+      "world_gold_usd": 1243.4,
+      "spread_usd": 19.72,
+      "premium_percent": 1.59
+    },
+    {
+      "date": "2017-06-22",
+      "sge_cny_per_g": 277.76,
+      "usd_cny": 6.8346,
+      "sge_usd_per_oz": 1264.05,
+      "world_gold_usd": 1247.6,
+      "spread_usd": 16.45,
+      "premium_percent": 1.32
+    },
+    {
+      "date": "2017-06-25",
+      "sge_cny_per_g": 278.03,
+      "usd_cny": 6.8342,
+      "sge_usd_per_oz": 1265.36,
+      "world_gold_usd": 1247.6,
+      "spread_usd": 17.76,
+      "premium_percent": 1.42
+    },
+    {
+      "date": "2017-06-26",
+      "sge_cny_per_g": 276.41,
+      "usd_cny": 6.8398,
+      "sge_usd_per_oz": 1256.95,
+      "world_gold_usd": 1246.3,
+      "spread_usd": 10.65,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2017-06-27",
+      "sge_cny_per_g": 276.11,
+      "usd_cny": 6.8126,
+      "sge_usd_per_oz": 1260.6,
+      "world_gold_usd": 1246.4,
+      "spread_usd": 14.2,
+      "premium_percent": 1.14
+    },
+    {
+      "date": "2017-06-28",
+      "sge_cny_per_g": 275.59,
+      "usd_cny": 6.8,
+      "sge_usd_per_oz": 1260.56,
+      "world_gold_usd": 1248.0,
+      "spread_usd": 12.56,
+      "premium_percent": 1.01
+    },
+    {
+      "date": "2017-06-29",
+      "sge_cny_per_g": 273.0,
+      "usd_cny": 6.7857,
+      "sge_usd_per_oz": 1251.34,
+      "world_gold_usd": 1244.2,
+      "spread_usd": 7.14,
+      "premium_percent": 0.57
+    },
+    {
+      "date": "2017-07-02",
+      "sge_cny_per_g": 271.87,
+      "usd_cny": 6.7781,
+      "sge_usd_per_oz": 1247.56,
+      "world_gold_usd": 1244.2,
+      "spread_usd": 3.36,
+      "premium_percent": 0.27
+    },
+    {
+      "date": "2017-07-03",
+      "sge_cny_per_g": 269.73,
+      "usd_cny": 6.7998,
+      "sge_usd_per_oz": 1233.79,
+      "world_gold_usd": 1217.9,
+      "spread_usd": 15.89,
+      "premium_percent": 1.3
+    },
+    {
+      "date": "2017-07-04",
+      "sge_cny_per_g": 270.0,
+      "usd_cny": 6.7987,
+      "sge_usd_per_oz": 1235.23,
+      "world_gold_usd": 1217.9,
+      "spread_usd": 17.33,
+      "premium_percent": 1.42
+    },
+    {
+      "date": "2017-07-05",
+      "sge_cny_per_g": 270.35,
+      "usd_cny": 6.8008,
+      "sge_usd_per_oz": 1236.45,
+      "world_gold_usd": 1220.4,
+      "spread_usd": 16.05,
+      "premium_percent": 1.31
+    },
+    {
+      "date": "2017-07-06",
+      "sge_cny_per_g": 269.52,
+      "usd_cny": 6.7999,
+      "sge_usd_per_oz": 1232.81,
+      "world_gold_usd": 1222.2,
+      "spread_usd": 10.61,
+      "premium_percent": 0.87
+    },
+    {
+      "date": "2017-07-09",
+      "sge_cny_per_g": 266.45,
+      "usd_cny": 6.8029,
+      "sge_usd_per_oz": 1218.23,
+      "world_gold_usd": 1222.2,
+      "spread_usd": -3.97,
+      "premium_percent": -0.32
+    },
+    {
+      "date": "2017-07-10",
+      "sge_cny_per_g": 267.3,
+      "usd_cny": 6.8029,
+      "sge_usd_per_oz": 1222.12,
+      "world_gold_usd": 1212.1,
+      "spread_usd": 10.02,
+      "premium_percent": 0.83
+    },
+    {
+      "date": "2017-07-11",
+      "sge_cny_per_g": 268.58,
+      "usd_cny": 6.8017,
+      "sge_usd_per_oz": 1228.19,
+      "world_gold_usd": 1213.6,
+      "spread_usd": 14.59,
+      "premium_percent": 1.2
+    },
+    {
+      "date": "2017-07-12",
+      "sge_cny_per_g": 268.9,
+      "usd_cny": 6.788,
+      "sge_usd_per_oz": 1232.13,
+      "world_gold_usd": 1218.1,
+      "spread_usd": 14.03,
+      "premium_percent": 1.15
+    },
+    {
+      "date": "2017-07-13",
+      "sge_cny_per_g": 267.99,
+      "usd_cny": 6.7826,
+      "sge_usd_per_oz": 1228.94,
+      "world_gold_usd": 1216.3,
+      "spread_usd": 12.64,
+      "premium_percent": 1.04
+    },
+    {
+      "date": "2017-07-16",
+      "sge_cny_per_g": 270.16,
+      "usd_cny": 6.7405,
+      "sge_usd_per_oz": 1246.63,
+      "world_gold_usd": 1216.3,
+      "spread_usd": 30.33,
+      "premium_percent": 2.49
+    },
+    {
+      "date": "2017-07-17",
+      "sge_cny_per_g": 271.17,
+      "usd_cny": 6.7695,
+      "sge_usd_per_oz": 1245.93,
+      "world_gold_usd": 1232.8,
+      "spread_usd": 13.13,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2017-07-18",
+      "sge_cny_per_g": 271.39,
+      "usd_cny": 6.7454,
+      "sge_usd_per_oz": 1251.4,
+      "world_gold_usd": 1241.1,
+      "spread_usd": 10.3,
+      "premium_percent": 0.83
+    },
+    {
+      "date": "2017-07-19",
+      "sge_cny_per_g": 271.36,
+      "usd_cny": 6.7513,
+      "sge_usd_per_oz": 1250.17,
+      "world_gold_usd": 1241.2,
+      "spread_usd": 8.97,
+      "premium_percent": 0.72
+    },
+    {
+      "date": "2017-07-20",
+      "sge_cny_per_g": 272.69,
+      "usd_cny": 6.7589,
+      "sge_usd_per_oz": 1254.88,
+      "world_gold_usd": 1244.8,
+      "spread_usd": 10.08,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2017-07-23",
+      "sge_cny_per_g": 273.84,
+      "usd_cny": 6.7197,
+      "sge_usd_per_oz": 1267.52,
+      "world_gold_usd": 1244.8,
+      "spread_usd": 22.72,
+      "premium_percent": 1.83
+    },
+    {
+      "date": "2017-07-24",
+      "sge_cny_per_g": 274.4,
+      "usd_cny": 6.7501,
+      "sge_usd_per_oz": 1264.4,
+      "world_gold_usd": 1253.9,
+      "spread_usd": 10.5,
+      "premium_percent": 0.84
+    },
+    {
+      "date": "2017-07-25",
+      "sge_cny_per_g": 271.95,
+      "usd_cny": 6.7498,
+      "sge_usd_per_oz": 1253.16,
+      "world_gold_usd": 1251.7,
+      "spread_usd": 1.46,
+      "premium_percent": 0.12
+    },
+    {
+      "date": "2017-07-26",
+      "sge_cny_per_g": 274.74,
+      "usd_cny": 6.754,
+      "sge_usd_per_oz": 1265.23,
+      "world_gold_usd": 1249.0,
+      "spread_usd": 16.23,
+      "premium_percent": 1.3
+    },
+    {
+      "date": "2017-07-27",
+      "sge_cny_per_g": 274.79,
+      "usd_cny": 6.74,
+      "sge_usd_per_oz": 1268.09,
+      "world_gold_usd": 1259.6,
+      "spread_usd": 8.49,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2017-07-30",
+      "sge_cny_per_g": 275.46,
+      "usd_cny": 6.7389,
+      "sge_usd_per_oz": 1271.39,
+      "world_gold_usd": 1259.6,
+      "spread_usd": 11.79,
+      "premium_percent": 0.94
+    },
+    {
+      "date": "2017-07-31",
+      "sge_cny_per_g": 275.37,
+      "usd_cny": 6.7255,
+      "sge_usd_per_oz": 1273.51,
+      "world_gold_usd": 1266.6,
+      "spread_usd": 6.91,
+      "premium_percent": 0.55
+    },
+    {
+      "date": "2017-08-01",
+      "sge_cny_per_g": 274.95,
+      "usd_cny": 6.7137,
+      "sge_usd_per_oz": 1273.8,
+      "world_gold_usd": 1272.6,
+      "spread_usd": 1.2,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2017-08-02",
+      "sge_cny_per_g": 274.22,
+      "usd_cny": 6.7217,
+      "sge_usd_per_oz": 1268.9,
+      "world_gold_usd": 1271.8,
+      "spread_usd": -2.9,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2017-08-03",
+      "sge_cny_per_g": 275.47,
+      "usd_cny": 6.7156,
+      "sge_usd_per_oz": 1275.85,
+      "world_gold_usd": 1267.8,
+      "spread_usd": 8.05,
+      "premium_percent": 0.63
+    },
+    {
+      "date": "2017-08-06",
+      "sge_cny_per_g": 273.31,
+      "usd_cny": 6.7657,
+      "sge_usd_per_oz": 1256.47,
+      "world_gold_usd": 1267.8,
+      "spread_usd": -11.33,
+      "premium_percent": -0.89
+    },
+    {
+      "date": "2017-08-07",
+      "sge_cny_per_g": 272.7,
+      "usd_cny": 6.7215,
+      "sge_usd_per_oz": 1261.91,
+      "world_gold_usd": 1258.2,
+      "spread_usd": 3.71,
+      "premium_percent": 0.29
+    },
+    {
+      "date": "2017-08-08",
+      "sge_cny_per_g": 273.69,
+      "usd_cny": 6.7098,
+      "sge_usd_per_oz": 1268.7,
+      "world_gold_usd": 1256.4,
+      "spread_usd": 12.3,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2017-08-09",
+      "sge_cny_per_g": 275.77,
+      "usd_cny": 6.6718,
+      "sge_usd_per_oz": 1285.62,
+      "world_gold_usd": 1273.0,
+      "spread_usd": 12.62,
+      "premium_percent": 0.99
+    },
+    {
+      "date": "2017-08-10",
+      "sge_cny_per_g": 276.86,
+      "usd_cny": 6.6458,
+      "sge_usd_per_oz": 1295.75,
+      "world_gold_usd": 1283.7,
+      "spread_usd": 12.05,
+      "premium_percent": 0.94
+    },
+    {
+      "date": "2017-08-13",
+      "sge_cny_per_g": 276.79,
+      "usd_cny": 6.662,
+      "sge_usd_per_oz": 1292.27,
+      "world_gold_usd": 1283.7,
+      "spread_usd": 8.57,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2017-08-14",
+      "sge_cny_per_g": 274.81,
+      "usd_cny": 6.6687,
+      "sge_usd_per_oz": 1281.74,
+      "world_gold_usd": 1284.2,
+      "spread_usd": -2.46,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2017-08-15",
+      "sge_cny_per_g": 274.62,
+      "usd_cny": 6.6844,
+      "sge_usd_per_oz": 1277.85,
+      "world_gold_usd": 1273.7,
+      "spread_usd": 4.15,
+      "premium_percent": 0.33
+    },
+    {
+      "date": "2017-08-16",
+      "sge_cny_per_g": 277.03,
+      "usd_cny": 6.6897,
+      "sge_usd_per_oz": 1288.04,
+      "world_gold_usd": 1276.9,
+      "spread_usd": 11.14,
+      "premium_percent": 0.87
+    },
+    {
+      "date": "2017-08-17",
+      "sge_cny_per_g": 277.46,
+      "usd_cny": 6.6777,
+      "sge_usd_per_oz": 1292.36,
+      "world_gold_usd": 1286.4,
+      "spread_usd": 5.96,
+      "premium_percent": 0.46
+    },
+    {
+      "date": "2017-08-20",
+      "sge_cny_per_g": 277.02,
+      "usd_cny": 6.6687,
+      "sge_usd_per_oz": 1292.05,
+      "world_gold_usd": 1286.4,
+      "spread_usd": 5.65,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2017-08-21",
+      "sge_cny_per_g": 276.92,
+      "usd_cny": 6.6659,
+      "sge_usd_per_oz": 1292.12,
+      "world_gold_usd": 1290.8,
+      "spread_usd": 1.32,
+      "premium_percent": 0.1
+    },
+    {
+      "date": "2017-08-22",
+      "sge_cny_per_g": 276.92,
+      "usd_cny": 6.6617,
+      "sge_usd_per_oz": 1292.94,
+      "world_gold_usd": 1285.1,
+      "spread_usd": 7.84,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2017-08-23",
+      "sge_cny_per_g": 277.25,
+      "usd_cny": 6.6583,
+      "sge_usd_per_oz": 1295.14,
+      "world_gold_usd": 1288.9,
+      "spread_usd": 6.24,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2017-08-24",
+      "sge_cny_per_g": 276.93,
+      "usd_cny": 6.6613,
+      "sge_usd_per_oz": 1293.06,
+      "world_gold_usd": 1286.5,
+      "spread_usd": 6.56,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2017-08-27",
+      "sge_cny_per_g": 277.98,
+      "usd_cny": 6.5829,
+      "sge_usd_per_oz": 1313.42,
+      "world_gold_usd": 1286.5,
+      "spread_usd": 26.92,
+      "premium_percent": 2.09
+    },
+    {
+      "date": "2017-08-28",
+      "sge_cny_per_g": 281.08,
+      "usd_cny": 6.6074,
+      "sge_usd_per_oz": 1323.15,
+      "world_gold_usd": 1309.7,
+      "spread_usd": 13.45,
+      "premium_percent": 1.03
+    },
+    {
+      "date": "2017-08-29",
+      "sge_cny_per_g": 278.35,
+      "usd_cny": 6.5954,
+      "sge_usd_per_oz": 1312.68,
+      "world_gold_usd": 1313.1,
+      "spread_usd": -0.42,
+      "premium_percent": -0.03
+    },
+    {
+      "date": "2017-08-30",
+      "sge_cny_per_g": 277.69,
+      "usd_cny": 6.5957,
+      "sge_usd_per_oz": 1309.51,
+      "world_gold_usd": 1308.1,
+      "spread_usd": 1.41,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2017-08-31",
+      "sge_cny_per_g": 280.2,
+      "usd_cny": 6.5898,
+      "sge_usd_per_oz": 1322.53,
+      "world_gold_usd": 1316.2,
+      "spread_usd": 6.33,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2017-09-03",
+      "sge_cny_per_g": 282.11,
+      "usd_cny": 6.5465,
+      "sge_usd_per_oz": 1340.35,
+      "world_gold_usd": 1316.2,
+      "spread_usd": 24.15,
+      "premium_percent": 1.83
+    },
+    {
+      "date": "2017-09-04",
+      "sge_cny_per_g": 281.62,
+      "usd_cny": 6.5299,
+      "sge_usd_per_oz": 1341.42,
+      "world_gold_usd": 1316.2,
+      "spread_usd": 25.22,
+      "premium_percent": 1.92
+    },
+    {
+      "date": "2017-09-05",
+      "sge_cny_per_g": 281.79,
+      "usd_cny": 6.5374,
+      "sge_usd_per_oz": 1340.69,
+      "world_gold_usd": 1339.2,
+      "spread_usd": 1.49,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2017-09-06",
+      "sge_cny_per_g": 281.35,
+      "usd_cny": 6.5212,
+      "sge_usd_per_oz": 1341.93,
+      "world_gold_usd": 1333.9,
+      "spread_usd": 8.03,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2017-09-07",
+      "sge_cny_per_g": 281.65,
+      "usd_cny": 6.4846,
+      "sge_usd_per_oz": 1350.94,
+      "world_gold_usd": 1345.1,
+      "spread_usd": 5.84,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2017-09-10",
+      "sge_cny_per_g": 280.95,
+      "usd_cny": 6.5309,
+      "sge_usd_per_oz": 1338.03,
+      "world_gold_usd": 1345.1,
+      "spread_usd": -7.07,
+      "premium_percent": -0.53
+    },
+    {
+      "date": "2017-09-11",
+      "sge_cny_per_g": 279.84,
+      "usd_cny": 6.5304,
+      "sge_usd_per_oz": 1332.84,
+      "world_gold_usd": 1331.0,
+      "spread_usd": 1.84,
+      "premium_percent": 0.14
+    },
+    {
+      "date": "2017-09-12",
+      "sge_cny_per_g": 280.35,
+      "usd_cny": 6.535,
+      "sge_usd_per_oz": 1334.33,
+      "world_gold_usd": 1328.0,
+      "spread_usd": 6.33,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2017-09-13",
+      "sge_cny_per_g": 279.45,
+      "usd_cny": 6.5422,
+      "sge_usd_per_oz": 1328.58,
+      "world_gold_usd": 1323.4,
+      "spread_usd": 5.18,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2017-09-14",
+      "sge_cny_per_g": 280.84,
+      "usd_cny": 6.5548,
+      "sge_usd_per_oz": 1332.63,
+      "world_gold_usd": 1324.7,
+      "spread_usd": 7.93,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2017-09-17",
+      "sge_cny_per_g": 278.98,
+      "usd_cny": 6.5507,
+      "sge_usd_per_oz": 1324.63,
+      "world_gold_usd": 1324.7,
+      "spread_usd": -0.07,
+      "premium_percent": -0.01
+    },
+    {
+      "date": "2017-09-18",
+      "sge_cny_per_g": 278.5,
+      "usd_cny": 6.5731,
+      "sge_usd_per_oz": 1317.84,
+      "world_gold_usd": 1306.3,
+      "spread_usd": 11.54,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2017-09-19",
+      "sge_cny_per_g": 278.8,
+      "usd_cny": 6.5833,
+      "sge_usd_per_oz": 1317.22,
+      "world_gold_usd": 1306.2,
+      "spread_usd": 11.02,
+      "premium_percent": 0.84
+    },
+    {
+      "date": "2017-09-20",
+      "sge_cny_per_g": 276.72,
+      "usd_cny": 6.5749,
+      "sge_usd_per_oz": 1309.06,
+      "world_gold_usd": 1312.0,
+      "spread_usd": -2.94,
+      "premium_percent": -0.22
+    },
+    {
+      "date": "2017-09-21",
+      "sge_cny_per_g": 276.39,
+      "usd_cny": 6.59,
+      "sge_usd_per_oz": 1304.51,
+      "world_gold_usd": 1290.6,
+      "spread_usd": 13.91,
+      "premium_percent": 1.08
+    },
+    {
+      "date": "2017-09-24",
+      "sge_cny_per_g": 276.25,
+      "usd_cny": 6.6046,
+      "sge_usd_per_oz": 1300.96,
+      "world_gold_usd": 1290.6,
+      "spread_usd": 10.36,
+      "premium_percent": 0.8
+    },
+    {
+      "date": "2017-09-25",
+      "sge_cny_per_g": 280.78,
+      "usd_cny": 6.6205,
+      "sge_usd_per_oz": 1319.12,
+      "world_gold_usd": 1306.8,
+      "spread_usd": 12.32,
+      "premium_percent": 0.94
+    },
+    {
+      "date": "2017-09-26",
+      "sge_cny_per_g": 278.33,
+      "usd_cny": 6.6396,
+      "sge_usd_per_oz": 1303.85,
+      "world_gold_usd": 1297.0,
+      "spread_usd": 6.85,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2017-09-27",
+      "sge_cny_per_g": 276.31,
+      "usd_cny": 6.6405,
+      "sge_usd_per_oz": 1294.21,
+      "world_gold_usd": 1283.4,
+      "spread_usd": 10.81,
+      "premium_percent": 0.84
+    },
+    {
+      "date": "2017-09-28",
+      "sge_cny_per_g": 277.52,
+      "usd_cny": 6.665,
+      "sge_usd_per_oz": 1295.1,
+      "world_gold_usd": 1285.5,
+      "spread_usd": 9.6,
+      "premium_percent": 0.75
+    },
+    {
+      "date": "2017-10-08",
+      "sge_cny_per_g": 276.23,
+      "usd_cny": 6.65,
+      "sge_usd_per_oz": 1291.99,
+      "world_gold_usd": 1285.5,
+      "spread_usd": 6.49,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2017-10-09",
+      "sge_cny_per_g": 275.86,
+      "usd_cny": 6.6253,
+      "sge_usd_per_oz": 1295.07,
+      "world_gold_usd": 1281.8,
+      "spread_usd": 13.27,
+      "premium_percent": 1.03
+    },
+    {
+      "date": "2017-10-10",
+      "sge_cny_per_g": 275.35,
+      "usd_cny": 6.5714,
+      "sge_usd_per_oz": 1303.28,
+      "world_gold_usd": 1290.6,
+      "spread_usd": 12.68,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2017-10-11",
+      "sge_cny_per_g": 276.46,
+      "usd_cny": 6.5895,
+      "sge_usd_per_oz": 1304.93,
+      "world_gold_usd": 1285.8,
+      "spread_usd": 19.13,
+      "premium_percent": 1.49
+    },
+    {
+      "date": "2017-10-12",
+      "sge_cny_per_g": 276.33,
+      "usd_cny": 6.588,
+      "sge_usd_per_oz": 1304.62,
+      "world_gold_usd": 1293.3,
+      "spread_usd": 11.32,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2017-10-15",
+      "sge_cny_per_g": 277.48,
+      "usd_cny": 6.5833,
+      "sge_usd_per_oz": 1310.98,
+      "world_gold_usd": 1293.3,
+      "spread_usd": 17.68,
+      "premium_percent": 1.37
+    },
+    {
+      "date": "2017-10-16",
+      "sge_cny_per_g": 276.39,
+      "usd_cny": 6.5885,
+      "sge_usd_per_oz": 1304.8,
+      "world_gold_usd": 1299.9,
+      "spread_usd": 4.9,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2017-10-17",
+      "sge_cny_per_g": 275.38,
+      "usd_cny": 6.622,
+      "sge_usd_per_oz": 1293.46,
+      "world_gold_usd": 1283.0,
+      "spread_usd": 10.46,
+      "premium_percent": 0.82
+    },
+    {
+      "date": "2017-10-18",
+      "sge_cny_per_g": 274.66,
+      "usd_cny": 6.6278,
+      "sge_usd_per_oz": 1288.95,
+      "world_gold_usd": 1279.9,
+      "spread_usd": 9.05,
+      "premium_percent": 0.71
+    },
+    {
+      "date": "2017-10-19",
+      "sge_cny_per_g": 274.96,
+      "usd_cny": 6.6141,
+      "sge_usd_per_oz": 1293.03,
+      "world_gold_usd": 1286.9,
+      "spread_usd": 6.13,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2017-10-22",
+      "sge_cny_per_g": 274.04,
+      "usd_cny": 6.6388,
+      "sge_usd_per_oz": 1283.91,
+      "world_gold_usd": 1286.9,
+      "spread_usd": -2.99,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2017-10-23",
+      "sge_cny_per_g": 274.94,
+      "usd_cny": 6.6383,
+      "sge_usd_per_oz": 1288.22,
+      "world_gold_usd": 1277.7,
+      "spread_usd": 10.52,
+      "premium_percent": 0.82
+    },
+    {
+      "date": "2017-10-24",
+      "sge_cny_per_g": 273.72,
+      "usd_cny": 6.636,
+      "sge_usd_per_oz": 1282.95,
+      "world_gold_usd": 1275.0,
+      "spread_usd": 7.95,
+      "premium_percent": 0.62
+    },
+    {
+      "date": "2017-10-25",
+      "sge_cny_per_g": 274.76,
+      "usd_cny": 6.6376,
+      "sge_usd_per_oz": 1287.51,
+      "world_gold_usd": 1275.4,
+      "spread_usd": 12.11,
+      "premium_percent": 0.95
+    },
+    {
+      "date": "2017-10-26",
+      "sge_cny_per_g": 273.07,
+      "usd_cny": 6.6411,
+      "sge_usd_per_oz": 1278.92,
+      "world_gold_usd": 1266.3,
+      "spread_usd": 12.62,
+      "premium_percent": 1.0
+    },
+    {
+      "date": "2017-10-29",
+      "sge_cny_per_g": 273.23,
+      "usd_cny": 6.6411,
+      "sge_usd_per_oz": 1279.67,
+      "world_gold_usd": 1266.3,
+      "spread_usd": 13.37,
+      "premium_percent": 1.06
+    },
+    {
+      "date": "2017-10-30",
+      "sge_cny_per_g": 273.67,
+      "usd_cny": 6.659,
+      "sge_usd_per_oz": 1278.28,
+      "world_gold_usd": 1274.1,
+      "spread_usd": 4.18,
+      "premium_percent": 0.33
+    },
+    {
+      "date": "2017-10-31",
+      "sge_cny_per_g": 273.36,
+      "usd_cny": 6.6424,
+      "sge_usd_per_oz": 1280.03,
+      "world_gold_usd": 1267.0,
+      "spread_usd": 13.03,
+      "premium_percent": 1.03
+    },
+    {
+      "date": "2017-11-01",
+      "sge_cny_per_g": 273.21,
+      "usd_cny": 6.6358,
+      "sge_usd_per_oz": 1280.6,
+      "world_gold_usd": 1274.1,
+      "spread_usd": 6.5,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2017-11-02",
+      "sge_cny_per_g": 273.61,
+      "usd_cny": 6.5994,
+      "sge_usd_per_oz": 1289.54,
+      "world_gold_usd": 1274.9,
+      "spread_usd": 14.64,
+      "premium_percent": 1.15
+    },
+    {
+      "date": "2017-11-05",
+      "sge_cny_per_g": 273.13,
+      "usd_cny": 6.5994,
+      "sge_usd_per_oz": 1287.28,
+      "world_gold_usd": 1274.9,
+      "spread_usd": 12.38,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2017-11-06",
+      "sge_cny_per_g": 274.39,
+      "usd_cny": 6.638,
+      "sge_usd_per_oz": 1285.7,
+      "world_gold_usd": 1279.4,
+      "spread_usd": 6.3,
+      "premium_percent": 0.49
+    },
+    {
+      "date": "2017-11-07",
+      "sge_cny_per_g": 274.41,
+      "usd_cny": 6.6335,
+      "sge_usd_per_oz": 1286.67,
+      "world_gold_usd": 1273.7,
+      "spread_usd": 12.97,
+      "premium_percent": 1.02
+    },
+    {
+      "date": "2017-11-08",
+      "sge_cny_per_g": 275.3,
+      "usd_cny": 6.6398,
+      "sge_usd_per_oz": 1289.62,
+      "world_gold_usd": 1281.6,
+      "spread_usd": 8.02,
+      "premium_percent": 0.63
+    },
+    {
+      "date": "2017-11-09",
+      "sge_cny_per_g": 276.15,
+      "usd_cny": 6.6266,
+      "sge_usd_per_oz": 1296.17,
+      "world_gold_usd": 1285.6,
+      "spread_usd": 10.57,
+      "premium_percent": 0.82
+    },
+    {
+      "date": "2017-11-12",
+      "sge_cny_per_g": 274.79,
+      "usd_cny": 6.6266,
+      "sge_usd_per_oz": 1289.79,
+      "world_gold_usd": 1285.6,
+      "spread_usd": 4.19,
+      "premium_percent": 0.33
+    },
+    {
+      "date": "2017-11-13",
+      "sge_cny_per_g": 274.38,
+      "usd_cny": 6.6393,
+      "sge_usd_per_oz": 1285.4,
+      "world_gold_usd": 1277.3,
+      "spread_usd": 8.1,
+      "premium_percent": 0.63
+    },
+    {
+      "date": "2017-11-14",
+      "sge_cny_per_g": 274.92,
+      "usd_cny": 6.6386,
+      "sge_usd_per_oz": 1288.07,
+      "world_gold_usd": 1281.5,
+      "spread_usd": 6.57,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2017-11-15",
+      "sge_cny_per_g": 274.3,
+      "usd_cny": 6.6356,
+      "sge_usd_per_oz": 1285.74,
+      "world_gold_usd": 1276.5,
+      "spread_usd": 9.24,
+      "premium_percent": 0.72
+    },
+    {
+      "date": "2017-11-16",
+      "sge_cny_per_g": 274.97,
+      "usd_cny": 6.6356,
+      "sge_usd_per_oz": 1288.88,
+      "world_gold_usd": 1277.4,
+      "spread_usd": 11.48,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2017-11-19",
+      "sge_cny_per_g": 276.4,
+      "usd_cny": 6.6356,
+      "sge_usd_per_oz": 1295.59,
+      "world_gold_usd": 1277.4,
+      "spread_usd": 18.19,
+      "premium_percent": 1.42
+    },
+    {
+      "date": "2017-11-20",
+      "sge_cny_per_g": 274.74,
+      "usd_cny": 6.6619,
+      "sge_usd_per_oz": 1282.72,
+      "world_gold_usd": 1274.6,
+      "spread_usd": 8.12,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2017-11-21",
+      "sge_cny_per_g": 274.68,
+      "usd_cny": 6.6335,
+      "sge_usd_per_oz": 1287.93,
+      "world_gold_usd": 1281.1,
+      "spread_usd": 6.83,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2017-11-22",
+      "sge_cny_per_g": 274.96,
+      "usd_cny": 6.6292,
+      "sge_usd_per_oz": 1290.08,
+      "world_gold_usd": 1291.6,
+      "spread_usd": -1.52,
+      "premium_percent": -0.12
+    },
+    {
+      "date": "2017-11-23",
+      "sge_cny_per_g": 275.01,
+      "usd_cny": 6.6109,
+      "sge_usd_per_oz": 1293.89,
+      "world_gold_usd": 1291.6,
+      "spread_usd": 2.29,
+      "premium_percent": 0.18
+    },
+    {
+      "date": "2017-11-26",
+      "sge_cny_per_g": 275.17,
+      "usd_cny": 6.6109,
+      "sge_usd_per_oz": 1294.64,
+      "world_gold_usd": 1291.6,
+      "spread_usd": 3.04,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2017-11-27",
+      "sge_cny_per_g": 275.99,
+      "usd_cny": 6.6012,
+      "sge_usd_per_oz": 1300.41,
+      "world_gold_usd": 1293.8,
+      "spread_usd": 6.61,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2017-11-28",
+      "sge_cny_per_g": 276.09,
+      "usd_cny": 6.5953,
+      "sge_usd_per_oz": 1302.04,
+      "world_gold_usd": 1294.7,
+      "spread_usd": 7.34,
+      "premium_percent": 0.57
+    },
+    {
+      "date": "2017-11-29",
+      "sge_cny_per_g": 274.14,
+      "usd_cny": 6.6094,
+      "sge_usd_per_oz": 1290.09,
+      "world_gold_usd": 1282.1,
+      "spread_usd": 7.99,
+      "premium_percent": 0.62
+    },
+    {
+      "date": "2017-11-30",
+      "sge_cny_per_g": 272.85,
+      "usd_cny": 6.6083,
+      "sge_usd_per_oz": 1284.23,
+      "world_gold_usd": 1273.2,
+      "spread_usd": 11.03,
+      "premium_percent": 0.87
+    },
+    {
+      "date": "2017-12-03",
+      "sge_cny_per_g": 272.36,
+      "usd_cny": 6.6083,
+      "sge_usd_per_oz": 1281.92,
+      "world_gold_usd": 1273.2,
+      "spread_usd": 8.72,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2017-12-04",
+      "sge_cny_per_g": 272.83,
+      "usd_cny": 6.6346,
+      "sge_usd_per_oz": 1279.05,
+      "world_gold_usd": 1274.3,
+      "spread_usd": 4.75,
+      "premium_percent": 0.37
+    },
+    {
+      "date": "2017-12-05",
+      "sge_cny_per_g": 271.19,
+      "usd_cny": 6.6189,
+      "sge_usd_per_oz": 1274.37,
+      "world_gold_usd": 1261.6,
+      "spread_usd": 12.77,
+      "premium_percent": 1.01
+    },
+    {
+      "date": "2017-12-06",
+      "sge_cny_per_g": 269.71,
+      "usd_cny": 6.6168,
+      "sge_usd_per_oz": 1267.82,
+      "world_gold_usd": 1262.8,
+      "spread_usd": 5.02,
+      "premium_percent": 0.4
+    },
+    {
+      "date": "2017-12-07",
+      "sge_cny_per_g": 267.66,
+      "usd_cny": 6.6144,
+      "sge_usd_per_oz": 1258.64,
+      "world_gold_usd": 1249.8,
+      "spread_usd": 8.84,
+      "premium_percent": 0.71
+    },
+    {
+      "date": "2017-12-10",
+      "sge_cny_per_g": 267.79,
+      "usd_cny": 6.6144,
+      "sge_usd_per_oz": 1259.25,
+      "world_gold_usd": 1249.8,
+      "spread_usd": 9.45,
+      "premium_percent": 0.76
+    },
+    {
+      "date": "2017-12-11",
+      "sge_cny_per_g": 267.05,
+      "usd_cny": 6.6183,
+      "sge_usd_per_oz": 1255.03,
+      "world_gold_usd": 1243.7,
+      "spread_usd": 11.33,
+      "premium_percent": 0.91
+    },
+    {
+      "date": "2017-12-12",
+      "sge_cny_per_g": 267.09,
+      "usd_cny": 6.6171,
+      "sge_usd_per_oz": 1255.45,
+      "world_gold_usd": 1238.5,
+      "spread_usd": 16.95,
+      "premium_percent": 1.37
+    },
+    {
+      "date": "2017-12-13",
+      "sge_cny_per_g": 269.69,
+      "usd_cny": 6.6204,
+      "sge_usd_per_oz": 1267.04,
+      "world_gold_usd": 1245.4,
+      "spread_usd": 21.64,
+      "premium_percent": 1.74
+    },
+    {
+      "date": "2017-12-14",
+      "sge_cny_per_g": 269.39,
+      "usd_cny": 6.6187,
+      "sge_usd_per_oz": 1265.95,
+      "world_gold_usd": 1253.8,
+      "spread_usd": 12.15,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2017-12-17",
+      "sge_cny_per_g": 269.66,
+      "usd_cny": 6.6187,
+      "sge_usd_per_oz": 1267.22,
+      "world_gold_usd": 1253.8,
+      "spread_usd": 13.42,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2017-12-18",
+      "sge_cny_per_g": 271.26,
+      "usd_cny": 6.6149,
+      "sge_usd_per_oz": 1275.47,
+      "world_gold_usd": 1262.2,
+      "spread_usd": 13.27,
+      "premium_percent": 1.05
+    },
+    {
+      "date": "2017-12-19",
+      "sge_cny_per_g": 270.25,
+      "usd_cny": 6.6142,
+      "sge_usd_per_oz": 1270.86,
+      "world_gold_usd": 1260.7,
+      "spread_usd": 10.16,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2017-12-20",
+      "sge_cny_per_g": 270.01,
+      "usd_cny": 6.605,
+      "sge_usd_per_oz": 1271.5,
+      "world_gold_usd": 1266.1,
+      "spread_usd": 5.4,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2017-12-21",
+      "sge_cny_per_g": 270.32,
+      "usd_cny": 6.5797,
+      "sge_usd_per_oz": 1277.85,
+      "world_gold_usd": 1267.3,
+      "spread_usd": 10.55,
+      "premium_percent": 0.83
+    },
+    {
+      "date": "2017-12-24",
+      "sge_cny_per_g": 271.98,
+      "usd_cny": 6.5797,
+      "sge_usd_per_oz": 1285.7,
+      "world_gold_usd": 1267.3,
+      "spread_usd": 18.4,
+      "premium_percent": 1.45
+    },
+    {
+      "date": "2017-12-25",
+      "sge_cny_per_g": 272.12,
+      "usd_cny": 6.5786,
+      "sge_usd_per_oz": 1286.58,
+      "world_gold_usd": 1267.3,
+      "spread_usd": 19.28,
+      "premium_percent": 1.52
+    },
+    {
+      "date": "2017-12-26",
+      "sge_cny_per_g": 272.74,
+      "usd_cny": 6.5388,
+      "sge_usd_per_oz": 1297.36,
+      "world_gold_usd": 1284.1,
+      "spread_usd": 13.26,
+      "premium_percent": 1.03
+    },
+    {
+      "date": "2017-12-27",
+      "sge_cny_per_g": 274.01,
+      "usd_cny": 6.5431,
+      "sge_usd_per_oz": 1302.54,
+      "world_gold_usd": 1287.0,
+      "spread_usd": 15.54,
+      "premium_percent": 1.21
+    },
+    {
+      "date": "2017-12-28",
+      "sge_cny_per_g": 273.75,
+      "usd_cny": 6.5547,
+      "sge_usd_per_oz": 1299.0,
+      "world_gold_usd": 1294.1,
+      "spread_usd": 4.9,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2018-01-01",
+      "sge_cny_per_g": 275.0,
+      "usd_cny": 6.5057,
+      "sge_usd_per_oz": 1314.76,
+      "world_gold_usd": 1294.1,
+      "spread_usd": 20.66,
+      "premium_percent": 1.6
+    },
+    {
+      "date": "2018-01-02",
+      "sge_cny_per_g": 276.63,
+      "usd_cny": 6.5058,
+      "sge_usd_per_oz": 1322.54,
+      "world_gold_usd": 1313.7,
+      "spread_usd": 8.84,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2018-01-03",
+      "sge_cny_per_g": 275.53,
+      "usd_cny": 6.494,
+      "sge_usd_per_oz": 1319.67,
+      "world_gold_usd": 1316.2,
+      "spread_usd": 3.47,
+      "premium_percent": 0.26
+    },
+    {
+      "date": "2018-01-04",
+      "sge_cny_per_g": 276.59,
+      "usd_cny": 6.5031,
+      "sge_usd_per_oz": 1322.89,
+      "world_gold_usd": 1319.4,
+      "spread_usd": 3.49,
+      "premium_percent": 0.26
+    },
+    {
+      "date": "2018-01-07",
+      "sge_cny_per_g": 276.59,
+      "usd_cny": 6.5031,
+      "sge_usd_per_oz": 1322.89,
+      "world_gold_usd": 1319.4,
+      "spread_usd": 3.49,
+      "premium_percent": 0.26
+    },
+    {
+      "date": "2018-01-08",
+      "sge_cny_per_g": 277.23,
+      "usd_cny": 6.4875,
+      "sge_usd_per_oz": 1329.14,
+      "world_gold_usd": 1318.6,
+      "spread_usd": 10.54,
+      "premium_percent": 0.8
+    },
+    {
+      "date": "2018-01-09",
+      "sge_cny_per_g": 276.55,
+      "usd_cny": 6.4976,
+      "sge_usd_per_oz": 1323.82,
+      "world_gold_usd": 1311.7,
+      "spread_usd": 12.12,
+      "premium_percent": 0.92
+    },
+    {
+      "date": "2018-01-10",
+      "sge_cny_per_g": 277.91,
+      "usd_cny": 6.5294,
+      "sge_usd_per_oz": 1323.85,
+      "world_gold_usd": 1317.4,
+      "spread_usd": 6.45,
+      "premium_percent": 0.49
+    },
+    {
+      "date": "2018-01-11",
+      "sge_cny_per_g": 278.53,
+      "usd_cny": 6.5072,
+      "sge_usd_per_oz": 1331.33,
+      "world_gold_usd": 1320.6,
+      "spread_usd": 10.73,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2018-01-14",
+      "sge_cny_per_g": 279.23,
+      "usd_cny": 6.5072,
+      "sge_usd_per_oz": 1334.68,
+      "world_gold_usd": 1320.6,
+      "spread_usd": 14.08,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2018-01-15",
+      "sge_cny_per_g": 278.95,
+      "usd_cny": 6.4562,
+      "sge_usd_per_oz": 1343.87,
+      "world_gold_usd": 1320.6,
+      "spread_usd": 23.27,
+      "premium_percent": 1.76
+    },
+    {
+      "date": "2018-01-16",
+      "sge_cny_per_g": 278.14,
+      "usd_cny": 6.4352,
+      "sge_usd_per_oz": 1344.34,
+      "world_gold_usd": 1335.4,
+      "spread_usd": 8.94,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2018-01-17",
+      "sge_cny_per_g": 276.76,
+      "usd_cny": 6.4423,
+      "sge_usd_per_oz": 1336.2,
+      "world_gold_usd": 1338.0,
+      "spread_usd": -1.8,
+      "premium_percent": -0.13
+    },
+    {
+      "date": "2018-01-18",
+      "sge_cny_per_g": 275.65,
+      "usd_cny": 6.4321,
+      "sge_usd_per_oz": 1332.95,
+      "world_gold_usd": 1326.0,
+      "spread_usd": 6.95,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2018-01-21",
+      "sge_cny_per_g": 276.19,
+      "usd_cny": 6.4321,
+      "sge_usd_per_oz": 1335.56,
+      "world_gold_usd": 1326.0,
+      "spread_usd": 9.56,
+      "premium_percent": 0.72
+    },
+    {
+      "date": "2018-01-22",
+      "sge_cny_per_g": 276.77,
+      "usd_cny": 6.403,
+      "sge_usd_per_oz": 1344.45,
+      "world_gold_usd": 1330.9,
+      "spread_usd": 13.55,
+      "premium_percent": 1.02
+    },
+    {
+      "date": "2018-01-23",
+      "sge_cny_per_g": 277.59,
+      "usd_cny": 6.4044,
+      "sge_usd_per_oz": 1348.14,
+      "world_gold_usd": 1335.7,
+      "spread_usd": 12.44,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2018-01-24",
+      "sge_cny_per_g": 279.1,
+      "usd_cny": 6.4029,
+      "sge_usd_per_oz": 1355.79,
+      "world_gold_usd": 1355.9,
+      "spread_usd": -0.11,
+      "premium_percent": -0.01
+    },
+    {
+      "date": "2018-01-25",
+      "sge_cny_per_g": 277.17,
+      "usd_cny": 6.3693,
+      "sge_usd_per_oz": 1353.52,
+      "world_gold_usd": 1362.4,
+      "spread_usd": -8.88,
+      "premium_percent": -0.65
+    },
+    {
+      "date": "2018-01-28",
+      "sge_cny_per_g": 276.11,
+      "usd_cny": 6.3693,
+      "sge_usd_per_oz": 1348.34,
+      "world_gold_usd": 1362.4,
+      "spread_usd": -14.06,
+      "premium_percent": -1.03
+    },
+    {
+      "date": "2018-01-29",
+      "sge_cny_per_g": 273.66,
+      "usd_cny": 6.3159,
+      "sge_usd_per_oz": 1347.67,
+      "world_gold_usd": 1351.6,
+      "spread_usd": -3.93,
+      "premium_percent": -0.29
+    },
+    {
+      "date": "2018-01-30",
+      "sge_cny_per_g": 274.19,
+      "usd_cny": 6.3363,
+      "sge_usd_per_oz": 1345.94,
+      "world_gold_usd": 1335.4,
+      "spread_usd": 10.54,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2018-01-31",
+      "sge_cny_per_g": 273.65,
+      "usd_cny": 6.3211,
+      "sge_usd_per_oz": 1346.52,
+      "world_gold_usd": 1339.0,
+      "spread_usd": 7.52,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2018-02-01",
+      "sge_cny_per_g": 273.78,
+      "usd_cny": 6.2882,
+      "sge_usd_per_oz": 1354.2,
+      "world_gold_usd": 1344.3,
+      "spread_usd": 9.9,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2018-02-04",
+      "sge_cny_per_g": 271.26,
+      "usd_cny": 6.2882,
+      "sge_usd_per_oz": 1341.74,
+      "world_gold_usd": 1344.3,
+      "spread_usd": -2.56,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2018-02-05",
+      "sge_cny_per_g": 272.95,
+      "usd_cny": 6.3076,
+      "sge_usd_per_oz": 1345.95,
+      "world_gold_usd": 1333.0,
+      "spread_usd": 12.95,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2018-02-06",
+      "sge_cny_per_g": 269.22,
+      "usd_cny": 6.2897,
+      "sge_usd_per_oz": 1331.33,
+      "world_gold_usd": 1326.1,
+      "spread_usd": 5.23,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2018-02-07",
+      "sge_cny_per_g": 268.47,
+      "usd_cny": 6.2825,
+      "sge_usd_per_oz": 1329.14,
+      "world_gold_usd": 1311.6,
+      "spread_usd": 17.54,
+      "premium_percent": 1.34
+    },
+    {
+      "date": "2018-02-08",
+      "sge_cny_per_g": 269.93,
+      "usd_cny": 6.2676,
+      "sge_usd_per_oz": 1339.55,
+      "world_gold_usd": 1316.9,
+      "spread_usd": 22.65,
+      "premium_percent": 1.72
+    },
+    {
+      "date": "2018-02-11",
+      "sge_cny_per_g": 269.92,
+      "usd_cny": 6.2676,
+      "sge_usd_per_oz": 1339.5,
+      "world_gold_usd": 1316.9,
+      "spread_usd": 22.6,
+      "premium_percent": 1.72
+    },
+    {
+      "date": "2018-02-12",
+      "sge_cny_per_g": 271.07,
+      "usd_cny": 6.2869,
+      "sge_usd_per_oz": 1341.08,
+      "world_gold_usd": 1324.2,
+      "spread_usd": 16.88,
+      "premium_percent": 1.27
+    },
+    {
+      "date": "2018-02-13",
+      "sge_cny_per_g": 273.27,
+      "usd_cny": 6.3265,
+      "sge_usd_per_oz": 1343.5,
+      "world_gold_usd": 1328.1,
+      "spread_usd": 15.4,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2018-02-21",
+      "sge_cny_per_g": 271.77,
+      "usd_cny": 6.3462,
+      "sge_usd_per_oz": 1331.98,
+      "world_gold_usd": 1330.0,
+      "spread_usd": 1.98,
+      "premium_percent": 0.15
+    },
+    {
+      "date": "2018-02-22",
+      "sge_cny_per_g": 272.17,
+      "usd_cny": 6.3466,
+      "sge_usd_per_oz": 1333.85,
+      "world_gold_usd": 1330.6,
+      "spread_usd": 3.25,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2018-02-25",
+      "sge_cny_per_g": 273.42,
+      "usd_cny": 6.3466,
+      "sge_usd_per_oz": 1339.98,
+      "world_gold_usd": 1330.6,
+      "spread_usd": 9.38,
+      "premium_percent": 0.7
+    },
+    {
+      "date": "2018-02-26",
+      "sge_cny_per_g": 272.07,
+      "usd_cny": 6.3273,
+      "sge_usd_per_oz": 1337.43,
+      "world_gold_usd": 1330.7,
+      "spread_usd": 6.73,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2018-02-27",
+      "sge_cny_per_g": 269.95,
+      "usd_cny": 6.3141,
+      "sge_usd_per_oz": 1329.78,
+      "world_gold_usd": 1315.5,
+      "spread_usd": 14.28,
+      "premium_percent": 1.09
+    },
+    {
+      "date": "2018-02-28",
+      "sge_cny_per_g": 269.74,
+      "usd_cny": 6.3167,
+      "sge_usd_per_oz": 1328.2,
+      "world_gold_usd": 1315.5,
+      "spread_usd": 12.7,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2018-03-01",
+      "sge_cny_per_g": 270.93,
+      "usd_cny": 6.3309,
+      "sge_usd_per_oz": 1331.07,
+      "world_gold_usd": 1302.9,
+      "spread_usd": 28.17,
+      "premium_percent": 2.16
+    },
+    {
+      "date": "2018-03-04",
+      "sge_cny_per_g": 271.8,
+      "usd_cny": 6.3309,
+      "sge_usd_per_oz": 1335.34,
+      "world_gold_usd": 1302.9,
+      "spread_usd": 32.44,
+      "premium_percent": 2.49
+    },
+    {
+      "date": "2018-03-05",
+      "sge_cny_per_g": 271.56,
+      "usd_cny": 6.3503,
+      "sge_usd_per_oz": 1330.09,
+      "world_gold_usd": 1318.1,
+      "spread_usd": 11.99,
+      "premium_percent": 0.91
+    },
+    {
+      "date": "2018-03-06",
+      "sge_cny_per_g": 272.57,
+      "usd_cny": 6.3489,
+      "sge_usd_per_oz": 1335.33,
+      "world_gold_usd": 1333.6,
+      "spread_usd": 1.73,
+      "premium_percent": 0.13
+    },
+    {
+      "date": "2018-03-07",
+      "sge_cny_per_g": 271.74,
+      "usd_cny": 6.3094,
+      "sge_usd_per_oz": 1339.6,
+      "world_gold_usd": 1326.0,
+      "spread_usd": 13.6,
+      "premium_percent": 1.03
+    },
+    {
+      "date": "2018-03-08",
+      "sge_cny_per_g": 270.6,
+      "usd_cny": 6.325,
+      "sge_usd_per_oz": 1330.69,
+      "world_gold_usd": 1319.9,
+      "spread_usd": 10.79,
+      "premium_percent": 0.82
+    },
+    {
+      "date": "2018-03-11",
+      "sge_cny_per_g": 270.86,
+      "usd_cny": 6.325,
+      "sge_usd_per_oz": 1331.97,
+      "world_gold_usd": 1319.9,
+      "spread_usd": 12.07,
+      "premium_percent": 0.91
+    },
+    {
+      "date": "2018-03-12",
+      "sge_cny_per_g": 270.54,
+      "usd_cny": 6.3285,
+      "sge_usd_per_oz": 1329.66,
+      "world_gold_usd": 1319.4,
+      "spread_usd": 10.26,
+      "premium_percent": 0.78
+    },
+    {
+      "date": "2018-03-13",
+      "sge_cny_per_g": 271.25,
+      "usd_cny": 6.3291,
+      "sge_usd_per_oz": 1333.02,
+      "world_gold_usd": 1325.9,
+      "spread_usd": 7.12,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2018-03-14",
+      "sge_cny_per_g": 270.79,
+      "usd_cny": 6.3204,
+      "sge_usd_per_oz": 1332.59,
+      "world_gold_usd": 1324.4,
+      "spread_usd": 8.19,
+      "premium_percent": 0.62
+    },
+    {
+      "date": "2018-03-15",
+      "sge_cny_per_g": 269.8,
+      "usd_cny": 6.316,
+      "sge_usd_per_oz": 1328.64,
+      "world_gold_usd": 1316.8,
+      "spread_usd": 11.84,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2018-03-18",
+      "sge_cny_per_g": 268.33,
+      "usd_cny": 6.316,
+      "sge_usd_per_oz": 1321.41,
+      "world_gold_usd": 1316.8,
+      "spread_usd": 4.61,
+      "premium_percent": 0.35
+    },
+    {
+      "date": "2018-03-19",
+      "sge_cny_per_g": 269.46,
+      "usd_cny": 6.3382,
+      "sge_usd_per_oz": 1322.32,
+      "world_gold_usd": 1316.8,
+      "spread_usd": 5.52,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2018-03-20",
+      "sge_cny_per_g": 269.05,
+      "usd_cny": 6.3316,
+      "sge_usd_per_oz": 1321.69,
+      "world_gold_usd": 1311.1,
+      "spread_usd": 10.59,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2018-03-21",
+      "sge_cny_per_g": 271.71,
+      "usd_cny": 6.3329,
+      "sge_usd_per_oz": 1334.48,
+      "world_gold_usd": 1320.7,
+      "spread_usd": 13.78,
+      "premium_percent": 1.04
+    },
+    {
+      "date": "2018-03-22",
+      "sge_cny_per_g": 273.93,
+      "usd_cny": 6.3206,
+      "sge_usd_per_oz": 1348.0,
+      "world_gold_usd": 1326.6,
+      "spread_usd": 21.4,
+      "premium_percent": 1.61
+    },
+    {
+      "date": "2018-03-25",
+      "sge_cny_per_g": 274.64,
+      "usd_cny": 6.32,
+      "sge_usd_per_oz": 1351.62,
+      "world_gold_usd": 1326.6,
+      "spread_usd": 25.02,
+      "premium_percent": 1.89
+    },
+    {
+      "date": "2018-03-26",
+      "sge_cny_per_g": 273.97,
+      "usd_cny": 6.2724,
+      "sge_usd_per_oz": 1358.56,
+      "world_gold_usd": 1354.4,
+      "spread_usd": 4.16,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2018-03-27",
+      "sge_cny_per_g": 272.63,
+      "usd_cny": 6.2818,
+      "sge_usd_per_oz": 1349.89,
+      "world_gold_usd": 1341.3,
+      "spread_usd": 8.59,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2018-03-28",
+      "sge_cny_per_g": 270.18,
+      "usd_cny": 6.2956,
+      "sge_usd_per_oz": 1334.83,
+      "world_gold_usd": 1324.2,
+      "spread_usd": 10.63,
+      "premium_percent": 0.8
+    },
+    {
+      "date": "2018-03-29",
+      "sge_cny_per_g": 270.08,
+      "usd_cny": 6.2889,
+      "sge_usd_per_oz": 1335.75,
+      "world_gold_usd": 1322.8,
+      "spread_usd": 12.95,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2018-04-01",
+      "sge_cny_per_g": 270.13,
+      "usd_cny": 6.2822,
+      "sge_usd_per_oz": 1337.43,
+      "world_gold_usd": 1322.8,
+      "spread_usd": 14.63,
+      "premium_percent": 1.11
+    },
+    {
+      "date": "2018-04-02",
+      "sge_cny_per_g": 272.54,
+      "usd_cny": 6.2794,
+      "sge_usd_per_oz": 1349.96,
+      "world_gold_usd": 1342.1,
+      "spread_usd": 7.86,
+      "premium_percent": 0.59
+    },
+    {
+      "date": "2018-04-03",
+      "sge_cny_per_g": 271.88,
+      "usd_cny": 6.2884,
+      "sge_usd_per_oz": 1344.76,
+      "world_gold_usd": 1332.8,
+      "spread_usd": 11.96,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2018-04-08",
+      "sge_cny_per_g": 271.47,
+      "usd_cny": 6.3086,
+      "sge_usd_per_oz": 1338.44,
+      "world_gold_usd": 1332.8,
+      "spread_usd": 5.64,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2018-04-09",
+      "sge_cny_per_g": 271.49,
+      "usd_cny": 6.3054,
+      "sge_usd_per_oz": 1339.21,
+      "world_gold_usd": 1336.3,
+      "spread_usd": 2.91,
+      "premium_percent": 0.22
+    },
+    {
+      "date": "2018-04-10",
+      "sge_cny_per_g": 272.69,
+      "usd_cny": 6.2816,
+      "sge_usd_per_oz": 1350.23,
+      "world_gold_usd": 1342.0,
+      "spread_usd": 8.23,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2018-04-11",
+      "sge_cny_per_g": 274.03,
+      "usd_cny": 6.2686,
+      "sge_usd_per_oz": 1359.68,
+      "world_gold_usd": 1356.5,
+      "spread_usd": 3.18,
+      "premium_percent": 0.23
+    },
+    {
+      "date": "2018-04-12",
+      "sge_cny_per_g": 271.91,
+      "usd_cny": 6.291,
+      "sge_usd_per_oz": 1344.36,
+      "world_gold_usd": 1338.4,
+      "spread_usd": 5.96,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2018-04-15",
+      "sge_cny_per_g": 273.02,
+      "usd_cny": 6.2741,
+      "sge_usd_per_oz": 1353.48,
+      "world_gold_usd": 1338.4,
+      "spread_usd": 15.08,
+      "premium_percent": 1.13
+    },
+    {
+      "date": "2018-04-16",
+      "sge_cny_per_g": 273.34,
+      "usd_cny": 6.2757,
+      "sge_usd_per_oz": 1354.72,
+      "world_gold_usd": 1347.5,
+      "spread_usd": 7.22,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2018-04-17",
+      "sge_cny_per_g": 273.17,
+      "usd_cny": 6.2805,
+      "sge_usd_per_oz": 1352.84,
+      "world_gold_usd": 1347.2,
+      "spread_usd": 5.64,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2018-04-18",
+      "sge_cny_per_g": 273.62,
+      "usd_cny": 6.2734,
+      "sge_usd_per_oz": 1356.61,
+      "world_gold_usd": 1351.2,
+      "spread_usd": 5.41,
+      "premium_percent": 0.4
+    },
+    {
+      "date": "2018-04-19",
+      "sge_cny_per_g": 272.73,
+      "usd_cny": 6.2781,
+      "sge_usd_per_oz": 1351.18,
+      "world_gold_usd": 1346.8,
+      "spread_usd": 4.38,
+      "premium_percent": 0.33
+    },
+    {
+      "date": "2018-04-22",
+      "sge_cny_per_g": 271.6,
+      "usd_cny": 6.2955,
+      "sge_usd_per_oz": 1341.86,
+      "world_gold_usd": 1346.8,
+      "spread_usd": -4.94,
+      "premium_percent": -0.37
+    },
+    {
+      "date": "2018-04-23",
+      "sge_cny_per_g": 270.97,
+      "usd_cny": 6.3161,
+      "sge_usd_per_oz": 1334.38,
+      "world_gold_usd": 1322.5,
+      "spread_usd": 11.88,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2018-04-24",
+      "sge_cny_per_g": 270.69,
+      "usd_cny": 6.3059,
+      "sge_usd_per_oz": 1335.16,
+      "world_gold_usd": 1331.4,
+      "spread_usd": 3.76,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2018-04-25",
+      "sge_cny_per_g": 271.08,
+      "usd_cny": 6.3247,
+      "sge_usd_per_oz": 1333.11,
+      "world_gold_usd": 1321.2,
+      "spread_usd": 11.91,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2018-04-26",
+      "sge_cny_per_g": 270.1,
+      "usd_cny": 6.3354,
+      "sge_usd_per_oz": 1326.05,
+      "world_gold_usd": 1316.3,
+      "spread_usd": 9.75,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2018-05-01",
+      "sge_cny_per_g": 269.18,
+      "usd_cny": 6.3323,
+      "sge_usd_per_oz": 1322.18,
+      "world_gold_usd": 1303.8,
+      "spread_usd": 18.38,
+      "premium_percent": 1.41
+    },
+    {
+      "date": "2018-05-02",
+      "sge_cny_per_g": 269.56,
+      "usd_cny": 6.3615,
+      "sge_usd_per_oz": 1317.97,
+      "world_gold_usd": 1302.6,
+      "spread_usd": 15.37,
+      "premium_percent": 1.18
+    },
+    {
+      "date": "2018-05-03",
+      "sge_cny_per_g": 269.53,
+      "usd_cny": 6.3527,
+      "sge_usd_per_oz": 1319.65,
+      "world_gold_usd": 1310.7,
+      "spread_usd": 8.95,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2018-05-06",
+      "sge_cny_per_g": 270.26,
+      "usd_cny": 6.3617,
+      "sge_usd_per_oz": 1321.35,
+      "world_gold_usd": 1310.7,
+      "spread_usd": 10.65,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2018-05-07",
+      "sge_cny_per_g": 270.02,
+      "usd_cny": 6.3661,
+      "sge_usd_per_oz": 1319.26,
+      "world_gold_usd": 1312.2,
+      "spread_usd": 7.06,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2018-05-08",
+      "sge_cny_per_g": 269.84,
+      "usd_cny": 6.3697,
+      "sge_usd_per_oz": 1317.64,
+      "world_gold_usd": 1312.0,
+      "spread_usd": 5.64,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2018-05-09",
+      "sge_cny_per_g": 270.14,
+      "usd_cny": 6.3614,
+      "sge_usd_per_oz": 1320.82,
+      "world_gold_usd": 1311.3,
+      "spread_usd": 9.52,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2018-05-10",
+      "sge_cny_per_g": 270.36,
+      "usd_cny": 6.3482,
+      "sge_usd_per_oz": 1324.65,
+      "world_gold_usd": 1320.8,
+      "spread_usd": 3.85,
+      "premium_percent": 0.29
+    },
+    {
+      "date": "2018-05-13",
+      "sge_cny_per_g": 270.49,
+      "usd_cny": 6.3331,
+      "sge_usd_per_oz": 1328.45,
+      "world_gold_usd": 1320.8,
+      "spread_usd": 7.65,
+      "premium_percent": 0.58
+    },
+    {
+      "date": "2018-05-14",
+      "sge_cny_per_g": 269.08,
+      "usd_cny": 6.3383,
+      "sge_usd_per_oz": 1320.44,
+      "world_gold_usd": 1316.5,
+      "spread_usd": 3.94,
+      "premium_percent": 0.3
+    },
+    {
+      "date": "2018-05-15",
+      "sge_cny_per_g": 266.46,
+      "usd_cny": 6.3768,
+      "sge_usd_per_oz": 1299.69,
+      "world_gold_usd": 1288.9,
+      "spread_usd": 10.79,
+      "premium_percent": 0.84
+    },
+    {
+      "date": "2018-05-16",
+      "sge_cny_per_g": 265.58,
+      "usd_cny": 6.3705,
+      "sge_usd_per_oz": 1296.67,
+      "world_gold_usd": 1290.2,
+      "spread_usd": 6.47,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2018-05-17",
+      "sge_cny_per_g": 265.56,
+      "usd_cny": 6.3662,
+      "sge_usd_per_oz": 1297.45,
+      "world_gold_usd": 1288.2,
+      "spread_usd": 9.25,
+      "premium_percent": 0.72
+    },
+    {
+      "date": "2018-05-20",
+      "sge_cny_per_g": 265.29,
+      "usd_cny": 6.3828,
+      "sge_usd_per_oz": 1292.76,
+      "world_gold_usd": 1288.2,
+      "spread_usd": 4.56,
+      "premium_percent": 0.35
+    },
+    {
+      "date": "2018-05-21",
+      "sge_cny_per_g": 265.77,
+      "usd_cny": 6.3811,
+      "sge_usd_per_oz": 1295.45,
+      "world_gold_usd": 1290.2,
+      "spread_usd": 5.25,
+      "premium_percent": 0.41
+    },
+    {
+      "date": "2018-05-22",
+      "sge_cny_per_g": 265.88,
+      "usd_cny": 6.3642,
+      "sge_usd_per_oz": 1299.42,
+      "world_gold_usd": 1291.7,
+      "spread_usd": 7.72,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2018-05-23",
+      "sge_cny_per_g": 267.33,
+      "usd_cny": 6.3888,
+      "sge_usd_per_oz": 1301.48,
+      "world_gold_usd": 1289.3,
+      "spread_usd": 12.18,
+      "premium_percent": 0.94
+    },
+    {
+      "date": "2018-05-24",
+      "sge_cny_per_g": 268.69,
+      "usd_cny": 6.3764,
+      "sge_usd_per_oz": 1310.64,
+      "world_gold_usd": 1303.7,
+      "spread_usd": 6.94,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2018-05-27",
+      "sge_cny_per_g": 267.68,
+      "usd_cny": 6.3686,
+      "sge_usd_per_oz": 1307.32,
+      "world_gold_usd": 1303.7,
+      "spread_usd": 3.62,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2018-05-28",
+      "sge_cny_per_g": 268.84,
+      "usd_cny": 6.3983,
+      "sge_usd_per_oz": 1306.89,
+      "world_gold_usd": 1303.7,
+      "spread_usd": 3.19,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2018-05-29",
+      "sge_cny_per_g": 269.37,
+      "usd_cny": 6.4166,
+      "sge_usd_per_oz": 1305.73,
+      "world_gold_usd": 1298.7,
+      "spread_usd": 7.03,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2018-05-30",
+      "sge_cny_per_g": 269.54,
+      "usd_cny": 6.418,
+      "sge_usd_per_oz": 1306.27,
+      "world_gold_usd": 1301.5,
+      "spread_usd": 4.77,
+      "premium_percent": 0.37
+    },
+    {
+      "date": "2018-05-31",
+      "sge_cny_per_g": 268.99,
+      "usd_cny": 6.4093,
+      "sge_usd_per_oz": 1305.37,
+      "world_gold_usd": 1300.1,
+      "spread_usd": 5.27,
+      "premium_percent": 0.41
+    },
+    {
+      "date": "2018-06-03",
+      "sge_cny_per_g": 267.71,
+      "usd_cny": 6.4194,
+      "sge_usd_per_oz": 1297.12,
+      "world_gold_usd": 1300.1,
+      "spread_usd": -2.98,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2018-06-04",
+      "sge_cny_per_g": 267.3,
+      "usd_cny": 6.407,
+      "sge_usd_per_oz": 1297.64,
+      "world_gold_usd": 1293.1,
+      "spread_usd": 4.54,
+      "premium_percent": 0.35
+    },
+    {
+      "date": "2018-06-05",
+      "sge_cny_per_g": 268.02,
+      "usd_cny": 6.405,
+      "sge_usd_per_oz": 1301.54,
+      "world_gold_usd": 1297.5,
+      "spread_usd": 4.04,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2018-06-06",
+      "sge_cny_per_g": 267.78,
+      "usd_cny": 6.3879,
+      "sge_usd_per_oz": 1303.85,
+      "world_gold_usd": 1297.1,
+      "spread_usd": 6.75,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2018-06-07",
+      "sge_cny_per_g": 267.96,
+      "usd_cny": 6.3921,
+      "sge_usd_per_oz": 1303.87,
+      "world_gold_usd": 1298.7,
+      "spread_usd": 5.17,
+      "premium_percent": 0.4
+    },
+    {
+      "date": "2018-06-10",
+      "sge_cny_per_g": 268.46,
+      "usd_cny": 6.4057,
+      "sge_usd_per_oz": 1303.53,
+      "world_gold_usd": 1298.7,
+      "spread_usd": 4.83,
+      "premium_percent": 0.37
+    },
+    {
+      "date": "2018-06-11",
+      "sge_cny_per_g": 268.28,
+      "usd_cny": 6.3916,
+      "sge_usd_per_oz": 1305.53,
+      "world_gold_usd": 1298.9,
+      "spread_usd": 6.63,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2018-06-12",
+      "sge_cny_per_g": 267.91,
+      "usd_cny": 6.4005,
+      "sge_usd_per_oz": 1301.92,
+      "world_gold_usd": 1295.1,
+      "spread_usd": 6.82,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2018-06-13",
+      "sge_cny_per_g": 268.48,
+      "usd_cny": 6.3973,
+      "sge_usd_per_oz": 1305.34,
+      "world_gold_usd": 1296.9,
+      "spread_usd": 8.44,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2018-06-14",
+      "sge_cny_per_g": 269.1,
+      "usd_cny": 6.4045,
+      "sge_usd_per_oz": 1306.89,
+      "world_gold_usd": 1304.0,
+      "spread_usd": 2.89,
+      "premium_percent": 0.22
+    },
+    {
+      "date": "2018-06-18",
+      "sge_cny_per_g": 267.13,
+      "usd_cny": 6.4388,
+      "sge_usd_per_oz": 1290.41,
+      "world_gold_usd": 1276.2,
+      "spread_usd": 14.21,
+      "premium_percent": 1.11
+    },
+    {
+      "date": "2018-06-19",
+      "sge_cny_per_g": 266.24,
+      "usd_cny": 6.4855,
+      "sge_usd_per_oz": 1276.85,
+      "world_gold_usd": 1275.6,
+      "spread_usd": 1.25,
+      "premium_percent": 0.1
+    },
+    {
+      "date": "2018-06-20",
+      "sge_cny_per_g": 265.32,
+      "usd_cny": 6.4716,
+      "sge_usd_per_oz": 1275.17,
+      "world_gold_usd": 1271.2,
+      "spread_usd": 3.97,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2018-06-21",
+      "sge_cny_per_g": 266.37,
+      "usd_cny": 6.4921,
+      "sge_usd_per_oz": 1276.17,
+      "world_gold_usd": 1267.2,
+      "spread_usd": 8.97,
+      "premium_percent": 0.71
+    },
+    {
+      "date": "2018-06-24",
+      "sge_cny_per_g": 267.08,
+      "usd_cny": 6.5043,
+      "sge_usd_per_oz": 1277.17,
+      "world_gold_usd": 1267.2,
+      "spread_usd": 9.97,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2018-06-25",
+      "sge_cny_per_g": 267.24,
+      "usd_cny": 6.539,
+      "sge_usd_per_oz": 1271.16,
+      "world_gold_usd": 1265.6,
+      "spread_usd": 5.56,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2018-06-26",
+      "sge_cny_per_g": 267.46,
+      "usd_cny": 6.5783,
+      "sge_usd_per_oz": 1264.6,
+      "world_gold_usd": 1256.6,
+      "spread_usd": 8.0,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2018-06-27",
+      "sge_cny_per_g": 267.5,
+      "usd_cny": 6.6019,
+      "sge_usd_per_oz": 1260.27,
+      "world_gold_usd": 1252.8,
+      "spread_usd": 7.47,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2018-06-28",
+      "sge_cny_per_g": 267.12,
+      "usd_cny": 6.6274,
+      "sge_usd_per_oz": 1253.64,
+      "world_gold_usd": 1247.8,
+      "spread_usd": 5.84,
+      "premium_percent": 0.47
+    },
+    {
+      "date": "2018-07-01",
+      "sge_cny_per_g": 267.72,
+      "usd_cny": 6.6243,
+      "sge_usd_per_oz": 1257.04,
+      "world_gold_usd": 1247.8,
+      "spread_usd": 9.24,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2018-07-02",
+      "sge_cny_per_g": 267.96,
+      "usd_cny": 6.6667,
+      "sge_usd_per_oz": 1250.17,
+      "world_gold_usd": 1239.8,
+      "spread_usd": 10.37,
+      "premium_percent": 0.84
+    },
+    {
+      "date": "2018-07-03",
+      "sge_cny_per_g": 268.7,
+      "usd_cny": 6.641,
+      "sge_usd_per_oz": 1258.47,
+      "world_gold_usd": 1251.6,
+      "spread_usd": 6.87,
+      "premium_percent": 0.55
+    },
+    {
+      "date": "2018-07-04",
+      "sge_cny_per_g": 268.65,
+      "usd_cny": 6.6313,
+      "sge_usd_per_oz": 1260.08,
+      "world_gold_usd": 1251.6,
+      "spread_usd": 8.48,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2018-07-05",
+      "sge_cny_per_g": 269.21,
+      "usd_cny": 6.6368,
+      "sge_usd_per_oz": 1261.66,
+      "world_gold_usd": 1257.3,
+      "spread_usd": 4.36,
+      "premium_percent": 0.35
+    },
+    {
+      "date": "2018-07-08",
+      "sge_cny_per_g": 269.02,
+      "usd_cny": 6.6392,
+      "sge_usd_per_oz": 1260.31,
+      "world_gold_usd": 1257.3,
+      "spread_usd": 3.01,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2018-07-09",
+      "sge_cny_per_g": 268.19,
+      "usd_cny": 6.6152,
+      "sge_usd_per_oz": 1260.98,
+      "world_gold_usd": 1258.1,
+      "spread_usd": 2.88,
+      "premium_percent": 0.23
+    },
+    {
+      "date": "2018-07-10",
+      "sge_cny_per_g": 268.94,
+      "usd_cny": 6.6314,
+      "sge_usd_per_oz": 1261.42,
+      "world_gold_usd": 1253.8,
+      "spread_usd": 7.62,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2018-07-11",
+      "sge_cny_per_g": 268.39,
+      "usd_cny": 6.6828,
+      "sge_usd_per_oz": 1249.16,
+      "world_gold_usd": 1242.8,
+      "spread_usd": 6.36,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2018-07-12",
+      "sge_cny_per_g": 267.9,
+      "usd_cny": 6.6659,
+      "sge_usd_per_oz": 1250.04,
+      "world_gold_usd": 1245.0,
+      "spread_usd": 5.04,
+      "premium_percent": 0.4
+    },
+    {
+      "date": "2018-07-15",
+      "sge_cny_per_g": 268.5,
+      "usd_cny": 6.6946,
+      "sge_usd_per_oz": 1247.47,
+      "world_gold_usd": 1245.0,
+      "spread_usd": 2.47,
+      "premium_percent": 0.2
+    },
+    {
+      "date": "2018-07-16",
+      "sge_cny_per_g": 267.47,
+      "usd_cny": 6.6916,
+      "sge_usd_per_oz": 1243.24,
+      "world_gold_usd": 1238.1,
+      "spread_usd": 5.14,
+      "premium_percent": 0.41
+    },
+    {
+      "date": "2018-07-17",
+      "sge_cny_per_g": 264.97,
+      "usd_cny": 6.7068,
+      "sge_usd_per_oz": 1228.83,
+      "world_gold_usd": 1225.7,
+      "spread_usd": 3.13,
+      "premium_percent": 0.26
+    },
+    {
+      "date": "2018-07-18",
+      "sge_cny_per_g": 266.19,
+      "usd_cny": 6.7177,
+      "sge_usd_per_oz": 1232.48,
+      "world_gold_usd": 1226.3,
+      "spread_usd": 6.18,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2018-07-19",
+      "sge_cny_per_g": 266.98,
+      "usd_cny": 6.7717,
+      "sge_usd_per_oz": 1226.28,
+      "world_gold_usd": 1222.4,
+      "spread_usd": 3.88,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2018-07-22",
+      "sge_cny_per_g": 268.37,
+      "usd_cny": 6.7581,
+      "sge_usd_per_oz": 1235.15,
+      "world_gold_usd": 1222.4,
+      "spread_usd": 12.75,
+      "premium_percent": 1.04
+    },
+    {
+      "date": "2018-07-23",
+      "sge_cny_per_g": 267.94,
+      "usd_cny": 6.792,
+      "sge_usd_per_oz": 1227.01,
+      "world_gold_usd": 1224.0,
+      "spread_usd": 3.01,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2018-07-24",
+      "sge_cny_per_g": 268.53,
+      "usd_cny": 6.7905,
+      "sge_usd_per_oz": 1229.99,
+      "world_gold_usd": 1223.9,
+      "spread_usd": 6.09,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2018-07-25",
+      "sge_cny_per_g": 268.52,
+      "usd_cny": 6.7687,
+      "sge_usd_per_oz": 1233.9,
+      "world_gold_usd": 1231.4,
+      "spread_usd": 2.5,
+      "premium_percent": 0.2
+    },
+    {
+      "date": "2018-07-26",
+      "sge_cny_per_g": 268.41,
+      "usd_cny": 6.7828,
+      "sge_usd_per_oz": 1230.83,
+      "world_gold_usd": 1225.3,
+      "spread_usd": 5.53,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2018-07-29",
+      "sge_cny_per_g": 268.7,
+      "usd_cny": 6.8127,
+      "sge_usd_per_oz": 1226.75,
+      "world_gold_usd": 1225.3,
+      "spread_usd": 1.45,
+      "premium_percent": 0.12
+    },
+    {
+      "date": "2018-07-30",
+      "sge_cny_per_g": 268.71,
+      "usd_cny": 6.8149,
+      "sge_usd_per_oz": 1226.4,
+      "world_gold_usd": 1221.3,
+      "spread_usd": 5.1,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2018-07-31",
+      "sge_cny_per_g": 268.68,
+      "usd_cny": 6.8117,
+      "sge_usd_per_oz": 1226.84,
+      "world_gold_usd": 1223.7,
+      "spread_usd": 3.14,
+      "premium_percent": 0.26
+    },
+    {
+      "date": "2018-08-01",
+      "sge_cny_per_g": 268.04,
+      "usd_cny": 6.8226,
+      "sge_usd_per_oz": 1221.96,
+      "world_gold_usd": 1217.9,
+      "spread_usd": 4.06,
+      "premium_percent": 0.33
+    },
+    {
+      "date": "2018-08-02",
+      "sge_cny_per_g": 267.7,
+      "usd_cny": 6.8328,
+      "sge_usd_per_oz": 1218.59,
+      "world_gold_usd": 1210.6,
+      "spread_usd": 7.99,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2018-08-05",
+      "sge_cny_per_g": 267.59,
+      "usd_cny": 6.8332,
+      "sge_usd_per_oz": 1218.02,
+      "world_gold_usd": 1210.6,
+      "spread_usd": 7.42,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2018-08-06",
+      "sge_cny_per_g": 267.69,
+      "usd_cny": 6.8541,
+      "sge_usd_per_oz": 1214.76,
+      "world_gold_usd": 1208.6,
+      "spread_usd": 6.16,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2018-08-07",
+      "sge_cny_per_g": 267.1,
+      "usd_cny": 6.8336,
+      "sge_usd_per_oz": 1215.72,
+      "world_gold_usd": 1209.6,
+      "spread_usd": 6.12,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2018-08-08",
+      "sge_cny_per_g": 267.3,
+      "usd_cny": 6.8352,
+      "sge_usd_per_oz": 1216.34,
+      "world_gold_usd": 1212.6,
+      "spread_usd": 3.74,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2018-08-09",
+      "sge_cny_per_g": 266.91,
+      "usd_cny": 6.8172,
+      "sge_usd_per_oz": 1217.78,
+      "world_gold_usd": 1211.9,
+      "spread_usd": 5.88,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2018-08-12",
+      "sge_cny_per_g": 268.01,
+      "usd_cny": 6.8462,
+      "sge_usd_per_oz": 1217.62,
+      "world_gold_usd": 1211.9,
+      "spread_usd": 5.72,
+      "premium_percent": 0.47
+    },
+    {
+      "date": "2018-08-13",
+      "sge_cny_per_g": 265.6,
+      "usd_cny": 6.8894,
+      "sge_usd_per_oz": 1199.1,
+      "world_gold_usd": 1191.3,
+      "spread_usd": 7.8,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2018-08-14",
+      "sge_cny_per_g": 264.95,
+      "usd_cny": 6.8847,
+      "sge_usd_per_oz": 1196.98,
+      "world_gold_usd": 1193.0,
+      "spread_usd": 3.98,
+      "premium_percent": 0.33
+    },
+    {
+      "date": "2018-08-15",
+      "sge_cny_per_g": 261.74,
+      "usd_cny": 6.9338,
+      "sge_usd_per_oz": 1174.11,
+      "world_gold_usd": 1177.5,
+      "spread_usd": -3.39,
+      "premium_percent": -0.29
+    },
+    {
+      "date": "2018-08-16",
+      "sge_cny_per_g": 261.6,
+      "usd_cny": 6.8815,
+      "sge_usd_per_oz": 1182.4,
+      "world_gold_usd": 1176.2,
+      "spread_usd": 6.2,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2018-08-19",
+      "sge_cny_per_g": 262.78,
+      "usd_cny": 6.8766,
+      "sge_usd_per_oz": 1188.58,
+      "world_gold_usd": 1176.2,
+      "spread_usd": 12.38,
+      "premium_percent": 1.05
+    },
+    {
+      "date": "2018-08-20",
+      "sge_cny_per_g": 264.5,
+      "usd_cny": 6.8568,
+      "sge_usd_per_oz": 1199.81,
+      "world_gold_usd": 1186.8,
+      "spread_usd": 13.01,
+      "premium_percent": 1.1
+    },
+    {
+      "date": "2018-08-21",
+      "sge_cny_per_g": 264.28,
+      "usd_cny": 6.8455,
+      "sge_usd_per_oz": 1200.79,
+      "world_gold_usd": 1192.6,
+      "spread_usd": 8.19,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2018-08-22",
+      "sge_cny_per_g": 264.64,
+      "usd_cny": 6.8432,
+      "sge_usd_per_oz": 1202.83,
+      "world_gold_usd": 1196.3,
+      "spread_usd": 6.53,
+      "premium_percent": 0.55
+    },
+    {
+      "date": "2018-08-23",
+      "sge_cny_per_g": 264.33,
+      "usd_cny": 6.8775,
+      "sge_usd_per_oz": 1195.43,
+      "world_gold_usd": 1187.0,
+      "spread_usd": 8.43,
+      "premium_percent": 0.71
+    },
+    {
+      "date": "2018-08-26",
+      "sge_cny_per_g": 265.55,
+      "usd_cny": 6.8006,
+      "sge_usd_per_oz": 1214.53,
+      "world_gold_usd": 1187.0,
+      "spread_usd": 27.53,
+      "premium_percent": 2.32
+    },
+    {
+      "date": "2018-08-27",
+      "sge_cny_per_g": 266.24,
+      "usd_cny": 6.8133,
+      "sge_usd_per_oz": 1215.42,
+      "world_gold_usd": 1209.0,
+      "spread_usd": 6.42,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2018-08-28",
+      "sge_cny_per_g": 265.23,
+      "usd_cny": 6.8042,
+      "sge_usd_per_oz": 1212.42,
+      "world_gold_usd": 1207.4,
+      "spread_usd": 5.02,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2018-08-29",
+      "sge_cny_per_g": 265.54,
+      "usd_cny": 6.8187,
+      "sge_usd_per_oz": 1211.26,
+      "world_gold_usd": 1204.5,
+      "spread_usd": 6.76,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2018-08-30",
+      "sge_cny_per_g": 265.98,
+      "usd_cny": 6.8431,
+      "sge_usd_per_oz": 1208.94,
+      "world_gold_usd": 1197.7,
+      "spread_usd": 11.24,
+      "premium_percent": 0.94
+    },
+    {
+      "date": "2018-09-02",
+      "sge_cny_per_g": 265.45,
+      "usd_cny": 6.8346,
+      "sge_usd_per_oz": 1208.03,
+      "world_gold_usd": 1197.7,
+      "spread_usd": 10.33,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2018-09-03",
+      "sge_cny_per_g": 264.42,
+      "usd_cny": 6.8221,
+      "sge_usd_per_oz": 1205.55,
+      "world_gold_usd": 1197.7,
+      "spread_usd": 7.85,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2018-09-04",
+      "sge_cny_per_g": 263.91,
+      "usd_cny": 6.8425,
+      "sge_usd_per_oz": 1199.64,
+      "world_gold_usd": 1192.7,
+      "spread_usd": 6.94,
+      "premium_percent": 0.58
+    },
+    {
+      "date": "2018-09-05",
+      "sge_cny_per_g": 264.7,
+      "usd_cny": 6.83,
+      "sge_usd_per_oz": 1205.43,
+      "world_gold_usd": 1194.9,
+      "spread_usd": 10.53,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2018-09-06",
+      "sge_cny_per_g": 265.48,
+      "usd_cny": 6.8344,
+      "sge_usd_per_oz": 1208.2,
+      "world_gold_usd": 1197.9,
+      "spread_usd": 10.3,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2018-09-09",
+      "sge_cny_per_g": 264.79,
+      "usd_cny": 6.8391,
+      "sge_usd_per_oz": 1204.24,
+      "world_gold_usd": 1197.9,
+      "spread_usd": 6.34,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2018-09-10",
+      "sge_cny_per_g": 265.38,
+      "usd_cny": 6.8553,
+      "sge_usd_per_oz": 1204.07,
+      "world_gold_usd": 1193.0,
+      "spread_usd": 11.07,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2018-09-11",
+      "sge_cny_per_g": 265.47,
+      "usd_cny": 6.8744,
+      "sge_usd_per_oz": 1201.13,
+      "world_gold_usd": 1195.4,
+      "spread_usd": 5.73,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2018-09-12",
+      "sge_cny_per_g": 266.33,
+      "usd_cny": 6.8599,
+      "sge_usd_per_oz": 1207.57,
+      "world_gold_usd": 1204.7,
+      "spread_usd": 2.87,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2018-09-13",
+      "sge_cny_per_g": 266.72,
+      "usd_cny": 6.8429,
+      "sge_usd_per_oz": 1212.34,
+      "world_gold_usd": 1202.0,
+      "spread_usd": 10.34,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2018-09-16",
+      "sge_cny_per_g": 265.75,
+      "usd_cny": 6.8656,
+      "sge_usd_per_oz": 1203.94,
+      "world_gold_usd": 1202.0,
+      "spread_usd": 1.94,
+      "premium_percent": 0.16
+    },
+    {
+      "date": "2018-09-17",
+      "sge_cny_per_g": 266.14,
+      "usd_cny": 6.8555,
+      "sge_usd_per_oz": 1207.48,
+      "world_gold_usd": 1199.7,
+      "spread_usd": 7.78,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2018-09-18",
+      "sge_cny_per_g": 266.35,
+      "usd_cny": 6.8602,
+      "sge_usd_per_oz": 1207.6,
+      "world_gold_usd": 1196.8,
+      "spread_usd": 10.8,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2018-09-19",
+      "sge_cny_per_g": 266.57,
+      "usd_cny": 6.8469,
+      "sge_usd_per_oz": 1210.95,
+      "world_gold_usd": 1202.2,
+      "spread_usd": 8.75,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2018-09-20",
+      "sge_cny_per_g": 267.22,
+      "usd_cny": 6.8459,
+      "sge_usd_per_oz": 1214.08,
+      "world_gold_usd": 1206.2,
+      "spread_usd": 7.88,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2018-09-24",
+      "sge_cny_per_g": 266.29,
+      "usd_cny": 6.8734,
+      "sge_usd_per_oz": 1205.01,
+      "world_gold_usd": 1199.3,
+      "spread_usd": 5.71,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2018-09-25",
+      "sge_cny_per_g": 266.97,
+      "usd_cny": 6.8663,
+      "sge_usd_per_oz": 1209.34,
+      "world_gold_usd": 1200.0,
+      "spread_usd": 9.34,
+      "premium_percent": 0.78
+    },
+    {
+      "date": "2018-09-26",
+      "sge_cny_per_g": 265.99,
+      "usd_cny": 6.8761,
+      "sge_usd_per_oz": 1203.18,
+      "world_gold_usd": 1194.0,
+      "spread_usd": 9.18,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2018-09-27",
+      "sge_cny_per_g": 263.88,
+      "usd_cny": 6.8803,
+      "sge_usd_per_oz": 1192.91,
+      "world_gold_usd": 1182.3,
+      "spread_usd": 10.61,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2018-10-07",
+      "sge_cny_per_g": 267.14,
+      "usd_cny": 6.8589,
+      "sge_usd_per_oz": 1211.42,
+      "world_gold_usd": 1182.3,
+      "spread_usd": 29.12,
+      "premium_percent": 2.46
+    },
+    {
+      "date": "2018-10-08",
+      "sge_cny_per_g": 266.67,
+      "usd_cny": 6.9298,
+      "sge_usd_per_oz": 1196.91,
+      "world_gold_usd": 1184.4,
+      "spread_usd": 12.51,
+      "premium_percent": 1.06
+    },
+    {
+      "date": "2018-10-09",
+      "sge_cny_per_g": 266.53,
+      "usd_cny": 6.9218,
+      "sge_usd_per_oz": 1197.67,
+      "world_gold_usd": 1187.2,
+      "spread_usd": 10.47,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2018-10-10",
+      "sge_cny_per_g": 267.43,
+      "usd_cny": 6.9233,
+      "sge_usd_per_oz": 1201.45,
+      "world_gold_usd": 1189.3,
+      "spread_usd": 12.15,
+      "premium_percent": 1.02
+    },
+    {
+      "date": "2018-10-11",
+      "sge_cny_per_g": 271.59,
+      "usd_cny": 6.8886,
+      "sge_usd_per_oz": 1226.29,
+      "world_gold_usd": 1223.5,
+      "spread_usd": 2.79,
+      "premium_percent": 0.23
+    },
+    {
+      "date": "2018-10-14",
+      "sge_cny_per_g": 273.43,
+      "usd_cny": 6.9212,
+      "sge_usd_per_oz": 1228.78,
+      "world_gold_usd": 1223.5,
+      "spread_usd": 5.28,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2018-10-15",
+      "sge_cny_per_g": 274.14,
+      "usd_cny": 6.9159,
+      "sge_usd_per_oz": 1232.91,
+      "world_gold_usd": 1226.4,
+      "spread_usd": 6.51,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2018-10-16",
+      "sge_cny_per_g": 273.46,
+      "usd_cny": 6.911,
+      "sge_usd_per_oz": 1230.73,
+      "world_gold_usd": 1227.3,
+      "spread_usd": 3.43,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2018-10-17",
+      "sge_cny_per_g": 273.53,
+      "usd_cny": 6.9263,
+      "sge_usd_per_oz": 1228.32,
+      "world_gold_usd": 1223.7,
+      "spread_usd": 4.62,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2018-10-18",
+      "sge_cny_per_g": 275.32,
+      "usd_cny": 6.9367,
+      "sge_usd_per_oz": 1234.51,
+      "world_gold_usd": 1226.5,
+      "spread_usd": 8.01,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2018-10-21",
+      "sge_cny_per_g": 274.74,
+      "usd_cny": 6.9286,
+      "sge_usd_per_oz": 1233.35,
+      "world_gold_usd": 1226.5,
+      "spread_usd": 6.85,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2018-10-22",
+      "sge_cny_per_g": 274.91,
+      "usd_cny": 6.9465,
+      "sge_usd_per_oz": 1230.93,
+      "world_gold_usd": 1221.2,
+      "spread_usd": 9.73,
+      "premium_percent": 0.8
+    },
+    {
+      "date": "2018-10-23",
+      "sge_cny_per_g": 276.18,
+      "usd_cny": 6.9374,
+      "sge_usd_per_oz": 1238.24,
+      "world_gold_usd": 1233.4,
+      "spread_usd": 4.84,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2018-10-24",
+      "sge_cny_per_g": 277.84,
+      "usd_cny": 6.943,
+      "sge_usd_per_oz": 1244.68,
+      "world_gold_usd": 1227.8,
+      "spread_usd": 16.88,
+      "premium_percent": 1.37
+    },
+    {
+      "date": "2018-10-25",
+      "sge_cny_per_g": 277.33,
+      "usd_cny": 6.948,
+      "sge_usd_per_oz": 1241.5,
+      "world_gold_usd": 1229.1,
+      "spread_usd": 12.4,
+      "premium_percent": 1.01
+    },
+    {
+      "date": "2018-10-28",
+      "sge_cny_per_g": 277.23,
+      "usd_cny": 6.948,
+      "sge_usd_per_oz": 1241.05,
+      "world_gold_usd": 1229.1,
+      "spread_usd": 11.95,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2018-10-29",
+      "sge_cny_per_g": 276.23,
+      "usd_cny": 6.9425,
+      "sge_usd_per_oz": 1237.55,
+      "world_gold_usd": 1224.5,
+      "spread_usd": 13.05,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2018-10-30",
+      "sge_cny_per_g": 274.2,
+      "usd_cny": 6.9519,
+      "sge_usd_per_oz": 1226.8,
+      "world_gold_usd": 1222.6,
+      "spread_usd": 4.2,
+      "premium_percent": 0.34
+    },
+    {
+      "date": "2018-10-31",
+      "sge_cny_per_g": 274.25,
+      "usd_cny": 6.9663,
+      "sge_usd_per_oz": 1224.48,
+      "world_gold_usd": 1212.3,
+      "spread_usd": 12.18,
+      "premium_percent": 1.01
+    },
+    {
+      "date": "2018-11-01",
+      "sge_cny_per_g": 274.99,
+      "usd_cny": 6.9747,
+      "sge_usd_per_oz": 1226.31,
+      "world_gold_usd": 1236.0,
+      "spread_usd": -9.69,
+      "premium_percent": -0.78
+    },
+    {
+      "date": "2018-11-04",
+      "sge_cny_per_g": 275.08,
+      "usd_cny": 6.9747,
+      "sge_usd_per_oz": 1226.71,
+      "world_gold_usd": 1236.0,
+      "spread_usd": -9.29,
+      "premium_percent": -0.75
+    },
+    {
+      "date": "2018-11-05",
+      "sge_cny_per_g": 274.92,
+      "usd_cny": 6.8899,
+      "sge_usd_per_oz": 1241.09,
+      "world_gold_usd": 1229.8,
+      "spread_usd": 11.29,
+      "premium_percent": 0.92
+    },
+    {
+      "date": "2018-11-06",
+      "sge_cny_per_g": 275.0,
+      "usd_cny": 6.9248,
+      "sge_usd_per_oz": 1235.19,
+      "world_gold_usd": 1223.8,
+      "spread_usd": 11.39,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2018-11-07",
+      "sge_cny_per_g": 274.25,
+      "usd_cny": 6.9185,
+      "sge_usd_per_oz": 1232.94,
+      "world_gold_usd": 1226.2,
+      "spread_usd": 6.74,
+      "premium_percent": 0.55
+    },
+    {
+      "date": "2018-11-08",
+      "sge_cny_per_g": 273.6,
+      "usd_cny": 6.91,
+      "sge_usd_per_oz": 1231.54,
+      "world_gold_usd": 1222.9,
+      "spread_usd": 8.64,
+      "premium_percent": 0.71
+    },
+    {
+      "date": "2018-11-11",
+      "sge_cny_per_g": 271.42,
+      "usd_cny": 6.91,
+      "sge_usd_per_oz": 1221.72,
+      "world_gold_usd": 1222.9,
+      "spread_usd": -1.18,
+      "premium_percent": -0.1
+    },
+    {
+      "date": "2018-11-12",
+      "sge_cny_per_g": 270.37,
+      "usd_cny": 6.9559,
+      "sge_usd_per_oz": 1208.97,
+      "world_gold_usd": 1201.3,
+      "spread_usd": 7.67,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2018-11-13",
+      "sge_cny_per_g": 270.04,
+      "usd_cny": 6.9625,
+      "sge_usd_per_oz": 1206.35,
+      "world_gold_usd": 1199.2,
+      "spread_usd": 7.15,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2018-11-14",
+      "sge_cny_per_g": 271.83,
+      "usd_cny": 6.9552,
+      "sge_usd_per_oz": 1215.62,
+      "world_gold_usd": 1207.9,
+      "spread_usd": 7.72,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2018-11-15",
+      "sge_cny_per_g": 272.46,
+      "usd_cny": 6.9495,
+      "sge_usd_per_oz": 1219.43,
+      "world_gold_usd": 1212.8,
+      "spread_usd": 6.63,
+      "premium_percent": 0.55
+    },
+    {
+      "date": "2018-11-18",
+      "sge_cny_per_g": 273.23,
+      "usd_cny": 6.9495,
+      "sge_usd_per_oz": 1222.88,
+      "world_gold_usd": 1212.8,
+      "spread_usd": 10.08,
+      "premium_percent": 0.83
+    },
+    {
+      "date": "2018-11-19",
+      "sge_cny_per_g": 274.13,
+      "usd_cny": 6.937,
+      "sge_usd_per_oz": 1229.12,
+      "world_gold_usd": 1223.1,
+      "spread_usd": 6.02,
+      "premium_percent": 0.49
+    },
+    {
+      "date": "2018-11-20",
+      "sge_cny_per_g": 274.12,
+      "usd_cny": 6.941,
+      "sge_usd_per_oz": 1228.37,
+      "world_gold_usd": 1219.0,
+      "spread_usd": 9.37,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2018-11-21",
+      "sge_cny_per_g": 274.78,
+      "usd_cny": 6.9444,
+      "sge_usd_per_oz": 1230.72,
+      "world_gold_usd": 1225.8,
+      "spread_usd": 4.92,
+      "premium_percent": 0.4
+    },
+    {
+      "date": "2018-11-22",
+      "sge_cny_per_g": 275.2,
+      "usd_cny": 6.9262,
+      "sge_usd_per_oz": 1235.84,
+      "world_gold_usd": 1225.8,
+      "spread_usd": 10.04,
+      "premium_percent": 0.82
+    },
+    {
+      "date": "2018-11-25",
+      "sge_cny_per_g": 274.76,
+      "usd_cny": 6.9262,
+      "sge_usd_per_oz": 1233.86,
+      "world_gold_usd": 1225.8,
+      "spread_usd": 8.06,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2018-11-26",
+      "sge_cny_per_g": 274.42,
+      "usd_cny": 6.9475,
+      "sge_usd_per_oz": 1228.56,
+      "world_gold_usd": 1220.2,
+      "spread_usd": 8.36,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2018-11-27",
+      "sge_cny_per_g": 272.75,
+      "usd_cny": 6.9308,
+      "sge_usd_per_oz": 1224.03,
+      "world_gold_usd": 1211.2,
+      "spread_usd": 12.83,
+      "premium_percent": 1.06
+    },
+    {
+      "date": "2018-11-28",
+      "sge_cny_per_g": 275.0,
+      "usd_cny": 6.9506,
+      "sge_usd_per_oz": 1230.61,
+      "world_gold_usd": 1221.4,
+      "spread_usd": 9.21,
+      "premium_percent": 0.75
+    },
+    {
+      "date": "2018-11-29",
+      "sge_cny_per_g": 274.77,
+      "usd_cny": 6.9529,
+      "sge_usd_per_oz": 1229.17,
+      "world_gold_usd": 1224.1,
+      "spread_usd": 5.07,
+      "premium_percent": 0.41
+    },
+    {
+      "date": "2018-12-02",
+      "sge_cny_per_g": 274.07,
+      "usd_cny": 6.9529,
+      "sge_usd_per_oz": 1226.04,
+      "world_gold_usd": 1224.1,
+      "spread_usd": 1.94,
+      "premium_percent": 0.16
+    },
+    {
+      "date": "2018-12-03",
+      "sge_cny_per_g": 274.04,
+      "usd_cny": 6.958,
+      "sge_usd_per_oz": 1225.01,
+      "world_gold_usd": 1233.9,
+      "spread_usd": -8.89,
+      "premium_percent": -0.72
+    },
+    {
+      "date": "2018-12-04",
+      "sge_cny_per_g": 274.23,
+      "usd_cny": 6.8823,
+      "sge_usd_per_oz": 1239.34,
+      "world_gold_usd": 1241.1,
+      "spread_usd": -1.76,
+      "premium_percent": -0.14
+    },
+    {
+      "date": "2018-12-05",
+      "sge_cny_per_g": 275.68,
+      "usd_cny": 6.8363,
+      "sge_usd_per_oz": 1254.28,
+      "world_gold_usd": 1241.1,
+      "spread_usd": 13.18,
+      "premium_percent": 1.06
+    },
+    {
+      "date": "2018-12-06",
+      "sge_cny_per_g": 275.73,
+      "usd_cny": 6.8558,
+      "sge_usd_per_oz": 1250.94,
+      "world_gold_usd": 1238.1,
+      "spread_usd": 12.84,
+      "premium_percent": 1.04
+    },
+    {
+      "date": "2018-12-09",
+      "sge_cny_per_g": 278.27,
+      "usd_cny": 6.8558,
+      "sge_usd_per_oz": 1262.46,
+      "world_gold_usd": 1238.1,
+      "spread_usd": 24.36,
+      "premium_percent": 1.97
+    },
+    {
+      "date": "2018-12-10",
+      "sge_cny_per_g": 278.31,
+      "usd_cny": 6.8747,
+      "sge_usd_per_oz": 1259.17,
+      "world_gold_usd": 1243.7,
+      "spread_usd": 15.47,
+      "premium_percent": 1.24
+    },
+    {
+      "date": "2018-12-11",
+      "sge_cny_per_g": 277.17,
+      "usd_cny": 6.911,
+      "sge_usd_per_oz": 1247.42,
+      "world_gold_usd": 1241.9,
+      "spread_usd": 5.52,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2018-12-12",
+      "sge_cny_per_g": 277.15,
+      "usd_cny": 6.899,
+      "sge_usd_per_oz": 1249.5,
+      "world_gold_usd": 1244.4,
+      "spread_usd": 5.1,
+      "premium_percent": 0.41
+    },
+    {
+      "date": "2018-12-13",
+      "sge_cny_per_g": 277.07,
+      "usd_cny": 6.879,
+      "sge_usd_per_oz": 1252.78,
+      "world_gold_usd": 1242.7,
+      "spread_usd": 10.08,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2018-12-16",
+      "sge_cny_per_g": 276.63,
+      "usd_cny": 6.879,
+      "sge_usd_per_oz": 1250.79,
+      "world_gold_usd": 1242.7,
+      "spread_usd": 8.09,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2018-12-17",
+      "sge_cny_per_g": 278.06,
+      "usd_cny": 6.9066,
+      "sge_usd_per_oz": 1252.23,
+      "world_gold_usd": 1247.4,
+      "spread_usd": 4.83,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2018-12-18",
+      "sge_cny_per_g": 278.63,
+      "usd_cny": 6.8962,
+      "sge_usd_per_oz": 1256.69,
+      "world_gold_usd": 1249.2,
+      "spread_usd": 7.49,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2018-12-19",
+      "sge_cny_per_g": 278.4,
+      "usd_cny": 6.8942,
+      "sge_usd_per_oz": 1256.01,
+      "world_gold_usd": 1252.1,
+      "spread_usd": 3.91,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2018-12-20",
+      "sge_cny_per_g": 280.56,
+      "usd_cny": 6.891,
+      "sge_usd_per_oz": 1266.35,
+      "world_gold_usd": 1263.6,
+      "spread_usd": 2.75,
+      "premium_percent": 0.22
+    },
+    {
+      "date": "2018-12-23",
+      "sge_cny_per_g": 282.02,
+      "usd_cny": 6.891,
+      "sge_usd_per_oz": 1272.94,
+      "world_gold_usd": 1263.6,
+      "spread_usd": 9.34,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2018-12-24",
+      "sge_cny_per_g": 283.66,
+      "usd_cny": 6.9054,
+      "sge_usd_per_oz": 1277.67,
+      "world_gold_usd": 1267.5,
+      "spread_usd": 10.17,
+      "premium_percent": 0.8
+    },
+    {
+      "date": "2018-12-25",
+      "sge_cny_per_g": 283.84,
+      "usd_cny": 6.8981,
+      "sge_usd_per_oz": 1279.83,
+      "world_gold_usd": 1267.5,
+      "spread_usd": 12.33,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2018-12-26",
+      "sge_cny_per_g": 283.22,
+      "usd_cny": 6.8983,
+      "sge_usd_per_oz": 1277.0,
+      "world_gold_usd": 1269.2,
+      "spread_usd": 7.8,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2018-12-27",
+      "sge_cny_per_g": 284.1,
+      "usd_cny": 6.8981,
+      "sge_usd_per_oz": 1281.0,
+      "world_gold_usd": 1277.3,
+      "spread_usd": 3.7,
+      "premium_percent": 0.29
+    },
+    {
+      "date": "2019-01-01",
+      "sge_cny_per_g": 285.82,
+      "usd_cny": 6.8776,
+      "sge_usd_per_oz": 1292.6,
+      "world_gold_usd": 1277.3,
+      "spread_usd": 15.3,
+      "premium_percent": 1.2
+    },
+    {
+      "date": "2019-01-02",
+      "sge_cny_per_g": 287.67,
+      "usd_cny": 6.8775,
+      "sge_usd_per_oz": 1300.99,
+      "world_gold_usd": 1281.0,
+      "spread_usd": 19.99,
+      "premium_percent": 1.56
+    },
+    {
+      "date": "2019-01-03",
+      "sge_cny_per_g": 288.01,
+      "usd_cny": 6.8611,
+      "sge_usd_per_oz": 1305.64,
+      "world_gold_usd": 1291.8,
+      "spread_usd": 13.84,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2019-01-06",
+      "sge_cny_per_g": 286.16,
+      "usd_cny": 6.8611,
+      "sge_usd_per_oz": 1297.25,
+      "world_gold_usd": 1291.8,
+      "spread_usd": 5.45,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2019-01-07",
+      "sge_cny_per_g": 285.03,
+      "usd_cny": 6.8684,
+      "sge_usd_per_oz": 1290.76,
+      "world_gold_usd": 1286.8,
+      "spread_usd": 3.96,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2019-01-08",
+      "sge_cny_per_g": 283.65,
+      "usd_cny": 6.85,
+      "sge_usd_per_oz": 1287.96,
+      "world_gold_usd": 1283.2,
+      "spread_usd": 4.76,
+      "premium_percent": 0.37
+    },
+    {
+      "date": "2019-01-09",
+      "sge_cny_per_g": 284.55,
+      "usd_cny": 6.8522,
+      "sge_usd_per_oz": 1291.63,
+      "world_gold_usd": 1289.3,
+      "spread_usd": 2.33,
+      "premium_percent": 0.18
+    },
+    {
+      "date": "2019-01-10",
+      "sge_cny_per_g": 282.8,
+      "usd_cny": 6.8156,
+      "sge_usd_per_oz": 1290.58,
+      "world_gold_usd": 1284.7,
+      "spread_usd": 5.88,
+      "premium_percent": 0.46
+    },
+    {
+      "date": "2019-01-13",
+      "sge_cny_per_g": 282.77,
+      "usd_cny": 6.8156,
+      "sge_usd_per_oz": 1290.44,
+      "world_gold_usd": 1284.7,
+      "spread_usd": 5.74,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2019-01-14",
+      "sge_cny_per_g": 282.3,
+      "usd_cny": 6.762,
+      "sge_usd_per_oz": 1298.51,
+      "world_gold_usd": 1289.1,
+      "spread_usd": 9.41,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2019-01-15",
+      "sge_cny_per_g": 283.03,
+      "usd_cny": 6.7671,
+      "sge_usd_per_oz": 1300.88,
+      "world_gold_usd": 1286.2,
+      "spread_usd": 14.68,
+      "premium_percent": 1.14
+    },
+    {
+      "date": "2019-01-16",
+      "sge_cny_per_g": 283.08,
+      "usd_cny": 6.751,
+      "sge_usd_per_oz": 1304.22,
+      "world_gold_usd": 1291.6,
+      "spread_usd": 12.62,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2019-01-17",
+      "sge_cny_per_g": 283.56,
+      "usd_cny": 6.756,
+      "sge_usd_per_oz": 1305.46,
+      "world_gold_usd": 1291.0,
+      "spread_usd": 14.46,
+      "premium_percent": 1.12
+    },
+    {
+      "date": "2019-01-20",
+      "sge_cny_per_g": 282.14,
+      "usd_cny": 6.756,
+      "sge_usd_per_oz": 1298.92,
+      "world_gold_usd": 1291.0,
+      "spread_usd": 7.92,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2019-01-21",
+      "sge_cny_per_g": 281.87,
+      "usd_cny": 6.7778,
+      "sge_usd_per_oz": 1293.51,
+      "world_gold_usd": 1291.0,
+      "spread_usd": 2.51,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2019-01-22",
+      "sge_cny_per_g": 282.34,
+      "usd_cny": 6.7973,
+      "sge_usd_per_oz": 1291.95,
+      "world_gold_usd": 1282.5,
+      "spread_usd": 9.45,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2019-01-23",
+      "sge_cny_per_g": 282.28,
+      "usd_cny": 6.807,
+      "sge_usd_per_oz": 1289.83,
+      "world_gold_usd": 1283.1,
+      "spread_usd": 6.73,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2019-01-24",
+      "sge_cny_per_g": 281.8,
+      "usd_cny": 6.791,
+      "sge_usd_per_oz": 1290.67,
+      "world_gold_usd": 1279.1,
+      "spread_usd": 11.57,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2019-01-27",
+      "sge_cny_per_g": 284.35,
+      "usd_cny": 6.791,
+      "sge_usd_per_oz": 1302.35,
+      "world_gold_usd": 1279.1,
+      "spread_usd": 23.25,
+      "premium_percent": 1.82
+    },
+    {
+      "date": "2019-01-28",
+      "sge_cny_per_g": 285.88,
+      "usd_cny": 6.7464,
+      "sge_usd_per_oz": 1318.02,
+      "world_gold_usd": 1302.4,
+      "spread_usd": 15.62,
+      "premium_percent": 1.2
+    },
+    {
+      "date": "2019-01-29",
+      "sge_cny_per_g": 286.6,
+      "usd_cny": 6.7443,
+      "sge_usd_per_oz": 1321.75,
+      "world_gold_usd": 1308.2,
+      "spread_usd": 13.55,
+      "premium_percent": 1.04
+    },
+    {
+      "date": "2019-01-30",
+      "sge_cny_per_g": 286.49,
+      "usd_cny": 6.732,
+      "sge_usd_per_oz": 1323.65,
+      "world_gold_usd": 1309.9,
+      "spread_usd": 13.75,
+      "premium_percent": 1.05
+    },
+    {
+      "date": "2019-01-31",
+      "sge_cny_per_g": 287.47,
+      "usd_cny": 6.7155,
+      "sge_usd_per_oz": 1331.44,
+      "world_gold_usd": 1319.7,
+      "spread_usd": 11.74,
+      "premium_percent": 0.89
+    },
+    {
+      "date": "2019-02-10",
+      "sge_cny_per_g": 287.5,
+      "usd_cny": 6.7155,
+      "sge_usd_per_oz": 1331.58,
+      "world_gold_usd": 1319.7,
+      "spread_usd": 11.88,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2019-02-11",
+      "sge_cny_per_g": 287.49,
+      "usd_cny": 6.7438,
+      "sge_usd_per_oz": 1325.95,
+      "world_gold_usd": 1307.0,
+      "spread_usd": 18.95,
+      "premium_percent": 1.45
+    },
+    {
+      "date": "2019-02-12",
+      "sge_cny_per_g": 287.32,
+      "usd_cny": 6.7914,
+      "sge_usd_per_oz": 1315.88,
+      "world_gold_usd": 1309.2,
+      "spread_usd": 6.68,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2019-02-13",
+      "sge_cny_per_g": 286.74,
+      "usd_cny": 6.773,
+      "sge_usd_per_oz": 1316.79,
+      "world_gold_usd": 1310.8,
+      "spread_usd": 5.99,
+      "premium_percent": 0.46
+    },
+    {
+      "date": "2019-02-14",
+      "sge_cny_per_g": 288.06,
+      "usd_cny": 6.7594,
+      "sge_usd_per_oz": 1325.51,
+      "world_gold_usd": 1309.8,
+      "spread_usd": 15.71,
+      "premium_percent": 1.2
+    },
+    {
+      "date": "2019-02-17",
+      "sge_cny_per_g": 289.9,
+      "usd_cny": 6.7594,
+      "sge_usd_per_oz": 1333.98,
+      "world_gold_usd": 1309.8,
+      "spread_usd": 24.18,
+      "premium_percent": 1.85
+    },
+    {
+      "date": "2019-02-18",
+      "sge_cny_per_g": 290.73,
+      "usd_cny": 6.7721,
+      "sge_usd_per_oz": 1335.29,
+      "world_gold_usd": 1309.8,
+      "spread_usd": 25.49,
+      "premium_percent": 1.95
+    },
+    {
+      "date": "2019-02-19",
+      "sge_cny_per_g": 292.25,
+      "usd_cny": 6.7657,
+      "sge_usd_per_oz": 1343.54,
+      "world_gold_usd": 1340.1,
+      "spread_usd": 3.44,
+      "premium_percent": 0.26
+    },
+    {
+      "date": "2019-02-20",
+      "sge_cny_per_g": 290.74,
+      "usd_cny": 6.7577,
+      "sge_usd_per_oz": 1338.18,
+      "world_gold_usd": 1343.3,
+      "spread_usd": -5.12,
+      "premium_percent": -0.38
+    },
+    {
+      "date": "2019-02-21",
+      "sge_cny_per_g": 289.0,
+      "usd_cny": 6.7203,
+      "sge_usd_per_oz": 1337.57,
+      "world_gold_usd": 1323.5,
+      "spread_usd": 14.07,
+      "premium_percent": 1.06
+    },
+    {
+      "date": "2019-02-24",
+      "sge_cny_per_g": 288.58,
+      "usd_cny": 6.7203,
+      "sge_usd_per_oz": 1335.63,
+      "world_gold_usd": 1323.5,
+      "spread_usd": 12.13,
+      "premium_percent": 0.92
+    },
+    {
+      "date": "2019-02-25",
+      "sge_cny_per_g": 288.4,
+      "usd_cny": 6.7132,
+      "sge_usd_per_oz": 1336.21,
+      "world_gold_usd": 1325.9,
+      "spread_usd": 10.31,
+      "premium_percent": 0.78
+    },
+    {
+      "date": "2019-02-26",
+      "sge_cny_per_g": 287.85,
+      "usd_cny": 6.6884,
+      "sge_usd_per_oz": 1338.61,
+      "world_gold_usd": 1325.1,
+      "spread_usd": 13.51,
+      "premium_percent": 1.02
+    },
+    {
+      "date": "2019-02-27",
+      "sge_cny_per_g": 285.5,
+      "usd_cny": 6.6992,
+      "sge_usd_per_oz": 1325.54,
+      "world_gold_usd": 1317.7,
+      "spread_usd": 7.84,
+      "premium_percent": 0.59
+    },
+    {
+      "date": "2019-02-28",
+      "sge_cny_per_g": 284.73,
+      "usd_cny": 6.6862,
+      "sge_usd_per_oz": 1324.53,
+      "world_gold_usd": 1312.8,
+      "spread_usd": 11.73,
+      "premium_percent": 0.89
+    },
+    {
+      "date": "2019-03-03",
+      "sge_cny_per_g": 280.72,
+      "usd_cny": 6.6862,
+      "sge_usd_per_oz": 1305.88,
+      "world_gold_usd": 1312.8,
+      "spread_usd": -6.92,
+      "premium_percent": -0.53
+    },
+    {
+      "date": "2019-03-04",
+      "sge_cny_per_g": 279.98,
+      "usd_cny": 6.7054,
+      "sge_usd_per_oz": 1298.71,
+      "world_gold_usd": 1284.8,
+      "spread_usd": 13.91,
+      "premium_percent": 1.08
+    },
+    {
+      "date": "2019-03-05",
+      "sge_cny_per_g": 280.62,
+      "usd_cny": 6.7063,
+      "sge_usd_per_oz": 1301.5,
+      "world_gold_usd": 1282.0,
+      "spread_usd": 19.5,
+      "premium_percent": 1.52
+    },
+    {
+      "date": "2019-03-06",
+      "sge_cny_per_g": 280.01,
+      "usd_cny": 6.7066,
+      "sge_usd_per_oz": 1298.61,
+      "world_gold_usd": 1284.9,
+      "spread_usd": 13.71,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2019-03-07",
+      "sge_cny_per_g": 282.19,
+      "usd_cny": 6.7109,
+      "sge_usd_per_oz": 1307.89,
+      "world_gold_usd": 1283.8,
+      "spread_usd": 24.09,
+      "premium_percent": 1.88
+    },
+    {
+      "date": "2019-03-10",
+      "sge_cny_per_g": 283.79,
+      "usd_cny": 6.7109,
+      "sge_usd_per_oz": 1315.3,
+      "world_gold_usd": 1283.8,
+      "spread_usd": 31.5,
+      "premium_percent": 2.45
+    },
+    {
+      "date": "2019-03-11",
+      "sge_cny_per_g": 283.29,
+      "usd_cny": 6.7206,
+      "sge_usd_per_oz": 1311.09,
+      "world_gold_usd": 1288.8,
+      "spread_usd": 22.29,
+      "premium_percent": 1.73
+    },
+    {
+      "date": "2019-03-12",
+      "sge_cny_per_g": 284.61,
+      "usd_cny": 6.7255,
+      "sge_usd_per_oz": 1316.24,
+      "world_gold_usd": 1296.3,
+      "spread_usd": 19.94,
+      "premium_percent": 1.54
+    },
+    {
+      "date": "2019-03-13",
+      "sge_cny_per_g": 284.56,
+      "usd_cny": 6.7076,
+      "sge_usd_per_oz": 1319.52,
+      "world_gold_usd": 1307.5,
+      "spread_usd": 12.02,
+      "premium_percent": 0.92
+    },
+    {
+      "date": "2019-03-14",
+      "sge_cny_per_g": 284.22,
+      "usd_cny": 6.7061,
+      "sge_usd_per_oz": 1318.24,
+      "world_gold_usd": 1293.4,
+      "spread_usd": 24.84,
+      "premium_percent": 1.92
+    },
+    {
+      "date": "2019-03-17",
+      "sge_cny_per_g": 283.51,
+      "usd_cny": 6.7061,
+      "sge_usd_per_oz": 1314.94,
+      "world_gold_usd": 1293.4,
+      "spread_usd": 21.54,
+      "premium_percent": 1.67
+    },
+    {
+      "date": "2019-03-18",
+      "sge_cny_per_g": 285.13,
+      "usd_cny": 6.7128,
+      "sge_usd_per_oz": 1321.14,
+      "world_gold_usd": 1300.3,
+      "spread_usd": 20.84,
+      "premium_percent": 1.6
+    },
+    {
+      "date": "2019-03-19",
+      "sge_cny_per_g": 285.02,
+      "usd_cny": 6.7031,
+      "sge_usd_per_oz": 1322.54,
+      "world_gold_usd": 1305.0,
+      "spread_usd": 17.54,
+      "premium_percent": 1.34
+    },
+    {
+      "date": "2019-03-20",
+      "sge_cny_per_g": 286.32,
+      "usd_cny": 6.711,
+      "sge_usd_per_oz": 1327.01,
+      "world_gold_usd": 1300.5,
+      "spread_usd": 26.51,
+      "premium_percent": 2.04
+    },
+    {
+      "date": "2019-03-21",
+      "sge_cny_per_g": 285.9,
+      "usd_cny": 6.6936,
+      "sge_usd_per_oz": 1328.51,
+      "world_gold_usd": 1306.1,
+      "spread_usd": 22.41,
+      "premium_percent": 1.72
+    },
+    {
+      "date": "2019-03-24",
+      "sge_cny_per_g": 287.01,
+      "usd_cny": 6.6936,
+      "sge_usd_per_oz": 1333.66,
+      "world_gold_usd": 1306.1,
+      "spread_usd": 27.56,
+      "premium_percent": 2.11
+    },
+    {
+      "date": "2019-03-25",
+      "sge_cny_per_g": 287.61,
+      "usd_cny": 6.7171,
+      "sge_usd_per_oz": 1331.78,
+      "world_gold_usd": 1321.9,
+      "spread_usd": 9.88,
+      "premium_percent": 0.75
+    },
+    {
+      "date": "2019-03-26",
+      "sge_cny_per_g": 287.27,
+      "usd_cny": 6.7084,
+      "sge_usd_per_oz": 1331.93,
+      "world_gold_usd": 1314.3,
+      "spread_usd": 17.63,
+      "premium_percent": 1.34
+    },
+    {
+      "date": "2019-03-27",
+      "sge_cny_per_g": 287.08,
+      "usd_cny": 6.7147,
+      "sge_usd_per_oz": 1329.8,
+      "world_gold_usd": 1309.9,
+      "spread_usd": 19.9,
+      "premium_percent": 1.52
+    },
+    {
+      "date": "2019-03-28",
+      "sge_cny_per_g": 282.18,
+      "usd_cny": 6.7262,
+      "sge_usd_per_oz": 1304.86,
+      "world_gold_usd": 1289.8,
+      "spread_usd": 15.06,
+      "premium_percent": 1.17
+    },
+    {
+      "date": "2019-03-31",
+      "sge_cny_per_g": 281.75,
+      "usd_cny": 6.7111,
+      "sge_usd_per_oz": 1305.81,
+      "world_gold_usd": 1289.8,
+      "spread_usd": 16.01,
+      "premium_percent": 1.24
+    },
+    {
+      "date": "2019-04-01",
+      "sge_cny_per_g": 281.84,
+      "usd_cny": 6.7105,
+      "sge_usd_per_oz": 1306.34,
+      "world_gold_usd": 1288.4,
+      "spread_usd": 17.94,
+      "premium_percent": 1.39
+    },
+    {
+      "date": "2019-04-02",
+      "sge_cny_per_g": 282.28,
+      "usd_cny": 6.7224,
+      "sge_usd_per_oz": 1306.06,
+      "world_gold_usd": 1290.0,
+      "spread_usd": 16.06,
+      "premium_percent": 1.25
+    },
+    {
+      "date": "2019-04-03",
+      "sge_cny_per_g": 282.26,
+      "usd_cny": 6.7014,
+      "sge_usd_per_oz": 1310.06,
+      "world_gold_usd": 1289.9,
+      "spread_usd": 20.16,
+      "premium_percent": 1.56
+    },
+    {
+      "date": "2019-04-07",
+      "sge_cny_per_g": 283.56,
+      "usd_cny": 6.7169,
+      "sge_usd_per_oz": 1313.06,
+      "world_gold_usd": 1289.9,
+      "spread_usd": 23.16,
+      "premium_percent": 1.8
+    },
+    {
+      "date": "2019-04-08",
+      "sge_cny_per_g": 283.79,
+      "usd_cny": 6.7154,
+      "sge_usd_per_oz": 1314.42,
+      "world_gold_usd": 1297.1,
+      "spread_usd": 17.32,
+      "premium_percent": 1.34
+    },
+    {
+      "date": "2019-04-09",
+      "sge_cny_per_g": 284.79,
+      "usd_cny": 6.7108,
+      "sge_usd_per_oz": 1319.96,
+      "world_gold_usd": 1303.5,
+      "spread_usd": 16.46,
+      "premium_percent": 1.26
+    },
+    {
+      "date": "2019-04-10",
+      "sge_cny_per_g": 285.72,
+      "usd_cny": 6.7154,
+      "sge_usd_per_oz": 1323.36,
+      "world_gold_usd": 1309.1,
+      "spread_usd": 14.26,
+      "premium_percent": 1.09
+    },
+    {
+      "date": "2019-04-11",
+      "sge_cny_per_g": 283.19,
+      "usd_cny": 6.7185,
+      "sge_usd_per_oz": 1311.04,
+      "world_gold_usd": 1288.6,
+      "spread_usd": 22.44,
+      "premium_percent": 1.74
+    },
+    {
+      "date": "2019-04-14",
+      "sge_cny_per_g": 281.68,
+      "usd_cny": 6.7032,
+      "sge_usd_per_oz": 1307.02,
+      "world_gold_usd": 1288.6,
+      "spread_usd": 18.42,
+      "premium_percent": 1.43
+    },
+    {
+      "date": "2019-04-15",
+      "sge_cny_per_g": 280.91,
+      "usd_cny": 6.7077,
+      "sge_usd_per_oz": 1302.57,
+      "world_gold_usd": 1286.8,
+      "spread_usd": 15.77,
+      "premium_percent": 1.23
+    },
+    {
+      "date": "2019-04-16",
+      "sge_cny_per_g": 279.64,
+      "usd_cny": 6.7112,
+      "sge_usd_per_oz": 1296.01,
+      "world_gold_usd": 1272.6,
+      "spread_usd": 23.41,
+      "premium_percent": 1.84
+    },
+    {
+      "date": "2019-04-17",
+      "sge_cny_per_g": 277.83,
+      "usd_cny": 6.6872,
+      "sge_usd_per_oz": 1292.24,
+      "world_gold_usd": 1272.2,
+      "spread_usd": 20.04,
+      "premium_percent": 1.58
+    },
+    {
+      "date": "2019-04-18",
+      "sge_cny_per_g": 279.44,
+      "usd_cny": 6.7081,
+      "sge_usd_per_oz": 1295.68,
+      "world_gold_usd": 1271.9,
+      "spread_usd": 23.78,
+      "premium_percent": 1.87
+    },
+    {
+      "date": "2019-04-21",
+      "sge_cny_per_g": 280.21,
+      "usd_cny": 6.7034,
+      "sge_usd_per_oz": 1300.16,
+      "world_gold_usd": 1271.9,
+      "spread_usd": 28.26,
+      "premium_percent": 2.22
+    },
+    {
+      "date": "2019-04-22",
+      "sge_cny_per_g": 278.74,
+      "usd_cny": 6.7085,
+      "sge_usd_per_oz": 1292.36,
+      "world_gold_usd": 1273.5,
+      "spread_usd": 18.86,
+      "premium_percent": 1.48
+    },
+    {
+      "date": "2019-04-23",
+      "sge_cny_per_g": 278.31,
+      "usd_cny": 6.7249,
+      "sge_usd_per_oz": 1287.22,
+      "world_gold_usd": 1269.3,
+      "spread_usd": 17.92,
+      "premium_percent": 1.41
+    },
+    {
+      "date": "2019-04-24",
+      "sge_cny_per_g": 279.76,
+      "usd_cny": 6.7209,
+      "sge_usd_per_oz": 1294.69,
+      "world_gold_usd": 1275.5,
+      "spread_usd": 19.19,
+      "premium_percent": 1.5
+    },
+    {
+      "date": "2019-04-25",
+      "sge_cny_per_g": 280.5,
+      "usd_cny": 6.7421,
+      "sge_usd_per_oz": 1294.04,
+      "world_gold_usd": 1275.8,
+      "spread_usd": 18.24,
+      "premium_percent": 1.43
+    },
+    {
+      "date": "2019-04-28",
+      "sge_cny_per_g": 280.88,
+      "usd_cny": 6.7288,
+      "sge_usd_per_oz": 1298.35,
+      "world_gold_usd": 1275.8,
+      "spread_usd": 22.55,
+      "premium_percent": 1.77
+    },
+    {
+      "date": "2019-04-29",
+      "sge_cny_per_g": 280.69,
+      "usd_cny": 6.7324,
+      "sge_usd_per_oz": 1296.78,
+      "world_gold_usd": 1278.6,
+      "spread_usd": 18.18,
+      "premium_percent": 1.42
+    },
+    {
+      "date": "2019-05-05",
+      "sge_cny_per_g": 282.05,
+      "usd_cny": 6.7336,
+      "sge_usd_per_oz": 1302.83,
+      "world_gold_usd": 1278.6,
+      "spread_usd": 24.23,
+      "premium_percent": 1.9
+    },
+    {
+      "date": "2019-05-06",
+      "sge_cny_per_g": 282.25,
+      "usd_cny": 6.7636,
+      "sge_usd_per_oz": 1297.97,
+      "world_gold_usd": 1281.7,
+      "spread_usd": 16.27,
+      "premium_percent": 1.27
+    },
+    {
+      "date": "2019-05-07",
+      "sge_cny_per_g": 282.94,
+      "usd_cny": 6.776,
+      "sge_usd_per_oz": 1298.76,
+      "world_gold_usd": 1283.5,
+      "spread_usd": 15.26,
+      "premium_percent": 1.19
+    },
+    {
+      "date": "2019-05-08",
+      "sge_cny_per_g": 283.09,
+      "usd_cny": 6.782,
+      "sge_usd_per_oz": 1298.3,
+      "world_gold_usd": 1279.4,
+      "spread_usd": 18.9,
+      "premium_percent": 1.48
+    },
+    {
+      "date": "2019-05-09",
+      "sge_cny_per_g": 283.76,
+      "usd_cny": 6.8265,
+      "sge_usd_per_oz": 1292.89,
+      "world_gold_usd": 1283.5,
+      "spread_usd": 9.39,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2019-05-12",
+      "sge_cny_per_g": 285.04,
+      "usd_cny": 6.8231,
+      "sge_usd_per_oz": 1299.37,
+      "world_gold_usd": 1283.5,
+      "spread_usd": 15.87,
+      "premium_percent": 1.24
+    },
+    {
+      "date": "2019-05-13",
+      "sge_cny_per_g": 288.97,
+      "usd_cny": 6.8773,
+      "sge_usd_per_oz": 1306.9,
+      "world_gold_usd": 1300.1,
+      "spread_usd": 6.8,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2019-05-14",
+      "sge_cny_per_g": 287.99,
+      "usd_cny": 6.8749,
+      "sge_usd_per_oz": 1302.93,
+      "world_gold_usd": 1294.7,
+      "spread_usd": 8.23,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2019-05-15",
+      "sge_cny_per_g": 288.79,
+      "usd_cny": 6.8752,
+      "sge_usd_per_oz": 1306.49,
+      "world_gold_usd": 1296.3,
+      "spread_usd": 10.19,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2019-05-16",
+      "sge_cny_per_g": 288.1,
+      "usd_cny": 6.8828,
+      "sge_usd_per_oz": 1301.93,
+      "world_gold_usd": 1285.0,
+      "spread_usd": 16.93,
+      "premium_percent": 1.32
+    },
+    {
+      "date": "2019-05-19",
+      "sge_cny_per_g": 286.47,
+      "usd_cny": 6.9177,
+      "sge_usd_per_oz": 1288.03,
+      "world_gold_usd": 1285.0,
+      "spread_usd": 3.03,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2019-05-20",
+      "sge_cny_per_g": 286.4,
+      "usd_cny": 6.9113,
+      "sge_usd_per_oz": 1288.91,
+      "world_gold_usd": 1276.1,
+      "spread_usd": 12.81,
+      "premium_percent": 1.0
+    },
+    {
+      "date": "2019-05-21",
+      "sge_cny_per_g": 286.23,
+      "usd_cny": 6.9113,
+      "sge_usd_per_oz": 1288.14,
+      "world_gold_usd": 1272.0,
+      "spread_usd": 16.14,
+      "premium_percent": 1.27
+    },
+    {
+      "date": "2019-05-22",
+      "sge_cny_per_g": 286.65,
+      "usd_cny": 6.9054,
+      "sge_usd_per_oz": 1291.14,
+      "world_gold_usd": 1273.6,
+      "spread_usd": 17.54,
+      "premium_percent": 1.38
+    },
+    {
+      "date": "2019-05-23",
+      "sge_cny_per_g": 288.46,
+      "usd_cny": 6.9095,
+      "sge_usd_per_oz": 1298.52,
+      "world_gold_usd": 1284.8,
+      "spread_usd": 13.72,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2019-05-26",
+      "sge_cny_per_g": 288.33,
+      "usd_cny": 6.8993,
+      "sge_usd_per_oz": 1299.85,
+      "world_gold_usd": 1284.8,
+      "spread_usd": 15.05,
+      "premium_percent": 1.17
+    },
+    {
+      "date": "2019-05-27",
+      "sge_cny_per_g": 288.11,
+      "usd_cny": 6.8972,
+      "sge_usd_per_oz": 1299.26,
+      "world_gold_usd": 1284.8,
+      "spread_usd": 14.46,
+      "premium_percent": 1.13
+    },
+    {
+      "date": "2019-05-28",
+      "sge_cny_per_g": 288.05,
+      "usd_cny": 6.9091,
+      "sge_usd_per_oz": 1296.75,
+      "world_gold_usd": 1276.5,
+      "spread_usd": 20.25,
+      "premium_percent": 1.59
+    },
+    {
+      "date": "2019-05-29",
+      "sge_cny_per_g": 287.33,
+      "usd_cny": 6.9134,
+      "sge_usd_per_oz": 1292.7,
+      "world_gold_usd": 1280.6,
+      "spread_usd": 12.1,
+      "premium_percent": 0.94
+    },
+    {
+      "date": "2019-05-30",
+      "sge_cny_per_g": 290.2,
+      "usd_cny": 6.9009,
+      "sge_usd_per_oz": 1307.98,
+      "world_gold_usd": 1287.1,
+      "spread_usd": 20.88,
+      "premium_percent": 1.62
+    },
+    {
+      "date": "2019-06-02",
+      "sge_cny_per_g": 294.11,
+      "usd_cny": 6.9041,
+      "sge_usd_per_oz": 1324.99,
+      "world_gold_usd": 1287.1,
+      "spread_usd": 37.89,
+      "premium_percent": 2.94
+    },
+    {
+      "date": "2019-06-03",
+      "sge_cny_per_g": 296.93,
+      "usd_cny": 6.9028,
+      "sge_usd_per_oz": 1337.94,
+      "world_gold_usd": 1322.7,
+      "spread_usd": 15.24,
+      "premium_percent": 1.15
+    },
+    {
+      "date": "2019-06-04",
+      "sge_cny_per_g": 298.36,
+      "usd_cny": 6.9073,
+      "sge_usd_per_oz": 1343.51,
+      "world_gold_usd": 1323.4,
+      "spread_usd": 20.11,
+      "premium_percent": 1.52
+    },
+    {
+      "date": "2019-06-05",
+      "sge_cny_per_g": 298.89,
+      "usd_cny": 6.9081,
+      "sge_usd_per_oz": 1345.74,
+      "world_gold_usd": 1328.3,
+      "spread_usd": 17.44,
+      "premium_percent": 1.31
+    },
+    {
+      "date": "2019-06-09",
+      "sge_cny_per_g": 298.54,
+      "usd_cny": 6.9088,
+      "sge_usd_per_oz": 1344.03,
+      "world_gold_usd": 1328.3,
+      "spread_usd": 15.73,
+      "premium_percent": 1.18
+    },
+    {
+      "date": "2019-06-10",
+      "sge_cny_per_g": 297.95,
+      "usd_cny": 6.9301,
+      "sge_usd_per_oz": 1337.25,
+      "world_gold_usd": 1324.7,
+      "spread_usd": 12.55,
+      "premium_percent": 0.95
+    },
+    {
+      "date": "2019-06-11",
+      "sge_cny_per_g": 300.47,
+      "usd_cny": 6.9104,
+      "sge_usd_per_oz": 1352.41,
+      "world_gold_usd": 1326.4,
+      "spread_usd": 26.01,
+      "premium_percent": 1.96
+    },
+    {
+      "date": "2019-06-12",
+      "sge_cny_per_g": 300.26,
+      "usd_cny": 6.9169,
+      "sge_usd_per_oz": 1350.19,
+      "world_gold_usd": 1331.9,
+      "spread_usd": 18.29,
+      "premium_percent": 1.37
+    },
+    {
+      "date": "2019-06-13",
+      "sge_cny_per_g": 303.01,
+      "usd_cny": 6.9208,
+      "sge_usd_per_oz": 1361.79,
+      "world_gold_usd": 1339.2,
+      "spread_usd": 22.59,
+      "premium_percent": 1.69
+    },
+    {
+      "date": "2019-06-16",
+      "sge_cny_per_g": 302.03,
+      "usd_cny": 6.9245,
+      "sge_usd_per_oz": 1356.66,
+      "world_gold_usd": 1339.2,
+      "spread_usd": 17.46,
+      "premium_percent": 1.3
+    },
+    {
+      "date": "2019-06-17",
+      "sge_cny_per_g": 303.64,
+      "usd_cny": 6.9249,
+      "sge_usd_per_oz": 1363.81,
+      "world_gold_usd": 1338.7,
+      "spread_usd": 25.11,
+      "premium_percent": 1.88
+    },
+    {
+      "date": "2019-06-18",
+      "sge_cny_per_g": 301.86,
+      "usd_cny": 6.9023,
+      "sge_usd_per_oz": 1360.26,
+      "world_gold_usd": 1346.6,
+      "spread_usd": 13.66,
+      "premium_percent": 1.01
+    },
+    {
+      "date": "2019-06-19",
+      "sge_cny_per_g": 309.12,
+      "usd_cny": 6.9027,
+      "sge_usd_per_oz": 1392.89,
+      "world_gold_usd": 1344.6,
+      "spread_usd": 48.29,
+      "premium_percent": 3.59
+    },
+    {
+      "date": "2019-06-20",
+      "sge_cny_per_g": 312.02,
+      "usd_cny": 6.851,
+      "sge_usd_per_oz": 1416.57,
+      "world_gold_usd": 1392.9,
+      "spread_usd": 23.67,
+      "premium_percent": 1.7
+    },
+    {
+      "date": "2019-06-23",
+      "sge_cny_per_g": 313.95,
+      "usd_cny": 6.8689,
+      "sge_usd_per_oz": 1421.62,
+      "world_gold_usd": 1392.9,
+      "spread_usd": 28.72,
+      "premium_percent": 2.06
+    },
+    {
+      "date": "2019-06-24",
+      "sge_cny_per_g": 319.2,
+      "usd_cny": 6.8761,
+      "sge_usd_per_oz": 1443.88,
+      "world_gold_usd": 1414.3,
+      "spread_usd": 29.58,
+      "premium_percent": 2.09
+    },
+    {
+      "date": "2019-06-25",
+      "sge_cny_per_g": 315.1,
+      "usd_cny": 6.8788,
+      "sge_usd_per_oz": 1424.77,
+      "world_gold_usd": 1414.9,
+      "spread_usd": 9.87,
+      "premium_percent": 0.7
+    },
+    {
+      "date": "2019-06-26",
+      "sge_cny_per_g": 314.63,
+      "usd_cny": 6.8791,
+      "sge_usd_per_oz": 1422.58,
+      "world_gold_usd": 1411.6,
+      "spread_usd": 10.98,
+      "premium_percent": 0.78
+    },
+    {
+      "date": "2019-06-27",
+      "sge_cny_per_g": 315.5,
+      "usd_cny": 6.8671,
+      "sge_usd_per_oz": 1429.01,
+      "world_gold_usd": 1408.4,
+      "spread_usd": 20.61,
+      "premium_percent": 1.46
+    },
+    {
+      "date": "2019-06-30",
+      "sge_cny_per_g": 307.66,
+      "usd_cny": 6.8658,
+      "sge_usd_per_oz": 1393.76,
+      "world_gold_usd": 1408.4,
+      "spread_usd": -14.64,
+      "premium_percent": -1.04
+    },
+    {
+      "date": "2019-07-01",
+      "sge_cny_per_g": 309.62,
+      "usd_cny": 6.8508,
+      "sge_usd_per_oz": 1405.71,
+      "world_gold_usd": 1385.6,
+      "spread_usd": 20.11,
+      "premium_percent": 1.45
+    },
+    {
+      "date": "2019-07-02",
+      "sge_cny_per_g": 318.32,
+      "usd_cny": 6.872,
+      "sge_usd_per_oz": 1440.75,
+      "world_gold_usd": 1404.6,
+      "spread_usd": 36.15,
+      "premium_percent": 2.57
+    },
+    {
+      "date": "2019-07-03",
+      "sge_cny_per_g": 315.13,
+      "usd_cny": 6.8802,
+      "sge_usd_per_oz": 1424.62,
+      "world_gold_usd": 1417.7,
+      "spread_usd": 6.92,
+      "premium_percent": 0.49
+    },
+    {
+      "date": "2019-07-04",
+      "sge_cny_per_g": 315.51,
+      "usd_cny": 6.8706,
+      "sge_usd_per_oz": 1428.33,
+      "world_gold_usd": 1417.7,
+      "spread_usd": 10.63,
+      "premium_percent": 0.75
+    },
+    {
+      "date": "2019-07-07",
+      "sge_cny_per_g": 313.62,
+      "usd_cny": 6.8926,
+      "sge_usd_per_oz": 1415.24,
+      "world_gold_usd": 1417.7,
+      "spread_usd": -2.46,
+      "premium_percent": -0.17
+    },
+    {
+      "date": "2019-07-08",
+      "sge_cny_per_g": 311.28,
+      "usd_cny": 6.8809,
+      "sge_usd_per_oz": 1407.07,
+      "world_gold_usd": 1397.0,
+      "spread_usd": 10.07,
+      "premium_percent": 0.72
+    },
+    {
+      "date": "2019-07-09",
+      "sge_cny_per_g": 310.86,
+      "usd_cny": 6.8883,
+      "sge_usd_per_oz": 1403.66,
+      "world_gold_usd": 1397.5,
+      "spread_usd": 6.16,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2019-07-10",
+      "sge_cny_per_g": 316.46,
+      "usd_cny": 6.8722,
+      "sge_usd_per_oz": 1432.29,
+      "world_gold_usd": 1410.1,
+      "spread_usd": 22.19,
+      "premium_percent": 1.57
+    },
+    {
+      "date": "2019-07-11",
+      "sge_cny_per_g": 313.7,
+      "usd_cny": 6.8692,
+      "sge_usd_per_oz": 1420.42,
+      "world_gold_usd": 1404.3,
+      "spread_usd": 16.12,
+      "premium_percent": 1.15
+    },
+    {
+      "date": "2019-07-14",
+      "sge_cny_per_g": 315.09,
+      "usd_cny": 6.8798,
+      "sge_usd_per_oz": 1424.52,
+      "world_gold_usd": 1404.3,
+      "spread_usd": 20.22,
+      "premium_percent": 1.44
+    },
+    {
+      "date": "2019-07-15",
+      "sge_cny_per_g": 315.12,
+      "usd_cny": 6.8769,
+      "sge_usd_per_oz": 1425.25,
+      "world_gold_usd": 1411.4,
+      "spread_usd": 13.85,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2019-07-16",
+      "sge_cny_per_g": 313.65,
+      "usd_cny": 6.8753,
+      "sge_usd_per_oz": 1418.94,
+      "world_gold_usd": 1409.2,
+      "spread_usd": 9.74,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2019-07-17",
+      "sge_cny_per_g": 317.05,
+      "usd_cny": 6.8728,
+      "sge_usd_per_oz": 1434.84,
+      "world_gold_usd": 1421.3,
+      "spread_usd": 13.54,
+      "premium_percent": 0.95
+    },
+    {
+      "date": "2019-07-18",
+      "sge_cny_per_g": 321.23,
+      "usd_cny": 6.8791,
+      "sge_usd_per_oz": 1452.42,
+      "world_gold_usd": 1426.1,
+      "spread_usd": 26.32,
+      "premium_percent": 1.85
+    },
+    {
+      "date": "2019-07-21",
+      "sge_cny_per_g": 318.44,
+      "usd_cny": 6.8811,
+      "sge_usd_per_oz": 1439.39,
+      "world_gold_usd": 1426.1,
+      "spread_usd": 13.29,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2019-07-22",
+      "sge_cny_per_g": 316.1,
+      "usd_cny": 6.8801,
+      "sge_usd_per_oz": 1429.02,
+      "world_gold_usd": 1425.3,
+      "spread_usd": 3.72,
+      "premium_percent": 0.26
+    },
+    {
+      "date": "2019-07-23",
+      "sge_cny_per_g": 317.27,
+      "usd_cny": 6.8783,
+      "sge_usd_per_oz": 1434.69,
+      "world_gold_usd": 1420.1,
+      "spread_usd": 14.59,
+      "premium_percent": 1.03
+    },
+    {
+      "date": "2019-07-24",
+      "sge_cny_per_g": 317.55,
+      "usd_cny": 6.8715,
+      "sge_usd_per_oz": 1437.37,
+      "world_gold_usd": 1422.8,
+      "spread_usd": 14.57,
+      "premium_percent": 1.02
+    },
+    {
+      "date": "2019-07-25",
+      "sge_cny_per_g": 315.72,
+      "usd_cny": 6.8716,
+      "sge_usd_per_oz": 1429.07,
+      "world_gold_usd": 1413.9,
+      "spread_usd": 15.17,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2019-07-28",
+      "sge_cny_per_g": 317.19,
+      "usd_cny": 6.8782,
+      "sge_usd_per_oz": 1434.34,
+      "world_gold_usd": 1413.9,
+      "spread_usd": 20.44,
+      "premium_percent": 1.45
+    },
+    {
+      "date": "2019-07-29",
+      "sge_cny_per_g": 318.23,
+      "usd_cny": 6.8924,
+      "sge_usd_per_oz": 1436.08,
+      "world_gold_usd": 1419.6,
+      "spread_usd": 16.48,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2019-07-30",
+      "sge_cny_per_g": 319.58,
+      "usd_cny": 6.8836,
+      "sge_usd_per_oz": 1444.02,
+      "world_gold_usd": 1429.7,
+      "spread_usd": 14.32,
+      "premium_percent": 1.0
+    },
+    {
+      "date": "2019-07-31",
+      "sge_cny_per_g": 315.21,
+      "usd_cny": 6.8834,
+      "sge_usd_per_oz": 1424.31,
+      "world_gold_usd": 1426.1,
+      "spread_usd": -1.79,
+      "premium_percent": -0.13
+    },
+    {
+      "date": "2019-08-01",
+      "sge_cny_per_g": 322.07,
+      "usd_cny": 6.8978,
+      "sge_usd_per_oz": 1452.27,
+      "world_gold_usd": 1420.9,
+      "spread_usd": 31.37,
+      "premium_percent": 2.21
+    },
+    {
+      "date": "2019-08-04",
+      "sge_cny_per_g": 332.54,
+      "usd_cny": 6.9392,
+      "sge_usd_per_oz": 1490.54,
+      "world_gold_usd": 1420.9,
+      "spread_usd": 69.64,
+      "premium_percent": 4.9
+    },
+    {
+      "date": "2019-08-05",
+      "sge_cny_per_g": 334.2,
+      "usd_cny": 7.0497,
+      "sge_usd_per_oz": 1474.5,
+      "world_gold_usd": 1464.6,
+      "spread_usd": 9.9,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2019-08-06",
+      "sge_cny_per_g": 339.49,
+      "usd_cny": 7.0256,
+      "sge_usd_per_oz": 1502.98,
+      "world_gold_usd": 1472.4,
+      "spread_usd": 30.58,
+      "premium_percent": 2.08
+    },
+    {
+      "date": "2019-08-07",
+      "sge_cny_per_g": 343.57,
+      "usd_cny": 7.0591,
+      "sge_usd_per_oz": 1513.82,
+      "world_gold_usd": 1507.3,
+      "spread_usd": 6.52,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2019-08-08",
+      "sge_cny_per_g": 344.06,
+      "usd_cny": 7.0443,
+      "sge_usd_per_oz": 1519.17,
+      "world_gold_usd": 1497.7,
+      "spread_usd": 21.47,
+      "premium_percent": 1.43
+    },
+    {
+      "date": "2019-08-11",
+      "sge_cny_per_g": 342.86,
+      "usd_cny": 7.0615,
+      "sge_usd_per_oz": 1510.18,
+      "world_gold_usd": 1497.7,
+      "spread_usd": 12.48,
+      "premium_percent": 0.83
+    },
+    {
+      "date": "2019-08-12",
+      "sge_cny_per_g": 348.98,
+      "usd_cny": 7.0572,
+      "sge_usd_per_oz": 1538.07,
+      "world_gold_usd": 1505.3,
+      "spread_usd": 32.77,
+      "premium_percent": 2.18
+    },
+    {
+      "date": "2019-08-13",
+      "sge_cny_per_g": 342.18,
+      "usd_cny": 7.0335,
+      "sge_usd_per_oz": 1513.19,
+      "world_gold_usd": 1502.2,
+      "spread_usd": 10.99,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2019-08-14",
+      "sge_cny_per_g": 345.43,
+      "usd_cny": 7.0235,
+      "sge_usd_per_oz": 1529.73,
+      "world_gold_usd": 1515.9,
+      "spread_usd": 13.83,
+      "premium_percent": 0.91
+    },
+    {
+      "date": "2019-08-15",
+      "sge_cny_per_g": 346.1,
+      "usd_cny": 7.024,
+      "sge_usd_per_oz": 1532.59,
+      "world_gold_usd": 1519.6,
+      "spread_usd": 12.99,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2019-08-18",
+      "sge_cny_per_g": 344.18,
+      "usd_cny": 7.0419,
+      "sge_usd_per_oz": 1520.21,
+      "world_gold_usd": 1519.6,
+      "spread_usd": 0.61,
+      "premium_percent": 0.04
+    },
+    {
+      "date": "2019-08-19",
+      "sge_cny_per_g": 342.8,
+      "usd_cny": 7.0498,
+      "sge_usd_per_oz": 1512.42,
+      "world_gold_usd": 1500.4,
+      "spread_usd": 12.02,
+      "premium_percent": 0.8
+    },
+    {
+      "date": "2019-08-20",
+      "sge_cny_per_g": 343.71,
+      "usd_cny": 7.0596,
+      "sge_usd_per_oz": 1514.33,
+      "world_gold_usd": 1504.6,
+      "spread_usd": 9.73,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2019-08-21",
+      "sge_cny_per_g": 344.13,
+      "usd_cny": 7.0624,
+      "sge_usd_per_oz": 1515.58,
+      "world_gold_usd": 1504.6,
+      "spread_usd": 10.98,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2019-08-22",
+      "sge_cny_per_g": 343.28,
+      "usd_cny": 7.0827,
+      "sge_usd_per_oz": 1507.5,
+      "world_gold_usd": 1497.3,
+      "spread_usd": 10.2,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2019-08-25",
+      "sge_cny_per_g": 356.7,
+      "usd_cny": 7.095,
+      "sge_usd_per_oz": 1563.72,
+      "world_gold_usd": 1497.3,
+      "spread_usd": 66.42,
+      "premium_percent": 4.44
+    },
+    {
+      "date": "2019-08-26",
+      "sge_cny_per_g": 355.71,
+      "usd_cny": 7.1503,
+      "sge_usd_per_oz": 1547.32,
+      "world_gold_usd": 1526.3,
+      "spread_usd": 21.02,
+      "premium_percent": 1.38
+    },
+    {
+      "date": "2019-08-27",
+      "sge_cny_per_g": 357.19,
+      "usd_cny": 7.1614,
+      "sge_usd_per_oz": 1551.35,
+      "world_gold_usd": 1541.0,
+      "spread_usd": 10.35,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2019-08-28",
+      "sge_cny_per_g": 358.66,
+      "usd_cny": 7.1553,
+      "sge_usd_per_oz": 1559.06,
+      "world_gold_usd": 1537.8,
+      "spread_usd": 21.26,
+      "premium_percent": 1.38
+    },
+    {
+      "date": "2019-08-29",
+      "sge_cny_per_g": 354.9,
+      "usd_cny": 7.1436,
+      "sge_usd_per_oz": 1545.25,
+      "world_gold_usd": 1526.5,
+      "spread_usd": 18.75,
+      "premium_percent": 1.23
+    },
+    {
+      "date": "2019-09-01",
+      "sge_cny_per_g": 353.31,
+      "usd_cny": 7.1557,
+      "sge_usd_per_oz": 1535.72,
+      "world_gold_usd": 1526.5,
+      "spread_usd": 9.22,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2019-09-02",
+      "sge_cny_per_g": 354.78,
+      "usd_cny": 7.171,
+      "sge_usd_per_oz": 1538.82,
+      "world_gold_usd": 1526.5,
+      "spread_usd": 12.32,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2019-09-03",
+      "sge_cny_per_g": 357.28,
+      "usd_cny": 7.178,
+      "sge_usd_per_oz": 1548.15,
+      "world_gold_usd": 1545.9,
+      "spread_usd": 2.25,
+      "premium_percent": 0.15
+    },
+    {
+      "date": "2019-09-04",
+      "sge_cny_per_g": 357.48,
+      "usd_cny": 7.1451,
+      "sge_usd_per_oz": 1556.15,
+      "world_gold_usd": 1550.3,
+      "spread_usd": 5.85,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2019-09-05",
+      "sge_cny_per_g": 350.57,
+      "usd_cny": 7.1477,
+      "sge_usd_per_oz": 1525.52,
+      "world_gold_usd": 1515.4,
+      "spread_usd": 10.12,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2019-09-08",
+      "sge_cny_per_g": 348.45,
+      "usd_cny": 7.1147,
+      "sge_usd_per_oz": 1523.33,
+      "world_gold_usd": 1515.4,
+      "spread_usd": 7.93,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2019-09-09",
+      "sge_cny_per_g": 342.83,
+      "usd_cny": 7.1211,
+      "sge_usd_per_oz": 1497.41,
+      "world_gold_usd": 1502.2,
+      "spread_usd": -4.79,
+      "premium_percent": -0.32
+    },
+    {
+      "date": "2019-09-10",
+      "sge_cny_per_g": 344.28,
+      "usd_cny": 7.1117,
+      "sge_usd_per_oz": 1505.73,
+      "world_gold_usd": 1490.3,
+      "spread_usd": 15.43,
+      "premium_percent": 1.04
+    },
+    {
+      "date": "2019-09-11",
+      "sge_cny_per_g": 343.33,
+      "usd_cny": 7.1158,
+      "sge_usd_per_oz": 1500.71,
+      "world_gold_usd": 1494.4,
+      "spread_usd": 6.31,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2019-09-15",
+      "sge_cny_per_g": 344.53,
+      "usd_cny": 7.0784,
+      "sge_usd_per_oz": 1513.91,
+      "world_gold_usd": 1494.4,
+      "spread_usd": 19.51,
+      "premium_percent": 1.31
+    },
+    {
+      "date": "2019-09-16",
+      "sge_cny_per_g": 343.22,
+      "usd_cny": 7.0664,
+      "sge_usd_per_oz": 1510.72,
+      "world_gold_usd": 1503.1,
+      "spread_usd": 7.62,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2019-09-17",
+      "sge_cny_per_g": 344.62,
+      "usd_cny": 7.0909,
+      "sge_usd_per_oz": 1511.64,
+      "world_gold_usd": 1505.1,
+      "spread_usd": 6.54,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2019-09-18",
+      "sge_cny_per_g": 344.11,
+      "usd_cny": 7.085,
+      "sge_usd_per_oz": 1510.66,
+      "world_gold_usd": 1507.5,
+      "spread_usd": 3.16,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2019-09-19",
+      "sge_cny_per_g": 344.97,
+      "usd_cny": 7.0956,
+      "sge_usd_per_oz": 1512.17,
+      "world_gold_usd": 1498.4,
+      "spread_usd": 13.77,
+      "premium_percent": 0.92
+    },
+    {
+      "date": "2019-09-22",
+      "sge_cny_per_g": 348.52,
+      "usd_cny": 7.0906,
+      "sge_usd_per_oz": 1528.81,
+      "world_gold_usd": 1498.4,
+      "spread_usd": 30.41,
+      "premium_percent": 2.03
+    },
+    {
+      "date": "2019-09-23",
+      "sge_cny_per_g": 350.05,
+      "usd_cny": 7.1176,
+      "sge_usd_per_oz": 1529.7,
+      "world_gold_usd": 1523.7,
+      "spread_usd": 6.0,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2019-09-24",
+      "sge_cny_per_g": 352.01,
+      "usd_cny": 7.1155,
+      "sge_usd_per_oz": 1538.72,
+      "world_gold_usd": 1532.1,
+      "spread_usd": 6.62,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2019-09-25",
+      "sge_cny_per_g": 347.72,
+      "usd_cny": 7.1308,
+      "sge_usd_per_oz": 1516.7,
+      "world_gold_usd": 1504.6,
+      "spread_usd": 12.1,
+      "premium_percent": 0.8
+    },
+    {
+      "date": "2019-09-26",
+      "sge_cny_per_g": 345.07,
+      "usd_cny": 7.1316,
+      "sge_usd_per_oz": 1504.97,
+      "world_gold_usd": 1507.5,
+      "spread_usd": -2.53,
+      "premium_percent": -0.17
+    },
+    {
+      "date": "2019-09-29",
+      "sge_cny_per_g": 343.34,
+      "usd_cny": 7.1218,
+      "sge_usd_per_oz": 1499.49,
+      "world_gold_usd": 1507.5,
+      "spread_usd": -8.01,
+      "premium_percent": -0.53
+    },
+    {
+      "date": "2019-10-07",
+      "sge_cny_per_g": 342.95,
+      "usd_cny": 7.1474,
+      "sge_usd_per_oz": 1492.42,
+      "world_gold_usd": 1497.7,
+      "spread_usd": -5.28,
+      "premium_percent": -0.35
+    },
+    {
+      "date": "2019-10-08",
+      "sge_cny_per_g": 347.77,
+      "usd_cny": 7.1435,
+      "sge_usd_per_oz": 1514.22,
+      "world_gold_usd": 1497.2,
+      "spread_usd": 17.02,
+      "premium_percent": 1.14
+    },
+    {
+      "date": "2019-10-09",
+      "sge_cny_per_g": 346.04,
+      "usd_cny": 7.1314,
+      "sge_usd_per_oz": 1509.25,
+      "world_gold_usd": 1506.1,
+      "spread_usd": 3.15,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2019-10-10",
+      "sge_cny_per_g": 344.19,
+      "usd_cny": 7.1155,
+      "sge_usd_per_oz": 1504.53,
+      "world_gold_usd": 1494.8,
+      "spread_usd": 9.73,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2019-10-13",
+      "sge_cny_per_g": 339.64,
+      "usd_cny": 7.0872,
+      "sge_usd_per_oz": 1490.57,
+      "world_gold_usd": 1494.8,
+      "spread_usd": -4.23,
+      "premium_percent": -0.28
+    },
+    {
+      "date": "2019-10-14",
+      "sge_cny_per_g": 340.82,
+      "usd_cny": 7.0666,
+      "sge_usd_per_oz": 1500.11,
+      "world_gold_usd": 1491.7,
+      "spread_usd": 8.41,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2019-10-15",
+      "sge_cny_per_g": 339.31,
+      "usd_cny": 7.0808,
+      "sge_usd_per_oz": 1490.47,
+      "world_gold_usd": 1477.6,
+      "spread_usd": 12.87,
+      "premium_percent": 0.87
+    },
+    {
+      "date": "2019-10-16",
+      "sge_cny_per_g": 341.39,
+      "usd_cny": 7.0927,
+      "sge_usd_per_oz": 1497.09,
+      "world_gold_usd": 1488.0,
+      "spread_usd": 9.09,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2019-10-17",
+      "sge_cny_per_g": 340.79,
+      "usd_cny": 7.0764,
+      "sge_usd_per_oz": 1497.9,
+      "world_gold_usd": 1492.3,
+      "spread_usd": 5.6,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2019-10-20",
+      "sge_cny_per_g": 340.71,
+      "usd_cny": 7.0807,
+      "sge_usd_per_oz": 1496.64,
+      "world_gold_usd": 1492.3,
+      "spread_usd": 4.34,
+      "premium_percent": 0.29
+    },
+    {
+      "date": "2019-10-21",
+      "sge_cny_per_g": 339.64,
+      "usd_cny": 7.0663,
+      "sge_usd_per_oz": 1494.98,
+      "world_gold_usd": 1482.4,
+      "spread_usd": 12.58,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2019-10-22",
+      "sge_cny_per_g": 340.89,
+      "usd_cny": 7.0762,
+      "sge_usd_per_oz": 1498.38,
+      "world_gold_usd": 1481.7,
+      "spread_usd": 16.68,
+      "premium_percent": 1.13
+    },
+    {
+      "date": "2019-10-23",
+      "sge_cny_per_g": 340.38,
+      "usd_cny": 7.0646,
+      "sge_usd_per_oz": 1498.6,
+      "world_gold_usd": 1489.9,
+      "spread_usd": 8.7,
+      "premium_percent": 0.58
+    },
+    {
+      "date": "2019-10-24",
+      "sge_cny_per_g": 343.72,
+      "usd_cny": 7.0681,
+      "sge_usd_per_oz": 1512.55,
+      "world_gold_usd": 1498.9,
+      "spread_usd": 13.65,
+      "premium_percent": 0.91
+    },
+    {
+      "date": "2019-10-27",
+      "sge_cny_per_g": 343.8,
+      "usd_cny": 7.0681,
+      "sge_usd_per_oz": 1512.91,
+      "world_gold_usd": 1498.9,
+      "spread_usd": 14.01,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2019-10-28",
+      "sge_cny_per_g": 340.01,
+      "usd_cny": 7.0647,
+      "sge_usd_per_oz": 1496.95,
+      "world_gold_usd": 1490.0,
+      "spread_usd": 6.95,
+      "premium_percent": 0.47
+    },
+    {
+      "date": "2019-10-29",
+      "sge_cny_per_g": 339.6,
+      "usd_cny": 7.0669,
+      "sge_usd_per_oz": 1494.68,
+      "world_gold_usd": 1487.0,
+      "spread_usd": 7.68,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2019-10-30",
+      "sge_cny_per_g": 340.17,
+      "usd_cny": 7.0649,
+      "sge_usd_per_oz": 1497.61,
+      "world_gold_usd": 1493.2,
+      "spread_usd": 4.41,
+      "premium_percent": 0.3
+    },
+    {
+      "date": "2019-10-31",
+      "sge_cny_per_g": 343.17,
+      "usd_cny": 7.0544,
+      "sge_usd_per_oz": 1513.07,
+      "world_gold_usd": 1511.4,
+      "spread_usd": 1.67,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2019-11-03",
+      "sge_cny_per_g": 342.63,
+      "usd_cny": 7.0544,
+      "sge_usd_per_oz": 1510.69,
+      "world_gold_usd": 1511.4,
+      "spread_usd": -0.71,
+      "premium_percent": -0.05
+    },
+    {
+      "date": "2019-11-04",
+      "sge_cny_per_g": 340.53,
+      "usd_cny": 7.0364,
+      "sge_usd_per_oz": 1505.27,
+      "world_gold_usd": 1508.0,
+      "spread_usd": -2.73,
+      "premium_percent": -0.18
+    },
+    {
+      "date": "2019-11-05",
+      "sge_cny_per_g": 335.83,
+      "usd_cny": 7.0294,
+      "sge_usd_per_oz": 1485.97,
+      "world_gold_usd": 1480.8,
+      "spread_usd": 5.17,
+      "premium_percent": 0.35
+    },
+    {
+      "date": "2019-11-06",
+      "sge_cny_per_g": 337.52,
+      "usd_cny": 7.0088,
+      "sge_usd_per_oz": 1497.84,
+      "world_gold_usd": 1490.2,
+      "spread_usd": 7.64,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2019-11-07",
+      "sge_cny_per_g": 331.25,
+      "usd_cny": 6.9972,
+      "sge_usd_per_oz": 1472.45,
+      "world_gold_usd": 1464.2,
+      "spread_usd": 8.25,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2019-11-10",
+      "sge_cny_per_g": 330.59,
+      "usd_cny": 6.9972,
+      "sge_usd_per_oz": 1469.52,
+      "world_gold_usd": 1464.2,
+      "spread_usd": 5.32,
+      "premium_percent": 0.36
+    },
+    {
+      "date": "2019-11-11",
+      "sge_cny_per_g": 327.62,
+      "usd_cny": 6.995,
+      "sge_usd_per_oz": 1456.77,
+      "world_gold_usd": 1455.5,
+      "spread_usd": 1.27,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2019-11-12",
+      "sge_cny_per_g": 330.84,
+      "usd_cny": 7.0096,
+      "sge_usd_per_oz": 1468.03,
+      "world_gold_usd": 1452.1,
+      "spread_usd": 15.93,
+      "premium_percent": 1.1
+    },
+    {
+      "date": "2019-11-13",
+      "sge_cny_per_g": 331.71,
+      "usd_cny": 7.0068,
+      "sge_usd_per_oz": 1472.47,
+      "world_gold_usd": 1461.7,
+      "spread_usd": 10.77,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2019-11-14",
+      "sge_cny_per_g": 330.9,
+      "usd_cny": 7.0226,
+      "sge_usd_per_oz": 1465.57,
+      "world_gold_usd": 1471.8,
+      "spread_usd": -6.23,
+      "premium_percent": -0.42
+    },
+    {
+      "date": "2019-11-17",
+      "sge_cny_per_g": 331.03,
+      "usd_cny": 7.0226,
+      "sge_usd_per_oz": 1466.15,
+      "world_gold_usd": 1471.8,
+      "spread_usd": -5.65,
+      "premium_percent": -0.38
+    },
+    {
+      "date": "2019-11-18",
+      "sge_cny_per_g": 332.95,
+      "usd_cny": 7.0073,
+      "sge_usd_per_oz": 1477.87,
+      "world_gold_usd": 1470.9,
+      "spread_usd": 6.97,
+      "premium_percent": 0.47
+    },
+    {
+      "date": "2019-11-19",
+      "sge_cny_per_g": 334.05,
+      "usd_cny": 7.025,
+      "sge_usd_per_oz": 1479.02,
+      "world_gold_usd": 1473.3,
+      "spread_usd": 5.72,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2019-11-20",
+      "sge_cny_per_g": 333.58,
+      "usd_cny": 7.0268,
+      "sge_usd_per_oz": 1476.56,
+      "world_gold_usd": 1473.3,
+      "spread_usd": 3.26,
+      "premium_percent": 0.22
+    },
+    {
+      "date": "2019-11-21",
+      "sge_cny_per_g": 332.87,
+      "usd_cny": 7.035,
+      "sge_usd_per_oz": 1471.7,
+      "world_gold_usd": 1463.1,
+      "spread_usd": 8.6,
+      "premium_percent": 0.59
+    },
+    {
+      "date": "2019-11-24",
+      "sge_cny_per_g": 330.65,
+      "usd_cny": 7.035,
+      "sge_usd_per_oz": 1461.89,
+      "world_gold_usd": 1463.1,
+      "spread_usd": -1.21,
+      "premium_percent": -0.08
+    },
+    {
+      "date": "2019-11-25",
+      "sge_cny_per_g": 330.35,
+      "usd_cny": 7.0383,
+      "sge_usd_per_oz": 1459.87,
+      "world_gold_usd": 1456.6,
+      "spread_usd": 3.27,
+      "premium_percent": 0.22
+    },
+    {
+      "date": "2019-11-26",
+      "sge_cny_per_g": 330.71,
+      "usd_cny": 7.0355,
+      "sge_usd_per_oz": 1462.05,
+      "world_gold_usd": 1459.8,
+      "spread_usd": 2.25,
+      "premium_percent": 0.15
+    },
+    {
+      "date": "2019-11-27",
+      "sge_cny_per_g": 330.07,
+      "usd_cny": 7.0325,
+      "sge_usd_per_oz": 1459.84,
+      "world_gold_usd": 1453.4,
+      "spread_usd": 6.44,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2019-11-28",
+      "sge_cny_per_g": 330.5,
+      "usd_cny": 7.0279,
+      "sge_usd_per_oz": 1462.7,
+      "world_gold_usd": 1453.4,
+      "spread_usd": 9.3,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2019-12-01",
+      "sge_cny_per_g": 331.21,
+      "usd_cny": 7.0279,
+      "sge_usd_per_oz": 1465.84,
+      "world_gold_usd": 1453.4,
+      "spread_usd": 12.44,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2019-12-02",
+      "sge_cny_per_g": 331.95,
+      "usd_cny": 7.0315,
+      "sge_usd_per_oz": 1468.36,
+      "world_gold_usd": 1462.3,
+      "spread_usd": 6.06,
+      "premium_percent": 0.41
+    },
+    {
+      "date": "2019-12-03",
+      "sge_cny_per_g": 338.11,
+      "usd_cny": 7.0383,
+      "sge_usd_per_oz": 1494.17,
+      "world_gold_usd": 1478.2,
+      "spread_usd": 15.97,
+      "premium_percent": 1.08
+    },
+    {
+      "date": "2019-12-04",
+      "sge_cny_per_g": 336.47,
+      "usd_cny": 7.0602,
+      "sge_usd_per_oz": 1482.31,
+      "world_gold_usd": 1474.0,
+      "spread_usd": 8.31,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2019-12-05",
+      "sge_cny_per_g": 334.45,
+      "usd_cny": 7.0489,
+      "sge_usd_per_oz": 1475.77,
+      "world_gold_usd": 1476.9,
+      "spread_usd": -1.13,
+      "premium_percent": -0.08
+    },
+    {
+      "date": "2019-12-08",
+      "sge_cny_per_g": 332.21,
+      "usd_cny": 7.0489,
+      "sge_usd_per_oz": 1465.89,
+      "world_gold_usd": 1476.9,
+      "spread_usd": -11.01,
+      "premium_percent": -0.75
+    },
+    {
+      "date": "2019-12-09",
+      "sge_cny_per_g": 332.29,
+      "usd_cny": 7.0343,
+      "sge_usd_per_oz": 1469.28,
+      "world_gold_usd": 1459.3,
+      "spread_usd": 9.98,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2019-12-10",
+      "sge_cny_per_g": 332.55,
+      "usd_cny": 7.0382,
+      "sge_usd_per_oz": 1469.62,
+      "world_gold_usd": 1462.6,
+      "spread_usd": 7.02,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2019-12-11",
+      "sge_cny_per_g": 334.32,
+      "usd_cny": 7.0333,
+      "sge_usd_per_oz": 1478.47,
+      "world_gold_usd": 1469.4,
+      "spread_usd": 9.07,
+      "premium_percent": 0.62
+    },
+    {
+      "date": "2019-12-12",
+      "sge_cny_per_g": 330.34,
+      "usd_cny": 7.0378,
+      "sge_usd_per_oz": 1459.93,
+      "world_gold_usd": 1466.7,
+      "spread_usd": -6.77,
+      "premium_percent": -0.46
+    },
+    {
+      "date": "2019-12-15",
+      "sge_cny_per_g": 333.73,
+      "usd_cny": 7.0378,
+      "sge_usd_per_oz": 1474.92,
+      "world_gold_usd": 1466.7,
+      "spread_usd": 8.22,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2019-12-16",
+      "sge_cny_per_g": 333.75,
+      "usd_cny": 6.9719,
+      "sge_usd_per_oz": 1488.95,
+      "world_gold_usd": 1475.0,
+      "spread_usd": 13.95,
+      "premium_percent": 0.95
+    },
+    {
+      "date": "2019-12-17",
+      "sge_cny_per_g": 334.08,
+      "usd_cny": 6.9816,
+      "sge_usd_per_oz": 1488.35,
+      "world_gold_usd": 1474.6,
+      "spread_usd": 13.75,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2019-12-18",
+      "sge_cny_per_g": 333.64,
+      "usd_cny": 6.9962,
+      "sge_usd_per_oz": 1483.29,
+      "world_gold_usd": 1472.6,
+      "spread_usd": 10.69,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2019-12-19",
+      "sge_cny_per_g": 334.56,
+      "usd_cny": 7.004,
+      "sge_usd_per_oz": 1485.72,
+      "world_gold_usd": 1478.2,
+      "spread_usd": 7.52,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2019-12-22",
+      "sge_cny_per_g": 335.74,
+      "usd_cny": 7.004,
+      "sge_usd_per_oz": 1490.96,
+      "world_gold_usd": 1478.2,
+      "spread_usd": 12.76,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2019-12-23",
+      "sge_cny_per_g": 337.26,
+      "usd_cny": 7.0057,
+      "sge_usd_per_oz": 1497.35,
+      "world_gold_usd": 1482.5,
+      "spread_usd": 14.85,
+      "premium_percent": 1.0
+    },
+    {
+      "date": "2019-12-24",
+      "sge_cny_per_g": 338.97,
+      "usd_cny": 7.0118,
+      "sge_usd_per_oz": 1503.63,
+      "world_gold_usd": 1499.1,
+      "spread_usd": 4.53,
+      "premium_percent": 0.3
+    },
+    {
+      "date": "2019-12-25",
+      "sge_cny_per_g": 339.66,
+      "usd_cny": 7.0064,
+      "sge_usd_per_oz": 1507.85,
+      "world_gold_usd": 1499.1,
+      "spread_usd": 8.75,
+      "premium_percent": 0.58
+    },
+    {
+      "date": "2019-12-26",
+      "sge_cny_per_g": 341.05,
+      "usd_cny": 6.9883,
+      "sge_usd_per_oz": 1517.94,
+      "world_gold_usd": 1509.3,
+      "spread_usd": 8.64,
+      "premium_percent": 0.57
+    },
+    {
+      "date": "2019-12-29",
+      "sge_cny_per_g": 340.72,
+      "usd_cny": 6.9883,
+      "sge_usd_per_oz": 1516.47,
+      "world_gold_usd": 1509.3,
+      "spread_usd": 7.17,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2019-12-30",
+      "sge_cny_per_g": 342.53,
+      "usd_cny": 6.9948,
+      "sge_usd_per_oz": 1523.11,
+      "world_gold_usd": 1514.5,
+      "spread_usd": 8.61,
+      "premium_percent": 0.57
+    },
+    {
+      "date": "2020-01-01",
+      "sge_cny_per_g": 341.63,
+      "usd_cny": 6.9623,
+      "sge_usd_per_oz": 1526.2,
+      "world_gold_usd": 1514.5,
+      "spread_usd": 11.7,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2020-01-02",
+      "sge_cny_per_g": 346.75,
+      "usd_cny": 6.9622,
+      "sge_usd_per_oz": 1549.1,
+      "world_gold_usd": 1524.5,
+      "spread_usd": 24.6,
+      "premium_percent": 1.61
+    },
+    {
+      "date": "2020-01-05",
+      "sge_cny_per_g": 354.69,
+      "usd_cny": 6.9622,
+      "sge_usd_per_oz": 1584.57,
+      "world_gold_usd": 1524.5,
+      "spread_usd": 60.07,
+      "premium_percent": 3.94
+    },
+    {
+      "date": "2020-01-06",
+      "sge_cny_per_g": 351.42,
+      "usd_cny": 6.9645,
+      "sge_usd_per_oz": 1569.44,
+      "world_gold_usd": 1566.2,
+      "spread_usd": 3.24,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2020-01-07",
+      "sge_cny_per_g": 357.41,
+      "usd_cny": 6.9745,
+      "sge_usd_per_oz": 1593.91,
+      "world_gold_usd": 1571.8,
+      "spread_usd": 22.11,
+      "premium_percent": 1.41
+    },
+    {
+      "date": "2020-01-08",
+      "sge_cny_per_g": 345.31,
+      "usd_cny": 6.9444,
+      "sge_usd_per_oz": 1546.62,
+      "world_gold_usd": 1557.4,
+      "spread_usd": -10.78,
+      "premium_percent": -0.69
+    },
+    {
+      "date": "2020-01-09",
+      "sge_cny_per_g": 346.43,
+      "usd_cny": 6.9452,
+      "sge_usd_per_oz": 1551.46,
+      "world_gold_usd": 1551.7,
+      "spread_usd": -0.24,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2020-01-12",
+      "sge_cny_per_g": 346.35,
+      "usd_cny": 6.9452,
+      "sge_usd_per_oz": 1551.1,
+      "world_gold_usd": 1551.7,
+      "spread_usd": -0.6,
+      "premium_percent": -0.04
+    },
+    {
+      "date": "2020-01-13",
+      "sge_cny_per_g": 341.96,
+      "usd_cny": 6.9093,
+      "sge_usd_per_oz": 1539.4,
+      "world_gold_usd": 1548.4,
+      "spread_usd": -9.0,
+      "premium_percent": -0.58
+    },
+    {
+      "date": "2020-01-14",
+      "sge_cny_per_g": 344.82,
+      "usd_cny": 6.8927,
+      "sge_usd_per_oz": 1556.01,
+      "world_gold_usd": 1542.4,
+      "spread_usd": 13.61,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2020-01-15",
+      "sge_cny_per_g": 345.27,
+      "usd_cny": 6.9003,
+      "sge_usd_per_oz": 1556.32,
+      "world_gold_usd": 1552.1,
+      "spread_usd": 4.22,
+      "premium_percent": 0.27
+    },
+    {
+      "date": "2020-01-16",
+      "sge_cny_per_g": 344.85,
+      "usd_cny": 6.8898,
+      "sge_usd_per_oz": 1556.8,
+      "world_gold_usd": 1549.0,
+      "spread_usd": 7.8,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2020-01-19",
+      "sge_cny_per_g": 345.13,
+      "usd_cny": 6.8898,
+      "sge_usd_per_oz": 1558.06,
+      "world_gold_usd": 1549.0,
+      "spread_usd": 9.06,
+      "premium_percent": 0.59
+    },
+    {
+      "date": "2020-01-20",
+      "sge_cny_per_g": 348.52,
+      "usd_cny": 6.8587,
+      "sge_usd_per_oz": 1580.5,
+      "world_gold_usd": 1549.0,
+      "spread_usd": 31.5,
+      "premium_percent": 2.03
+    },
+    {
+      "date": "2020-01-21",
+      "sge_cny_per_g": 345.63,
+      "usd_cny": 6.8658,
+      "sge_usd_per_oz": 1565.77,
+      "world_gold_usd": 1556.4,
+      "spread_usd": 9.37,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2020-01-22",
+      "sge_cny_per_g": 347.64,
+      "usd_cny": 6.9048,
+      "sge_usd_per_oz": 1565.98,
+      "world_gold_usd": 1555.3,
+      "spread_usd": 10.68,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2020-02-02",
+      "sge_cny_per_g": 357.12,
+      "usd_cny": 6.9048,
+      "sge_usd_per_oz": 1608.69,
+      "world_gold_usd": 1555.3,
+      "spread_usd": 53.39,
+      "premium_percent": 3.43
+    },
+    {
+      "date": "2020-02-03",
+      "sge_cny_per_g": 353.86,
+      "usd_cny": 6.9357,
+      "sge_usd_per_oz": 1586.9,
+      "world_gold_usd": 1577.2,
+      "spread_usd": 9.7,
+      "premium_percent": 0.62
+    },
+    {
+      "date": "2020-02-04",
+      "sge_cny_per_g": 351.66,
+      "usd_cny": 7.0206,
+      "sge_usd_per_oz": 1557.96,
+      "world_gold_usd": 1550.4,
+      "spread_usd": 7.56,
+      "premium_percent": 0.49
+    },
+    {
+      "date": "2020-02-05",
+      "sge_cny_per_g": 349.58,
+      "usd_cny": 6.9975,
+      "sge_usd_per_oz": 1553.86,
+      "world_gold_usd": 1557.8,
+      "spread_usd": -3.94,
+      "premium_percent": -0.25
+    },
+    {
+      "date": "2020-02-06",
+      "sge_cny_per_g": 351.19,
+      "usd_cny": 6.9728,
+      "sge_usd_per_oz": 1566.55,
+      "world_gold_usd": 1565.1,
+      "spread_usd": 1.45,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2020-02-09",
+      "sge_cny_per_g": 352.69,
+      "usd_cny": 6.9728,
+      "sge_usd_per_oz": 1573.24,
+      "world_gold_usd": 1565.1,
+      "spread_usd": 8.14,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2020-02-10",
+      "sge_cny_per_g": 351.79,
+      "usd_cny": 7.0006,
+      "sge_usd_per_oz": 1562.99,
+      "world_gold_usd": 1574.7,
+      "spread_usd": -11.71,
+      "premium_percent": -0.74
+    },
+    {
+      "date": "2020-02-11",
+      "sge_cny_per_g": 351.03,
+      "usd_cny": 6.9835,
+      "sge_usd_per_oz": 1563.44,
+      "world_gold_usd": 1565.6,
+      "spread_usd": -2.16,
+      "premium_percent": -0.14
+    },
+    {
+      "date": "2020-02-12",
+      "sge_cny_per_g": 353.67,
+      "usd_cny": 6.9649,
+      "sge_usd_per_oz": 1579.4,
+      "world_gold_usd": 1567.4,
+      "spread_usd": 12.0,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2020-02-13",
+      "sge_cny_per_g": 354.13,
+      "usd_cny": 6.971,
+      "sge_usd_per_oz": 1580.07,
+      "world_gold_usd": 1575.1,
+      "spread_usd": 4.97,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2020-02-16",
+      "sge_cny_per_g": 355.33,
+      "usd_cny": 6.971,
+      "sge_usd_per_oz": 1585.43,
+      "world_gold_usd": 1575.1,
+      "spread_usd": 10.33,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2020-02-17",
+      "sge_cny_per_g": 357.05,
+      "usd_cny": 6.9861,
+      "sge_usd_per_oz": 1589.66,
+      "world_gold_usd": 1575.1,
+      "spread_usd": 14.56,
+      "premium_percent": 0.92
+    },
+    {
+      "date": "2020-02-18",
+      "sge_cny_per_g": 361.41,
+      "usd_cny": 6.9793,
+      "sge_usd_per_oz": 1610.64,
+      "world_gold_usd": 1600.0,
+      "spread_usd": 10.64,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2020-02-19",
+      "sge_cny_per_g": 362.59,
+      "usd_cny": 6.9962,
+      "sge_usd_per_oz": 1611.99,
+      "world_gold_usd": 1607.5,
+      "spread_usd": 4.49,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2020-02-20",
+      "sge_cny_per_g": 369.26,
+      "usd_cny": 6.9972,
+      "sge_usd_per_oz": 1641.41,
+      "world_gold_usd": 1616.6,
+      "spread_usd": 24.81,
+      "premium_percent": 1.53
+    },
+    {
+      "date": "2020-02-23",
+      "sge_cny_per_g": 377.4,
+      "usd_cny": 6.9972,
+      "sge_usd_per_oz": 1677.59,
+      "world_gold_usd": 1616.6,
+      "spread_usd": 60.99,
+      "premium_percent": 3.77
+    },
+    {
+      "date": "2020-02-24",
+      "sge_cny_per_g": 369.34,
+      "usd_cny": 7.0262,
+      "sge_usd_per_oz": 1634.99,
+      "world_gold_usd": 1672.4,
+      "spread_usd": -37.41,
+      "premium_percent": -2.24
+    },
+    {
+      "date": "2020-02-25",
+      "sge_cny_per_g": 372.02,
+      "usd_cny": 7.0284,
+      "sge_usd_per_oz": 1646.34,
+      "world_gold_usd": 1646.9,
+      "spread_usd": -0.56,
+      "premium_percent": -0.03
+    },
+    {
+      "date": "2020-02-26",
+      "sge_cny_per_g": 371.91,
+      "usd_cny": 7.0364,
+      "sge_usd_per_oz": 1643.98,
+      "world_gold_usd": 1640.0,
+      "spread_usd": 3.98,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2020-02-27",
+      "sge_cny_per_g": 367.43,
+      "usd_cny": 7.0398,
+      "sge_usd_per_oz": 1623.39,
+      "world_gold_usd": 1640.0,
+      "spread_usd": -16.61,
+      "premium_percent": -1.01
+    },
+    {
+      "date": "2020-03-01",
+      "sge_cny_per_g": 358.9,
+      "usd_cny": 7.0398,
+      "sge_usd_per_oz": 1585.7,
+      "world_gold_usd": 1640.0,
+      "spread_usd": -54.3,
+      "premium_percent": -3.31
+    },
+    {
+      "date": "2020-03-02",
+      "sge_cny_per_g": 357.97,
+      "usd_cny": 6.9909,
+      "sge_usd_per_oz": 1592.66,
+      "world_gold_usd": 1592.3,
+      "spread_usd": 0.36,
+      "premium_percent": 0.02
+    },
+    {
+      "date": "2020-03-03",
+      "sge_cny_per_g": 365.02,
+      "usd_cny": 6.9998,
+      "sge_usd_per_oz": 1621.96,
+      "world_gold_usd": 1642.1,
+      "spread_usd": -20.14,
+      "premium_percent": -1.23
+    },
+    {
+      "date": "2020-03-04",
+      "sge_cny_per_g": 366.43,
+      "usd_cny": 6.961,
+      "sge_usd_per_oz": 1637.3,
+      "world_gold_usd": 1641.1,
+      "spread_usd": -3.8,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2020-03-05",
+      "sge_cny_per_g": 373.29,
+      "usd_cny": 6.9654,
+      "sge_usd_per_oz": 1666.9,
+      "world_gold_usd": 1666.4,
+      "spread_usd": 0.5,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2020-03-08",
+      "sge_cny_per_g": 371.42,
+      "usd_cny": 6.9654,
+      "sge_usd_per_oz": 1658.55,
+      "world_gold_usd": 1666.4,
+      "spread_usd": -7.85,
+      "premium_percent": -0.47
+    },
+    {
+      "date": "2020-03-09",
+      "sge_cny_per_g": 366.61,
+      "usd_cny": 6.9311,
+      "sge_usd_per_oz": 1645.17,
+      "world_gold_usd": 1674.5,
+      "spread_usd": -29.33,
+      "premium_percent": -1.75
+    },
+    {
+      "date": "2020-03-10",
+      "sge_cny_per_g": 369.27,
+      "usd_cny": 6.9456,
+      "sge_usd_per_oz": 1653.65,
+      "world_gold_usd": 1659.1,
+      "spread_usd": -5.45,
+      "premium_percent": -0.33
+    },
+    {
+      "date": "2020-03-11",
+      "sge_cny_per_g": 366.05,
+      "usd_cny": 6.9556,
+      "sge_usd_per_oz": 1636.87,
+      "world_gold_usd": 1641.4,
+      "spread_usd": -4.53,
+      "premium_percent": -0.28
+    },
+    {
+      "date": "2020-03-12",
+      "sge_cny_per_g": 355.61,
+      "usd_cny": 6.9596,
+      "sge_usd_per_oz": 1589.27,
+      "world_gold_usd": 1589.3,
+      "spread_usd": -0.03,
+      "premium_percent": -0.0
+    },
+    {
+      "date": "2020-03-15",
+      "sge_cny_per_g": 346.84,
+      "usd_cny": 6.9596,
+      "sge_usd_per_oz": 1550.08,
+      "world_gold_usd": 1589.3,
+      "spread_usd": -39.22,
+      "premium_percent": -2.47
+    },
+    {
+      "date": "2020-03-16",
+      "sge_cny_per_g": 330.91,
+      "usd_cny": 7.0072,
+      "sge_usd_per_oz": 1468.84,
+      "world_gold_usd": 1485.9,
+      "spread_usd": -17.06,
+      "premium_percent": -1.15
+    },
+    {
+      "date": "2020-03-17",
+      "sge_cny_per_g": 337.88,
+      "usd_cny": 6.9927,
+      "sge_usd_per_oz": 1502.89,
+      "world_gold_usd": 1524.9,
+      "spread_usd": -22.01,
+      "premium_percent": -1.44
+    },
+    {
+      "date": "2020-03-18",
+      "sge_cny_per_g": 336.23,
+      "usd_cny": 7.0062,
+      "sge_usd_per_oz": 1492.67,
+      "world_gold_usd": 1477.3,
+      "spread_usd": 15.37,
+      "premium_percent": 1.04
+    },
+    {
+      "date": "2020-03-19",
+      "sge_cny_per_g": 339.0,
+      "usd_cny": 7.0464,
+      "sge_usd_per_oz": 1496.38,
+      "world_gold_usd": 1478.6,
+      "spread_usd": 17.78,
+      "premium_percent": 1.2
+    },
+    {
+      "date": "2020-03-22",
+      "sge_cny_per_g": 338.57,
+      "usd_cny": 7.0464,
+      "sge_usd_per_oz": 1494.48,
+      "world_gold_usd": 1478.6,
+      "spread_usd": 15.88,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2020-03-23",
+      "sge_cny_per_g": 357.26,
+      "usd_cny": 7.0948,
+      "sge_usd_per_oz": 1566.22,
+      "world_gold_usd": 1567.0,
+      "spread_usd": -0.78,
+      "premium_percent": -0.05
+    },
+    {
+      "date": "2020-03-24",
+      "sge_cny_per_g": 363.84,
+      "usd_cny": 7.0913,
+      "sge_usd_per_oz": 1595.86,
+      "world_gold_usd": 1660.2,
+      "spread_usd": -64.34,
+      "premium_percent": -3.88
+    },
+    {
+      "date": "2020-03-25",
+      "sge_cny_per_g": 362.55,
+      "usd_cny": 7.062,
+      "sge_usd_per_oz": 1596.79,
+      "world_gold_usd": 1632.3,
+      "spread_usd": -35.51,
+      "premium_percent": -2.18
+    },
+    {
+      "date": "2020-03-26",
+      "sge_cny_per_g": 366.25,
+      "usd_cny": 7.1135,
+      "sge_usd_per_oz": 1601.41,
+      "world_gold_usd": 1650.1,
+      "spread_usd": -48.69,
+      "premium_percent": -2.95
+    },
+    {
+      "date": "2020-03-29",
+      "sge_cny_per_g": 363.6,
+      "usd_cny": 7.0953,
+      "sge_usd_per_oz": 1593.9,
+      "world_gold_usd": 1650.1,
+      "spread_usd": -56.2,
+      "premium_percent": -3.41
+    },
+    {
+      "date": "2020-03-30",
+      "sge_cny_per_g": 363.92,
+      "usd_cny": 7.0992,
+      "sge_usd_per_oz": 1594.43,
+      "world_gold_usd": 1622.0,
+      "spread_usd": -27.57,
+      "premium_percent": -1.7
+    },
+    {
+      "date": "2020-03-31",
+      "sge_cny_per_g": 358.05,
+      "usd_cny": 7.0814,
+      "sge_usd_per_oz": 1572.66,
+      "world_gold_usd": 1583.4,
+      "spread_usd": -10.74,
+      "premium_percent": -0.68
+    },
+    {
+      "date": "2020-04-01",
+      "sge_cny_per_g": 359.85,
+      "usd_cny": 7.0993,
+      "sge_usd_per_oz": 1576.58,
+      "world_gold_usd": 1578.2,
+      "spread_usd": -1.62,
+      "premium_percent": -0.1
+    },
+    {
+      "date": "2020-04-02",
+      "sge_cny_per_g": 362.73,
+      "usd_cny": 7.0832,
+      "sge_usd_per_oz": 1592.81,
+      "world_gold_usd": 1625.7,
+      "spread_usd": -32.89,
+      "premium_percent": -2.02
+    },
+    {
+      "date": "2020-04-06",
+      "sge_cny_per_g": 372.95,
+      "usd_cny": 7.0913,
+      "sge_usd_per_oz": 1635.81,
+      "world_gold_usd": 1677.0,
+      "spread_usd": -41.19,
+      "premium_percent": -2.46
+    },
+    {
+      "date": "2020-04-07",
+      "sge_cny_per_g": 369.52,
+      "usd_cny": 7.0448,
+      "sge_usd_per_oz": 1631.47,
+      "world_gold_usd": 1664.8,
+      "spread_usd": -33.33,
+      "premium_percent": -2.0
+    },
+    {
+      "date": "2020-04-08",
+      "sge_cny_per_g": 370.33,
+      "usd_cny": 7.0649,
+      "sge_usd_per_oz": 1630.39,
+      "world_gold_usd": 1665.4,
+      "spread_usd": -35.01,
+      "premium_percent": -2.1
+    },
+    {
+      "date": "2020-04-09",
+      "sge_cny_per_g": 372.53,
+      "usd_cny": 7.0422,
+      "sge_usd_per_oz": 1645.36,
+      "world_gold_usd": 1736.2,
+      "spread_usd": -90.84,
+      "premium_percent": -5.23
+    },
+    {
+      "date": "2020-04-12",
+      "sge_cny_per_g": 372.14,
+      "usd_cny": 7.0351,
+      "sge_usd_per_oz": 1645.3,
+      "world_gold_usd": 1736.2,
+      "spread_usd": -90.9,
+      "premium_percent": -5.24
+    },
+    {
+      "date": "2020-04-13",
+      "sge_cny_per_g": 376.5,
+      "usd_cny": 7.0516,
+      "sge_usd_per_oz": 1660.68,
+      "world_gold_usd": 1744.8,
+      "spread_usd": -84.12,
+      "premium_percent": -4.82
+    },
+    {
+      "date": "2020-04-14",
+      "sge_cny_per_g": 375.78,
+      "usd_cny": 7.0483,
+      "sge_usd_per_oz": 1658.28,
+      "world_gold_usd": 1756.7,
+      "spread_usd": -98.42,
+      "premium_percent": -5.6
+    },
+    {
+      "date": "2020-04-15",
+      "sge_cny_per_g": 378.29,
+      "usd_cny": 7.0665,
+      "sge_usd_per_oz": 1665.06,
+      "world_gold_usd": 1727.2,
+      "spread_usd": -62.14,
+      "premium_percent": -3.6
+    },
+    {
+      "date": "2020-04-16",
+      "sge_cny_per_g": 371.96,
+      "usd_cny": 7.0788,
+      "sge_usd_per_oz": 1634.35,
+      "world_gold_usd": 1720.4,
+      "spread_usd": -86.05,
+      "premium_percent": -5.0
+    },
+    {
+      "date": "2020-04-19",
+      "sge_cny_per_g": 370.41,
+      "usd_cny": 7.0722,
+      "sge_usd_per_oz": 1629.06,
+      "world_gold_usd": 1720.4,
+      "spread_usd": -91.34,
+      "premium_percent": -5.31
+    },
+    {
+      "date": "2020-04-20",
+      "sge_cny_per_g": 373.82,
+      "usd_cny": 7.0724,
+      "sge_usd_per_oz": 1644.01,
+      "world_gold_usd": 1701.6,
+      "spread_usd": -57.59,
+      "premium_percent": -3.38
+    },
+    {
+      "date": "2020-04-21",
+      "sge_cny_per_g": 372.98,
+      "usd_cny": 7.0708,
+      "sge_usd_per_oz": 1640.69,
+      "world_gold_usd": 1678.2,
+      "spread_usd": -37.51,
+      "premium_percent": -2.24
+    },
+    {
+      "date": "2020-04-22",
+      "sge_cny_per_g": 379.13,
+      "usd_cny": 7.0831,
+      "sge_usd_per_oz": 1664.84,
+      "world_gold_usd": 1728.7,
+      "spread_usd": -63.86,
+      "premium_percent": -3.69
+    },
+    {
+      "date": "2020-04-23",
+      "sge_cny_per_g": 382.06,
+      "usd_cny": 7.0652,
+      "sge_usd_per_oz": 1681.96,
+      "world_gold_usd": 1733.3,
+      "spread_usd": -51.34,
+      "premium_percent": -2.96
+    },
+    {
+      "date": "2020-04-26",
+      "sge_cny_per_g": 379.7,
+      "usd_cny": 7.0809,
+      "sge_usd_per_oz": 1667.87,
+      "world_gold_usd": 1733.3,
+      "spread_usd": -65.43,
+      "premium_percent": -3.78
+    },
+    {
+      "date": "2020-04-27",
+      "sge_cny_per_g": 376.79,
+      "usd_cny": 7.0853,
+      "sge_usd_per_oz": 1654.06,
+      "world_gold_usd": 1711.9,
+      "spread_usd": -57.84,
+      "premium_percent": -3.38
+    },
+    {
+      "date": "2020-04-28",
+      "sge_cny_per_g": 378.33,
+      "usd_cny": 7.0781,
+      "sge_usd_per_oz": 1662.51,
+      "world_gold_usd": 1710.5,
+      "spread_usd": -47.99,
+      "premium_percent": -2.81
+    },
+    {
+      "date": "2020-04-29",
+      "sge_cny_per_g": 380.5,
+      "usd_cny": 7.0754,
+      "sge_usd_per_oz": 1672.68,
+      "world_gold_usd": 1703.4,
+      "spread_usd": -30.72,
+      "premium_percent": -1.8
+    },
+    {
+      "date": "2020-05-05",
+      "sge_cny_per_g": 379.69,
+      "usd_cny": 7.0615,
+      "sge_usd_per_oz": 1672.4,
+      "world_gold_usd": 1704.4,
+      "spread_usd": -32.0,
+      "premium_percent": -1.88
+    },
+    {
+      "date": "2020-05-06",
+      "sge_cny_per_g": 378.0,
+      "usd_cny": 7.1036,
+      "sge_usd_per_oz": 1655.09,
+      "world_gold_usd": 1684.2,
+      "spread_usd": -29.11,
+      "premium_percent": -1.73
+    },
+    {
+      "date": "2020-05-07",
+      "sge_cny_per_g": 382.77,
+      "usd_cny": 7.0838,
+      "sge_usd_per_oz": 1680.66,
+      "world_gold_usd": 1721.8,
+      "spread_usd": -41.14,
+      "premium_percent": -2.39
+    },
+    {
+      "date": "2020-05-10",
+      "sge_cny_per_g": 381.28,
+      "usd_cny": 7.0731,
+      "sge_usd_per_oz": 1676.65,
+      "world_gold_usd": 1721.8,
+      "spread_usd": -45.15,
+      "premium_percent": -2.62
+    },
+    {
+      "date": "2020-05-11",
+      "sge_cny_per_g": 380.47,
+      "usd_cny": 7.098,
+      "sge_usd_per_oz": 1667.22,
+      "world_gold_usd": 1695.3,
+      "spread_usd": -28.08,
+      "premium_percent": -1.66
+    },
+    {
+      "date": "2020-05-12",
+      "sge_cny_per_g": 381.04,
+      "usd_cny": 7.0821,
+      "sge_usd_per_oz": 1673.47,
+      "world_gold_usd": 1704.4,
+      "spread_usd": -30.93,
+      "premium_percent": -1.81
+    },
+    {
+      "date": "2020-05-13",
+      "sge_cny_per_g": 383.37,
+      "usd_cny": 7.0913,
+      "sge_usd_per_oz": 1681.52,
+      "world_gold_usd": 1713.9,
+      "spread_usd": -32.38,
+      "premium_percent": -1.89
+    },
+    {
+      "date": "2020-05-14",
+      "sge_cny_per_g": 388.9,
+      "usd_cny": 7.0947,
+      "sge_usd_per_oz": 1704.95,
+      "world_gold_usd": 1738.1,
+      "spread_usd": -33.15,
+      "premium_percent": -1.91
+    },
+    {
+      "date": "2020-05-17",
+      "sge_cny_per_g": 398.52,
+      "usd_cny": 7.1012,
+      "sge_usd_per_oz": 1745.53,
+      "world_gold_usd": 1738.1,
+      "spread_usd": 7.43,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2020-05-18",
+      "sge_cny_per_g": 392.38,
+      "usd_cny": 7.1086,
+      "sge_usd_per_oz": 1716.85,
+      "world_gold_usd": 1731.8,
+      "spread_usd": -14.95,
+      "premium_percent": -0.86
+    },
+    {
+      "date": "2020-05-19",
+      "sge_cny_per_g": 396.66,
+      "usd_cny": 7.0982,
+      "sge_usd_per_oz": 1738.12,
+      "world_gold_usd": 1744.2,
+      "spread_usd": -6.08,
+      "premium_percent": -0.35
+    },
+    {
+      "date": "2020-05-20",
+      "sge_cny_per_g": 392.79,
+      "usd_cny": 7.0925,
+      "sge_usd_per_oz": 1722.54,
+      "world_gold_usd": 1750.6,
+      "spread_usd": -28.06,
+      "premium_percent": -1.6
+    },
+    {
+      "date": "2020-05-21",
+      "sge_cny_per_g": 392.74,
+      "usd_cny": 7.1143,
+      "sge_usd_per_oz": 1717.05,
+      "world_gold_usd": 1720.5,
+      "spread_usd": -3.45,
+      "premium_percent": -0.2
+    },
+    {
+      "date": "2020-05-24",
+      "sge_cny_per_g": 391.48,
+      "usd_cny": 7.1294,
+      "sge_usd_per_oz": 1707.91,
+      "world_gold_usd": 1720.5,
+      "spread_usd": -12.59,
+      "premium_percent": -0.73
+    },
+    {
+      "date": "2020-05-25",
+      "sge_cny_per_g": 393.28,
+      "usd_cny": 7.1357,
+      "sge_usd_per_oz": 1714.25,
+      "world_gold_usd": 1720.5,
+      "spread_usd": -6.25,
+      "premium_percent": -0.36
+    },
+    {
+      "date": "2020-05-26",
+      "sge_cny_per_g": 389.22,
+      "usd_cny": 7.1341,
+      "sge_usd_per_oz": 1696.93,
+      "world_gold_usd": 1704.8,
+      "spread_usd": -7.87,
+      "premium_percent": -0.46
+    },
+    {
+      "date": "2020-05-27",
+      "sge_cny_per_g": 392.14,
+      "usd_cny": 7.1682,
+      "sge_usd_per_oz": 1701.53,
+      "world_gold_usd": 1710.3,
+      "spread_usd": -8.77,
+      "premium_percent": -0.51
+    },
+    {
+      "date": "2020-05-28",
+      "sge_cny_per_g": 392.04,
+      "usd_cny": 7.1452,
+      "sge_usd_per_oz": 1706.57,
+      "world_gold_usd": 1713.3,
+      "spread_usd": -6.73,
+      "premium_percent": -0.39
+    },
+    {
+      "date": "2020-05-31",
+      "sge_cny_per_g": 395.66,
+      "usd_cny": 7.1363,
+      "sge_usd_per_oz": 1724.48,
+      "world_gold_usd": 1713.3,
+      "spread_usd": 11.18,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2020-06-01",
+      "sge_cny_per_g": 394.95,
+      "usd_cny": 7.1267,
+      "sge_usd_per_oz": 1723.7,
+      "world_gold_usd": 1750.3,
+      "spread_usd": -26.6,
+      "premium_percent": -1.52
+    },
+    {
+      "date": "2020-06-02",
+      "sge_cny_per_g": 391.33,
+      "usd_cny": 7.0999,
+      "sge_usd_per_oz": 1714.35,
+      "world_gold_usd": 1734.0,
+      "spread_usd": -19.65,
+      "premium_percent": -1.13
+    },
+    {
+      "date": "2020-06-03",
+      "sge_cny_per_g": 387.83,
+      "usd_cny": 7.1147,
+      "sge_usd_per_oz": 1695.48,
+      "world_gold_usd": 1704.8,
+      "spread_usd": -9.32,
+      "premium_percent": -0.55
+    },
+    {
+      "date": "2020-06-04",
+      "sge_cny_per_g": 387.74,
+      "usd_cny": 7.1092,
+      "sge_usd_per_oz": 1696.4,
+      "world_gold_usd": 1727.4,
+      "spread_usd": -31.0,
+      "premium_percent": -1.79
+    },
+    {
+      "date": "2020-06-07",
+      "sge_cny_per_g": 384.35,
+      "usd_cny": 7.081,
+      "sge_usd_per_oz": 1688.27,
+      "world_gold_usd": 1727.4,
+      "spread_usd": -39.13,
+      "premium_percent": -2.27
+    },
+    {
+      "date": "2020-06-08",
+      "sge_cny_per_g": 384.26,
+      "usd_cny": 7.0703,
+      "sge_usd_per_oz": 1690.43,
+      "world_gold_usd": 1705.1,
+      "spread_usd": -14.67,
+      "premium_percent": -0.86
+    },
+    {
+      "date": "2020-06-09",
+      "sge_cny_per_g": 388.52,
+      "usd_cny": 7.0763,
+      "sge_usd_per_oz": 1707.72,
+      "world_gold_usd": 1721.9,
+      "spread_usd": -14.18,
+      "premium_percent": -0.82
+    },
+    {
+      "date": "2020-06-10",
+      "sge_cny_per_g": 391.51,
+      "usd_cny": 7.06,
+      "sge_usd_per_oz": 1724.83,
+      "world_gold_usd": 1720.7,
+      "spread_usd": 4.13,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2020-06-11",
+      "sge_cny_per_g": 391.33,
+      "usd_cny": 7.0641,
+      "sge_usd_per_oz": 1723.04,
+      "world_gold_usd": 1739.8,
+      "spread_usd": -16.76,
+      "premium_percent": -0.96
+    },
+    {
+      "date": "2020-06-14",
+      "sge_cny_per_g": 390.29,
+      "usd_cny": 7.0824,
+      "sge_usd_per_oz": 1714.02,
+      "world_gold_usd": 1739.8,
+      "spread_usd": -25.78,
+      "premium_percent": -1.48
+    },
+    {
+      "date": "2020-06-15",
+      "sge_cny_per_g": 389.97,
+      "usd_cny": 7.0908,
+      "sge_usd_per_oz": 1710.59,
+      "world_gold_usd": 1727.2,
+      "spread_usd": -16.61,
+      "premium_percent": -0.96
+    },
+    {
+      "date": "2020-06-16",
+      "sge_cny_per_g": 390.53,
+      "usd_cny": 7.086,
+      "sge_usd_per_oz": 1714.2,
+      "world_gold_usd": 1736.5,
+      "spread_usd": -22.3,
+      "premium_percent": -1.28
+    },
+    {
+      "date": "2020-06-17",
+      "sge_cny_per_g": 389.95,
+      "usd_cny": 7.0845,
+      "sge_usd_per_oz": 1712.02,
+      "world_gold_usd": 1735.6,
+      "spread_usd": -23.58,
+      "premium_percent": -1.36
+    },
+    {
+      "date": "2020-06-18",
+      "sge_cny_per_g": 390.68,
+      "usd_cny": 7.0884,
+      "sge_usd_per_oz": 1714.28,
+      "world_gold_usd": 1731.1,
+      "spread_usd": -16.82,
+      "premium_percent": -0.97
+    },
+    {
+      "date": "2020-06-21",
+      "sge_cny_per_g": 395.09,
+      "usd_cny": 7.0713,
+      "sge_usd_per_oz": 1737.82,
+      "world_gold_usd": 1731.1,
+      "spread_usd": 6.72,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2020-06-22",
+      "sge_cny_per_g": 394.39,
+      "usd_cny": 7.0674,
+      "sge_usd_per_oz": 1735.7,
+      "world_gold_usd": 1766.4,
+      "spread_usd": -30.7,
+      "premium_percent": -1.74
+    },
+    {
+      "date": "2020-06-23",
+      "sge_cny_per_g": 397.03,
+      "usd_cny": 7.0574,
+      "sge_usd_per_oz": 1749.8,
+      "world_gold_usd": 1782.0,
+      "spread_usd": -32.2,
+      "premium_percent": -1.81
+    },
+    {
+      "date": "2020-06-28",
+      "sge_cny_per_g": 397.48,
+      "usd_cny": 7.0772,
+      "sge_usd_per_oz": 1746.88,
+      "world_gold_usd": 1782.0,
+      "spread_usd": -35.12,
+      "premium_percent": -1.97
+    },
+    {
+      "date": "2020-06-29",
+      "sge_cny_per_g": 397.79,
+      "usd_cny": 7.0796,
+      "sge_usd_per_oz": 1747.65,
+      "world_gold_usd": 1781.2,
+      "spread_usd": -33.55,
+      "premium_percent": -1.88
+    },
+    {
+      "date": "2020-06-30",
+      "sge_cny_per_g": 400.43,
+      "usd_cny": 7.0644,
+      "sge_usd_per_oz": 1763.03,
+      "world_gold_usd": 1800.5,
+      "spread_usd": -37.47,
+      "premium_percent": -2.08
+    },
+    {
+      "date": "2020-07-01",
+      "sge_cny_per_g": 396.64,
+      "usd_cny": 7.0701,
+      "sge_usd_per_oz": 1744.94,
+      "world_gold_usd": 1779.9,
+      "spread_usd": -34.96,
+      "premium_percent": -1.96
+    },
+    {
+      "date": "2020-07-02",
+      "sge_cny_per_g": 397.71,
+      "usd_cny": 7.0655,
+      "sge_usd_per_oz": 1750.78,
+      "world_gold_usd": 1790.0,
+      "spread_usd": -39.22,
+      "premium_percent": -2.19
+    },
+    {
+      "date": "2020-07-05",
+      "sge_cny_per_g": 396.81,
+      "usd_cny": 7.0654,
+      "sge_usd_per_oz": 1746.85,
+      "world_gold_usd": 1790.0,
+      "spread_usd": -43.15,
+      "premium_percent": -2.41
+    },
+    {
+      "date": "2020-07-06",
+      "sge_cny_per_g": 397.66,
+      "usd_cny": 7.0173,
+      "sge_usd_per_oz": 1762.59,
+      "world_gold_usd": 1793.5,
+      "spread_usd": -30.91,
+      "premium_percent": -1.72
+    },
+    {
+      "date": "2020-07-07",
+      "sge_cny_per_g": 399.36,
+      "usd_cny": 7.0129,
+      "sge_usd_per_oz": 1771.23,
+      "world_gold_usd": 1809.9,
+      "spread_usd": -38.67,
+      "premium_percent": -2.14
+    },
+    {
+      "date": "2020-07-08",
+      "sge_cny_per_g": 401.91,
+      "usd_cny": 7.0035,
+      "sge_usd_per_oz": 1784.94,
+      "world_gold_usd": 1820.6,
+      "spread_usd": -35.66,
+      "premium_percent": -1.96
+    },
+    {
+      "date": "2020-07-09",
+      "sge_cny_per_g": 399.18,
+      "usd_cny": 6.9931,
+      "sge_usd_per_oz": 1775.45,
+      "world_gold_usd": 1803.8,
+      "spread_usd": -28.35,
+      "premium_percent": -1.57
+    },
+    {
+      "date": "2020-07-12",
+      "sge_cny_per_g": 400.85,
+      "usd_cny": 6.992,
+      "sge_usd_per_oz": 1783.16,
+      "world_gold_usd": 1803.8,
+      "spread_usd": -20.64,
+      "premium_percent": -1.14
+    },
+    {
+      "date": "2020-07-13",
+      "sge_cny_per_g": 400.07,
+      "usd_cny": 6.9964,
+      "sge_usd_per_oz": 1778.57,
+      "world_gold_usd": 1814.1,
+      "spread_usd": -35.53,
+      "premium_percent": -1.96
+    },
+    {
+      "date": "2020-07-14",
+      "sge_cny_per_g": 400.7,
+      "usd_cny": 6.9958,
+      "sge_usd_per_oz": 1781.52,
+      "world_gold_usd": 1813.4,
+      "spread_usd": -31.88,
+      "premium_percent": -1.76
+    },
+    {
+      "date": "2020-07-15",
+      "sge_cny_per_g": 399.62,
+      "usd_cny": 6.9878,
+      "sge_usd_per_oz": 1778.75,
+      "world_gold_usd": 1813.8,
+      "spread_usd": -35.05,
+      "premium_percent": -1.93
+    },
+    {
+      "date": "2020-07-16",
+      "sge_cny_per_g": 397.01,
+      "usd_cny": 6.9882,
+      "sge_usd_per_oz": 1767.03,
+      "world_gold_usd": 1800.3,
+      "spread_usd": -33.27,
+      "premium_percent": -1.85
+    },
+    {
+      "date": "2020-07-19",
+      "sge_cny_per_g": 398.77,
+      "usd_cny": 6.9912,
+      "sge_usd_per_oz": 1774.11,
+      "world_gold_usd": 1800.3,
+      "spread_usd": -26.19,
+      "premium_percent": -1.45
+    },
+    {
+      "date": "2020-07-20",
+      "sge_cny_per_g": 401.53,
+      "usd_cny": 6.9823,
+      "sge_usd_per_oz": 1788.66,
+      "world_gold_usd": 1817.4,
+      "spread_usd": -28.74,
+      "premium_percent": -1.58
+    },
+    {
+      "date": "2020-07-21",
+      "sge_cny_per_g": 411.13,
+      "usd_cny": 6.9797,
+      "sge_usd_per_oz": 1832.11,
+      "world_gold_usd": 1843.9,
+      "spread_usd": -11.79,
+      "premium_percent": -0.64
+    },
+    {
+      "date": "2020-07-22",
+      "sge_cny_per_g": 413.06,
+      "usd_cny": 6.9987,
+      "sge_usd_per_oz": 1835.71,
+      "world_gold_usd": 1865.1,
+      "spread_usd": -29.39,
+      "premium_percent": -1.58
+    },
+    {
+      "date": "2020-07-23",
+      "sge_cny_per_g": 416.37,
+      "usd_cny": 7.0031,
+      "sge_usd_per_oz": 1849.26,
+      "world_gold_usd": 1890.0,
+      "spread_usd": -40.74,
+      "premium_percent": -2.16
+    },
+    {
+      "date": "2020-07-26",
+      "sge_cny_per_g": 426.77,
+      "usd_cny": 7.0161,
+      "sge_usd_per_oz": 1891.94,
+      "world_gold_usd": 1890.0,
+      "spread_usd": 1.94,
+      "premium_percent": 0.1
+    },
+    {
+      "date": "2020-07-27",
+      "sge_cny_per_g": 426.34,
+      "usd_cny": 6.9932,
+      "sge_usd_per_oz": 1896.22,
+      "world_gold_usd": 1931.0,
+      "spread_usd": -34.78,
+      "premium_percent": -1.8
+    },
+    {
+      "date": "2020-07-28",
+      "sge_cny_per_g": 427.54,
+      "usd_cny": 6.9997,
+      "sge_usd_per_oz": 1899.79,
+      "world_gold_usd": 1944.6,
+      "spread_usd": -44.81,
+      "premium_percent": -2.3
+    },
+    {
+      "date": "2020-07-29",
+      "sge_cny_per_g": 424.52,
+      "usd_cny": 7.0003,
+      "sge_usd_per_oz": 1886.21,
+      "world_gold_usd": 1953.4,
+      "spread_usd": -67.19,
+      "premium_percent": -3.44
+    },
+    {
+      "date": "2020-07-30",
+      "sge_cny_per_g": 428.25,
+      "usd_cny": 7.0073,
+      "sge_usd_per_oz": 1900.88,
+      "world_gold_usd": 1942.3,
+      "spread_usd": -41.42,
+      "premium_percent": -2.13
+    },
+    {
+      "date": "2020-08-02",
+      "sge_cny_per_g": 427.25,
+      "usd_cny": 6.9742,
+      "sge_usd_per_oz": 1905.45,
+      "world_gold_usd": 1942.3,
+      "spread_usd": -36.85,
+      "premium_percent": -1.9
+    },
+    {
+      "date": "2020-08-03",
+      "sge_cny_per_g": 427.87,
+      "usd_cny": 6.9794,
+      "sge_usd_per_oz": 1906.79,
+      "world_gold_usd": 1966.0,
+      "spread_usd": -59.21,
+      "premium_percent": -3.01
+    },
+    {
+      "date": "2020-08-04",
+      "sge_cny_per_g": 438.84,
+      "usd_cny": 6.9727,
+      "sge_usd_per_oz": 1957.56,
+      "world_gold_usd": 2021.0,
+      "spread_usd": -63.44,
+      "premium_percent": -3.14
+    },
+    {
+      "date": "2020-08-05",
+      "sge_cny_per_g": 443.08,
+      "usd_cny": 6.9346,
+      "sge_usd_per_oz": 1987.33,
+      "world_gold_usd": 2049.3,
+      "spread_usd": -61.97,
+      "premium_percent": -3.02
+    },
+    {
+      "date": "2020-08-06",
+      "sge_cny_per_g": 445.48,
+      "usd_cny": 6.9524,
+      "sge_usd_per_oz": 1992.98,
+      "world_gold_usd": 2069.4,
+      "spread_usd": -76.42,
+      "premium_percent": -3.69
+    },
+    {
+      "date": "2020-08-09",
+      "sge_cny_per_g": 441.81,
+      "usd_cny": 6.967,
+      "sge_usd_per_oz": 1972.42,
+      "world_gold_usd": 2069.4,
+      "spread_usd": -96.98,
+      "premium_percent": -4.69
+    },
+    {
+      "date": "2020-08-10",
+      "sge_cny_per_g": 433.57,
+      "usd_cny": 6.9608,
+      "sge_usd_per_oz": 1937.35,
+      "world_gold_usd": 2039.7,
+      "spread_usd": -102.35,
+      "premium_percent": -5.02
+    },
+    {
+      "date": "2020-08-11",
+      "sge_cny_per_g": 406.55,
+      "usd_cny": 6.9453,
+      "sge_usd_per_oz": 1820.67,
+      "world_gold_usd": 1946.3,
+      "spread_usd": -125.63,
+      "premium_percent": -6.45
+    },
+    {
+      "date": "2020-08-12",
+      "sge_cny_per_g": 412.5,
+      "usd_cny": 6.9362,
+      "sge_usd_per_oz": 1849.74,
+      "world_gold_usd": 1949.0,
+      "spread_usd": -99.26,
+      "premium_percent": -5.09
+    },
+    {
+      "date": "2020-08-13",
+      "sge_cny_per_g": 417.09,
+      "usd_cny": 6.9436,
+      "sge_usd_per_oz": 1868.33,
+      "world_gold_usd": 1970.4,
+      "spread_usd": -102.07,
+      "premium_percent": -5.18
+    },
+    {
+      "date": "2020-08-16",
+      "sge_cny_per_g": 420.41,
+      "usd_cny": 6.9494,
+      "sge_usd_per_oz": 1881.63,
+      "world_gold_usd": 1970.4,
+      "spread_usd": -88.77,
+      "premium_percent": -4.51
+    },
+    {
+      "date": "2020-08-17",
+      "sge_cny_per_g": 429.21,
+      "usd_cny": 6.9318,
+      "sge_usd_per_oz": 1925.9,
+      "world_gold_usd": 1998.7,
+      "spread_usd": -72.8,
+      "premium_percent": -3.64
+    },
+    {
+      "date": "2020-08-18",
+      "sge_cny_per_g": 423.92,
+      "usd_cny": 6.9208,
+      "sge_usd_per_oz": 1905.18,
+      "world_gold_usd": 2013.1,
+      "spread_usd": -107.92,
+      "premium_percent": -5.36
+    },
+    {
+      "date": "2020-08-19",
+      "sge_cny_per_g": 414.83,
+      "usd_cny": 6.9192,
+      "sge_usd_per_oz": 1864.76,
+      "world_gold_usd": 1970.3,
+      "spread_usd": -105.54,
+      "premium_percent": -5.36
+    },
+    {
+      "date": "2020-08-20",
+      "sge_cny_per_g": 415.36,
+      "usd_cny": 6.9148,
+      "sge_usd_per_oz": 1868.33,
+      "world_gold_usd": 1946.5,
+      "spread_usd": -78.17,
+      "premium_percent": -4.02
+    },
+    {
+      "date": "2020-08-23",
+      "sge_cny_per_g": 412.74,
+      "usd_cny": 6.9185,
+      "sge_usd_per_oz": 1855.55,
+      "world_gold_usd": 1946.5,
+      "spread_usd": -90.95,
+      "premium_percent": -4.67
+    },
+    {
+      "date": "2020-08-24",
+      "sge_cny_per_g": 413.72,
+      "usd_cny": 6.9189,
+      "sge_usd_per_oz": 1859.85,
+      "world_gold_usd": 1939.2,
+      "spread_usd": -79.35,
+      "premium_percent": -4.09
+    },
+    {
+      "date": "2020-08-25",
+      "sge_cny_per_g": 412.43,
+      "usd_cny": 6.9119,
+      "sge_usd_per_oz": 1855.93,
+      "world_gold_usd": 1923.1,
+      "spread_usd": -67.17,
+      "premium_percent": -3.49
+    },
+    {
+      "date": "2020-08-26",
+      "sge_cny_per_g": 417.59,
+      "usd_cny": 6.8849,
+      "sge_usd_per_oz": 1886.52,
+      "world_gold_usd": 1952.5,
+      "spread_usd": -65.98,
+      "premium_percent": -3.38
+    },
+    {
+      "date": "2020-08-27",
+      "sge_cny_per_g": 417.68,
+      "usd_cny": 6.8892,
+      "sge_usd_per_oz": 1885.75,
+      "world_gold_usd": 1932.6,
+      "spread_usd": -46.85,
+      "premium_percent": -2.42
+    },
+    {
+      "date": "2020-08-30",
+      "sge_cny_per_g": 419.14,
+      "usd_cny": 6.8644,
+      "sge_usd_per_oz": 1899.18,
+      "world_gold_usd": 1932.6,
+      "spread_usd": -33.42,
+      "premium_percent": -1.73
+    },
+    {
+      "date": "2020-08-31",
+      "sge_cny_per_g": 423.5,
+      "usd_cny": 6.8477,
+      "sge_usd_per_oz": 1923.61,
+      "world_gold_usd": 1978.6,
+      "spread_usd": -54.99,
+      "premium_percent": -2.78
+    },
+    {
+      "date": "2020-09-01",
+      "sge_cny_per_g": 419.61,
+      "usd_cny": 6.8275,
+      "sge_usd_per_oz": 1911.58,
+      "world_gold_usd": 1978.9,
+      "spread_usd": -67.32,
+      "premium_percent": -3.4
+    },
+    {
+      "date": "2020-09-02",
+      "sge_cny_per_g": 412.18,
+      "usd_cny": 6.8373,
+      "sge_usd_per_oz": 1875.04,
+      "world_gold_usd": 1944.7,
+      "spread_usd": -69.66,
+      "premium_percent": -3.58
+    },
+    {
+      "date": "2020-09-03",
+      "sge_cny_per_g": 413.84,
+      "usd_cny": 6.8458,
+      "sge_usd_per_oz": 1880.26,
+      "world_gold_usd": 1937.8,
+      "spread_usd": -57.54,
+      "premium_percent": -2.97
+    },
+    {
+      "date": "2020-09-06",
+      "sge_cny_per_g": 413.56,
+      "usd_cny": 6.8415,
+      "sge_usd_per_oz": 1880.17,
+      "world_gold_usd": 1937.8,
+      "spread_usd": -57.63,
+      "premium_percent": -2.97
+    },
+    {
+      "date": "2020-09-07",
+      "sge_cny_per_g": 413.95,
+      "usd_cny": 6.8295,
+      "sge_usd_per_oz": 1885.25,
+      "world_gold_usd": 1937.8,
+      "spread_usd": -52.55,
+      "premium_percent": -2.71
+    },
+    {
+      "date": "2020-09-08",
+      "sge_cny_per_g": 413.83,
+      "usd_cny": 6.8451,
+      "sge_usd_per_oz": 1880.4,
+      "world_gold_usd": 1943.2,
+      "spread_usd": -62.8,
+      "premium_percent": -3.23
+    },
+    {
+      "date": "2020-09-09",
+      "sge_cny_per_g": 416.98,
+      "usd_cny": 6.8318,
+      "sge_usd_per_oz": 1898.41,
+      "world_gold_usd": 1954.9,
+      "spread_usd": -56.49,
+      "premium_percent": -2.89
+    },
+    {
+      "date": "2020-09-10",
+      "sge_cny_per_g": 415.91,
+      "usd_cny": 6.8333,
+      "sge_usd_per_oz": 1893.12,
+      "world_gold_usd": 1964.3,
+      "spread_usd": -71.18,
+      "premium_percent": -3.62
+    },
+    {
+      "date": "2020-09-13",
+      "sge_cny_per_g": 415.9,
+      "usd_cny": 6.8334,
+      "sge_usd_per_oz": 1893.05,
+      "world_gold_usd": 1964.3,
+      "spread_usd": -71.25,
+      "premium_percent": -3.63
+    },
+    {
+      "date": "2020-09-14",
+      "sge_cny_per_g": 417.12,
+      "usd_cny": 6.8091,
+      "sge_usd_per_oz": 1905.37,
+      "world_gold_usd": 1963.7,
+      "spread_usd": -58.33,
+      "premium_percent": -2.97
+    },
+    {
+      "date": "2020-09-15",
+      "sge_cny_per_g": 416.02,
+      "usd_cny": 6.7803,
+      "sge_usd_per_oz": 1908.42,
+      "world_gold_usd": 1966.2,
+      "spread_usd": -57.78,
+      "premium_percent": -2.94
+    },
+    {
+      "date": "2020-09-16",
+      "sge_cny_per_g": 413.54,
+      "usd_cny": 6.7537,
+      "sge_usd_per_oz": 1904.52,
+      "world_gold_usd": 1970.5,
+      "spread_usd": -65.98,
+      "premium_percent": -3.35
+    },
+    {
+      "date": "2020-09-17",
+      "sge_cny_per_g": 414.77,
+      "usd_cny": 6.7641,
+      "sge_usd_per_oz": 1907.24,
+      "world_gold_usd": 1949.9,
+      "spread_usd": -42.66,
+      "premium_percent": -2.19
+    },
+    {
+      "date": "2020-09-20",
+      "sge_cny_per_g": 414.65,
+      "usd_cny": 6.768,
+      "sge_usd_per_oz": 1905.59,
+      "world_gold_usd": 1949.9,
+      "spread_usd": -44.31,
+      "premium_percent": -2.27
+    },
+    {
+      "date": "2020-09-21",
+      "sge_cny_per_g": 405.8,
+      "usd_cny": 6.8037,
+      "sge_usd_per_oz": 1855.14,
+      "world_gold_usd": 1910.6,
+      "spread_usd": -55.46,
+      "premium_percent": -2.9
+    },
+    {
+      "date": "2020-09-22",
+      "sge_cny_per_g": 399.33,
+      "usd_cny": 6.7784,
+      "sge_usd_per_oz": 1832.37,
+      "world_gold_usd": 1907.6,
+      "spread_usd": -75.23,
+      "premium_percent": -3.94
+    },
+    {
+      "date": "2020-09-23",
+      "sge_cny_per_g": 394.5,
+      "usd_cny": 6.8089,
+      "sge_usd_per_oz": 1802.1,
+      "world_gold_usd": 1868.4,
+      "spread_usd": -66.3,
+      "premium_percent": -3.55
+    },
+    {
+      "date": "2020-09-24",
+      "sge_cny_per_g": 399.79,
+      "usd_cny": 6.8277,
+      "sge_usd_per_oz": 1821.24,
+      "world_gold_usd": 1876.9,
+      "spread_usd": -55.66,
+      "premium_percent": -2.97
+    },
+    {
+      "date": "2020-09-27",
+      "sge_cny_per_g": 398.66,
+      "usd_cny": 6.8228,
+      "sge_usd_per_oz": 1817.39,
+      "world_gold_usd": 1876.9,
+      "spread_usd": -59.51,
+      "premium_percent": -3.17
+    },
+    {
+      "date": "2020-09-28",
+      "sge_cny_per_g": 403.86,
+      "usd_cny": 6.8108,
+      "sge_usd_per_oz": 1844.34,
+      "world_gold_usd": 1882.3,
+      "spread_usd": -37.96,
+      "premium_percent": -2.02
+    },
+    {
+      "date": "2020-09-29",
+      "sge_cny_per_g": 403.68,
+      "usd_cny": 6.8154,
+      "sge_usd_per_oz": 1842.28,
+      "world_gold_usd": 1903.2,
+      "spread_usd": -60.92,
+      "premium_percent": -3.2
+    },
+    {
+      "date": "2020-10-08",
+      "sge_cny_per_g": 404.18,
+      "usd_cny": 6.7892,
+      "sge_usd_per_oz": 1851.68,
+      "world_gold_usd": 1895.1,
+      "spread_usd": -43.42,
+      "premium_percent": -2.29
+    },
+    {
+      "date": "2020-10-11",
+      "sge_cny_per_g": 408.68,
+      "usd_cny": 6.6937,
+      "sge_usd_per_oz": 1899.0,
+      "world_gold_usd": 1895.1,
+      "spread_usd": 3.9,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2020-10-12",
+      "sge_cny_per_g": 406.64,
+      "usd_cny": 6.7444,
+      "sge_usd_per_oz": 1875.32,
+      "world_gold_usd": 1928.9,
+      "spread_usd": -53.58,
+      "premium_percent": -2.78
+    },
+    {
+      "date": "2020-10-13",
+      "sge_cny_per_g": 402.53,
+      "usd_cny": 6.7455,
+      "sge_usd_per_oz": 1856.06,
+      "world_gold_usd": 1894.6,
+      "spread_usd": -38.54,
+      "premium_percent": -2.03
+    },
+    {
+      "date": "2020-10-14",
+      "sge_cny_per_g": 401.99,
+      "usd_cny": 6.7136,
+      "sge_usd_per_oz": 1862.38,
+      "world_gold_usd": 1907.3,
+      "spread_usd": -44.92,
+      "premium_percent": -2.36
+    },
+    {
+      "date": "2020-10-15",
+      "sge_cny_per_g": 403.63,
+      "usd_cny": 6.7239,
+      "sge_usd_per_oz": 1867.12,
+      "world_gold_usd": 1908.9,
+      "spread_usd": -41.78,
+      "premium_percent": -2.19
+    },
+    {
+      "date": "2020-10-18",
+      "sge_cny_per_g": 403.96,
+      "usd_cny": 6.6966,
+      "sge_usd_per_oz": 1876.26,
+      "world_gold_usd": 1908.9,
+      "spread_usd": -32.64,
+      "premium_percent": -1.71
+    },
+    {
+      "date": "2020-10-19",
+      "sge_cny_per_g": 402.16,
+      "usd_cny": 6.6807,
+      "sge_usd_per_oz": 1872.34,
+      "world_gold_usd": 1911.7,
+      "spread_usd": -39.36,
+      "premium_percent": -2.06
+    },
+    {
+      "date": "2020-10-20",
+      "sge_cny_per_g": 403.98,
+      "usd_cny": 6.6752,
+      "sge_usd_per_oz": 1882.37,
+      "world_gold_usd": 1915.4,
+      "spread_usd": -33.03,
+      "premium_percent": -1.72
+    },
+    {
+      "date": "2020-10-21",
+      "sge_cny_per_g": 403.89,
+      "usd_cny": 6.65,
+      "sge_usd_per_oz": 1889.08,
+      "world_gold_usd": 1929.5,
+      "spread_usd": -40.42,
+      "premium_percent": -2.09
+    },
+    {
+      "date": "2020-10-22",
+      "sge_cny_per_g": 402.63,
+      "usd_cny": 6.6835,
+      "sge_usd_per_oz": 1873.75,
+      "world_gold_usd": 1904.6,
+      "spread_usd": -30.85,
+      "premium_percent": -1.62
+    },
+    {
+      "date": "2020-10-25",
+      "sge_cny_per_g": 400.68,
+      "usd_cny": 6.6835,
+      "sge_usd_per_oz": 1864.67,
+      "world_gold_usd": 1904.6,
+      "spread_usd": -39.93,
+      "premium_percent": -2.1
+    },
+    {
+      "date": "2020-10-26",
+      "sge_cny_per_g": 404.28,
+      "usd_cny": 6.6857,
+      "sge_usd_per_oz": 1880.81,
+      "world_gold_usd": 1905.7,
+      "spread_usd": -24.89,
+      "premium_percent": -1.31
+    },
+    {
+      "date": "2020-10-27",
+      "sge_cny_per_g": 404.43,
+      "usd_cny": 6.7113,
+      "sge_usd_per_oz": 1874.33,
+      "world_gold_usd": 1911.9,
+      "spread_usd": -37.57,
+      "premium_percent": -1.97
+    },
+    {
+      "date": "2020-10-28",
+      "sge_cny_per_g": 399.09,
+      "usd_cny": 6.7044,
+      "sge_usd_per_oz": 1851.48,
+      "world_gold_usd": 1879.2,
+      "spread_usd": -27.72,
+      "premium_percent": -1.47
+    },
+    {
+      "date": "2020-10-29",
+      "sge_cny_per_g": 396.52,
+      "usd_cny": 6.7279,
+      "sge_usd_per_oz": 1833.14,
+      "world_gold_usd": 1868.0,
+      "spread_usd": -34.86,
+      "premium_percent": -1.87
+    },
+    {
+      "date": "2020-11-01",
+      "sge_cny_per_g": 400.11,
+      "usd_cny": 6.7279,
+      "sge_usd_per_oz": 1849.73,
+      "world_gold_usd": 1868.0,
+      "spread_usd": -18.27,
+      "premium_percent": -0.98
+    },
+    {
+      "date": "2020-11-02",
+      "sge_cny_per_g": 401.76,
+      "usd_cny": 6.6891,
+      "sge_usd_per_oz": 1868.13,
+      "world_gold_usd": 1892.5,
+      "spread_usd": -24.37,
+      "premium_percent": -1.29
+    },
+    {
+      "date": "2020-11-03",
+      "sge_cny_per_g": 403.43,
+      "usd_cny": 6.6897,
+      "sge_usd_per_oz": 1875.73,
+      "world_gold_usd": 1910.4,
+      "spread_usd": -34.67,
+      "premium_percent": -1.81
+    },
+    {
+      "date": "2020-11-04",
+      "sge_cny_per_g": 403.25,
+      "usd_cny": 6.6766,
+      "sge_usd_per_oz": 1878.57,
+      "world_gold_usd": 1896.2,
+      "spread_usd": -17.63,
+      "premium_percent": -0.93
+    },
+    {
+      "date": "2020-11-05",
+      "sge_cny_per_g": 407.15,
+      "usd_cny": 6.652,
+      "sge_usd_per_oz": 1903.76,
+      "world_gold_usd": 1946.8,
+      "spread_usd": -43.04,
+      "premium_percent": -2.21
+    },
+    {
+      "date": "2020-11-08",
+      "sge_cny_per_g": 406.55,
+      "usd_cny": 6.652,
+      "sge_usd_per_oz": 1900.95,
+      "world_gold_usd": 1946.8,
+      "spread_usd": -45.85,
+      "premium_percent": -2.36
+    },
+    {
+      "date": "2020-11-09",
+      "sge_cny_per_g": 396.23,
+      "usd_cny": 6.6104,
+      "sge_usd_per_oz": 1864.35,
+      "world_gold_usd": 1854.4,
+      "spread_usd": 9.95,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2020-11-10",
+      "sge_cny_per_g": 395.17,
+      "usd_cny": 6.6281,
+      "sge_usd_per_oz": 1854.4,
+      "world_gold_usd": 1876.4,
+      "spread_usd": -22.0,
+      "premium_percent": -1.17
+    },
+    {
+      "date": "2020-11-11",
+      "sge_cny_per_g": 394.7,
+      "usd_cny": 6.6148,
+      "sge_usd_per_oz": 1855.92,
+      "world_gold_usd": 1861.6,
+      "spread_usd": -5.68,
+      "premium_percent": -0.31
+    },
+    {
+      "date": "2020-11-12",
+      "sge_cny_per_g": 396.15,
+      "usd_cny": 6.6308,
+      "sge_usd_per_oz": 1858.24,
+      "world_gold_usd": 1873.3,
+      "spread_usd": -15.06,
+      "premium_percent": -0.8
+    },
+    {
+      "date": "2020-11-15",
+      "sge_cny_per_g": 396.02,
+      "usd_cny": 6.6308,
+      "sge_usd_per_oz": 1857.63,
+      "world_gold_usd": 1873.3,
+      "spread_usd": -15.67,
+      "premium_percent": -0.84
+    },
+    {
+      "date": "2020-11-16",
+      "sge_cny_per_g": 395.13,
+      "usd_cny": 6.6054,
+      "sge_usd_per_oz": 1860.59,
+      "world_gold_usd": 1887.8,
+      "spread_usd": -27.21,
+      "premium_percent": -1.44
+    },
+    {
+      "date": "2020-11-17",
+      "sge_cny_per_g": 393.04,
+      "usd_cny": 6.5838,
+      "sge_usd_per_oz": 1856.82,
+      "world_gold_usd": 1885.1,
+      "spread_usd": -28.28,
+      "premium_percent": -1.5
+    },
+    {
+      "date": "2020-11-18",
+      "sge_cny_per_g": 391.16,
+      "usd_cny": 6.5551,
+      "sge_usd_per_oz": 1856.03,
+      "world_gold_usd": 1873.9,
+      "spread_usd": -17.87,
+      "premium_percent": -0.95
+    },
+    {
+      "date": "2020-11-19",
+      "sge_cny_per_g": 391.26,
+      "usd_cny": 6.5595,
+      "sge_usd_per_oz": 1855.26,
+      "world_gold_usd": 1861.5,
+      "spread_usd": -6.24,
+      "premium_percent": -0.34
+    },
+    {
+      "date": "2020-11-22",
+      "sge_cny_per_g": 391.56,
+      "usd_cny": 6.5595,
+      "sge_usd_per_oz": 1856.68,
+      "world_gold_usd": 1861.5,
+      "spread_usd": -4.82,
+      "premium_percent": -0.26
+    },
+    {
+      "date": "2020-11-23",
+      "sge_cny_per_g": 383.05,
+      "usd_cny": 6.5619,
+      "sge_usd_per_oz": 1815.66,
+      "world_gold_usd": 1837.8,
+      "spread_usd": -22.14,
+      "premium_percent": -1.2
+    },
+    {
+      "date": "2020-11-24",
+      "sge_cny_per_g": 378.61,
+      "usd_cny": 6.5845,
+      "sge_usd_per_oz": 1788.46,
+      "world_gold_usd": 1804.6,
+      "spread_usd": -16.14,
+      "premium_percent": -0.89
+    },
+    {
+      "date": "2020-11-25",
+      "sge_cny_per_g": 378.91,
+      "usd_cny": 6.5902,
+      "sge_usd_per_oz": 1788.32,
+      "world_gold_usd": 1805.5,
+      "spread_usd": -17.18,
+      "premium_percent": -0.95
+    },
+    {
+      "date": "2020-11-26",
+      "sge_cny_per_g": 378.83,
+      "usd_cny": 6.5775,
+      "sge_usd_per_oz": 1791.4,
+      "world_gold_usd": 1805.5,
+      "spread_usd": -14.1,
+      "premium_percent": -0.78
+    },
+    {
+      "date": "2020-11-29",
+      "sge_cny_per_g": 369.7,
+      "usd_cny": 6.5775,
+      "sge_usd_per_oz": 1748.23,
+      "world_gold_usd": 1805.5,
+      "spread_usd": -57.27,
+      "premium_percent": -3.17
+    },
+    {
+      "date": "2020-11-30",
+      "sge_cny_per_g": 372.24,
+      "usd_cny": 6.576,
+      "sge_usd_per_oz": 1760.64,
+      "world_gold_usd": 1775.7,
+      "spread_usd": -15.06,
+      "premium_percent": -0.85
+    },
+    {
+      "date": "2020-12-01",
+      "sge_cny_per_g": 377.72,
+      "usd_cny": 6.5778,
+      "sge_usd_per_oz": 1786.07,
+      "world_gold_usd": 1814.1,
+      "spread_usd": -28.03,
+      "premium_percent": -1.55
+    },
+    {
+      "date": "2020-12-02",
+      "sge_cny_per_g": 381.7,
+      "usd_cny": 6.5708,
+      "sge_usd_per_oz": 1806.81,
+      "world_gold_usd": 1830.2,
+      "spread_usd": -23.39,
+      "premium_percent": -1.28
+    },
+    {
+      "date": "2020-12-03",
+      "sge_cny_per_g": 382.08,
+      "usd_cny": 6.5624,
+      "sge_usd_per_oz": 1810.93,
+      "world_gold_usd": 1841.1,
+      "spread_usd": -30.17,
+      "premium_percent": -1.64
+    },
+    {
+      "date": "2020-12-06",
+      "sge_cny_per_g": 381.87,
+      "usd_cny": 6.5624,
+      "sge_usd_per_oz": 1809.93,
+      "world_gold_usd": 1841.1,
+      "spread_usd": -31.17,
+      "premium_percent": -1.69
+    },
+    {
+      "date": "2020-12-07",
+      "sge_cny_per_g": 386.96,
+      "usd_cny": 6.5306,
+      "sge_usd_per_oz": 1842.99,
+      "world_gold_usd": 1866.0,
+      "spread_usd": -23.01,
+      "premium_percent": -1.23
+    },
+    {
+      "date": "2020-12-08",
+      "sge_cny_per_g": 384.9,
+      "usd_cny": 6.5287,
+      "sge_usd_per_oz": 1833.71,
+      "world_gold_usd": 1874.9,
+      "spread_usd": -41.19,
+      "premium_percent": -2.2
+    },
+    {
+      "date": "2020-12-09",
+      "sge_cny_per_g": 381.19,
+      "usd_cny": 6.5317,
+      "sge_usd_per_oz": 1815.2,
+      "world_gold_usd": 1838.5,
+      "spread_usd": -23.3,
+      "premium_percent": -1.27
+    },
+    {
+      "date": "2020-12-10",
+      "sge_cny_per_g": 380.97,
+      "usd_cny": 6.5422,
+      "sge_usd_per_oz": 1811.24,
+      "world_gold_usd": 1837.4,
+      "spread_usd": -26.16,
+      "premium_percent": -1.42
+    },
+    {
+      "date": "2020-12-13",
+      "sge_cny_per_g": 380.82,
+      "usd_cny": 6.5422,
+      "sge_usd_per_oz": 1810.53,
+      "world_gold_usd": 1837.4,
+      "spread_usd": -26.87,
+      "premium_percent": -1.46
+    },
+    {
+      "date": "2020-12-14",
+      "sge_cny_per_g": 383.5,
+      "usd_cny": 6.5457,
+      "sge_usd_per_oz": 1822.29,
+      "world_gold_usd": 1832.1,
+      "spread_usd": -9.81,
+      "premium_percent": -0.54
+    },
+    {
+      "date": "2020-12-15",
+      "sge_cny_per_g": 386.08,
+      "usd_cny": 6.5497,
+      "sge_usd_per_oz": 1833.43,
+      "world_gold_usd": 1855.3,
+      "spread_usd": -21.87,
+      "premium_percent": -1.18
+    },
+    {
+      "date": "2020-12-16",
+      "sge_cny_per_g": 388.24,
+      "usd_cny": 6.5383,
+      "sge_usd_per_oz": 1846.9,
+      "world_gold_usd": 1859.1,
+      "spread_usd": -12.2,
+      "premium_percent": -0.66
+    },
+    {
+      "date": "2020-12-17",
+      "sge_cny_per_g": 391.19,
+      "usd_cny": 6.5313,
+      "sge_usd_per_oz": 1862.93,
+      "world_gold_usd": 1890.4,
+      "spread_usd": -27.47,
+      "premium_percent": -1.45
+    },
+    {
+      "date": "2020-12-20",
+      "sge_cny_per_g": 396.35,
+      "usd_cny": 6.5313,
+      "sge_usd_per_oz": 1887.51,
+      "world_gold_usd": 1890.4,
+      "spread_usd": -2.89,
+      "premium_percent": -0.15
+    },
+    {
+      "date": "2020-12-21",
+      "sge_cny_per_g": 390.41,
+      "usd_cny": 6.536,
+      "sge_usd_per_oz": 1857.88,
+      "world_gold_usd": 1882.8,
+      "spread_usd": -24.92,
+      "premium_percent": -1.32
+    },
+    {
+      "date": "2020-12-22",
+      "sge_cny_per_g": 389.13,
+      "usd_cny": 6.5482,
+      "sge_usd_per_oz": 1848.34,
+      "world_gold_usd": 1870.3,
+      "spread_usd": -21.96,
+      "premium_percent": -1.17
+    },
+    {
+      "date": "2020-12-23",
+      "sge_cny_per_g": 390.66,
+      "usd_cny": 6.5422,
+      "sge_usd_per_oz": 1857.31,
+      "world_gold_usd": 1878.1,
+      "spread_usd": -20.79,
+      "premium_percent": -1.11
+    },
+    {
+      "date": "2020-12-24",
+      "sge_cny_per_g": 392.37,
+      "usd_cny": 6.5396,
+      "sge_usd_per_oz": 1866.18,
+      "world_gold_usd": 1883.2,
+      "spread_usd": -17.02,
+      "premium_percent": -0.9
+    },
+    {
+      "date": "2020-12-27",
+      "sge_cny_per_g": 392.63,
+      "usd_cny": 6.5396,
+      "sge_usd_per_oz": 1867.42,
+      "world_gold_usd": 1883.2,
+      "spread_usd": -15.78,
+      "premium_percent": -0.84
+    },
+    {
+      "date": "2020-12-28",
+      "sge_cny_per_g": 390.42,
+      "usd_cny": 6.5408,
+      "sge_usd_per_oz": 1856.56,
+      "world_gold_usd": 1880.4,
+      "spread_usd": -23.84,
+      "premium_percent": -1.27
+    },
+    {
+      "date": "2020-12-29",
+      "sge_cny_per_g": 390.46,
+      "usd_cny": 6.5356,
+      "sge_usd_per_oz": 1858.23,
+      "world_gold_usd": 1882.9,
+      "spread_usd": -24.67,
+      "premium_percent": -1.31
+    },
+    {
+      "date": "2020-12-30",
+      "sge_cny_per_g": 392.56,
+      "usd_cny": 6.53,
+      "sge_usd_per_oz": 1869.83,
+      "world_gold_usd": 1893.4,
+      "spread_usd": -23.57,
+      "premium_percent": -1.24
+    },
+    {
+      "date": "2021-01-03",
+      "sge_cny_per_g": 397.93,
+      "usd_cny": 6.53,
+      "sge_usd_per_oz": 1895.41,
+      "world_gold_usd": 1893.4,
+      "spread_usd": 2.01,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2021-01-04",
+      "sge_cny_per_g": 400.14,
+      "usd_cny": 6.532,
+      "sge_usd_per_oz": 1905.35,
+      "world_gold_usd": 1946.6,
+      "spread_usd": -41.25,
+      "premium_percent": -2.12
+    },
+    {
+      "date": "2021-01-05",
+      "sge_cny_per_g": 400.87,
+      "usd_cny": 6.4605,
+      "sge_usd_per_oz": 1929.95,
+      "world_gold_usd": 1954.4,
+      "spread_usd": -24.45,
+      "premium_percent": -1.25
+    },
+    {
+      "date": "2021-01-06",
+      "sge_cny_per_g": 398.1,
+      "usd_cny": 6.4552,
+      "sge_usd_per_oz": 1918.19,
+      "world_gold_usd": 1908.6,
+      "spread_usd": 9.59,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2021-01-07",
+      "sge_cny_per_g": 395.25,
+      "usd_cny": 6.4607,
+      "sge_usd_per_oz": 1902.84,
+      "world_gold_usd": 1913.6,
+      "spread_usd": -10.76,
+      "premium_percent": -0.56
+    },
+    {
+      "date": "2021-01-10",
+      "sge_cny_per_g": 384.25,
+      "usd_cny": 6.4607,
+      "sge_usd_per_oz": 1849.88,
+      "world_gold_usd": 1913.6,
+      "spread_usd": -63.72,
+      "premium_percent": -3.33
+    },
+    {
+      "date": "2021-01-11",
+      "sge_cny_per_g": 387.62,
+      "usd_cny": 6.4743,
+      "sge_usd_per_oz": 1862.18,
+      "world_gold_usd": 1850.8,
+      "spread_usd": 11.38,
+      "premium_percent": 0.62
+    },
+    {
+      "date": "2021-01-12",
+      "sge_cny_per_g": 386.87,
+      "usd_cny": 6.4797,
+      "sge_usd_per_oz": 1857.03,
+      "world_gold_usd": 1844.2,
+      "spread_usd": 12.83,
+      "premium_percent": 0.7
+    },
+    {
+      "date": "2021-01-13",
+      "sge_cny_per_g": 384.11,
+      "usd_cny": 6.4629,
+      "sge_usd_per_oz": 1848.58,
+      "world_gold_usd": 1854.9,
+      "spread_usd": -6.32,
+      "premium_percent": -0.34
+    },
+    {
+      "date": "2021-01-14",
+      "sge_cny_per_g": 385.53,
+      "usd_cny": 6.467,
+      "sge_usd_per_oz": 1854.23,
+      "world_gold_usd": 1851.4,
+      "spread_usd": 2.83,
+      "premium_percent": 0.15
+    },
+    {
+      "date": "2021-01-17",
+      "sge_cny_per_g": 384.68,
+      "usd_cny": 6.467,
+      "sge_usd_per_oz": 1850.14,
+      "world_gold_usd": 1851.4,
+      "spread_usd": -1.26,
+      "premium_percent": -0.07
+    },
+    {
+      "date": "2021-01-18",
+      "sge_cny_per_g": 384.82,
+      "usd_cny": 6.4797,
+      "sge_usd_per_oz": 1847.19,
+      "world_gold_usd": 1851.4,
+      "spread_usd": -4.21,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2021-01-19",
+      "sge_cny_per_g": 386.43,
+      "usd_cny": 6.4914,
+      "sge_usd_per_oz": 1851.58,
+      "world_gold_usd": 1840.2,
+      "spread_usd": 11.38,
+      "premium_percent": 0.62
+    },
+    {
+      "date": "2021-01-20",
+      "sge_cny_per_g": 389.73,
+      "usd_cny": 6.4779,
+      "sge_usd_per_oz": 1871.28,
+      "world_gold_usd": 1866.5,
+      "spread_usd": 4.78,
+      "premium_percent": 0.26
+    },
+    {
+      "date": "2021-01-21",
+      "sge_cny_per_g": 387.96,
+      "usd_cny": 6.4654,
+      "sge_usd_per_oz": 1866.38,
+      "world_gold_usd": 1865.9,
+      "spread_usd": 0.48,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2021-01-24",
+      "sge_cny_per_g": 386.27,
+      "usd_cny": 6.4654,
+      "sge_usd_per_oz": 1858.25,
+      "world_gold_usd": 1865.9,
+      "spread_usd": -7.65,
+      "premium_percent": -0.41
+    },
+    {
+      "date": "2021-01-25",
+      "sge_cny_per_g": 387.05,
+      "usd_cny": 6.4808,
+      "sge_usd_per_oz": 1857.58,
+      "world_gold_usd": 1855.2,
+      "spread_usd": 2.38,
+      "premium_percent": 0.13
+    },
+    {
+      "date": "2021-01-26",
+      "sge_cny_per_g": 384.92,
+      "usd_cny": 6.4787,
+      "sge_usd_per_oz": 1847.96,
+      "world_gold_usd": 1850.9,
+      "spread_usd": -2.94,
+      "premium_percent": -0.16
+    },
+    {
+      "date": "2021-01-27",
+      "sge_cny_per_g": 383.4,
+      "usd_cny": 6.4637,
+      "sge_usd_per_oz": 1844.93,
+      "world_gold_usd": 1844.9,
+      "spread_usd": 0.03,
+      "premium_percent": 0.0
+    },
+    {
+      "date": "2021-01-28",
+      "sge_cny_per_g": 385.0,
+      "usd_cny": 6.4821,
+      "sge_usd_per_oz": 1847.37,
+      "world_gold_usd": 1837.9,
+      "spread_usd": 9.47,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2021-01-31",
+      "sge_cny_per_g": 389.02,
+      "usd_cny": 6.4821,
+      "sge_usd_per_oz": 1866.66,
+      "world_gold_usd": 1837.9,
+      "spread_usd": 28.76,
+      "premium_percent": 1.56
+    },
+    {
+      "date": "2021-02-01",
+      "sge_cny_per_g": 386.19,
+      "usd_cny": 6.4268,
+      "sge_usd_per_oz": 1869.03,
+      "world_gold_usd": 1863.9,
+      "spread_usd": 5.13,
+      "premium_percent": 0.27
+    },
+    {
+      "date": "2021-02-02",
+      "sge_cny_per_g": 382.34,
+      "usd_cny": 6.4675,
+      "sge_usd_per_oz": 1838.75,
+      "world_gold_usd": 1833.4,
+      "spread_usd": 5.35,
+      "premium_percent": 0.29
+    },
+    {
+      "date": "2021-02-03",
+      "sge_cny_per_g": 379.48,
+      "usd_cny": 6.4564,
+      "sge_usd_per_oz": 1828.13,
+      "world_gold_usd": 1835.1,
+      "spread_usd": -6.97,
+      "premium_percent": -0.38
+    },
+    {
+      "date": "2021-02-04",
+      "sge_cny_per_g": 375.33,
+      "usd_cny": 6.4592,
+      "sge_usd_per_oz": 1807.36,
+      "world_gold_usd": 1791.2,
+      "spread_usd": 16.16,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2021-02-07",
+      "sge_cny_per_g": 378.69,
+      "usd_cny": 6.4592,
+      "sge_usd_per_oz": 1823.53,
+      "world_gold_usd": 1791.2,
+      "spread_usd": 32.33,
+      "premium_percent": 1.81
+    },
+    {
+      "date": "2021-02-08",
+      "sge_cny_per_g": 383.02,
+      "usd_cny": 6.4657,
+      "sge_usd_per_oz": 1842.53,
+      "world_gold_usd": 1834.2,
+      "spread_usd": 8.33,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2021-02-09",
+      "sge_cny_per_g": 383.07,
+      "usd_cny": 6.448,
+      "sge_usd_per_oz": 1847.83,
+      "world_gold_usd": 1837.5,
+      "spread_usd": 10.33,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2021-02-17",
+      "sge_cny_per_g": 371.86,
+      "usd_cny": 6.4571,
+      "sge_usd_per_oz": 1791.23,
+      "world_gold_usd": 1772.8,
+      "spread_usd": 18.43,
+      "premium_percent": 1.04
+    },
+    {
+      "date": "2021-02-18",
+      "sge_cny_per_g": 370.31,
+      "usd_cny": 6.4576,
+      "sge_usd_per_oz": 1783.62,
+      "world_gold_usd": 1775.0,
+      "spread_usd": 8.62,
+      "premium_percent": 0.49
+    },
+    {
+      "date": "2021-02-21",
+      "sge_cny_per_g": 374.42,
+      "usd_cny": 6.4576,
+      "sge_usd_per_oz": 1803.42,
+      "world_gold_usd": 1775.0,
+      "spread_usd": 28.42,
+      "premium_percent": 1.6
+    },
+    {
+      "date": "2021-02-22",
+      "sge_cny_per_g": 378.12,
+      "usd_cny": 6.4858,
+      "sge_usd_per_oz": 1813.32,
+      "world_gold_usd": 1808.4,
+      "spread_usd": 4.92,
+      "premium_percent": 0.27
+    },
+    {
+      "date": "2021-02-23",
+      "sge_cny_per_g": 377.44,
+      "usd_cny": 6.4631,
+      "sge_usd_per_oz": 1816.42,
+      "world_gold_usd": 1805.9,
+      "spread_usd": 10.52,
+      "premium_percent": 0.58
+    },
+    {
+      "date": "2021-02-24",
+      "sge_cny_per_g": 373.86,
+      "usd_cny": 6.463,
+      "sge_usd_per_oz": 1799.22,
+      "world_gold_usd": 1797.9,
+      "spread_usd": 1.32,
+      "premium_percent": 0.07
+    },
+    {
+      "date": "2021-02-25",
+      "sge_cny_per_g": 368.31,
+      "usd_cny": 6.456,
+      "sge_usd_per_oz": 1774.43,
+      "world_gold_usd": 1775.4,
+      "spread_usd": -0.97,
+      "premium_percent": -0.05
+    },
+    {
+      "date": "2021-02-28",
+      "sge_cny_per_g": 366.56,
+      "usd_cny": 6.456,
+      "sge_usd_per_oz": 1766.0,
+      "world_gold_usd": 1775.4,
+      "spread_usd": -9.4,
+      "premium_percent": -0.53
+    },
+    {
+      "date": "2021-03-01",
+      "sge_cny_per_g": 360.1,
+      "usd_cny": 6.4779,
+      "sge_usd_per_oz": 1729.01,
+      "world_gold_usd": 1723.0,
+      "spread_usd": 6.01,
+      "premium_percent": 0.35
+    },
+    {
+      "date": "2021-03-02",
+      "sge_cny_per_g": 361.74,
+      "usd_cny": 6.4632,
+      "sge_usd_per_oz": 1740.84,
+      "world_gold_usd": 1733.6,
+      "spread_usd": 7.24,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2021-03-03",
+      "sge_cny_per_g": 358.59,
+      "usd_cny": 6.4695,
+      "sge_usd_per_oz": 1724.0,
+      "world_gold_usd": 1715.8,
+      "spread_usd": 8.2,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2021-03-04",
+      "sge_cny_per_g": 355.19,
+      "usd_cny": 6.4668,
+      "sge_usd_per_oz": 1708.36,
+      "world_gold_usd": 1700.7,
+      "spread_usd": 7.66,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2021-03-07",
+      "sge_cny_per_g": 359.17,
+      "usd_cny": 6.4668,
+      "sge_usd_per_oz": 1727.51,
+      "world_gold_usd": 1700.7,
+      "spread_usd": 26.81,
+      "premium_percent": 1.58
+    },
+    {
+      "date": "2021-03-08",
+      "sge_cny_per_g": 357.71,
+      "usd_cny": 6.4957,
+      "sge_usd_per_oz": 1712.83,
+      "world_gold_usd": 1678.0,
+      "spread_usd": 34.83,
+      "premium_percent": 2.08
+    },
+    {
+      "date": "2021-03-09",
+      "sge_cny_per_g": 361.36,
+      "usd_cny": 6.5246,
+      "sge_usd_per_oz": 1722.64,
+      "world_gold_usd": 1716.9,
+      "spread_usd": 5.74,
+      "premium_percent": 0.33
+    },
+    {
+      "date": "2021-03-10",
+      "sge_cny_per_g": 364.52,
+      "usd_cny": 6.5056,
+      "sge_usd_per_oz": 1742.78,
+      "world_gold_usd": 1721.8,
+      "spread_usd": 20.98,
+      "premium_percent": 1.22
+    },
+    {
+      "date": "2021-03-11",
+      "sge_cny_per_g": 359.72,
+      "usd_cny": 6.5049,
+      "sge_usd_per_oz": 1720.02,
+      "world_gold_usd": 1722.6,
+      "spread_usd": -2.58,
+      "premium_percent": -0.15
+    },
+    {
+      "date": "2021-03-14",
+      "sge_cny_per_g": 362.91,
+      "usd_cny": 6.5049,
+      "sge_usd_per_oz": 1735.27,
+      "world_gold_usd": 1722.6,
+      "spread_usd": 12.67,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2021-03-15",
+      "sge_cny_per_g": 363.58,
+      "usd_cny": 6.4985,
+      "sge_usd_per_oz": 1740.19,
+      "world_gold_usd": 1729.2,
+      "spread_usd": 10.99,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2021-03-16",
+      "sge_cny_per_g": 364.73,
+      "usd_cny": 6.4989,
+      "sge_usd_per_oz": 1745.58,
+      "world_gold_usd": 1730.9,
+      "spread_usd": 14.68,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2021-03-17",
+      "sge_cny_per_g": 367.85,
+      "usd_cny": 6.505,
+      "sge_usd_per_oz": 1758.86,
+      "world_gold_usd": 1727.1,
+      "spread_usd": 31.76,
+      "premium_percent": 1.84
+    },
+    {
+      "date": "2021-03-18",
+      "sge_cny_per_g": 366.07,
+      "usd_cny": 6.5026,
+      "sge_usd_per_oz": 1751.0,
+      "world_gold_usd": 1732.5,
+      "spread_usd": 18.5,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2021-03-21",
+      "sge_cny_per_g": 364.38,
+      "usd_cny": 6.5026,
+      "sge_usd_per_oz": 1742.92,
+      "world_gold_usd": 1732.5,
+      "spread_usd": 10.42,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2021-03-22",
+      "sge_cny_per_g": 365.71,
+      "usd_cny": 6.499,
+      "sge_usd_per_oz": 1750.25,
+      "world_gold_usd": 1738.1,
+      "spread_usd": 12.15,
+      "premium_percent": 0.7
+    },
+    {
+      "date": "2021-03-23",
+      "sge_cny_per_g": 365.09,
+      "usd_cny": 6.5063,
+      "sge_usd_per_oz": 1745.32,
+      "world_gold_usd": 1725.1,
+      "spread_usd": 20.22,
+      "premium_percent": 1.17
+    },
+    {
+      "date": "2021-03-24",
+      "sge_cny_per_g": 365.92,
+      "usd_cny": 6.5149,
+      "sge_usd_per_oz": 1746.98,
+      "world_gold_usd": 1733.2,
+      "spread_usd": 13.78,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2021-03-25",
+      "sge_cny_per_g": 364.96,
+      "usd_cny": 6.5146,
+      "sge_usd_per_oz": 1742.47,
+      "world_gold_usd": 1725.1,
+      "spread_usd": 17.37,
+      "premium_percent": 1.01
+    },
+    {
+      "date": "2021-03-28",
+      "sge_cny_per_g": 365.24,
+      "usd_cny": 6.5405,
+      "sge_usd_per_oz": 1736.91,
+      "world_gold_usd": 1725.1,
+      "spread_usd": 11.81,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2021-03-29",
+      "sge_cny_per_g": 360.76,
+      "usd_cny": 6.5687,
+      "sge_usd_per_oz": 1708.24,
+      "world_gold_usd": 1712.2,
+      "spread_usd": -3.96,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2021-03-30",
+      "sge_cny_per_g": 356.58,
+      "usd_cny": 6.571,
+      "sge_usd_per_oz": 1687.85,
+      "world_gold_usd": 1683.9,
+      "spread_usd": 3.95,
+      "premium_percent": 0.23
+    },
+    {
+      "date": "2021-03-31",
+      "sge_cny_per_g": 363.99,
+      "usd_cny": 6.5512,
+      "sge_usd_per_oz": 1728.13,
+      "world_gold_usd": 1713.8,
+      "spread_usd": 14.33,
+      "premium_percent": 0.84
+    },
+    {
+      "date": "2021-04-01",
+      "sge_cny_per_g": 368.38,
+      "usd_cny": 6.5644,
+      "sge_usd_per_oz": 1745.46,
+      "world_gold_usd": 1728.4,
+      "spread_usd": 17.06,
+      "premium_percent": 0.99
+    },
+    {
+      "date": "2021-04-05",
+      "sge_cny_per_g": 366.46,
+      "usd_cny": 6.5659,
+      "sge_usd_per_oz": 1735.97,
+      "world_gold_usd": 1728.8,
+      "spread_usd": 7.17,
+      "premium_percent": 0.41
+    },
+    {
+      "date": "2021-04-06",
+      "sge_cny_per_g": 367.78,
+      "usd_cny": 6.5385,
+      "sge_usd_per_oz": 1749.52,
+      "world_gold_usd": 1743.0,
+      "spread_usd": 6.52,
+      "premium_percent": 0.37
+    },
+    {
+      "date": "2021-04-07",
+      "sge_cny_per_g": 368.79,
+      "usd_cny": 6.541,
+      "sge_usd_per_oz": 1753.65,
+      "world_gold_usd": 1741.6,
+      "spread_usd": 12.05,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2021-04-08",
+      "sge_cny_per_g": 370.57,
+      "usd_cny": 6.55,
+      "sge_usd_per_oz": 1759.7,
+      "world_gold_usd": 1758.2,
+      "spread_usd": 1.5,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2021-04-11",
+      "sge_cny_per_g": 368.5,
+      "usd_cny": 6.552,
+      "sge_usd_per_oz": 1749.33,
+      "world_gold_usd": 1758.2,
+      "spread_usd": -8.87,
+      "premium_percent": -0.5
+    },
+    {
+      "date": "2021-04-12",
+      "sge_cny_per_g": 365.07,
+      "usd_cny": 6.5479,
+      "sge_usd_per_oz": 1734.14,
+      "world_gold_usd": 1732.7,
+      "spread_usd": 1.44,
+      "premium_percent": 0.08
+    },
+    {
+      "date": "2021-04-13",
+      "sge_cny_per_g": 368.75,
+      "usd_cny": 6.5426,
+      "sge_usd_per_oz": 1753.04,
+      "world_gold_usd": 1747.6,
+      "spread_usd": 5.44,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2021-04-14",
+      "sge_cny_per_g": 368.54,
+      "usd_cny": 6.5281,
+      "sge_usd_per_oz": 1755.93,
+      "world_gold_usd": 1736.3,
+      "spread_usd": 19.63,
+      "premium_percent": 1.13
+    },
+    {
+      "date": "2021-04-15",
+      "sge_cny_per_g": 371.78,
+      "usd_cny": 6.5213,
+      "sge_usd_per_oz": 1773.21,
+      "world_gold_usd": 1766.8,
+      "spread_usd": 6.41,
+      "premium_percent": 0.36
+    },
+    {
+      "date": "2021-04-18",
+      "sge_cny_per_g": 374.78,
+      "usd_cny": 6.5111,
+      "sge_usd_per_oz": 1790.32,
+      "world_gold_usd": 1766.8,
+      "spread_usd": 23.52,
+      "premium_percent": 1.33
+    },
+    {
+      "date": "2021-04-19",
+      "sge_cny_per_g": 371.27,
+      "usd_cny": 6.5093,
+      "sge_usd_per_oz": 1774.04,
+      "world_gold_usd": 1770.6,
+      "spread_usd": 3.44,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2021-04-20",
+      "sge_cny_per_g": 375.02,
+      "usd_cny": 6.4985,
+      "sge_usd_per_oz": 1794.94,
+      "world_gold_usd": 1778.4,
+      "spread_usd": 16.54,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2021-04-21",
+      "sge_cny_per_g": 375.23,
+      "usd_cny": 6.49,
+      "sge_usd_per_oz": 1798.3,
+      "world_gold_usd": 1793.1,
+      "spread_usd": 5.2,
+      "premium_percent": 0.29
+    },
+    {
+      "date": "2021-04-22",
+      "sge_cny_per_g": 374.41,
+      "usd_cny": 6.4903,
+      "sge_usd_per_oz": 1794.29,
+      "world_gold_usd": 1782.0,
+      "spread_usd": 12.29,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2021-04-25",
+      "sge_cny_per_g": 372.65,
+      "usd_cny": 6.4944,
+      "sge_usd_per_oz": 1784.72,
+      "world_gold_usd": 1782.0,
+      "spread_usd": 2.72,
+      "premium_percent": 0.15
+    },
+    {
+      "date": "2021-04-26",
+      "sge_cny_per_g": 372.97,
+      "usd_cny": 6.4845,
+      "sge_usd_per_oz": 1788.98,
+      "world_gold_usd": 1780.1,
+      "spread_usd": 8.88,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2021-04-27",
+      "sge_cny_per_g": 370.64,
+      "usd_cny": 6.4821,
+      "sge_usd_per_oz": 1778.47,
+      "world_gold_usd": 1778.8,
+      "spread_usd": -0.33,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2021-04-28",
+      "sge_cny_per_g": 371.81,
+      "usd_cny": 6.4779,
+      "sge_usd_per_oz": 1785.24,
+      "world_gold_usd": 1773.9,
+      "spread_usd": 11.34,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2021-04-29",
+      "sge_cny_per_g": 370.52,
+      "usd_cny": 6.4712,
+      "sge_usd_per_oz": 1780.88,
+      "world_gold_usd": 1768.3,
+      "spread_usd": 12.58,
+      "premium_percent": 0.71
+    },
+    {
+      "date": "2021-05-05",
+      "sge_cny_per_g": 375.64,
+      "usd_cny": 6.473,
+      "sge_usd_per_oz": 1804.99,
+      "world_gold_usd": 1784.3,
+      "spread_usd": 20.69,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2021-05-06",
+      "sge_cny_per_g": 379.39,
+      "usd_cny": 6.4632,
+      "sge_usd_per_oz": 1825.77,
+      "world_gold_usd": 1815.7,
+      "spread_usd": 10.07,
+      "premium_percent": 0.55
+    },
+    {
+      "date": "2021-05-09",
+      "sge_cny_per_g": 380.68,
+      "usd_cny": 6.4315,
+      "sge_usd_per_oz": 1841.01,
+      "world_gold_usd": 1815.7,
+      "spread_usd": 25.31,
+      "premium_percent": 1.39
+    },
+    {
+      "date": "2021-05-10",
+      "sge_cny_per_g": 380.75,
+      "usd_cny": 6.4151,
+      "sge_usd_per_oz": 1846.06,
+      "world_gold_usd": 1837.6,
+      "spread_usd": 8.46,
+      "premium_percent": 0.46
+    },
+    {
+      "date": "2021-05-11",
+      "sge_cny_per_g": 381.28,
+      "usd_cny": 6.4283,
+      "sge_usd_per_oz": 1844.83,
+      "world_gold_usd": 1836.1,
+      "spread_usd": 8.73,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2021-05-12",
+      "sge_cny_per_g": 379.5,
+      "usd_cny": 6.4552,
+      "sge_usd_per_oz": 1828.57,
+      "world_gold_usd": 1822.8,
+      "spread_usd": 5.77,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2021-05-13",
+      "sge_cny_per_g": 381.52,
+      "usd_cny": 6.4509,
+      "sge_usd_per_oz": 1839.53,
+      "world_gold_usd": 1824.0,
+      "spread_usd": 15.53,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2021-05-16",
+      "sge_cny_per_g": 385.71,
+      "usd_cny": 6.4361,
+      "sge_usd_per_oz": 1864.0,
+      "world_gold_usd": 1824.0,
+      "spread_usd": 40.0,
+      "premium_percent": 2.19
+    },
+    {
+      "date": "2021-05-17",
+      "sge_cny_per_g": 388.35,
+      "usd_cny": 6.4382,
+      "sge_usd_per_oz": 1876.15,
+      "world_gold_usd": 1867.6,
+      "spread_usd": 8.55,
+      "premium_percent": 0.46
+    },
+    {
+      "date": "2021-05-18",
+      "sge_cny_per_g": 388.74,
+      "usd_cny": 6.4242,
+      "sge_usd_per_oz": 1882.13,
+      "world_gold_usd": 1868.0,
+      "spread_usd": 14.13,
+      "premium_percent": 0.76
+    },
+    {
+      "date": "2021-05-19",
+      "sge_cny_per_g": 389.3,
+      "usd_cny": 6.434,
+      "sge_usd_per_oz": 1881.97,
+      "world_gold_usd": 1881.5,
+      "spread_usd": 0.47,
+      "premium_percent": 0.02
+    },
+    {
+      "date": "2021-05-20",
+      "sge_cny_per_g": 389.33,
+      "usd_cny": 6.4339,
+      "sge_usd_per_oz": 1882.14,
+      "world_gold_usd": 1881.9,
+      "spread_usd": 0.24,
+      "premium_percent": 0.01
+    },
+    {
+      "date": "2021-05-23",
+      "sge_cny_per_g": 390.85,
+      "usd_cny": 6.4332,
+      "sge_usd_per_oz": 1889.7,
+      "world_gold_usd": 1881.9,
+      "spread_usd": 7.8,
+      "premium_percent": 0.41
+    },
+    {
+      "date": "2021-05-24",
+      "sge_cny_per_g": 389.67,
+      "usd_cny": 6.4183,
+      "sge_usd_per_oz": 1888.36,
+      "world_gold_usd": 1884.5,
+      "spread_usd": 3.86,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2021-05-25",
+      "sge_cny_per_g": 393.3,
+      "usd_cny": 6.41,
+      "sge_usd_per_oz": 1908.42,
+      "world_gold_usd": 1898.0,
+      "spread_usd": 10.42,
+      "premium_percent": 0.55
+    },
+    {
+      "date": "2021-05-26",
+      "sge_cny_per_g": 391.27,
+      "usd_cny": 6.3907,
+      "sge_usd_per_oz": 1904.31,
+      "world_gold_usd": 1901.2,
+      "spread_usd": 3.11,
+      "premium_percent": 0.16
+    },
+    {
+      "date": "2021-05-27",
+      "sge_cny_per_g": 388.44,
+      "usd_cny": 6.382,
+      "sge_usd_per_oz": 1893.11,
+      "world_gold_usd": 1895.7,
+      "spread_usd": -2.59,
+      "premium_percent": -0.14
+    },
+    {
+      "date": "2021-05-30",
+      "sge_cny_per_g": 391.22,
+      "usd_cny": 6.3674,
+      "sge_usd_per_oz": 1911.03,
+      "world_gold_usd": 1895.7,
+      "spread_usd": 15.33,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2021-05-31",
+      "sge_cny_per_g": 393.56,
+      "usd_cny": 6.369,
+      "sge_usd_per_oz": 1921.98,
+      "world_gold_usd": 1895.7,
+      "spread_usd": 26.28,
+      "premium_percent": 1.39
+    },
+    {
+      "date": "2021-06-01",
+      "sge_cny_per_g": 387.57,
+      "usd_cny": 6.3807,
+      "sge_usd_per_oz": 1889.26,
+      "world_gold_usd": 1905.0,
+      "spread_usd": -15.74,
+      "premium_percent": -0.83
+    },
+    {
+      "date": "2021-06-02",
+      "sge_cny_per_g": 385.08,
+      "usd_cny": 6.3801,
+      "sge_usd_per_oz": 1877.29,
+      "world_gold_usd": 1909.9,
+      "spread_usd": -32.61,
+      "premium_percent": -1.71
+    },
+    {
+      "date": "2021-06-03",
+      "sge_cny_per_g": 381.25,
+      "usd_cny": 6.4027,
+      "sge_usd_per_oz": 1852.06,
+      "world_gold_usd": 1873.3,
+      "spread_usd": -21.24,
+      "premium_percent": -1.13
+    },
+    {
+      "date": "2021-06-06",
+      "sge_cny_per_g": 383.82,
+      "usd_cny": 6.3943,
+      "sge_usd_per_oz": 1867.0,
+      "world_gold_usd": 1873.3,
+      "spread_usd": -6.3,
+      "premium_percent": -0.34
+    },
+    {
+      "date": "2021-06-07",
+      "sge_cny_per_g": 385.54,
+      "usd_cny": 6.3963,
+      "sge_usd_per_oz": 1874.78,
+      "world_gold_usd": 1898.8,
+      "spread_usd": -24.02,
+      "premium_percent": -1.27
+    },
+    {
+      "date": "2021-06-08",
+      "sge_cny_per_g": 385.7,
+      "usd_cny": 6.3995,
+      "sge_usd_per_oz": 1874.62,
+      "world_gold_usd": 1894.4,
+      "spread_usd": -19.78,
+      "premium_percent": -1.04
+    },
+    {
+      "date": "2021-06-09",
+      "sge_cny_per_g": 384.68,
+      "usd_cny": 6.3865,
+      "sge_usd_per_oz": 1873.47,
+      "world_gold_usd": 1895.5,
+      "spread_usd": -22.03,
+      "premium_percent": -1.16
+    },
+    {
+      "date": "2021-06-10",
+      "sge_cny_per_g": 387.9,
+      "usd_cny": 6.3923,
+      "sge_usd_per_oz": 1887.43,
+      "world_gold_usd": 1896.4,
+      "spread_usd": -8.97,
+      "premium_percent": -0.47
+    },
+    {
+      "date": "2021-06-14",
+      "sge_cny_per_g": 381.33,
+      "usd_cny": 6.3972,
+      "sge_usd_per_oz": 1854.04,
+      "world_gold_usd": 1865.9,
+      "spread_usd": -11.86,
+      "premium_percent": -0.64
+    },
+    {
+      "date": "2021-06-15",
+      "sge_cny_per_g": 380.9,
+      "usd_cny": 6.405,
+      "sge_usd_per_oz": 1849.7,
+      "world_gold_usd": 1856.4,
+      "spread_usd": -6.7,
+      "premium_percent": -0.36
+    },
+    {
+      "date": "2021-06-16",
+      "sge_cny_per_g": 374.57,
+      "usd_cny": 6.3967,
+      "sge_usd_per_oz": 1821.32,
+      "world_gold_usd": 1861.4,
+      "spread_usd": -40.08,
+      "premium_percent": -2.15
+    },
+    {
+      "date": "2021-06-17",
+      "sge_cny_per_g": 370.29,
+      "usd_cny": 6.4474,
+      "sge_usd_per_oz": 1786.35,
+      "world_gold_usd": 1774.8,
+      "spread_usd": 11.55,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2021-06-20",
+      "sge_cny_per_g": 370.51,
+      "usd_cny": 6.4521,
+      "sge_usd_per_oz": 1786.11,
+      "world_gold_usd": 1774.8,
+      "spread_usd": 11.31,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2021-06-21",
+      "sge_cny_per_g": 371.4,
+      "usd_cny": 6.4659,
+      "sge_usd_per_oz": 1786.58,
+      "world_gold_usd": 1782.9,
+      "spread_usd": 3.68,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2021-06-22",
+      "sge_cny_per_g": 372.3,
+      "usd_cny": 6.4803,
+      "sge_usd_per_oz": 1786.93,
+      "world_gold_usd": 1777.4,
+      "spread_usd": 9.53,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2021-06-23",
+      "sge_cny_per_g": 370.45,
+      "usd_cny": 6.473,
+      "sge_usd_per_oz": 1780.05,
+      "world_gold_usd": 1783.4,
+      "spread_usd": -3.35,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2021-06-24",
+      "sge_cny_per_g": 370.09,
+      "usd_cny": 6.471,
+      "sge_usd_per_oz": 1778.87,
+      "world_gold_usd": 1776.7,
+      "spread_usd": 2.17,
+      "premium_percent": 0.12
+    },
+    {
+      "date": "2021-06-27",
+      "sge_cny_per_g": 370.92,
+      "usd_cny": 6.4463,
+      "sge_usd_per_oz": 1789.69,
+      "world_gold_usd": 1776.7,
+      "spread_usd": 12.99,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2021-06-28",
+      "sge_cny_per_g": 369.58,
+      "usd_cny": 6.4551,
+      "sge_usd_per_oz": 1780.8,
+      "world_gold_usd": 1780.7,
+      "spread_usd": 0.1,
+      "premium_percent": 0.01
+    },
+    {
+      "date": "2021-06-29",
+      "sge_cny_per_g": 366.13,
+      "usd_cny": 6.4631,
+      "sge_usd_per_oz": 1761.99,
+      "world_gold_usd": 1763.6,
+      "spread_usd": -1.61,
+      "premium_percent": -0.09
+    },
+    {
+      "date": "2021-06-30",
+      "sge_cny_per_g": 370.42,
+      "usd_cny": 6.4562,
+      "sge_usd_per_oz": 1784.54,
+      "world_gold_usd": 1771.6,
+      "spread_usd": 12.94,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2021-07-01",
+      "sge_cny_per_g": 371.15,
+      "usd_cny": 6.4676,
+      "sge_usd_per_oz": 1784.91,
+      "world_gold_usd": 1776.8,
+      "spread_usd": 8.11,
+      "premium_percent": 0.46
+    },
+    {
+      "date": "2021-07-04",
+      "sge_cny_per_g": 371.99,
+      "usd_cny": 6.4721,
+      "sge_usd_per_oz": 1787.7,
+      "world_gold_usd": 1776.8,
+      "spread_usd": 10.9,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2021-07-05",
+      "sge_cny_per_g": 375.6,
+      "usd_cny": 6.4628,
+      "sge_usd_per_oz": 1807.65,
+      "world_gold_usd": 1776.8,
+      "spread_usd": 30.85,
+      "premium_percent": 1.74
+    },
+    {
+      "date": "2021-07-06",
+      "sge_cny_per_g": 375.64,
+      "usd_cny": 6.4781,
+      "sge_usd_per_oz": 1803.57,
+      "world_gold_usd": 1794.2,
+      "spread_usd": 9.37,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2021-07-07",
+      "sge_cny_per_g": 375.05,
+      "usd_cny": 6.4715,
+      "sge_usd_per_oz": 1802.57,
+      "world_gold_usd": 1802.1,
+      "spread_usd": 0.47,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2021-07-08",
+      "sge_cny_per_g": 375.88,
+      "usd_cny": 6.4891,
+      "sge_usd_per_oz": 1801.66,
+      "world_gold_usd": 1800.2,
+      "spread_usd": 1.46,
+      "premium_percent": 0.08
+    },
+    {
+      "date": "2021-07-11",
+      "sge_cny_per_g": 375.38,
+      "usd_cny": 6.478,
+      "sge_usd_per_oz": 1802.35,
+      "world_gold_usd": 1800.2,
+      "spread_usd": 2.15,
+      "premium_percent": 0.12
+    },
+    {
+      "date": "2021-07-12",
+      "sge_cny_per_g": 376.97,
+      "usd_cny": 6.4746,
+      "sge_usd_per_oz": 1810.93,
+      "world_gold_usd": 1805.9,
+      "spread_usd": 5.03,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2021-07-13",
+      "sge_cny_per_g": 377.82,
+      "usd_cny": 6.4675,
+      "sge_usd_per_oz": 1817.01,
+      "world_gold_usd": 1809.9,
+      "spread_usd": 7.11,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2021-07-14",
+      "sge_cny_per_g": 380.7,
+      "usd_cny": 6.4683,
+      "sge_usd_per_oz": 1830.63,
+      "world_gold_usd": 1825.0,
+      "spread_usd": 5.63,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2021-07-15",
+      "sge_cny_per_g": 379.72,
+      "usd_cny": 6.4601,
+      "sge_usd_per_oz": 1828.24,
+      "world_gold_usd": 1829.0,
+      "spread_usd": -0.76,
+      "premium_percent": -0.04
+    },
+    {
+      "date": "2021-07-18",
+      "sge_cny_per_g": 376.46,
+      "usd_cny": 6.4782,
+      "sge_usd_per_oz": 1807.48,
+      "world_gold_usd": 1829.0,
+      "spread_usd": -21.52,
+      "premium_percent": -1.18
+    },
+    {
+      "date": "2021-07-19",
+      "sge_cny_per_g": 379.08,
+      "usd_cny": 6.4894,
+      "sge_usd_per_oz": 1816.92,
+      "world_gold_usd": 1809.2,
+      "spread_usd": 7.72,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2021-07-20",
+      "sge_cny_per_g": 377.32,
+      "usd_cny": 6.4839,
+      "sge_usd_per_oz": 1810.02,
+      "world_gold_usd": 1811.4,
+      "spread_usd": -1.38,
+      "premium_percent": -0.08
+    },
+    {
+      "date": "2021-07-21",
+      "sge_cny_per_g": 374.89,
+      "usd_cny": 6.467,
+      "sge_usd_per_oz": 1803.06,
+      "world_gold_usd": 1803.4,
+      "spread_usd": -0.34,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2021-07-22",
+      "sge_cny_per_g": 376.46,
+      "usd_cny": 6.4697,
+      "sge_usd_per_oz": 1809.85,
+      "world_gold_usd": 1805.4,
+      "spread_usd": 4.45,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2021-07-25",
+      "sge_cny_per_g": 377.29,
+      "usd_cny": 6.4804,
+      "sge_usd_per_oz": 1810.85,
+      "world_gold_usd": 1805.4,
+      "spread_usd": 5.45,
+      "premium_percent": 0.3
+    },
+    {
+      "date": "2021-07-26",
+      "sge_cny_per_g": 374.42,
+      "usd_cny": 6.4817,
+      "sge_usd_per_oz": 1796.71,
+      "world_gold_usd": 1799.2,
+      "spread_usd": -2.49,
+      "premium_percent": -0.14
+    },
+    {
+      "date": "2021-07-27",
+      "sge_cny_per_g": 378.08,
+      "usd_cny": 6.5097,
+      "sge_usd_per_oz": 1806.47,
+      "world_gold_usd": 1799.8,
+      "spread_usd": 6.67,
+      "premium_percent": 0.37
+    },
+    {
+      "date": "2021-07-28",
+      "sge_cny_per_g": 379.25,
+      "usd_cny": 6.4894,
+      "sge_usd_per_oz": 1817.73,
+      "world_gold_usd": 1799.7,
+      "spread_usd": 18.03,
+      "premium_percent": 1.0
+    },
+    {
+      "date": "2021-07-29",
+      "sge_cny_per_g": 380.47,
+      "usd_cny": 6.4553,
+      "sge_usd_per_oz": 1833.21,
+      "world_gold_usd": 1831.2,
+      "spread_usd": 2.01,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2021-08-01",
+      "sge_cny_per_g": 376.4,
+      "usd_cny": 6.4605,
+      "sge_usd_per_oz": 1812.14,
+      "world_gold_usd": 1831.2,
+      "spread_usd": -19.06,
+      "premium_percent": -1.04
+    },
+    {
+      "date": "2021-08-02",
+      "sge_cny_per_g": 376.61,
+      "usd_cny": 6.461,
+      "sge_usd_per_oz": 1813.01,
+      "world_gold_usd": 1822.2,
+      "spread_usd": -9.19,
+      "premium_percent": -0.5
+    },
+    {
+      "date": "2021-08-03",
+      "sge_cny_per_g": 377.37,
+      "usd_cny": 6.4692,
+      "sge_usd_per_oz": 1814.37,
+      "world_gold_usd": 1814.1,
+      "spread_usd": 0.27,
+      "premium_percent": 0.01
+    },
+    {
+      "date": "2021-08-04",
+      "sge_cny_per_g": 376.78,
+      "usd_cny": 6.4652,
+      "sge_usd_per_oz": 1812.65,
+      "world_gold_usd": 1814.5,
+      "spread_usd": -1.85,
+      "premium_percent": -0.1
+    },
+    {
+      "date": "2021-08-05",
+      "sge_cny_per_g": 374.81,
+      "usd_cny": 6.4603,
+      "sge_usd_per_oz": 1804.54,
+      "world_gold_usd": 1808.9,
+      "spread_usd": -4.36,
+      "premium_percent": -0.24
+    },
+    {
+      "date": "2021-08-08",
+      "sge_cny_per_g": 364.85,
+      "usd_cny": 6.4825,
+      "sge_usd_per_oz": 1750.58,
+      "world_gold_usd": 1808.9,
+      "spread_usd": -58.32,
+      "premium_percent": -3.22
+    },
+    {
+      "date": "2021-08-09",
+      "sge_cny_per_g": 363.04,
+      "usd_cny": 6.4852,
+      "sge_usd_per_oz": 1741.17,
+      "world_gold_usd": 1726.5,
+      "spread_usd": 14.67,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2021-08-10",
+      "sge_cny_per_g": 362.59,
+      "usd_cny": 6.4849,
+      "sge_usd_per_oz": 1739.09,
+      "world_gold_usd": 1731.7,
+      "spread_usd": 7.39,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2021-08-11",
+      "sge_cny_per_g": 366.2,
+      "usd_cny": 6.4782,
+      "sge_usd_per_oz": 1758.22,
+      "world_gold_usd": 1753.3,
+      "spread_usd": 4.92,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2021-08-12",
+      "sge_cny_per_g": 367.15,
+      "usd_cny": 6.4783,
+      "sge_usd_per_oz": 1762.75,
+      "world_gold_usd": 1751.8,
+      "spread_usd": 10.95,
+      "premium_percent": 0.63
+    },
+    {
+      "date": "2021-08-15",
+      "sge_cny_per_g": 370.45,
+      "usd_cny": 6.4764,
+      "sge_usd_per_oz": 1779.12,
+      "world_gold_usd": 1751.8,
+      "spread_usd": 27.32,
+      "premium_percent": 1.56
+    },
+    {
+      "date": "2021-08-16",
+      "sge_cny_per_g": 374.47,
+      "usd_cny": 6.4736,
+      "sge_usd_per_oz": 1799.2,
+      "world_gold_usd": 1789.8,
+      "spread_usd": 9.4,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2021-08-17",
+      "sge_cny_per_g": 374.54,
+      "usd_cny": 6.4851,
+      "sge_usd_per_oz": 1796.35,
+      "world_gold_usd": 1787.8,
+      "spread_usd": 8.55,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2021-08-18",
+      "sge_cny_per_g": 373.09,
+      "usd_cny": 6.4832,
+      "sge_usd_per_oz": 1789.92,
+      "world_gold_usd": 1784.4,
+      "spread_usd": 5.52,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2021-08-19",
+      "sge_cny_per_g": 374.47,
+      "usd_cny": 6.4937,
+      "sge_usd_per_oz": 1793.63,
+      "world_gold_usd": 1783.1,
+      "spread_usd": 10.53,
+      "premium_percent": 0.59
+    },
+    {
+      "date": "2021-08-22",
+      "sge_cny_per_g": 373.82,
+      "usd_cny": 6.4916,
+      "sge_usd_per_oz": 1791.1,
+      "world_gold_usd": 1783.1,
+      "spread_usd": 8.0,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2021-08-23",
+      "sge_cny_per_g": 376.5,
+      "usd_cny": 6.48,
+      "sge_usd_per_oz": 1807.17,
+      "world_gold_usd": 1806.3,
+      "spread_usd": 0.87,
+      "premium_percent": 0.05
+    },
+    {
+      "date": "2021-08-24",
+      "sge_cny_per_g": 374.63,
+      "usd_cny": 6.4699,
+      "sge_usd_per_oz": 1801.0,
+      "world_gold_usd": 1808.5,
+      "spread_usd": -7.5,
+      "premium_percent": -0.41
+    },
+    {
+      "date": "2021-08-25",
+      "sge_cny_per_g": 373.06,
+      "usd_cny": 6.4749,
+      "sge_usd_per_oz": 1792.07,
+      "world_gold_usd": 1791.0,
+      "spread_usd": 1.07,
+      "premium_percent": 0.06
+    },
+    {
+      "date": "2021-08-26",
+      "sge_cny_per_g": 376.52,
+      "usd_cny": 6.4805,
+      "sge_usd_per_oz": 1807.13,
+      "world_gold_usd": 1795.2,
+      "spread_usd": 11.93,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2021-08-29",
+      "sge_cny_per_g": 377.67,
+      "usd_cny": 6.4708,
+      "sge_usd_per_oz": 1815.36,
+      "world_gold_usd": 1795.2,
+      "spread_usd": 20.16,
+      "premium_percent": 1.12
+    },
+    {
+      "date": "2021-08-30",
+      "sge_cny_per_g": 377.73,
+      "usd_cny": 6.4651,
+      "sge_usd_per_oz": 1817.25,
+      "world_gold_usd": 1812.2,
+      "spread_usd": 5.05,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2021-08-31",
+      "sge_cny_per_g": 377.9,
+      "usd_cny": 6.4596,
+      "sge_usd_per_oz": 1819.62,
+      "world_gold_usd": 1818.1,
+      "spread_usd": 1.52,
+      "premium_percent": 0.08
+    },
+    {
+      "date": "2021-09-01",
+      "sge_cny_per_g": 377.44,
+      "usd_cny": 6.459,
+      "sge_usd_per_oz": 1817.57,
+      "world_gold_usd": 1816.0,
+      "spread_usd": 1.57,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2021-09-02",
+      "sge_cny_per_g": 377.19,
+      "usd_cny": 6.4554,
+      "sge_usd_per_oz": 1817.38,
+      "world_gold_usd": 1811.5,
+      "spread_usd": 5.88,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2021-09-05",
+      "sge_cny_per_g": 379.81,
+      "usd_cny": 6.4519,
+      "sge_usd_per_oz": 1831.0,
+      "world_gold_usd": 1811.5,
+      "spread_usd": 19.5,
+      "premium_percent": 1.08
+    },
+    {
+      "date": "2021-09-06",
+      "sge_cny_per_g": 378.09,
+      "usd_cny": 6.4567,
+      "sge_usd_per_oz": 1821.35,
+      "world_gold_usd": 1811.5,
+      "spread_usd": 9.85,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2021-09-07",
+      "sge_cny_per_g": 373.85,
+      "usd_cny": 6.4655,
+      "sge_usd_per_oz": 1798.47,
+      "world_gold_usd": 1798.5,
+      "spread_usd": -0.03,
+      "premium_percent": -0.0
+    },
+    {
+      "date": "2021-09-08",
+      "sge_cny_per_g": 372.32,
+      "usd_cny": 6.4607,
+      "sge_usd_per_oz": 1792.44,
+      "world_gold_usd": 1793.5,
+      "spread_usd": -1.06,
+      "premium_percent": -0.06
+    },
+    {
+      "date": "2021-09-09",
+      "sge_cny_per_g": 374.58,
+      "usd_cny": 6.4543,
+      "sge_usd_per_oz": 1805.11,
+      "world_gold_usd": 1800.0,
+      "spread_usd": 5.11,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2021-09-12",
+      "sge_cny_per_g": 372.5,
+      "usd_cny": 6.4434,
+      "sge_usd_per_oz": 1798.13,
+      "world_gold_usd": 1800.0,
+      "spread_usd": -1.87,
+      "premium_percent": -0.1
+    },
+    {
+      "date": "2021-09-13",
+      "sge_cny_per_g": 372.86,
+      "usd_cny": 6.4508,
+      "sge_usd_per_oz": 1797.8,
+      "world_gold_usd": 1794.4,
+      "spread_usd": 3.4,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2021-09-14",
+      "sge_cny_per_g": 374.09,
+      "usd_cny": 6.4383,
+      "sge_usd_per_oz": 1807.23,
+      "world_gold_usd": 1807.1,
+      "spread_usd": 0.13,
+      "premium_percent": 0.01
+    },
+    {
+      "date": "2021-09-15",
+      "sge_cny_per_g": 371.03,
+      "usd_cny": 6.4314,
+      "sge_usd_per_oz": 1794.37,
+      "world_gold_usd": 1794.8,
+      "spread_usd": -0.43,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2021-09-16",
+      "sge_cny_per_g": 367.26,
+      "usd_cny": 6.4566,
+      "sge_usd_per_oz": 1769.21,
+      "world_gold_usd": 1756.7,
+      "spread_usd": 12.51,
+      "premium_percent": 0.71
+    },
+    {
+      "date": "2021-09-21",
+      "sge_cny_per_g": 371.74,
+      "usd_cny": 6.466,
+      "sge_usd_per_oz": 1788.19,
+      "world_gold_usd": 1778.2,
+      "spread_usd": 9.99,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2021-09-22",
+      "sge_cny_per_g": 368.74,
+      "usd_cny": 6.4608,
+      "sge_usd_per_oz": 1775.18,
+      "world_gold_usd": 1778.8,
+      "spread_usd": -3.62,
+      "premium_percent": -0.2
+    },
+    {
+      "date": "2021-09-23",
+      "sge_cny_per_g": 366.46,
+      "usd_cny": 6.4579,
+      "sge_usd_per_oz": 1765.0,
+      "world_gold_usd": 1749.8,
+      "spread_usd": 15.2,
+      "premium_percent": 0.87
+    },
+    {
+      "date": "2021-09-26",
+      "sge_cny_per_g": 367.4,
+      "usd_cny": 6.4657,
+      "sge_usd_per_oz": 1767.39,
+      "world_gold_usd": 1749.8,
+      "spread_usd": 17.59,
+      "premium_percent": 1.01
+    },
+    {
+      "date": "2021-09-27",
+      "sge_cny_per_g": 364.21,
+      "usd_cny": 6.456,
+      "sge_usd_per_oz": 1754.68,
+      "world_gold_usd": 1752.0,
+      "spread_usd": 2.68,
+      "premium_percent": 0.15
+    },
+    {
+      "date": "2021-09-28",
+      "sge_cny_per_g": 363.54,
+      "usd_cny": 6.459,
+      "sge_usd_per_oz": 1750.64,
+      "world_gold_usd": 1737.5,
+      "spread_usd": 13.14,
+      "premium_percent": 0.76
+    },
+    {
+      "date": "2021-09-29",
+      "sge_cny_per_g": 361.47,
+      "usd_cny": 6.4696,
+      "sge_usd_per_oz": 1737.82,
+      "world_gold_usd": 1722.9,
+      "spread_usd": 14.92,
+      "premium_percent": 0.87
+    },
+    {
+      "date": "2021-10-07",
+      "sge_cny_per_g": 366.78,
+      "usd_cny": 6.4452,
+      "sge_usd_per_oz": 1770.02,
+      "world_gold_usd": 1759.2,
+      "spread_usd": 10.82,
+      "premium_percent": 0.62
+    },
+    {
+      "date": "2021-10-10",
+      "sge_cny_per_g": 365.24,
+      "usd_cny": 6.4423,
+      "sge_usd_per_oz": 1763.38,
+      "world_gold_usd": 1759.2,
+      "spread_usd": 4.18,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2021-10-11",
+      "sge_cny_per_g": 367.26,
+      "usd_cny": 6.4496,
+      "sge_usd_per_oz": 1771.13,
+      "world_gold_usd": 1755.7,
+      "spread_usd": 15.43,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2021-10-12",
+      "sge_cny_per_g": 367.06,
+      "usd_cny": 6.448,
+      "sge_usd_per_oz": 1770.6,
+      "world_gold_usd": 1759.3,
+      "spread_usd": 11.3,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2021-10-13",
+      "sge_cny_per_g": 371.99,
+      "usd_cny": 6.4266,
+      "sge_usd_per_oz": 1800.36,
+      "world_gold_usd": 1794.7,
+      "spread_usd": 5.66,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2021-10-14",
+      "sge_cny_per_g": 371.48,
+      "usd_cny": 6.439,
+      "sge_usd_per_oz": 1794.43,
+      "world_gold_usd": 1797.9,
+      "spread_usd": -3.47,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2021-10-17",
+      "sge_cny_per_g": 366.62,
+      "usd_cny": 6.4348,
+      "sge_usd_per_oz": 1772.11,
+      "world_gold_usd": 1797.9,
+      "spread_usd": -25.79,
+      "premium_percent": -1.43
+    },
+    {
+      "date": "2021-10-18",
+      "sge_cny_per_g": 367.68,
+      "usd_cny": 6.4289,
+      "sge_usd_per_oz": 1778.86,
+      "world_gold_usd": 1765.7,
+      "spread_usd": 13.16,
+      "premium_percent": 0.75
+    },
+    {
+      "date": "2021-10-19",
+      "sge_cny_per_g": 366.66,
+      "usd_cny": 6.3818,
+      "sge_usd_per_oz": 1787.02,
+      "world_gold_usd": 1770.5,
+      "spread_usd": 16.52,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2021-10-20",
+      "sge_cny_per_g": 368.36,
+      "usd_cny": 6.3929,
+      "sge_usd_per_oz": 1792.19,
+      "world_gold_usd": 1784.9,
+      "spread_usd": 7.29,
+      "premium_percent": 0.41
+    },
+    {
+      "date": "2021-10-21",
+      "sge_cny_per_g": 369.79,
+      "usd_cny": 6.3918,
+      "sge_usd_per_oz": 1799.45,
+      "world_gold_usd": 1781.9,
+      "spread_usd": 17.55,
+      "premium_percent": 0.99
+    },
+    {
+      "date": "2021-10-24",
+      "sge_cny_per_g": 369.12,
+      "usd_cny": 6.3839,
+      "sge_usd_per_oz": 1798.42,
+      "world_gold_usd": 1781.9,
+      "spread_usd": 16.52,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2021-10-25",
+      "sge_cny_per_g": 370.7,
+      "usd_cny": 6.3847,
+      "sge_usd_per_oz": 1805.89,
+      "world_gold_usd": 1806.8,
+      "spread_usd": -0.91,
+      "premium_percent": -0.05
+    },
+    {
+      "date": "2021-10-26",
+      "sge_cny_per_g": 367.86,
+      "usd_cny": 6.3815,
+      "sge_usd_per_oz": 1792.95,
+      "world_gold_usd": 1793.4,
+      "spread_usd": -0.45,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2021-10-27",
+      "sge_cny_per_g": 371.5,
+      "usd_cny": 6.3916,
+      "sge_usd_per_oz": 1807.83,
+      "world_gold_usd": 1798.8,
+      "spread_usd": 9.03,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2021-10-28",
+      "sge_cny_per_g": 369.66,
+      "usd_cny": 6.3904,
+      "sge_usd_per_oz": 1799.22,
+      "world_gold_usd": 1802.6,
+      "spread_usd": -3.38,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2021-10-31",
+      "sge_cny_per_g": 367.9,
+      "usd_cny": 6.3904,
+      "sge_usd_per_oz": 1790.65,
+      "world_gold_usd": 1802.6,
+      "spread_usd": -11.95,
+      "premium_percent": -0.66
+    },
+    {
+      "date": "2021-11-01",
+      "sge_cny_per_g": 370.1,
+      "usd_cny": 6.4047,
+      "sge_usd_per_oz": 1797.34,
+      "world_gold_usd": 1795.8,
+      "spread_usd": 1.54,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2021-11-02",
+      "sge_cny_per_g": 367.37,
+      "usd_cny": 6.3962,
+      "sge_usd_per_oz": 1786.45,
+      "world_gold_usd": 1789.4,
+      "spread_usd": -2.95,
+      "premium_percent": -0.16
+    },
+    {
+      "date": "2021-11-03",
+      "sge_cny_per_g": 365.72,
+      "usd_cny": 6.3989,
+      "sge_usd_per_oz": 1777.67,
+      "world_gold_usd": 1763.9,
+      "spread_usd": 13.77,
+      "premium_percent": 0.78
+    },
+    {
+      "date": "2021-11-04",
+      "sge_cny_per_g": 370.72,
+      "usd_cny": 6.4062,
+      "sge_usd_per_oz": 1799.93,
+      "world_gold_usd": 1793.5,
+      "spread_usd": 6.43,
+      "premium_percent": 0.36
+    },
+    {
+      "date": "2021-11-07",
+      "sge_cny_per_g": 374.72,
+      "usd_cny": 6.4062,
+      "sge_usd_per_oz": 1819.35,
+      "world_gold_usd": 1793.5,
+      "spread_usd": 25.85,
+      "premium_percent": 1.44
+    },
+    {
+      "date": "2021-11-08",
+      "sge_cny_per_g": 376.0,
+      "usd_cny": 6.3979,
+      "sge_usd_per_oz": 1827.93,
+      "world_gold_usd": 1828.0,
+      "spread_usd": -0.07,
+      "premium_percent": -0.0
+    },
+    {
+      "date": "2021-11-09",
+      "sge_cny_per_g": 376.16,
+      "usd_cny": 6.3916,
+      "sge_usd_per_oz": 1830.51,
+      "world_gold_usd": 1830.8,
+      "spread_usd": -0.29,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2021-11-10",
+      "sge_cny_per_g": 381.84,
+      "usd_cny": 6.3917,
+      "sge_usd_per_oz": 1858.12,
+      "world_gold_usd": 1848.3,
+      "spread_usd": 9.82,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2021-11-11",
+      "sge_cny_per_g": 382.33,
+      "usd_cny": 6.3881,
+      "sge_usd_per_oz": 1861.55,
+      "world_gold_usd": 1863.9,
+      "spread_usd": -2.35,
+      "premium_percent": -0.13
+    },
+    {
+      "date": "2021-11-14",
+      "sge_cny_per_g": 380.89,
+      "usd_cny": 6.3881,
+      "sge_usd_per_oz": 1854.54,
+      "world_gold_usd": 1863.9,
+      "spread_usd": -9.36,
+      "premium_percent": -0.5
+    },
+    {
+      "date": "2021-11-15",
+      "sge_cny_per_g": 382.64,
+      "usd_cny": 6.3786,
+      "sge_usd_per_oz": 1865.84,
+      "world_gold_usd": 1866.6,
+      "spread_usd": -0.76,
+      "premium_percent": -0.04
+    },
+    {
+      "date": "2021-11-16",
+      "sge_cny_per_g": 381.17,
+      "usd_cny": 6.3821,
+      "sge_usd_per_oz": 1857.65,
+      "world_gold_usd": 1854.1,
+      "spread_usd": 3.55,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2021-11-17",
+      "sge_cny_per_g": 382.6,
+      "usd_cny": 6.3911,
+      "sge_usd_per_oz": 1861.99,
+      "world_gold_usd": 1870.2,
+      "spread_usd": -8.21,
+      "premium_percent": -0.44
+    },
+    {
+      "date": "2021-11-18",
+      "sge_cny_per_g": 381.8,
+      "usd_cny": 6.3769,
+      "sge_usd_per_oz": 1862.24,
+      "world_gold_usd": 1861.4,
+      "spread_usd": 0.84,
+      "premium_percent": 0.05
+    },
+    {
+      "date": "2021-11-21",
+      "sge_cny_per_g": 378.56,
+      "usd_cny": 6.3769,
+      "sge_usd_per_oz": 1846.44,
+      "world_gold_usd": 1861.4,
+      "spread_usd": -14.96,
+      "premium_percent": -0.8
+    },
+    {
+      "date": "2021-11-22",
+      "sge_cny_per_g": 371.31,
+      "usd_cny": 6.3862,
+      "sge_usd_per_oz": 1808.44,
+      "world_gold_usd": 1806.3,
+      "spread_usd": 2.14,
+      "premium_percent": 0.12
+    },
+    {
+      "date": "2021-11-23",
+      "sge_cny_per_g": 369.6,
+      "usd_cny": 6.3843,
+      "sge_usd_per_oz": 1800.64,
+      "world_gold_usd": 1783.8,
+      "spread_usd": 16.84,
+      "premium_percent": 0.94
+    },
+    {
+      "date": "2021-11-24",
+      "sge_cny_per_g": 369.34,
+      "usd_cny": 6.3908,
+      "sge_usd_per_oz": 1797.55,
+      "world_gold_usd": 1784.3,
+      "spread_usd": 13.25,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2021-11-25",
+      "sge_cny_per_g": 371.21,
+      "usd_cny": 6.3918,
+      "sge_usd_per_oz": 1806.36,
+      "world_gold_usd": 1784.3,
+      "spread_usd": 22.06,
+      "premium_percent": 1.24
+    },
+    {
+      "date": "2021-11-28",
+      "sge_cny_per_g": 369.67,
+      "usd_cny": 6.3918,
+      "sge_usd_per_oz": 1798.87,
+      "world_gold_usd": 1784.3,
+      "spread_usd": 14.57,
+      "premium_percent": 0.82
+    },
+    {
+      "date": "2021-11-29",
+      "sge_cny_per_g": 368.63,
+      "usd_cny": 6.392,
+      "sge_usd_per_oz": 1793.75,
+      "world_gold_usd": 1782.3,
+      "spread_usd": 11.45,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2021-11-30",
+      "sge_cny_per_g": 367.5,
+      "usd_cny": 6.387,
+      "sge_usd_per_oz": 1789.66,
+      "world_gold_usd": 1773.6,
+      "spread_usd": 16.06,
+      "premium_percent": 0.91
+    },
+    {
+      "date": "2021-12-01",
+      "sge_cny_per_g": 365.73,
+      "usd_cny": 6.3632,
+      "sge_usd_per_oz": 1787.7,
+      "world_gold_usd": 1784.3,
+      "spread_usd": 3.4,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2021-12-02",
+      "sge_cny_per_g": 364.83,
+      "usd_cny": 6.3673,
+      "sge_usd_per_oz": 1782.15,
+      "world_gold_usd": 1762.7,
+      "spread_usd": 19.45,
+      "premium_percent": 1.1
+    },
+    {
+      "date": "2021-12-05",
+      "sge_cny_per_g": 367.58,
+      "usd_cny": 6.3673,
+      "sge_usd_per_oz": 1795.58,
+      "world_gold_usd": 1762.7,
+      "spread_usd": 32.88,
+      "premium_percent": 1.87
+    },
+    {
+      "date": "2021-12-06",
+      "sge_cny_per_g": 366.84,
+      "usd_cny": 6.3753,
+      "sge_usd_per_oz": 1789.72,
+      "world_gold_usd": 1779.5,
+      "spread_usd": 10.22,
+      "premium_percent": 0.57
+    },
+    {
+      "date": "2021-12-07",
+      "sge_cny_per_g": 367.36,
+      "usd_cny": 6.3748,
+      "sge_usd_per_oz": 1792.4,
+      "world_gold_usd": 1784.7,
+      "spread_usd": 7.7,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2021-12-08",
+      "sge_cny_per_g": 365.8,
+      "usd_cny": 6.3663,
+      "sge_usd_per_oz": 1787.17,
+      "world_gold_usd": 1785.5,
+      "spread_usd": 1.67,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2021-12-09",
+      "sge_cny_per_g": 364.83,
+      "usd_cny": 6.3437,
+      "sge_usd_per_oz": 1788.78,
+      "world_gold_usd": 1776.7,
+      "spread_usd": 12.08,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2021-12-12",
+      "sge_cny_per_g": 367.03,
+      "usd_cny": 6.3437,
+      "sge_usd_per_oz": 1799.57,
+      "world_gold_usd": 1776.7,
+      "spread_usd": 22.87,
+      "premium_percent": 1.29
+    },
+    {
+      "date": "2021-12-13",
+      "sge_cny_per_g": 367.57,
+      "usd_cny": 6.36,
+      "sge_usd_per_oz": 1797.6,
+      "world_gold_usd": 1788.3,
+      "spread_usd": 9.3,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2021-12-14",
+      "sge_cny_per_g": 363.67,
+      "usd_cny": 6.3655,
+      "sge_usd_per_oz": 1776.99,
+      "world_gold_usd": 1772.3,
+      "spread_usd": 4.69,
+      "premium_percent": 0.26
+    },
+    {
+      "date": "2021-12-15",
+      "sge_cny_per_g": 367.07,
+      "usd_cny": 6.3665,
+      "sge_usd_per_oz": 1793.32,
+      "world_gold_usd": 1764.5,
+      "spread_usd": 28.82,
+      "premium_percent": 1.63
+    },
+    {
+      "date": "2021-12-16",
+      "sge_cny_per_g": 371.73,
+      "usd_cny": 6.3665,
+      "sge_usd_per_oz": 1816.08,
+      "world_gold_usd": 1798.2,
+      "spread_usd": 17.88,
+      "premium_percent": 0.99
+    },
+    {
+      "date": "2021-12-19",
+      "sge_cny_per_g": 371.13,
+      "usd_cny": 6.3665,
+      "sge_usd_per_oz": 1813.15,
+      "world_gold_usd": 1798.2,
+      "spread_usd": 14.95,
+      "premium_percent": 0.83
+    },
+    {
+      "date": "2021-12-20",
+      "sge_cny_per_g": 368.9,
+      "usd_cny": 6.374,
+      "sge_usd_per_oz": 1800.14,
+      "world_gold_usd": 1794.6,
+      "spread_usd": 5.54,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2021-12-21",
+      "sge_cny_per_g": 368.0,
+      "usd_cny": 6.3746,
+      "sge_usd_per_oz": 1795.58,
+      "world_gold_usd": 1788.7,
+      "spread_usd": 6.88,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2021-12-22",
+      "sge_cny_per_g": 371.63,
+      "usd_cny": 6.3706,
+      "sge_usd_per_oz": 1814.43,
+      "world_gold_usd": 1802.2,
+      "spread_usd": 12.23,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2021-12-23",
+      "sge_cny_per_g": 372.43,
+      "usd_cny": 6.3691,
+      "sge_usd_per_oz": 1818.76,
+      "world_gold_usd": 1811.7,
+      "spread_usd": 7.06,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2021-12-26",
+      "sge_cny_per_g": 372.27,
+      "usd_cny": 6.3691,
+      "sge_usd_per_oz": 1817.98,
+      "world_gold_usd": 1811.7,
+      "spread_usd": 6.28,
+      "premium_percent": 0.35
+    },
+    {
+      "date": "2021-12-27",
+      "sge_cny_per_g": 373.27,
+      "usd_cny": 6.3666,
+      "sge_usd_per_oz": 1823.58,
+      "world_gold_usd": 1808.8,
+      "spread_usd": 14.78,
+      "premium_percent": 0.82
+    },
+    {
+      "date": "2021-12-28",
+      "sge_cny_per_g": 371.51,
+      "usd_cny": 6.3698,
+      "sge_usd_per_oz": 1814.07,
+      "world_gold_usd": 1810.9,
+      "spread_usd": 3.17,
+      "premium_percent": 0.17
+    },
+    {
+      "date": "2021-12-29",
+      "sge_cny_per_g": 369.81,
+      "usd_cny": 6.3672,
+      "sge_usd_per_oz": 1806.5,
+      "world_gold_usd": 1805.8,
+      "spread_usd": 0.7,
+      "premium_percent": 0.04
+    },
+    {
+      "date": "2021-12-30",
+      "sge_cny_per_g": 374.0,
+      "usd_cny": 6.3673,
+      "sge_usd_per_oz": 1826.94,
+      "world_gold_usd": 1814.1,
+      "spread_usd": 12.84,
+      "premium_percent": 0.71
+    },
+    {
+      "date": "2022-01-03",
+      "sge_cny_per_g": 371.11,
+      "usd_cny": 6.3549,
+      "sge_usd_per_oz": 1816.36,
+      "world_gold_usd": 1800.1,
+      "spread_usd": 16.26,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2022-01-04",
+      "sge_cny_per_g": 372.52,
+      "usd_cny": 6.3551,
+      "sge_usd_per_oz": 1823.21,
+      "world_gold_usd": 1814.6,
+      "spread_usd": 8.61,
+      "premium_percent": 0.47
+    },
+    {
+      "date": "2022-01-05",
+      "sge_cny_per_g": 370.06,
+      "usd_cny": 6.3543,
+      "sge_usd_per_oz": 1811.4,
+      "world_gold_usd": 1825.1,
+      "spread_usd": -13.7,
+      "premium_percent": -0.75
+    },
+    {
+      "date": "2022-01-06",
+      "sge_cny_per_g": 368.26,
+      "usd_cny": 6.354,
+      "sge_usd_per_oz": 1802.67,
+      "world_gold_usd": 1789.2,
+      "spread_usd": 13.47,
+      "premium_percent": 0.75
+    },
+    {
+      "date": "2022-01-09",
+      "sge_cny_per_g": 368.6,
+      "usd_cny": 6.354,
+      "sge_usd_per_oz": 1804.33,
+      "world_gold_usd": 1789.2,
+      "spread_usd": 15.13,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2022-01-10",
+      "sge_cny_per_g": 371.66,
+      "usd_cny": 6.3762,
+      "sge_usd_per_oz": 1812.98,
+      "world_gold_usd": 1798.8,
+      "spread_usd": 14.18,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2022-01-11",
+      "sge_cny_per_g": 373.6,
+      "usd_cny": 6.3739,
+      "sge_usd_per_oz": 1823.1,
+      "world_gold_usd": 1818.5,
+      "spread_usd": 4.6,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2022-01-12",
+      "sge_cny_per_g": 374.32,
+      "usd_cny": 6.3729,
+      "sge_usd_per_oz": 1826.9,
+      "world_gold_usd": 1827.3,
+      "spread_usd": -0.4,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2022-01-13",
+      "sge_cny_per_g": 374.31,
+      "usd_cny": 6.3576,
+      "sge_usd_per_oz": 1831.25,
+      "world_gold_usd": 1821.4,
+      "spread_usd": 9.85,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2022-01-16",
+      "sge_cny_per_g": 372.41,
+      "usd_cny": 6.3576,
+      "sge_usd_per_oz": 1821.95,
+      "world_gold_usd": 1821.4,
+      "spread_usd": 0.55,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2022-01-17",
+      "sge_cny_per_g": 371.83,
+      "usd_cny": 6.3515,
+      "sge_usd_per_oz": 1820.86,
+      "world_gold_usd": 1821.4,
+      "spread_usd": -0.54,
+      "premium_percent": -0.03
+    },
+    {
+      "date": "2022-01-18",
+      "sge_cny_per_g": 371.61,
+      "usd_cny": 6.3467,
+      "sge_usd_per_oz": 1821.16,
+      "world_gold_usd": 1812.4,
+      "spread_usd": 8.76,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2022-01-19",
+      "sge_cny_per_g": 376.31,
+      "usd_cny": 6.3522,
+      "sge_usd_per_oz": 1842.6,
+      "world_gold_usd": 1843.2,
+      "spread_usd": -0.6,
+      "premium_percent": -0.03
+    },
+    {
+      "date": "2022-01-20",
+      "sge_cny_per_g": 376.4,
+      "usd_cny": 6.3435,
+      "sge_usd_per_oz": 1845.57,
+      "world_gold_usd": 1842.6,
+      "spread_usd": 2.97,
+      "premium_percent": 0.16
+    },
+    {
+      "date": "2022-01-23",
+      "sge_cny_per_g": 375.39,
+      "usd_cny": 6.3435,
+      "sge_usd_per_oz": 1840.61,
+      "world_gold_usd": 1842.6,
+      "spread_usd": -1.99,
+      "premium_percent": -0.11
+    },
+    {
+      "date": "2022-01-24",
+      "sge_cny_per_g": 376.1,
+      "usd_cny": 6.3377,
+      "sge_usd_per_oz": 1845.78,
+      "world_gold_usd": 1841.7,
+      "spread_usd": 4.08,
+      "premium_percent": 0.22
+    },
+    {
+      "date": "2022-01-25",
+      "sge_cny_per_g": 376.73,
+      "usd_cny": 6.3298,
+      "sge_usd_per_oz": 1851.18,
+      "world_gold_usd": 1852.5,
+      "spread_usd": -1.32,
+      "premium_percent": -0.07
+    },
+    {
+      "date": "2022-01-26",
+      "sge_cny_per_g": 370.81,
+      "usd_cny": 6.3265,
+      "sge_usd_per_oz": 1823.04,
+      "world_gold_usd": 1829.7,
+      "spread_usd": -6.66,
+      "premium_percent": -0.36
+    },
+    {
+      "date": "2022-01-27",
+      "sge_cny_per_g": 368.69,
+      "usd_cny": 6.3196,
+      "sge_usd_per_oz": 1814.6,
+      "world_gold_usd": 1793.1,
+      "spread_usd": 21.5,
+      "premium_percent": 1.2
+    },
+    {
+      "date": "2022-02-06",
+      "sge_cny_per_g": 371.12,
+      "usd_cny": 6.3196,
+      "sge_usd_per_oz": 1826.56,
+      "world_gold_usd": 1793.1,
+      "spread_usd": 33.46,
+      "premium_percent": 1.87
+    },
+    {
+      "date": "2022-02-07",
+      "sge_cny_per_g": 373.21,
+      "usd_cny": 6.3595,
+      "sge_usd_per_oz": 1825.32,
+      "world_gold_usd": 1821.8,
+      "spread_usd": 3.52,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2022-02-08",
+      "sge_cny_per_g": 374.94,
+      "usd_cny": 6.3523,
+      "sge_usd_per_oz": 1835.86,
+      "world_gold_usd": 1827.9,
+      "spread_usd": 7.96,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2022-02-09",
+      "sge_cny_per_g": 375.87,
+      "usd_cny": 6.3657,
+      "sge_usd_per_oz": 1836.54,
+      "world_gold_usd": 1836.6,
+      "spread_usd": -0.06,
+      "premium_percent": -0.0
+    },
+    {
+      "date": "2022-02-10",
+      "sge_cny_per_g": 373.97,
+      "usd_cny": 6.3614,
+      "sge_usd_per_oz": 1828.49,
+      "world_gold_usd": 1837.4,
+      "spread_usd": -8.91,
+      "premium_percent": -0.48
+    },
+    {
+      "date": "2022-02-13",
+      "sge_cny_per_g": 379.9,
+      "usd_cny": 6.3614,
+      "sge_usd_per_oz": 1857.49,
+      "world_gold_usd": 1837.4,
+      "spread_usd": 20.09,
+      "premium_percent": 1.09
+    },
+    {
+      "date": "2022-02-14",
+      "sge_cny_per_g": 384.18,
+      "usd_cny": 6.3531,
+      "sge_usd_per_oz": 1880.87,
+      "world_gold_usd": 1869.4,
+      "spread_usd": 11.47,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2022-02-15",
+      "sge_cny_per_g": 378.81,
+      "usd_cny": 6.3559,
+      "sge_usd_per_oz": 1853.76,
+      "world_gold_usd": 1856.2,
+      "spread_usd": -2.44,
+      "premium_percent": -0.13
+    },
+    {
+      "date": "2022-02-16",
+      "sge_cny_per_g": 382.64,
+      "usd_cny": 6.338,
+      "sge_usd_per_oz": 1877.79,
+      "world_gold_usd": 1871.5,
+      "spread_usd": 6.29,
+      "premium_percent": 0.34
+    },
+    {
+      "date": "2022-02-17",
+      "sge_cny_per_g": 385.42,
+      "usd_cny": 6.3356,
+      "sge_usd_per_oz": 1892.15,
+      "world_gold_usd": 1902.0,
+      "spread_usd": -9.85,
+      "premium_percent": -0.52
+    },
+    {
+      "date": "2022-02-20",
+      "sge_cny_per_g": 385.32,
+      "usd_cny": 6.3356,
+      "sge_usd_per_oz": 1891.66,
+      "world_gold_usd": 1902.0,
+      "spread_usd": -10.34,
+      "premium_percent": -0.54
+    },
+    {
+      "date": "2022-02-21",
+      "sge_cny_per_g": 389.73,
+      "usd_cny": 6.3242,
+      "sge_usd_per_oz": 1916.76,
+      "world_gold_usd": 1902.0,
+      "spread_usd": 14.76,
+      "premium_percent": 0.78
+    },
+    {
+      "date": "2022-02-22",
+      "sge_cny_per_g": 386.94,
+      "usd_cny": 6.3342,
+      "sge_usd_per_oz": 1900.03,
+      "world_gold_usd": 1907.4,
+      "spread_usd": -7.37,
+      "premium_percent": -0.39
+    },
+    {
+      "date": "2022-02-23",
+      "sge_cny_per_g": 394.94,
+      "usd_cny": 6.3253,
+      "sge_usd_per_oz": 1942.04,
+      "world_gold_usd": 1910.4,
+      "spread_usd": 31.64,
+      "premium_percent": 1.66
+    },
+    {
+      "date": "2022-02-24",
+      "sge_cny_per_g": 390.06,
+      "usd_cny": 6.3123,
+      "sge_usd_per_oz": 1922.0,
+      "world_gold_usd": 1926.3,
+      "spread_usd": -4.3,
+      "premium_percent": -0.22
+    },
+    {
+      "date": "2022-02-27",
+      "sge_cny_per_g": 387.87,
+      "usd_cny": 6.3123,
+      "sge_usd_per_oz": 1911.21,
+      "world_gold_usd": 1926.3,
+      "spread_usd": -15.09,
+      "premium_percent": -0.78
+    },
+    {
+      "date": "2022-02-28",
+      "sge_cny_per_g": 387.9,
+      "usd_cny": 6.316,
+      "sge_usd_per_oz": 1910.23,
+      "world_gold_usd": 1900.7,
+      "spread_usd": 9.53,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2022-03-01",
+      "sge_cny_per_g": 393.51,
+      "usd_cny": 6.3084,
+      "sge_usd_per_oz": 1940.2,
+      "world_gold_usd": 1943.8,
+      "spread_usd": -3.6,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2022-03-02",
+      "sge_cny_per_g": 392.32,
+      "usd_cny": 6.3115,
+      "sge_usd_per_oz": 1933.38,
+      "world_gold_usd": 1922.3,
+      "spread_usd": 11.08,
+      "premium_percent": 0.58
+    },
+    {
+      "date": "2022-03-03",
+      "sge_cny_per_g": 393.75,
+      "usd_cny": 6.3196,
+      "sge_usd_per_oz": 1937.94,
+      "world_gold_usd": 1935.9,
+      "spread_usd": 2.04,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2022-03-06",
+      "sge_cny_per_g": 402.29,
+      "usd_cny": 6.3196,
+      "sge_usd_per_oz": 1979.97,
+      "world_gold_usd": 1935.9,
+      "spread_usd": 44.07,
+      "premium_percent": 2.28
+    },
+    {
+      "date": "2022-03-07",
+      "sge_cny_per_g": 409.6,
+      "usd_cny": 6.3167,
+      "sge_usd_per_oz": 2016.87,
+      "world_gold_usd": 1995.9,
+      "spread_usd": 20.97,
+      "premium_percent": 1.05
+    },
+    {
+      "date": "2022-03-08",
+      "sge_cny_per_g": 415.48,
+      "usd_cny": 6.3193,
+      "sge_usd_per_oz": 2044.98,
+      "world_gold_usd": 2043.3,
+      "spread_usd": 1.68,
+      "premium_percent": 0.08
+    },
+    {
+      "date": "2022-03-09",
+      "sge_cny_per_g": 402.67,
+      "usd_cny": 6.3176,
+      "sge_usd_per_oz": 1982.47,
+      "world_gold_usd": 1988.2,
+      "spread_usd": -5.73,
+      "premium_percent": -0.29
+    },
+    {
+      "date": "2022-03-10",
+      "sge_cny_per_g": 403.65,
+      "usd_cny": 6.3166,
+      "sge_usd_per_oz": 1987.61,
+      "world_gold_usd": 2000.4,
+      "spread_usd": -12.79,
+      "premium_percent": -0.64
+    },
+    {
+      "date": "2022-03-13",
+      "sge_cny_per_g": 401.68,
+      "usd_cny": 6.3166,
+      "sge_usd_per_oz": 1977.91,
+      "world_gold_usd": 2000.4,
+      "spread_usd": -22.49,
+      "premium_percent": -1.12
+    },
+    {
+      "date": "2022-03-14",
+      "sge_cny_per_g": 393.83,
+      "usd_cny": 6.3387,
+      "sge_usd_per_oz": 1932.49,
+      "world_gold_usd": 1960.8,
+      "spread_usd": -28.31,
+      "premium_percent": -1.44
+    },
+    {
+      "date": "2022-03-15",
+      "sge_cny_per_g": 390.79,
+      "usd_cny": 6.3645,
+      "sge_usd_per_oz": 1909.8,
+      "world_gold_usd": 1929.7,
+      "spread_usd": -19.9,
+      "premium_percent": -1.03
+    },
+    {
+      "date": "2022-03-16",
+      "sge_cny_per_g": 394.54,
+      "usd_cny": 6.3691,
+      "sge_usd_per_oz": 1926.73,
+      "world_gold_usd": 1909.2,
+      "spread_usd": 17.53,
+      "premium_percent": 0.92
+    },
+    {
+      "date": "2022-03-17",
+      "sge_cny_per_g": 395.07,
+      "usd_cny": 6.3512,
+      "sge_usd_per_oz": 1934.76,
+      "world_gold_usd": 1943.2,
+      "spread_usd": -8.44,
+      "premium_percent": -0.43
+    },
+    {
+      "date": "2022-03-20",
+      "sge_cny_per_g": 393.89,
+      "usd_cny": 6.3512,
+      "sge_usd_per_oz": 1928.98,
+      "world_gold_usd": 1943.2,
+      "spread_usd": -14.22,
+      "premium_percent": -0.73
+    },
+    {
+      "date": "2022-03-21",
+      "sge_cny_per_g": 396.44,
+      "usd_cny": 6.3602,
+      "sge_usd_per_oz": 1938.72,
+      "world_gold_usd": 1929.5,
+      "spread_usd": 9.22,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2022-03-22",
+      "sge_cny_per_g": 393.85,
+      "usd_cny": 6.3545,
+      "sge_usd_per_oz": 1927.78,
+      "world_gold_usd": 1921.5,
+      "spread_usd": 6.28,
+      "premium_percent": 0.33
+    },
+    {
+      "date": "2022-03-23",
+      "sge_cny_per_g": 398.27,
+      "usd_cny": 6.3653,
+      "sge_usd_per_oz": 1946.11,
+      "world_gold_usd": 1937.3,
+      "spread_usd": 8.81,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2022-03-24",
+      "sge_cny_per_g": 400.83,
+      "usd_cny": 6.3713,
+      "sge_usd_per_oz": 1956.78,
+      "world_gold_usd": 1962.2,
+      "spread_usd": -5.42,
+      "premium_percent": -0.28
+    },
+    {
+      "date": "2022-03-27",
+      "sge_cny_per_g": 396.92,
+      "usd_cny": 6.3652,
+      "sge_usd_per_oz": 1939.55,
+      "world_gold_usd": 1962.2,
+      "spread_usd": -22.65,
+      "premium_percent": -1.15
+    },
+    {
+      "date": "2022-03-28",
+      "sge_cny_per_g": 394.59,
+      "usd_cny": 6.3707,
+      "sge_usd_per_oz": 1926.49,
+      "world_gold_usd": 1939.8,
+      "spread_usd": -13.31,
+      "premium_percent": -0.69
+    },
+    {
+      "date": "2022-03-29",
+      "sge_cny_per_g": 393.96,
+      "usd_cny": 6.3631,
+      "sge_usd_per_oz": 1925.72,
+      "world_gold_usd": 1912.2,
+      "spread_usd": 13.52,
+      "premium_percent": 0.71
+    },
+    {
+      "date": "2022-03-30",
+      "sge_cny_per_g": 393.55,
+      "usd_cny": 6.3462,
+      "sge_usd_per_oz": 1928.84,
+      "world_gold_usd": 1933.5,
+      "spread_usd": -4.66,
+      "premium_percent": -0.24
+    },
+    {
+      "date": "2022-03-31",
+      "sge_cny_per_g": 395.3,
+      "usd_cny": 6.3389,
+      "sge_usd_per_oz": 1939.64,
+      "world_gold_usd": 1949.2,
+      "spread_usd": -9.56,
+      "premium_percent": -0.49
+    },
+    {
+      "date": "2022-04-05",
+      "sge_cny_per_g": 393.62,
+      "usd_cny": 6.3631,
+      "sge_usd_per_oz": 1924.05,
+      "world_gold_usd": 1927.5,
+      "spread_usd": -3.45,
+      "premium_percent": -0.18
+    },
+    {
+      "date": "2022-04-06",
+      "sge_cny_per_g": 394.18,
+      "usd_cny": 6.3585,
+      "sge_usd_per_oz": 1928.19,
+      "world_gold_usd": 1923.1,
+      "spread_usd": 5.09,
+      "premium_percent": 0.26
+    },
+    {
+      "date": "2022-04-07",
+      "sge_cny_per_g": 395.05,
+      "usd_cny": 6.3597,
+      "sge_usd_per_oz": 1932.08,
+      "world_gold_usd": 1937.8,
+      "spread_usd": -5.72,
+      "premium_percent": -0.3
+    },
+    {
+      "date": "2022-04-10",
+      "sge_cny_per_g": 398.22,
+      "usd_cny": 6.364,
+      "sge_usd_per_oz": 1946.26,
+      "world_gold_usd": 1937.8,
+      "spread_usd": 8.46,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2022-04-11",
+      "sge_cny_per_g": 400.81,
+      "usd_cny": 6.3687,
+      "sge_usd_per_oz": 1957.48,
+      "world_gold_usd": 1948.2,
+      "spread_usd": 9.28,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2022-04-12",
+      "sge_cny_per_g": 402.44,
+      "usd_cny": 6.365,
+      "sge_usd_per_oz": 1966.58,
+      "world_gold_usd": 1976.1,
+      "spread_usd": -9.52,
+      "premium_percent": -0.48
+    },
+    {
+      "date": "2022-04-13",
+      "sge_cny_per_g": 402.94,
+      "usd_cny": 6.3672,
+      "sge_usd_per_oz": 1968.34,
+      "world_gold_usd": 1984.7,
+      "spread_usd": -16.36,
+      "premium_percent": -0.82
+    },
+    {
+      "date": "2022-04-14",
+      "sge_cny_per_g": 404.46,
+      "usd_cny": 6.3774,
+      "sge_usd_per_oz": 1972.61,
+      "world_gold_usd": 1974.9,
+      "spread_usd": -2.29,
+      "premium_percent": -0.12
+    },
+    {
+      "date": "2022-04-17",
+      "sge_cny_per_g": 406.75,
+      "usd_cny": 6.3702,
+      "sge_usd_per_oz": 1986.02,
+      "world_gold_usd": 1974.9,
+      "spread_usd": 11.12,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2022-04-18",
+      "sge_cny_per_g": 404.34,
+      "usd_cny": 6.3662,
+      "sge_usd_per_oz": 1975.49,
+      "world_gold_usd": 1986.4,
+      "spread_usd": -10.91,
+      "premium_percent": -0.55
+    },
+    {
+      "date": "2022-04-19",
+      "sge_cny_per_g": 399.31,
+      "usd_cny": 6.3924,
+      "sge_usd_per_oz": 1942.92,
+      "world_gold_usd": 1959.0,
+      "spread_usd": -16.08,
+      "premium_percent": -0.82
+    },
+    {
+      "date": "2022-04-20",
+      "sge_cny_per_g": 404.02,
+      "usd_cny": 6.4177,
+      "sge_usd_per_oz": 1958.09,
+      "world_gold_usd": 1955.6,
+      "spread_usd": 2.49,
+      "premium_percent": 0.13
+    },
+    {
+      "date": "2022-04-21",
+      "sge_cny_per_g": 405.9,
+      "usd_cny": 6.4493,
+      "sge_usd_per_oz": 1957.56,
+      "world_gold_usd": 1948.2,
+      "spread_usd": 9.36,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2022-04-24",
+      "sge_cny_per_g": 403.75,
+      "usd_cny": 6.5003,
+      "sge_usd_per_oz": 1931.92,
+      "world_gold_usd": 1948.2,
+      "spread_usd": -16.28,
+      "premium_percent": -0.84
+    },
+    {
+      "date": "2022-04-25",
+      "sge_cny_per_g": 400.55,
+      "usd_cny": 6.5579,
+      "sge_usd_per_oz": 1899.77,
+      "world_gold_usd": 1896.0,
+      "spread_usd": 3.77,
+      "premium_percent": 0.2
+    },
+    {
+      "date": "2022-04-26",
+      "sge_cny_per_g": 400.32,
+      "usd_cny": 6.5563,
+      "sge_usd_per_oz": 1899.14,
+      "world_gold_usd": 1904.1,
+      "spread_usd": -4.96,
+      "premium_percent": -0.26
+    },
+    {
+      "date": "2022-04-27",
+      "sge_cny_per_g": 399.74,
+      "usd_cny": 6.5595,
+      "sge_usd_per_oz": 1895.47,
+      "world_gold_usd": 1888.7,
+      "spread_usd": 6.77,
+      "premium_percent": 0.36
+    },
+    {
+      "date": "2022-04-28",
+      "sge_cny_per_g": 404.95,
+      "usd_cny": 6.6253,
+      "sge_usd_per_oz": 1901.1,
+      "world_gold_usd": 1891.3,
+      "spread_usd": 9.8,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2022-05-04",
+      "sge_cny_per_g": 403.77,
+      "usd_cny": 6.6075,
+      "sge_usd_per_oz": 1900.67,
+      "world_gold_usd": 1868.8,
+      "spread_usd": 31.87,
+      "premium_percent": 1.71
+    },
+    {
+      "date": "2022-05-05",
+      "sge_cny_per_g": 402.81,
+      "usd_cny": 6.6546,
+      "sge_usd_per_oz": 1882.73,
+      "world_gold_usd": 1875.7,
+      "spread_usd": 7.03,
+      "premium_percent": 0.37
+    },
+    {
+      "date": "2022-05-08",
+      "sge_cny_per_g": 404.53,
+      "usd_cny": 6.6656,
+      "sge_usd_per_oz": 1887.65,
+      "world_gold_usd": 1875.7,
+      "spread_usd": 11.95,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2022-05-09",
+      "sge_cny_per_g": 401.62,
+      "usd_cny": 6.7298,
+      "sge_usd_per_oz": 1856.19,
+      "world_gold_usd": 1858.6,
+      "spread_usd": -2.41,
+      "premium_percent": -0.13
+    },
+    {
+      "date": "2022-05-10",
+      "sge_cny_per_g": 399.39,
+      "usd_cny": 6.7336,
+      "sge_usd_per_oz": 1844.84,
+      "world_gold_usd": 1841.0,
+      "spread_usd": 3.84,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2022-05-11",
+      "sge_cny_per_g": 403.31,
+      "usd_cny": 6.7207,
+      "sge_usd_per_oz": 1866.52,
+      "world_gold_usd": 1853.7,
+      "spread_usd": 12.82,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2022-05-12",
+      "sge_cny_per_g": 399.36,
+      "usd_cny": 6.7859,
+      "sge_usd_per_oz": 1830.48,
+      "world_gold_usd": 1824.6,
+      "spread_usd": 5.88,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2022-05-15",
+      "sge_cny_per_g": 395.58,
+      "usd_cny": 6.788,
+      "sge_usd_per_oz": 1812.6,
+      "world_gold_usd": 1824.6,
+      "spread_usd": -12.0,
+      "premium_percent": -0.66
+    },
+    {
+      "date": "2022-05-16",
+      "sge_cny_per_g": 397.72,
+      "usd_cny": 6.7851,
+      "sge_usd_per_oz": 1823.18,
+      "world_gold_usd": 1814.0,
+      "spread_usd": 9.18,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2022-05-17",
+      "sge_cny_per_g": 393.27,
+      "usd_cny": 6.7362,
+      "sge_usd_per_oz": 1815.87,
+      "world_gold_usd": 1818.9,
+      "spread_usd": -3.03,
+      "premium_percent": -0.17
+    },
+    {
+      "date": "2022-05-18",
+      "sge_cny_per_g": 394.87,
+      "usd_cny": 6.7534,
+      "sge_usd_per_oz": 1818.61,
+      "world_gold_usd": 1815.9,
+      "spread_usd": 2.71,
+      "premium_percent": 0.15
+    },
+    {
+      "date": "2022-05-19",
+      "sge_cny_per_g": 397.45,
+      "usd_cny": 6.7121,
+      "sge_usd_per_oz": 1841.76,
+      "world_gold_usd": 1841.2,
+      "spread_usd": 0.56,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2022-05-22",
+      "sge_cny_per_g": 397.41,
+      "usd_cny": 6.692,
+      "sge_usd_per_oz": 1847.11,
+      "world_gold_usd": 1841.2,
+      "spread_usd": 5.91,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2022-05-23",
+      "sge_cny_per_g": 398.43,
+      "usd_cny": 6.6498,
+      "sge_usd_per_oz": 1863.6,
+      "world_gold_usd": 1847.8,
+      "spread_usd": 15.8,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2022-05-24",
+      "sge_cny_per_g": 398.97,
+      "usd_cny": 6.653,
+      "sge_usd_per_oz": 1865.23,
+      "world_gold_usd": 1865.4,
+      "spread_usd": -0.17,
+      "premium_percent": -0.01
+    },
+    {
+      "date": "2022-05-25",
+      "sge_cny_per_g": 400.67,
+      "usd_cny": 6.6917,
+      "sge_usd_per_oz": 1862.34,
+      "world_gold_usd": 1846.3,
+      "spread_usd": 16.04,
+      "premium_percent": 0.87
+    },
+    {
+      "date": "2022-05-26",
+      "sge_cny_per_g": 402.36,
+      "usd_cny": 6.7378,
+      "sge_usd_per_oz": 1857.4,
+      "world_gold_usd": 1847.6,
+      "spread_usd": 9.8,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2022-05-29",
+      "sge_cny_per_g": 398.96,
+      "usd_cny": 6.6976,
+      "sge_usd_per_oz": 1852.76,
+      "world_gold_usd": 1847.6,
+      "spread_usd": 5.16,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2022-05-30",
+      "sge_cny_per_g": 397.85,
+      "usd_cny": 6.6603,
+      "sge_usd_per_oz": 1857.95,
+      "world_gold_usd": 1847.6,
+      "spread_usd": 10.35,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2022-05-31",
+      "sge_cny_per_g": 395.47,
+      "usd_cny": 6.6717,
+      "sge_usd_per_oz": 1843.68,
+      "world_gold_usd": 1842.7,
+      "spread_usd": 0.98,
+      "premium_percent": 0.05
+    },
+    {
+      "date": "2022-06-01",
+      "sge_cny_per_g": 398.46,
+      "usd_cny": 6.6852,
+      "sge_usd_per_oz": 1853.87,
+      "world_gold_usd": 1848.7,
+      "spread_usd": 5.17,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2022-06-05",
+      "sge_cny_per_g": 397.35,
+      "usd_cny": 6.6593,
+      "sge_usd_per_oz": 1855.9,
+      "world_gold_usd": 1848.7,
+      "spread_usd": 7.2,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2022-06-06",
+      "sge_cny_per_g": 395.57,
+      "usd_cny": 6.6529,
+      "sge_usd_per_oz": 1849.36,
+      "world_gold_usd": 1843.7,
+      "spread_usd": 5.66,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2022-06-07",
+      "sge_cny_per_g": 397.38,
+      "usd_cny": 6.6697,
+      "sge_usd_per_oz": 1853.14,
+      "world_gold_usd": 1852.1,
+      "spread_usd": 1.04,
+      "premium_percent": 0.06
+    },
+    {
+      "date": "2022-06-08",
+      "sge_cny_per_g": 398.11,
+      "usd_cny": 6.6827,
+      "sge_usd_per_oz": 1852.93,
+      "world_gold_usd": 1856.5,
+      "spread_usd": -3.57,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2022-06-09",
+      "sge_cny_per_g": 396.97,
+      "usd_cny": 6.6908,
+      "sge_usd_per_oz": 1845.39,
+      "world_gold_usd": 1852.8,
+      "spread_usd": -7.41,
+      "premium_percent": -0.4
+    },
+    {
+      "date": "2022-06-12",
+      "sge_cny_per_g": 403.61,
+      "usd_cny": 6.7079,
+      "sge_usd_per_oz": 1871.48,
+      "world_gold_usd": 1852.8,
+      "spread_usd": 18.68,
+      "premium_percent": 1.01
+    },
+    {
+      "date": "2022-06-13",
+      "sge_cny_per_g": 395.92,
+      "usd_cny": 6.7535,
+      "sge_usd_per_oz": 1823.42,
+      "world_gold_usd": 1831.8,
+      "spread_usd": -8.38,
+      "premium_percent": -0.46
+    },
+    {
+      "date": "2022-06-14",
+      "sge_cny_per_g": 393.91,
+      "usd_cny": 6.7395,
+      "sge_usd_per_oz": 1817.93,
+      "world_gold_usd": 1813.5,
+      "spread_usd": 4.43,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2022-06-15",
+      "sge_cny_per_g": 395.19,
+      "usd_cny": 6.7123,
+      "sge_usd_per_oz": 1831.23,
+      "world_gold_usd": 1819.6,
+      "spread_usd": 11.63,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2022-06-16",
+      "sge_cny_per_g": 397.83,
+      "usd_cny": 6.7034,
+      "sge_usd_per_oz": 1845.91,
+      "world_gold_usd": 1849.9,
+      "spread_usd": -3.99,
+      "premium_percent": -0.22
+    },
+    {
+      "date": "2022-06-19",
+      "sge_cny_per_g": 396.36,
+      "usd_cny": 6.7157,
+      "sge_usd_per_oz": 1835.72,
+      "world_gold_usd": 1849.9,
+      "spread_usd": -14.18,
+      "premium_percent": -0.77
+    },
+    {
+      "date": "2022-06-20",
+      "sge_cny_per_g": 395.56,
+      "usd_cny": 6.6914,
+      "sge_usd_per_oz": 1838.67,
+      "world_gold_usd": 1849.9,
+      "spread_usd": -11.23,
+      "premium_percent": -0.61
+    },
+    {
+      "date": "2022-06-21",
+      "sge_cny_per_g": 395.52,
+      "usd_cny": 6.6884,
+      "sge_usd_per_oz": 1839.31,
+      "world_gold_usd": 1838.8,
+      "spread_usd": 0.51,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2022-06-22",
+      "sge_cny_per_g": 396.03,
+      "usd_cny": 6.7011,
+      "sge_usd_per_oz": 1838.19,
+      "world_gold_usd": 1838.4,
+      "spread_usd": -0.21,
+      "premium_percent": -0.01
+    },
+    {
+      "date": "2022-06-23",
+      "sge_cny_per_g": 393.21,
+      "usd_cny": 6.6973,
+      "sge_usd_per_oz": 1826.14,
+      "world_gold_usd": 1829.8,
+      "spread_usd": -3.66,
+      "premium_percent": -0.2
+    },
+    {
+      "date": "2022-06-26",
+      "sge_cny_per_g": 395.78,
+      "usd_cny": 6.6888,
+      "sge_usd_per_oz": 1840.41,
+      "world_gold_usd": 1829.8,
+      "spread_usd": 10.61,
+      "premium_percent": 0.58
+    },
+    {
+      "date": "2022-06-27",
+      "sge_cny_per_g": 393.52,
+      "usd_cny": 6.6907,
+      "sge_usd_per_oz": 1829.38,
+      "world_gold_usd": 1824.8,
+      "spread_usd": 4.58,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2022-06-28",
+      "sge_cny_per_g": 392.86,
+      "usd_cny": 6.7073,
+      "sge_usd_per_oz": 1821.79,
+      "world_gold_usd": 1821.2,
+      "spread_usd": 0.59,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2022-06-29",
+      "sge_cny_per_g": 392.06,
+      "usd_cny": 6.6998,
+      "sge_usd_per_oz": 1820.12,
+      "world_gold_usd": 1817.5,
+      "spread_usd": 2.62,
+      "premium_percent": 0.14
+    },
+    {
+      "date": "2022-06-30",
+      "sge_cny_per_g": 388.67,
+      "usd_cny": 6.6982,
+      "sge_usd_per_oz": 1804.81,
+      "world_gold_usd": 1807.3,
+      "spread_usd": -2.49,
+      "premium_percent": -0.14
+    },
+    {
+      "date": "2022-07-03",
+      "sge_cny_per_g": 390.58,
+      "usd_cny": 6.7005,
+      "sge_usd_per_oz": 1813.06,
+      "world_gold_usd": 1807.3,
+      "spread_usd": 5.76,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2022-07-04",
+      "sge_cny_per_g": 390.21,
+      "usd_cny": 6.6986,
+      "sge_usd_per_oz": 1811.85,
+      "world_gold_usd": 1807.3,
+      "spread_usd": 4.55,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2022-07-05",
+      "sge_cny_per_g": 382.32,
+      "usd_cny": 6.7188,
+      "sge_usd_per_oz": 1769.88,
+      "world_gold_usd": 1763.9,
+      "spread_usd": 5.98,
+      "premium_percent": 0.34
+    },
+    {
+      "date": "2022-07-06",
+      "sge_cny_per_g": 377.22,
+      "usd_cny": 6.7065,
+      "sge_usd_per_oz": 1749.47,
+      "world_gold_usd": 1736.5,
+      "spread_usd": 12.97,
+      "premium_percent": 0.75
+    },
+    {
+      "date": "2022-07-07",
+      "sge_cny_per_g": 376.75,
+      "usd_cny": 6.7005,
+      "sge_usd_per_oz": 1748.86,
+      "world_gold_usd": 1739.7,
+      "spread_usd": 9.16,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2022-07-10",
+      "sge_cny_per_g": 376.69,
+      "usd_cny": 6.6943,
+      "sge_usd_per_oz": 1750.2,
+      "world_gold_usd": 1739.7,
+      "spread_usd": 10.5,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2022-07-11",
+      "sge_cny_per_g": 376.74,
+      "usd_cny": 6.7172,
+      "sge_usd_per_oz": 1744.47,
+      "world_gold_usd": 1731.7,
+      "spread_usd": 12.77,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2022-07-12",
+      "sge_cny_per_g": 374.21,
+      "usd_cny": 6.7233,
+      "sge_usd_per_oz": 1731.18,
+      "world_gold_usd": 1724.8,
+      "spread_usd": 6.38,
+      "premium_percent": 0.37
+    },
+    {
+      "date": "2022-07-13",
+      "sge_cny_per_g": 373.57,
+      "usd_cny": 6.7176,
+      "sge_usd_per_oz": 1729.68,
+      "world_gold_usd": 1735.5,
+      "spread_usd": -5.82,
+      "premium_percent": -0.34
+    },
+    {
+      "date": "2022-07-14",
+      "sge_cny_per_g": 372.4,
+      "usd_cny": 6.7552,
+      "sge_usd_per_oz": 1714.67,
+      "world_gold_usd": 1705.8,
+      "spread_usd": 8.87,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2022-07-17",
+      "sge_cny_per_g": 373.46,
+      "usd_cny": 6.7565,
+      "sge_usd_per_oz": 1719.22,
+      "world_gold_usd": 1705.8,
+      "spread_usd": 13.42,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2022-07-18",
+      "sge_cny_per_g": 372.5,
+      "usd_cny": 6.7423,
+      "sge_usd_per_oz": 1718.41,
+      "world_gold_usd": 1710.2,
+      "spread_usd": 8.21,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2022-07-19",
+      "sge_cny_per_g": 372.44,
+      "usd_cny": 6.7437,
+      "sge_usd_per_oz": 1717.78,
+      "world_gold_usd": 1710.7,
+      "spread_usd": 7.08,
+      "premium_percent": 0.41
+    },
+    {
+      "date": "2022-07-20",
+      "sge_cny_per_g": 369.38,
+      "usd_cny": 6.7549,
+      "sge_usd_per_oz": 1700.84,
+      "world_gold_usd": 1700.2,
+      "spread_usd": 0.64,
+      "premium_percent": 0.04
+    },
+    {
+      "date": "2022-07-21",
+      "sge_cny_per_g": 375.15,
+      "usd_cny": 6.7656,
+      "sge_usd_per_oz": 1724.68,
+      "world_gold_usd": 1713.4,
+      "spread_usd": 11.28,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2022-07-24",
+      "sge_cny_per_g": 376.46,
+      "usd_cny": 6.7505,
+      "sge_usd_per_oz": 1734.57,
+      "world_gold_usd": 1713.4,
+      "spread_usd": 21.17,
+      "premium_percent": 1.24
+    },
+    {
+      "date": "2022-07-25",
+      "sge_cny_per_g": 376.69,
+      "usd_cny": 6.7495,
+      "sge_usd_per_oz": 1735.89,
+      "world_gold_usd": 1719.1,
+      "spread_usd": 16.79,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2022-07-26",
+      "sge_cny_per_g": 375.83,
+      "usd_cny": 6.7623,
+      "sge_usd_per_oz": 1728.65,
+      "world_gold_usd": 1717.7,
+      "spread_usd": 10.95,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2022-07-27",
+      "sge_cny_per_g": 379.36,
+      "usd_cny": 6.7574,
+      "sge_usd_per_oz": 1746.15,
+      "world_gold_usd": 1719.1,
+      "spread_usd": 27.05,
+      "premium_percent": 1.57
+    },
+    {
+      "date": "2022-07-28",
+      "sge_cny_per_g": 384.72,
+      "usd_cny": 6.7458,
+      "sge_usd_per_oz": 1773.86,
+      "world_gold_usd": 1750.3,
+      "spread_usd": 23.56,
+      "premium_percent": 1.35
+    },
+    {
+      "date": "2022-07-31",
+      "sge_cny_per_g": 384.67,
+      "usd_cny": 6.7432,
+      "sge_usd_per_oz": 1774.32,
+      "world_gold_usd": 1750.3,
+      "spread_usd": 24.02,
+      "premium_percent": 1.37
+    },
+    {
+      "date": "2022-08-01",
+      "sge_cny_per_g": 387.27,
+      "usd_cny": 6.7677,
+      "sge_usd_per_oz": 1779.84,
+      "world_gold_usd": 1787.7,
+      "spread_usd": -7.86,
+      "premium_percent": -0.44
+    },
+    {
+      "date": "2022-08-02",
+      "sge_cny_per_g": 385.64,
+      "usd_cny": 6.7518,
+      "sge_usd_per_oz": 1776.53,
+      "world_gold_usd": 1789.7,
+      "spread_usd": -13.17,
+      "premium_percent": -0.74
+    },
+    {
+      "date": "2022-08-03",
+      "sge_cny_per_g": 386.65,
+      "usd_cny": 6.757,
+      "sge_usd_per_oz": 1779.81,
+      "world_gold_usd": 1776.4,
+      "spread_usd": 3.41,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2022-08-04",
+      "sge_cny_per_g": 389.84,
+      "usd_cny": 6.7478,
+      "sge_usd_per_oz": 1796.94,
+      "world_gold_usd": 1806.9,
+      "spread_usd": -9.96,
+      "premium_percent": -0.55
+    },
+    {
+      "date": "2022-08-07",
+      "sge_cny_per_g": 387.92,
+      "usd_cny": 6.7609,
+      "sge_usd_per_oz": 1784.62,
+      "world_gold_usd": 1806.9,
+      "spread_usd": -22.28,
+      "premium_percent": -1.23
+    },
+    {
+      "date": "2022-08-08",
+      "sge_cny_per_g": 389.4,
+      "usd_cny": 6.7499,
+      "sge_usd_per_oz": 1794.35,
+      "world_gold_usd": 1805.2,
+      "spread_usd": -10.85,
+      "premium_percent": -0.6
+    },
+    {
+      "date": "2022-08-09",
+      "sge_cny_per_g": 390.47,
+      "usd_cny": 6.7517,
+      "sge_usd_per_oz": 1798.8,
+      "world_gold_usd": 1812.3,
+      "spread_usd": -13.5,
+      "premium_percent": -0.74
+    },
+    {
+      "date": "2022-08-10",
+      "sge_cny_per_g": 388.65,
+      "usd_cny": 6.7228,
+      "sge_usd_per_oz": 1798.11,
+      "world_gold_usd": 1813.7,
+      "spread_usd": -15.59,
+      "premium_percent": -0.86
+    },
+    {
+      "date": "2022-08-11",
+      "sge_cny_per_g": 390.17,
+      "usd_cny": 6.7436,
+      "sge_usd_per_oz": 1799.58,
+      "world_gold_usd": 1807.2,
+      "spread_usd": -7.62,
+      "premium_percent": -0.42
+    },
+    {
+      "date": "2022-08-14",
+      "sge_cny_per_g": 391.18,
+      "usd_cny": 6.7418,
+      "sge_usd_per_oz": 1804.72,
+      "world_gold_usd": 1807.2,
+      "spread_usd": -2.48,
+      "premium_percent": -0.14
+    },
+    {
+      "date": "2022-08-15",
+      "sge_cny_per_g": 390.68,
+      "usd_cny": 6.772,
+      "sge_usd_per_oz": 1794.37,
+      "world_gold_usd": 1798.1,
+      "spread_usd": -3.73,
+      "premium_percent": -0.21
+    },
+    {
+      "date": "2022-08-16",
+      "sge_cny_per_g": 389.04,
+      "usd_cny": 6.7874,
+      "sge_usd_per_oz": 1782.79,
+      "world_gold_usd": 1789.7,
+      "spread_usd": -6.91,
+      "premium_percent": -0.39
+    },
+    {
+      "date": "2022-08-17",
+      "sge_cny_per_g": 386.91,
+      "usd_cny": 6.7799,
+      "sge_usd_per_oz": 1774.99,
+      "world_gold_usd": 1776.7,
+      "spread_usd": -1.71,
+      "premium_percent": -0.1
+    },
+    {
+      "date": "2022-08-18",
+      "sge_cny_per_g": 386.53,
+      "usd_cny": 6.7846,
+      "sge_usd_per_oz": 1772.02,
+      "world_gold_usd": 1771.2,
+      "spread_usd": 0.82,
+      "premium_percent": 0.05
+    },
+    {
+      "date": "2022-08-21",
+      "sge_cny_per_g": 385.58,
+      "usd_cny": 6.8157,
+      "sge_usd_per_oz": 1759.6,
+      "world_gold_usd": 1771.2,
+      "spread_usd": -11.6,
+      "premium_percent": -0.66
+    },
+    {
+      "date": "2022-08-22",
+      "sge_cny_per_g": 386.84,
+      "usd_cny": 6.8479,
+      "sge_usd_per_oz": 1757.05,
+      "world_gold_usd": 1748.4,
+      "spread_usd": 8.65,
+      "premium_percent": 0.49
+    },
+    {
+      "date": "2022-08-23",
+      "sge_cny_per_g": 388.64,
+      "usd_cny": 6.8336,
+      "sge_usd_per_oz": 1768.91,
+      "world_gold_usd": 1761.2,
+      "spread_usd": 7.71,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2022-08-24",
+      "sge_cny_per_g": 389.91,
+      "usd_cny": 6.8585,
+      "sge_usd_per_oz": 1768.25,
+      "world_gold_usd": 1761.5,
+      "spread_usd": 6.75,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2022-08-25",
+      "sge_cny_per_g": 390.68,
+      "usd_cny": 6.8483,
+      "sge_usd_per_oz": 1774.38,
+      "world_gold_usd": 1771.4,
+      "spread_usd": 2.98,
+      "premium_percent": 0.17
+    },
+    {
+      "date": "2022-08-28",
+      "sge_cny_per_g": 387.38,
+      "usd_cny": 6.8708,
+      "sge_usd_per_oz": 1753.63,
+      "world_gold_usd": 1771.4,
+      "spread_usd": -17.77,
+      "premium_percent": -1.0
+    },
+    {
+      "date": "2022-08-29",
+      "sge_cny_per_g": 388.94,
+      "usd_cny": 6.907,
+      "sge_usd_per_oz": 1751.47,
+      "world_gold_usd": 1749.7,
+      "spread_usd": 1.77,
+      "premium_percent": 0.1
+    },
+    {
+      "date": "2022-08-30",
+      "sge_cny_per_g": 386.53,
+      "usd_cny": 6.9108,
+      "sge_usd_per_oz": 1739.66,
+      "world_gold_usd": 1736.3,
+      "spread_usd": 3.36,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2022-08-31",
+      "sge_cny_per_g": 383.76,
+      "usd_cny": 6.8889,
+      "sge_usd_per_oz": 1732.68,
+      "world_gold_usd": 1726.2,
+      "spread_usd": 6.48,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2022-09-01",
+      "sge_cny_per_g": 383.24,
+      "usd_cny": 6.9055,
+      "sge_usd_per_oz": 1726.17,
+      "world_gold_usd": 1709.3,
+      "spread_usd": 16.87,
+      "premium_percent": 0.99
+    },
+    {
+      "date": "2022-09-04",
+      "sge_cny_per_g": 386.93,
+      "usd_cny": 6.899,
+      "sge_usd_per_oz": 1744.44,
+      "world_gold_usd": 1709.3,
+      "spread_usd": 35.14,
+      "premium_percent": 2.06
+    },
+    {
+      "date": "2022-09-05",
+      "sge_cny_per_g": 388.87,
+      "usd_cny": 6.9331,
+      "sge_usd_per_oz": 1744.56,
+      "world_gold_usd": 1709.3,
+      "spread_usd": 35.26,
+      "premium_percent": 2.06
+    },
+    {
+      "date": "2022-09-06",
+      "sge_cny_per_g": 386.39,
+      "usd_cny": 6.9531,
+      "sge_usd_per_oz": 1728.45,
+      "world_gold_usd": 1712.9,
+      "spread_usd": 15.55,
+      "premium_percent": 0.91
+    },
+    {
+      "date": "2022-09-07",
+      "sge_cny_per_g": 389.53,
+      "usd_cny": 6.9653,
+      "sge_usd_per_oz": 1739.44,
+      "world_gold_usd": 1727.8,
+      "spread_usd": 11.64,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2022-09-08",
+      "sge_cny_per_g": 389.85,
+      "usd_cny": 6.9565,
+      "sge_usd_per_oz": 1743.07,
+      "world_gold_usd": 1720.2,
+      "spread_usd": 22.87,
+      "premium_percent": 1.33
+    },
+    {
+      "date": "2022-09-12",
+      "sge_cny_per_g": 389.63,
+      "usd_cny": 6.925,
+      "sge_usd_per_oz": 1750.01,
+      "world_gold_usd": 1740.6,
+      "spread_usd": 9.41,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2022-09-13",
+      "sge_cny_per_g": 386.99,
+      "usd_cny": 6.9241,
+      "sge_usd_per_oz": 1738.38,
+      "world_gold_usd": 1717.4,
+      "spread_usd": 20.98,
+      "premium_percent": 1.22
+    },
+    {
+      "date": "2022-09-14",
+      "sge_cny_per_g": 384.99,
+      "usd_cny": 6.961,
+      "sge_usd_per_oz": 1720.23,
+      "world_gold_usd": 1709.1,
+      "spread_usd": 11.13,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2022-09-15",
+      "sge_cny_per_g": 383.68,
+      "usd_cny": 6.993,
+      "sge_usd_per_oz": 1706.53,
+      "world_gold_usd": 1677.3,
+      "spread_usd": 29.23,
+      "premium_percent": 1.74
+    },
+    {
+      "date": "2022-09-18",
+      "sge_cny_per_g": 384.8,
+      "usd_cny": 6.979,
+      "sge_usd_per_oz": 1714.95,
+      "world_gold_usd": 1677.3,
+      "spread_usd": 37.65,
+      "premium_percent": 2.24
+    },
+    {
+      "date": "2022-09-19",
+      "sge_cny_per_g": 385.73,
+      "usd_cny": 7.0056,
+      "sge_usd_per_oz": 1712.56,
+      "world_gold_usd": 1678.2,
+      "spread_usd": 34.36,
+      "premium_percent": 2.05
+    },
+    {
+      "date": "2022-09-20",
+      "sge_cny_per_g": 386.26,
+      "usd_cny": 7.0172,
+      "sge_usd_per_oz": 1712.08,
+      "world_gold_usd": 1671.1,
+      "spread_usd": 40.98,
+      "premium_percent": 2.45
+    },
+    {
+      "date": "2022-09-21",
+      "sge_cny_per_g": 385.79,
+      "usd_cny": 7.0479,
+      "sge_usd_per_oz": 1702.55,
+      "world_gold_usd": 1675.7,
+      "spread_usd": 26.85,
+      "premium_percent": 1.6
+    },
+    {
+      "date": "2022-09-22",
+      "sge_cny_per_g": 387.7,
+      "usd_cny": 7.0766,
+      "sge_usd_per_oz": 1704.04,
+      "world_gold_usd": 1681.1,
+      "spread_usd": 22.94,
+      "premium_percent": 1.36
+    },
+    {
+      "date": "2022-09-25",
+      "sge_cny_per_g": 384.59,
+      "usd_cny": 7.1274,
+      "sge_usd_per_oz": 1678.32,
+      "world_gold_usd": 1681.1,
+      "spread_usd": -2.78,
+      "premium_percent": -0.17
+    },
+    {
+      "date": "2022-09-26",
+      "sge_cny_per_g": 385.47,
+      "usd_cny": 7.148,
+      "sge_usd_per_oz": 1677.32,
+      "world_gold_usd": 1633.4,
+      "spread_usd": 43.92,
+      "premium_percent": 2.69
+    },
+    {
+      "date": "2022-09-27",
+      "sge_cny_per_g": 387.17,
+      "usd_cny": 7.1768,
+      "sge_usd_per_oz": 1677.95,
+      "world_gold_usd": 1636.2,
+      "spread_usd": 41.75,
+      "premium_percent": 2.55
+    },
+    {
+      "date": "2022-09-28",
+      "sge_cny_per_g": 389.52,
+      "usd_cny": 7.199,
+      "sge_usd_per_oz": 1682.93,
+      "world_gold_usd": 1670.0,
+      "spread_usd": 12.93,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2022-09-29",
+      "sge_cny_per_g": 389.82,
+      "usd_cny": 7.1239,
+      "sge_usd_per_oz": 1701.98,
+      "world_gold_usd": 1668.6,
+      "spread_usd": 33.38,
+      "premium_percent": 2.0
+    },
+    {
+      "date": "2022-10-09",
+      "sge_cny_per_g": 392.92,
+      "usd_cny": 7.115,
+      "sge_usd_per_oz": 1717.66,
+      "world_gold_usd": 1668.6,
+      "spread_usd": 49.06,
+      "premium_percent": 2.94
+    },
+    {
+      "date": "2022-10-10",
+      "sge_cny_per_g": 392.4,
+      "usd_cny": 7.1536,
+      "sge_usd_per_oz": 1706.13,
+      "world_gold_usd": 1675.2,
+      "spread_usd": 30.93,
+      "premium_percent": 1.85
+    },
+    {
+      "date": "2022-10-11",
+      "sge_cny_per_g": 392.63,
+      "usd_cny": 7.1644,
+      "sge_usd_per_oz": 1704.56,
+      "world_gold_usd": 1686.0,
+      "spread_usd": 18.56,
+      "premium_percent": 1.1
+    },
+    {
+      "date": "2022-10-12",
+      "sge_cny_per_g": 392.86,
+      "usd_cny": 7.1741,
+      "sge_usd_per_oz": 1703.25,
+      "world_gold_usd": 1677.5,
+      "spread_usd": 25.75,
+      "premium_percent": 1.54
+    },
+    {
+      "date": "2022-10-13",
+      "sge_cny_per_g": 392.39,
+      "usd_cny": 7.1695,
+      "sge_usd_per_oz": 1702.31,
+      "world_gold_usd": 1677.0,
+      "spread_usd": 25.31,
+      "premium_percent": 1.51
+    },
+    {
+      "date": "2022-10-16",
+      "sge_cny_per_g": 390.66,
+      "usd_cny": 7.19,
+      "sge_usd_per_oz": 1689.97,
+      "world_gold_usd": 1677.0,
+      "spread_usd": 12.97,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2022-10-17",
+      "sge_cny_per_g": 391.3,
+      "usd_cny": 7.1955,
+      "sge_usd_per_oz": 1691.44,
+      "world_gold_usd": 1664.0,
+      "spread_usd": 27.44,
+      "premium_percent": 1.65
+    },
+    {
+      "date": "2022-10-18",
+      "sge_cny_per_g": 390.43,
+      "usd_cny": 7.2006,
+      "sge_usd_per_oz": 1686.49,
+      "world_gold_usd": 1655.8,
+      "spread_usd": 30.69,
+      "premium_percent": 1.85
+    },
+    {
+      "date": "2022-10-19",
+      "sge_cny_per_g": 388.63,
+      "usd_cny": 7.2273,
+      "sge_usd_per_oz": 1672.51,
+      "world_gold_usd": 1634.2,
+      "spread_usd": 38.31,
+      "premium_percent": 2.34
+    },
+    {
+      "date": "2022-10-20",
+      "sge_cny_per_g": 388.23,
+      "usd_cny": 7.2158,
+      "sge_usd_per_oz": 1673.45,
+      "world_gold_usd": 1636.8,
+      "spread_usd": 36.65,
+      "premium_percent": 2.24
+    },
+    {
+      "date": "2022-10-23",
+      "sge_cny_per_g": 393.1,
+      "usd_cny": 7.2428,
+      "sge_usd_per_oz": 1688.13,
+      "world_gold_usd": 1636.8,
+      "spread_usd": 51.33,
+      "premium_percent": 3.14
+    },
+    {
+      "date": "2022-10-24",
+      "sge_cny_per_g": 393.94,
+      "usd_cny": 7.2619,
+      "sge_usd_per_oz": 1687.29,
+      "world_gold_usd": 1654.1,
+      "spread_usd": 33.19,
+      "premium_percent": 2.01
+    },
+    {
+      "date": "2022-10-25",
+      "sge_cny_per_g": 394.09,
+      "usd_cny": 7.3038,
+      "sge_usd_per_oz": 1678.25,
+      "world_gold_usd": 1658.0,
+      "spread_usd": 20.25,
+      "premium_percent": 1.22
+    },
+    {
+      "date": "2022-10-26",
+      "sge_cny_per_g": 393.24,
+      "usd_cny": 7.1719,
+      "sge_usd_per_oz": 1705.42,
+      "world_gold_usd": 1669.2,
+      "spread_usd": 36.22,
+      "premium_percent": 2.17
+    },
+    {
+      "date": "2022-10-27",
+      "sge_cny_per_g": 392.96,
+      "usd_cny": 7.2279,
+      "sge_usd_per_oz": 1691.01,
+      "world_gold_usd": 1665.6,
+      "spread_usd": 25.41,
+      "premium_percent": 1.53
+    },
+    {
+      "date": "2022-10-30",
+      "sge_cny_per_g": 391.77,
+      "usd_cny": 7.2279,
+      "sge_usd_per_oz": 1685.89,
+      "world_gold_usd": 1665.6,
+      "spread_usd": 20.29,
+      "premium_percent": 1.22
+    },
+    {
+      "date": "2022-10-31",
+      "sge_cny_per_g": 392.0,
+      "usd_cny": 7.2514,
+      "sge_usd_per_oz": 1681.41,
+      "world_gold_usd": 1640.7,
+      "spread_usd": 40.71,
+      "premium_percent": 2.48
+    },
+    {
+      "date": "2022-11-01",
+      "sge_cny_per_g": 392.71,
+      "usd_cny": 7.3018,
+      "sge_usd_per_oz": 1672.83,
+      "world_gold_usd": 1649.7,
+      "spread_usd": 23.13,
+      "premium_percent": 1.4
+    },
+    {
+      "date": "2022-11-02",
+      "sge_cny_per_g": 391.74,
+      "usd_cny": 7.2766,
+      "sge_usd_per_oz": 1674.47,
+      "world_gold_usd": 1650.0,
+      "spread_usd": 24.47,
+      "premium_percent": 1.48
+    },
+    {
+      "date": "2022-11-03",
+      "sge_cny_per_g": 391.8,
+      "usd_cny": 7.2887,
+      "sge_usd_per_oz": 1671.95,
+      "world_gold_usd": 1630.9,
+      "spread_usd": 41.05,
+      "premium_percent": 2.52
+    },
+    {
+      "date": "2022-11-06",
+      "sge_cny_per_g": 394.46,
+      "usd_cny": 7.2887,
+      "sge_usd_per_oz": 1683.3,
+      "world_gold_usd": 1630.9,
+      "spread_usd": 52.4,
+      "premium_percent": 3.21
+    },
+    {
+      "date": "2022-11-07",
+      "sge_cny_per_g": 395.57,
+      "usd_cny": 7.1751,
+      "sge_usd_per_oz": 1714.76,
+      "world_gold_usd": 1680.5,
+      "spread_usd": 34.26,
+      "premium_percent": 2.04
+    },
+    {
+      "date": "2022-11-08",
+      "sge_cny_per_g": 403.65,
+      "usd_cny": 7.2288,
+      "sge_usd_per_oz": 1736.79,
+      "world_gold_usd": 1716.0,
+      "spread_usd": 20.79,
+      "premium_percent": 1.21
+    },
+    {
+      "date": "2022-11-09",
+      "sge_cny_per_g": 403.87,
+      "usd_cny": 7.2482,
+      "sge_usd_per_oz": 1733.09,
+      "world_gold_usd": 1713.7,
+      "spread_usd": 19.39,
+      "premium_percent": 1.13
+    },
+    {
+      "date": "2022-11-10",
+      "sge_cny_per_g": 407.18,
+      "usd_cny": 7.2408,
+      "sge_usd_per_oz": 1749.08,
+      "world_gold_usd": 1753.7,
+      "spread_usd": -4.62,
+      "premium_percent": -0.26
+    },
+    {
+      "date": "2022-11-13",
+      "sge_cny_per_g": 403.5,
+      "usd_cny": 7.2408,
+      "sge_usd_per_oz": 1733.27,
+      "world_gold_usd": 1753.7,
+      "spread_usd": -20.43,
+      "premium_percent": -1.17
+    },
+    {
+      "date": "2022-11-14",
+      "sge_cny_per_g": 404.87,
+      "usd_cny": 7.1071,
+      "sge_usd_per_oz": 1771.87,
+      "world_gold_usd": 1776.9,
+      "spread_usd": -5.03,
+      "premium_percent": -0.28
+    },
+    {
+      "date": "2022-11-15",
+      "sge_cny_per_g": 406.81,
+      "usd_cny": 7.0729,
+      "sge_usd_per_oz": 1788.97,
+      "world_gold_usd": 1776.8,
+      "spread_usd": 12.17,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2022-11-16",
+      "sge_cny_per_g": 407.55,
+      "usd_cny": 7.043,
+      "sge_usd_per_oz": 1799.83,
+      "world_gold_usd": 1775.8,
+      "spread_usd": 24.03,
+      "premium_percent": 1.35
+    },
+    {
+      "date": "2022-11-17",
+      "sge_cny_per_g": 407.12,
+      "usd_cny": 7.0872,
+      "sge_usd_per_oz": 1786.72,
+      "world_gold_usd": 1763.0,
+      "spread_usd": 23.72,
+      "premium_percent": 1.35
+    },
+    {
+      "date": "2022-11-20",
+      "sge_cny_per_g": 404.87,
+      "usd_cny": 7.0872,
+      "sge_usd_per_oz": 1776.85,
+      "world_gold_usd": 1763.0,
+      "spread_usd": 13.85,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2022-11-21",
+      "sge_cny_per_g": 404.81,
+      "usd_cny": 7.1189,
+      "sge_usd_per_oz": 1768.67,
+      "world_gold_usd": 1739.6,
+      "spread_usd": 29.07,
+      "premium_percent": 1.67
+    },
+    {
+      "date": "2022-11-22",
+      "sge_cny_per_g": 404.3,
+      "usd_cny": 7.1642,
+      "sge_usd_per_oz": 1755.27,
+      "world_gold_usd": 1739.9,
+      "spread_usd": 15.37,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2022-11-23",
+      "sge_cny_per_g": 405.88,
+      "usd_cny": 7.1393,
+      "sge_usd_per_oz": 1768.28,
+      "world_gold_usd": 1745.6,
+      "spread_usd": 22.68,
+      "premium_percent": 1.3
+    },
+    {
+      "date": "2022-11-24",
+      "sge_cny_per_g": 406.94,
+      "usd_cny": 7.1658,
+      "sge_usd_per_oz": 1766.34,
+      "world_gold_usd": 1745.6,
+      "spread_usd": 20.74,
+      "premium_percent": 1.19
+    },
+    {
+      "date": "2022-11-27",
+      "sge_cny_per_g": 407.64,
+      "usd_cny": 7.1658,
+      "sge_usd_per_oz": 1769.38,
+      "world_gold_usd": 1745.6,
+      "spread_usd": 23.78,
+      "premium_percent": 1.36
+    },
+    {
+      "date": "2022-11-28",
+      "sge_cny_per_g": 406.52,
+      "usd_cny": 7.1705,
+      "sge_usd_per_oz": 1763.36,
+      "world_gold_usd": 1740.3,
+      "spread_usd": 23.06,
+      "premium_percent": 1.33
+    },
+    {
+      "date": "2022-11-29",
+      "sge_cny_per_g": 405.85,
+      "usd_cny": 7.2071,
+      "sge_usd_per_oz": 1751.52,
+      "world_gold_usd": 1748.4,
+      "spread_usd": 3.12,
+      "premium_percent": 0.18
+    },
+    {
+      "date": "2022-11-30",
+      "sge_cny_per_g": 406.99,
+      "usd_cny": 7.1594,
+      "sge_usd_per_oz": 1768.14,
+      "world_gold_usd": 1746.0,
+      "spread_usd": 22.14,
+      "premium_percent": 1.27
+    },
+    {
+      "date": "2022-12-01",
+      "sge_cny_per_g": 409.51,
+      "usd_cny": 7.0762,
+      "sge_usd_per_oz": 1800.0,
+      "world_gold_usd": 1815.2,
+      "spread_usd": -15.2,
+      "premium_percent": -0.84
+    },
+    {
+      "date": "2022-12-04",
+      "sge_cny_per_g": 405.51,
+      "usd_cny": 7.0762,
+      "sge_usd_per_oz": 1782.42,
+      "world_gold_usd": 1815.2,
+      "spread_usd": -32.78,
+      "premium_percent": -1.81
+    },
+    {
+      "date": "2022-12-05",
+      "sge_cny_per_g": 401.37,
+      "usd_cny": 7.0239,
+      "sge_usd_per_oz": 1777.36,
+      "world_gold_usd": 1781.3,
+      "spread_usd": -3.94,
+      "premium_percent": -0.22
+    },
+    {
+      "date": "2022-12-06",
+      "sge_cny_per_g": 401.5,
+      "usd_cny": 6.9609,
+      "sge_usd_per_oz": 1794.03,
+      "world_gold_usd": 1782.4,
+      "spread_usd": 11.63,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2022-12-07",
+      "sge_cny_per_g": 402.88,
+      "usd_cny": 6.9949,
+      "sge_usd_per_oz": 1791.44,
+      "world_gold_usd": 1798.0,
+      "spread_usd": -6.56,
+      "premium_percent": -0.36
+    },
+    {
+      "date": "2022-12-08",
+      "sge_cny_per_g": 404.09,
+      "usd_cny": 6.9726,
+      "sge_usd_per_oz": 1802.57,
+      "world_gold_usd": 1801.5,
+      "spread_usd": 1.07,
+      "premium_percent": 0.06
+    },
+    {
+      "date": "2022-12-11",
+      "sge_cny_per_g": 403.91,
+      "usd_cny": 6.9726,
+      "sge_usd_per_oz": 1801.77,
+      "world_gold_usd": 1801.5,
+      "spread_usd": 0.27,
+      "premium_percent": 0.01
+    },
+    {
+      "date": "2022-12-12",
+      "sge_cny_per_g": 403.74,
+      "usd_cny": 6.9566,
+      "sge_usd_per_oz": 1805.15,
+      "world_gold_usd": 1792.3,
+      "spread_usd": 12.85,
+      "premium_percent": 0.72
+    },
+    {
+      "date": "2022-12-13",
+      "sge_cny_per_g": 408.22,
+      "usd_cny": 6.9765,
+      "sge_usd_per_oz": 1819.98,
+      "world_gold_usd": 1825.5,
+      "spread_usd": -5.52,
+      "premium_percent": -0.3
+    },
+    {
+      "date": "2022-12-14",
+      "sge_cny_per_g": 404.87,
+      "usd_cny": 6.9434,
+      "sge_usd_per_oz": 1813.65,
+      "world_gold_usd": 1818.7,
+      "spread_usd": -5.05,
+      "premium_percent": -0.28
+    },
+    {
+      "date": "2022-12-15",
+      "sge_cny_per_g": 403.0,
+      "usd_cny": 6.9499,
+      "sge_usd_per_oz": 1803.58,
+      "world_gold_usd": 1787.8,
+      "spread_usd": 15.78,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2022-12-18",
+      "sge_cny_per_g": 405.78,
+      "usd_cny": 6.9499,
+      "sge_usd_per_oz": 1816.02,
+      "world_gold_usd": 1787.8,
+      "spread_usd": 28.22,
+      "premium_percent": 1.58
+    },
+    {
+      "date": "2022-12-19",
+      "sge_cny_per_g": 405.92,
+      "usd_cny": 6.9721,
+      "sge_usd_per_oz": 1810.86,
+      "world_gold_usd": 1797.7,
+      "spread_usd": 13.16,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2022-12-20",
+      "sge_cny_per_g": 409.27,
+      "usd_cny": 6.9786,
+      "sge_usd_per_oz": 1824.11,
+      "world_gold_usd": 1825.4,
+      "spread_usd": -1.29,
+      "premium_percent": -0.07
+    },
+    {
+      "date": "2022-12-21",
+      "sge_cny_per_g": 409.82,
+      "usd_cny": 6.9608,
+      "sge_usd_per_oz": 1831.23,
+      "world_gold_usd": 1825.4,
+      "spread_usd": 5.83,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2022-12-22",
+      "sge_cny_per_g": 406.56,
+      "usd_cny": 6.9806,
+      "sge_usd_per_oz": 1811.51,
+      "world_gold_usd": 1795.3,
+      "spread_usd": 16.21,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2022-12-25",
+      "sge_cny_per_g": 407.07,
+      "usd_cny": 6.9806,
+      "sge_usd_per_oz": 1813.78,
+      "world_gold_usd": 1795.3,
+      "spread_usd": 18.48,
+      "premium_percent": 1.03
+    },
+    {
+      "date": "2022-12-26",
+      "sge_cny_per_g": 407.59,
+      "usd_cny": 6.9887,
+      "sge_usd_per_oz": 1813.99,
+      "world_gold_usd": 1795.3,
+      "spread_usd": 18.69,
+      "premium_percent": 1.04
+    },
+    {
+      "date": "2022-12-27",
+      "sge_cny_per_g": 408.39,
+      "usd_cny": 6.9612,
+      "sge_usd_per_oz": 1824.74,
+      "world_gold_usd": 1823.1,
+      "spread_usd": 1.64,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2022-12-28",
+      "sge_cny_per_g": 407.97,
+      "usd_cny": 6.959,
+      "sge_usd_per_oz": 1823.44,
+      "world_gold_usd": 1815.8,
+      "spread_usd": 7.64,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2022-12-29",
+      "sge_cny_per_g": 410.46,
+      "usd_cny": 6.9776,
+      "sge_usd_per_oz": 1829.67,
+      "world_gold_usd": 1826.0,
+      "spread_usd": 3.67,
+      "premium_percent": 0.2
+    },
+    {
+      "date": "2023-01-02",
+      "sge_cny_per_g": 410.66,
+      "usd_cny": 6.8969,
+      "sge_usd_per_oz": 1851.98,
+      "world_gold_usd": 1826.0,
+      "spread_usd": 25.98,
+      "premium_percent": 1.42
+    },
+    {
+      "date": "2023-01-03",
+      "sge_cny_per_g": 412.47,
+      "usd_cny": 6.8971,
+      "sge_usd_per_oz": 1860.09,
+      "world_gold_usd": 1846.1,
+      "spread_usd": 13.99,
+      "premium_percent": 0.76
+    },
+    {
+      "date": "2023-01-04",
+      "sge_cny_per_g": 412.35,
+      "usd_cny": 6.9141,
+      "sge_usd_per_oz": 1854.98,
+      "world_gold_usd": 1859.0,
+      "spread_usd": -4.02,
+      "premium_percent": -0.22
+    },
+    {
+      "date": "2023-01-05",
+      "sge_cny_per_g": 409.39,
+      "usd_cny": 6.8878,
+      "sge_usd_per_oz": 1848.7,
+      "world_gold_usd": 1840.6,
+      "spread_usd": 8.1,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2023-01-08",
+      "sge_cny_per_g": 413.77,
+      "usd_cny": 6.8878,
+      "sge_usd_per_oz": 1868.48,
+      "world_gold_usd": 1840.6,
+      "spread_usd": 27.88,
+      "premium_percent": 1.51
+    },
+    {
+      "date": "2023-01-09",
+      "sge_cny_per_g": 413.39,
+      "usd_cny": 6.8374,
+      "sge_usd_per_oz": 1880.52,
+      "world_gold_usd": 1877.8,
+      "spread_usd": 2.72,
+      "premium_percent": 0.14
+    },
+    {
+      "date": "2023-01-10",
+      "sge_cny_per_g": 414.64,
+      "usd_cny": 6.771,
+      "sge_usd_per_oz": 1904.7,
+      "world_gold_usd": 1876.5,
+      "spread_usd": 28.2,
+      "premium_percent": 1.5
+    },
+    {
+      "date": "2023-01-11",
+      "sge_cny_per_g": 414.14,
+      "usd_cny": 6.7774,
+      "sge_usd_per_oz": 1900.61,
+      "world_gold_usd": 1878.9,
+      "spread_usd": 21.71,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2023-01-12",
+      "sge_cny_per_g": 414.43,
+      "usd_cny": 6.769,
+      "sge_usd_per_oz": 1904.3,
+      "world_gold_usd": 1898.8,
+      "spread_usd": 5.5,
+      "premium_percent": 0.29
+    },
+    {
+      "date": "2023-01-15",
+      "sge_cny_per_g": 416.7,
+      "usd_cny": 6.769,
+      "sge_usd_per_oz": 1914.73,
+      "world_gold_usd": 1898.8,
+      "spread_usd": 15.93,
+      "premium_percent": 0.84
+    },
+    {
+      "date": "2023-01-16",
+      "sge_cny_per_g": 418.53,
+      "usd_cny": 6.7018,
+      "sge_usd_per_oz": 1942.42,
+      "world_gold_usd": 1898.8,
+      "spread_usd": 43.62,
+      "premium_percent": 2.3
+    },
+    {
+      "date": "2023-01-17",
+      "sge_cny_per_g": 417.52,
+      "usd_cny": 6.7325,
+      "sge_usd_per_oz": 1928.9,
+      "world_gold_usd": 1909.9,
+      "spread_usd": 19.0,
+      "premium_percent": 0.99
+    },
+    {
+      "date": "2023-01-18",
+      "sge_cny_per_g": 419.37,
+      "usd_cny": 6.7724,
+      "sge_usd_per_oz": 1926.03,
+      "world_gold_usd": 1907.0,
+      "spread_usd": 19.03,
+      "premium_percent": 1.0
+    },
+    {
+      "date": "2023-01-19",
+      "sge_cny_per_g": 422.31,
+      "usd_cny": 6.7471,
+      "sge_usd_per_oz": 1946.81,
+      "world_gold_usd": 1923.9,
+      "spread_usd": 22.91,
+      "premium_percent": 1.19
+    },
+    {
+      "date": "2023-01-29",
+      "sge_cny_per_g": 422.19,
+      "usd_cny": 6.7471,
+      "sge_usd_per_oz": 1946.26,
+      "world_gold_usd": 1923.9,
+      "spread_usd": 22.35,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2023-01-30",
+      "sge_cny_per_g": 419.31,
+      "usd_cny": 6.7824,
+      "sge_usd_per_oz": 1922.92,
+      "world_gold_usd": 1922.9,
+      "spread_usd": 0.02,
+      "premium_percent": 0.0
+    },
+    {
+      "date": "2023-01-31",
+      "sge_cny_per_g": 421.26,
+      "usd_cny": 6.7478,
+      "sge_usd_per_oz": 1941.77,
+      "world_gold_usd": 1929.5,
+      "spread_usd": 12.27,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2023-02-01",
+      "sge_cny_per_g": 424.53,
+      "usd_cny": 6.7536,
+      "sge_usd_per_oz": 1955.16,
+      "world_gold_usd": 1942.8,
+      "spread_usd": 12.36,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2023-02-02",
+      "sge_cny_per_g": 419.27,
+      "usd_cny": 6.7408,
+      "sge_usd_per_oz": 1934.6,
+      "world_gold_usd": 1930.8,
+      "spread_usd": 3.8,
+      "premium_percent": 0.2
+    },
+    {
+      "date": "2023-02-05",
+      "sge_cny_per_g": 413.73,
+      "usd_cny": 6.7408,
+      "sge_usd_per_oz": 1909.04,
+      "world_gold_usd": 1930.8,
+      "spread_usd": -21.76,
+      "premium_percent": -1.13
+    },
+    {
+      "date": "2023-02-06",
+      "sge_cny_per_g": 412.85,
+      "usd_cny": 6.7742,
+      "sge_usd_per_oz": 1895.58,
+      "world_gold_usd": 1879.5,
+      "spread_usd": 16.08,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2023-02-07",
+      "sge_cny_per_g": 412.8,
+      "usd_cny": 6.794,
+      "sge_usd_per_oz": 1889.83,
+      "world_gold_usd": 1884.8,
+      "spread_usd": 5.03,
+      "premium_percent": 0.27
+    },
+    {
+      "date": "2023-02-08",
+      "sge_cny_per_g": 413.69,
+      "usd_cny": 6.7912,
+      "sge_usd_per_oz": 1894.69,
+      "world_gold_usd": 1890.7,
+      "spread_usd": 3.99,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2023-02-09",
+      "sge_cny_per_g": 411.88,
+      "usd_cny": 6.7882,
+      "sge_usd_per_oz": 1887.23,
+      "world_gold_usd": 1878.5,
+      "spread_usd": 8.73,
+      "premium_percent": 0.46
+    },
+    {
+      "date": "2023-02-12",
+      "sge_cny_per_g": 413.7,
+      "usd_cny": 6.7882,
+      "sge_usd_per_oz": 1895.57,
+      "world_gold_usd": 1878.5,
+      "spread_usd": 17.07,
+      "premium_percent": 0.91
+    },
+    {
+      "date": "2023-02-13",
+      "sge_cny_per_g": 413.53,
+      "usd_cny": 6.8083,
+      "sge_usd_per_oz": 1889.2,
+      "world_gold_usd": 1863.5,
+      "spread_usd": 25.7,
+      "premium_percent": 1.38
+    },
+    {
+      "date": "2023-02-14",
+      "sge_cny_per_g": 412.38,
+      "usd_cny": 6.8219,
+      "sge_usd_per_oz": 1880.19,
+      "world_gold_usd": 1865.4,
+      "spread_usd": 14.79,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2023-02-15",
+      "sge_cny_per_g": 412.0,
+      "usd_cny": 6.8259,
+      "sge_usd_per_oz": 1877.35,
+      "world_gold_usd": 1845.3,
+      "spread_usd": 32.05,
+      "premium_percent": 1.74
+    },
+    {
+      "date": "2023-02-16",
+      "sge_cny_per_g": 411.36,
+      "usd_cny": 6.8519,
+      "sge_usd_per_oz": 1867.33,
+      "world_gold_usd": 1851.8,
+      "spread_usd": 15.53,
+      "premium_percent": 0.84
+    },
+    {
+      "date": "2023-02-19",
+      "sge_cny_per_g": 413.08,
+      "usd_cny": 6.8519,
+      "sge_usd_per_oz": 1875.13,
+      "world_gold_usd": 1851.8,
+      "spread_usd": 23.33,
+      "premium_percent": 1.26
+    },
+    {
+      "date": "2023-02-20",
+      "sge_cny_per_g": 412.49,
+      "usd_cny": 6.8576,
+      "sge_usd_per_oz": 1870.9,
+      "world_gold_usd": 1851.8,
+      "spread_usd": 19.1,
+      "premium_percent": 1.03
+    },
+    {
+      "date": "2023-02-21",
+      "sge_cny_per_g": 413.67,
+      "usd_cny": 6.8541,
+      "sge_usd_per_oz": 1877.21,
+      "world_gold_usd": 1842.5,
+      "spread_usd": 34.71,
+      "premium_percent": 1.88
+    },
+    {
+      "date": "2023-02-22",
+      "sge_cny_per_g": 412.74,
+      "usd_cny": 6.8725,
+      "sge_usd_per_oz": 1867.97,
+      "world_gold_usd": 1841.5,
+      "spread_usd": 26.47,
+      "premium_percent": 1.44
+    },
+    {
+      "date": "2023-02-23",
+      "sge_cny_per_g": 413.64,
+      "usd_cny": 6.8913,
+      "sge_usd_per_oz": 1866.94,
+      "world_gold_usd": 1826.8,
+      "spread_usd": 40.14,
+      "premium_percent": 2.2
+    },
+    {
+      "date": "2023-02-26",
+      "sge_cny_per_g": 413.01,
+      "usd_cny": 6.8913,
+      "sge_usd_per_oz": 1864.1,
+      "world_gold_usd": 1826.8,
+      "spread_usd": 37.3,
+      "premium_percent": 2.04
+    },
+    {
+      "date": "2023-02-27",
+      "sge_cny_per_g": 413.2,
+      "usd_cny": 6.955,
+      "sge_usd_per_oz": 1847.87,
+      "world_gold_usd": 1824.9,
+      "spread_usd": 22.97,
+      "premium_percent": 1.26
+    },
+    {
+      "date": "2023-02-28",
+      "sge_cny_per_g": 414.71,
+      "usd_cny": 6.9439,
+      "sge_usd_per_oz": 1857.59,
+      "world_gold_usd": 1836.7,
+      "spread_usd": 20.89,
+      "premium_percent": 1.14
+    },
+    {
+      "date": "2023-03-01",
+      "sge_cny_per_g": 414.25,
+      "usd_cny": 6.9323,
+      "sge_usd_per_oz": 1858.63,
+      "world_gold_usd": 1845.4,
+      "spread_usd": 13.23,
+      "premium_percent": 0.72
+    },
+    {
+      "date": "2023-03-02",
+      "sge_cny_per_g": 416.1,
+      "usd_cny": 6.868,
+      "sge_usd_per_oz": 1884.41,
+      "world_gold_usd": 1840.5,
+      "spread_usd": 43.91,
+      "premium_percent": 2.39
+    },
+    {
+      "date": "2023-03-05",
+      "sge_cny_per_g": 419.2,
+      "usd_cny": 6.868,
+      "sge_usd_per_oz": 1898.45,
+      "world_gold_usd": 1840.5,
+      "spread_usd": 57.95,
+      "premium_percent": 3.15
+    },
+    {
+      "date": "2023-03-06",
+      "sge_cny_per_g": 419.54,
+      "usd_cny": 6.9068,
+      "sge_usd_per_oz": 1889.32,
+      "world_gold_usd": 1854.6,
+      "spread_usd": 34.72,
+      "premium_percent": 1.87
+    },
+    {
+      "date": "2023-03-07",
+      "sge_cny_per_g": 415.01,
+      "usd_cny": 6.9294,
+      "sge_usd_per_oz": 1862.82,
+      "world_gold_usd": 1820.0,
+      "spread_usd": 42.82,
+      "premium_percent": 2.35
+    },
+    {
+      "date": "2023-03-08",
+      "sge_cny_per_g": 415.25,
+      "usd_cny": 6.9614,
+      "sge_usd_per_oz": 1855.33,
+      "world_gold_usd": 1818.6,
+      "spread_usd": 36.73,
+      "premium_percent": 2.02
+    },
+    {
+      "date": "2023-03-09",
+      "sge_cny_per_g": 417.58,
+      "usd_cny": 6.9503,
+      "sge_usd_per_oz": 1868.72,
+      "world_gold_usd": 1834.6,
+      "spread_usd": 34.12,
+      "premium_percent": 1.86
+    },
+    {
+      "date": "2023-03-12",
+      "sge_cny_per_g": 421.16,
+      "usd_cny": 6.9503,
+      "sge_usd_per_oz": 1884.74,
+      "world_gold_usd": 1834.6,
+      "spread_usd": 50.14,
+      "premium_percent": 2.73
+    },
+    {
+      "date": "2023-03-13",
+      "sge_cny_per_g": 426.33,
+      "usd_cny": 6.9052,
+      "sge_usd_per_oz": 1920.34,
+      "world_gold_usd": 1916.5,
+      "spread_usd": 3.84,
+      "premium_percent": 0.2
+    },
+    {
+      "date": "2023-03-14",
+      "sge_cny_per_g": 426.53,
+      "usd_cny": 6.8446,
+      "sge_usd_per_oz": 1938.25,
+      "world_gold_usd": 1910.9,
+      "spread_usd": 27.35,
+      "premium_percent": 1.43
+    },
+    {
+      "date": "2023-03-15",
+      "sge_cny_per_g": 430.29,
+      "usd_cny": 6.8705,
+      "sge_usd_per_oz": 1947.97,
+      "world_gold_usd": 1931.3,
+      "spread_usd": 16.67,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2023-03-16",
+      "sge_cny_per_g": 432.46,
+      "usd_cny": 6.9059,
+      "sge_usd_per_oz": 1947.76,
+      "world_gold_usd": 1923.0,
+      "spread_usd": 24.76,
+      "premium_percent": 1.29
+    },
+    {
+      "date": "2023-03-19",
+      "sge_cny_per_g": 446.46,
+      "usd_cny": 6.9059,
+      "sge_usd_per_oz": 2010.81,
+      "world_gold_usd": 1923.0,
+      "spread_usd": 87.81,
+      "premium_percent": 4.57
+    },
+    {
+      "date": "2023-03-20",
+      "sge_cny_per_g": 441.47,
+      "usd_cny": 6.8861,
+      "sge_usd_per_oz": 1994.05,
+      "world_gold_usd": 1982.8,
+      "spread_usd": 11.25,
+      "premium_percent": 0.57
+    },
+    {
+      "date": "2023-03-21",
+      "sge_cny_per_g": 435.1,
+      "usd_cny": 6.8777,
+      "sge_usd_per_oz": 1967.68,
+      "world_gold_usd": 1941.1,
+      "spread_usd": 26.58,
+      "premium_percent": 1.37
+    },
+    {
+      "date": "2023-03-22",
+      "sge_cny_per_g": 438.09,
+      "usd_cny": 6.883,
+      "sge_usd_per_oz": 1979.68,
+      "world_gold_usd": 1949.6,
+      "spread_usd": 30.08,
+      "premium_percent": 1.54
+    },
+    {
+      "date": "2023-03-23",
+      "sge_cny_per_g": 439.63,
+      "usd_cny": 6.8792,
+      "sge_usd_per_oz": 1987.73,
+      "world_gold_usd": 1995.9,
+      "spread_usd": -8.17,
+      "premium_percent": -0.41
+    },
+    {
+      "date": "2023-03-26",
+      "sge_cny_per_g": 437.65,
+      "usd_cny": 6.867,
+      "sge_usd_per_oz": 1982.3,
+      "world_gold_usd": 1995.9,
+      "spread_usd": -13.6,
+      "premium_percent": -0.68
+    },
+    {
+      "date": "2023-03-27",
+      "sge_cny_per_g": 435.12,
+      "usd_cny": 6.8844,
+      "sge_usd_per_oz": 1965.86,
+      "world_gold_usd": 1953.8,
+      "spread_usd": 12.06,
+      "premium_percent": 0.62
+    },
+    {
+      "date": "2023-03-28",
+      "sge_cny_per_g": 436.99,
+      "usd_cny": 6.8733,
+      "sge_usd_per_oz": 1977.49,
+      "world_gold_usd": 1973.5,
+      "spread_usd": 3.99,
+      "premium_percent": 0.2
+    },
+    {
+      "date": "2023-03-29",
+      "sge_cny_per_g": 437.66,
+      "usd_cny": 6.8856,
+      "sge_usd_per_oz": 1976.99,
+      "world_gold_usd": 1966.9,
+      "spread_usd": 10.09,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2023-03-30",
+      "sge_cny_per_g": 440.01,
+      "usd_cny": 6.8704,
+      "sge_usd_per_oz": 1992.0,
+      "world_gold_usd": 1980.3,
+      "spread_usd": 11.7,
+      "premium_percent": 0.59
+    },
+    {
+      "date": "2023-04-02",
+      "sge_cny_per_g": 434.87,
+      "usd_cny": 6.868,
+      "sge_usd_per_oz": 1969.42,
+      "world_gold_usd": 1980.3,
+      "spread_usd": -10.88,
+      "premium_percent": -0.55
+    },
+    {
+      "date": "2023-04-03",
+      "sge_cny_per_g": 439.88,
+      "usd_cny": 6.8773,
+      "sge_usd_per_oz": 1989.41,
+      "world_gold_usd": 2000.4,
+      "spread_usd": -10.99,
+      "premium_percent": -0.55
+    },
+    {
+      "date": "2023-04-05",
+      "sge_cny_per_g": 446.5,
+      "usd_cny": 6.8785,
+      "sge_usd_per_oz": 2019.0,
+      "world_gold_usd": 2035.6,
+      "spread_usd": -16.6,
+      "premium_percent": -0.82
+    },
+    {
+      "date": "2023-04-06",
+      "sge_cny_per_g": 446.33,
+      "usd_cny": 6.8749,
+      "sge_usd_per_oz": 2019.29,
+      "world_gold_usd": 2026.4,
+      "spread_usd": -7.11,
+      "premium_percent": -0.35
+    },
+    {
+      "date": "2023-04-09",
+      "sge_cny_per_g": 442.02,
+      "usd_cny": 6.8693,
+      "sge_usd_per_oz": 2001.42,
+      "world_gold_usd": 2026.4,
+      "spread_usd": -24.98,
+      "premium_percent": -1.23
+    },
+    {
+      "date": "2023-04-10",
+      "sge_cny_per_g": 443.7,
+      "usd_cny": 6.8811,
+      "sge_usd_per_oz": 2005.58,
+      "world_gold_usd": 2003.8,
+      "spread_usd": 1.78,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2023-04-11",
+      "sge_cny_per_g": 447.45,
+      "usd_cny": 6.8855,
+      "sge_usd_per_oz": 2021.24,
+      "world_gold_usd": 2019.0,
+      "spread_usd": 2.24,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2023-04-12",
+      "sge_cny_per_g": 447.84,
+      "usd_cny": 6.8737,
+      "sge_usd_per_oz": 2026.47,
+      "world_gold_usd": 2024.9,
+      "spread_usd": 1.57,
+      "premium_percent": 0.08
+    },
+    {
+      "date": "2023-04-13",
+      "sge_cny_per_g": 449.76,
+      "usd_cny": 6.8678,
+      "sge_usd_per_oz": 2036.91,
+      "world_gold_usd": 2055.3,
+      "spread_usd": -18.39,
+      "premium_percent": -0.89
+    },
+    {
+      "date": "2023-04-16",
+      "sge_cny_per_g": 445.29,
+      "usd_cny": 6.8704,
+      "sge_usd_per_oz": 2015.9,
+      "world_gold_usd": 2055.3,
+      "spread_usd": -39.4,
+      "premium_percent": -1.92
+    },
+    {
+      "date": "2023-04-17",
+      "sge_cny_per_g": 443.47,
+      "usd_cny": 6.8788,
+      "sge_usd_per_oz": 2005.21,
+      "world_gold_usd": 2007.0,
+      "spread_usd": -1.79,
+      "premium_percent": -0.09
+    },
+    {
+      "date": "2023-04-18",
+      "sge_cny_per_g": 443.24,
+      "usd_cny": 6.8749,
+      "sge_usd_per_oz": 2005.31,
+      "world_gold_usd": 2019.7,
+      "spread_usd": -14.39,
+      "premium_percent": -0.71
+    },
+    {
+      "date": "2023-04-19",
+      "sge_cny_per_g": 444.06,
+      "usd_cny": 6.8851,
+      "sge_usd_per_oz": 2006.04,
+      "world_gold_usd": 2007.3,
+      "spread_usd": -1.26,
+      "premium_percent": -0.06
+    },
+    {
+      "date": "2023-04-20",
+      "sge_cny_per_g": 442.05,
+      "usd_cny": 6.8721,
+      "sge_usd_per_oz": 2000.74,
+      "world_gold_usd": 2019.1,
+      "spread_usd": -18.36,
+      "premium_percent": -0.91
+    },
+    {
+      "date": "2023-04-23",
+      "sge_cny_per_g": 440.8,
+      "usd_cny": 6.8925,
+      "sge_usd_per_oz": 1989.18,
+      "world_gold_usd": 2019.1,
+      "spread_usd": -29.92,
+      "premium_percent": -1.48
+    },
+    {
+      "date": "2023-04-24",
+      "sge_cny_per_g": 444.59,
+      "usd_cny": 6.8949,
+      "sge_usd_per_oz": 2005.58,
+      "world_gold_usd": 1999.8,
+      "spread_usd": 5.78,
+      "premium_percent": 0.29
+    },
+    {
+      "date": "2023-04-25",
+      "sge_cny_per_g": 445.83,
+      "usd_cny": 6.9316,
+      "sge_usd_per_oz": 2000.53,
+      "world_gold_usd": 2004.5,
+      "spread_usd": -3.97,
+      "premium_percent": -0.2
+    },
+    {
+      "date": "2023-04-26",
+      "sge_cny_per_g": 446.46,
+      "usd_cny": 6.9258,
+      "sge_usd_per_oz": 2005.03,
+      "world_gold_usd": 1996.0,
+      "spread_usd": 9.03,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2023-04-27",
+      "sge_cny_per_g": 443.25,
+      "usd_cny": 6.9223,
+      "sge_usd_per_oz": 1991.62,
+      "world_gold_usd": 1999.0,
+      "spread_usd": -7.38,
+      "premium_percent": -0.37
+    },
+    {
+      "date": "2023-05-03",
+      "sge_cny_per_g": 453.24,
+      "usd_cny": 6.9106,
+      "sge_usd_per_oz": 2039.96,
+      "world_gold_usd": 2037.0,
+      "spread_usd": 2.96,
+      "premium_percent": 0.15
+    },
+    {
+      "date": "2023-05-04",
+      "sge_cny_per_g": 455.57,
+      "usd_cny": 6.9057,
+      "sge_usd_per_oz": 2051.9,
+      "world_gold_usd": 2055.7,
+      "spread_usd": -3.8,
+      "premium_percent": -0.18
+    },
+    {
+      "date": "2023-05-07",
+      "sge_cny_per_g": 450.32,
+      "usd_cny": 6.9095,
+      "sge_usd_per_oz": 2027.14,
+      "world_gold_usd": 2055.7,
+      "spread_usd": -28.56,
+      "premium_percent": -1.39
+    },
+    {
+      "date": "2023-05-08",
+      "sge_cny_per_g": 451.01,
+      "usd_cny": 6.9115,
+      "sge_usd_per_oz": 2029.66,
+      "world_gold_usd": 2033.2,
+      "spread_usd": -3.54,
+      "premium_percent": -0.17
+    },
+    {
+      "date": "2023-05-09",
+      "sge_cny_per_g": 453.01,
+      "usd_cny": 6.9194,
+      "sge_usd_per_oz": 2036.33,
+      "world_gold_usd": 2042.9,
+      "spread_usd": -6.57,
+      "premium_percent": -0.32
+    },
+    {
+      "date": "2023-05-10",
+      "sge_cny_per_g": 452.91,
+      "usd_cny": 6.9322,
+      "sge_usd_per_oz": 2032.12,
+      "world_gold_usd": 2037.1,
+      "spread_usd": -4.98,
+      "premium_percent": -0.24
+    },
+    {
+      "date": "2023-05-11",
+      "sge_cny_per_g": 449.94,
+      "usd_cny": 6.9477,
+      "sge_usd_per_oz": 2014.29,
+      "world_gold_usd": 2020.5,
+      "spread_usd": -6.21,
+      "premium_percent": -0.31
+    },
+    {
+      "date": "2023-05-14",
+      "sge_cny_per_g": 451.91,
+      "usd_cny": 6.9573,
+      "sge_usd_per_oz": 2020.32,
+      "world_gold_usd": 2020.5,
+      "spread_usd": -0.18,
+      "premium_percent": -0.01
+    },
+    {
+      "date": "2023-05-15",
+      "sge_cny_per_g": 450.64,
+      "usd_cny": 6.9516,
+      "sge_usd_per_oz": 2016.29,
+      "world_gold_usd": 2022.7,
+      "spread_usd": -6.41,
+      "premium_percent": -0.32
+    },
+    {
+      "date": "2023-05-16",
+      "sge_cny_per_g": 448.79,
+      "usd_cny": 6.9766,
+      "sge_usd_per_oz": 2000.82,
+      "world_gold_usd": 1993.0,
+      "spread_usd": 7.82,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2023-05-17",
+      "sge_cny_per_g": 447.97,
+      "usd_cny": 6.9971,
+      "sge_usd_per_oz": 1991.31,
+      "world_gold_usd": 1984.9,
+      "spread_usd": 6.41,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2023-05-18",
+      "sge_cny_per_g": 446.32,
+      "usd_cny": 7.0351,
+      "sge_usd_per_oz": 1973.26,
+      "world_gold_usd": 1959.8,
+      "spread_usd": 13.46,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2023-05-21",
+      "sge_cny_per_g": 448.22,
+      "usd_cny": 7.0069,
+      "sge_usd_per_oz": 1989.64,
+      "world_gold_usd": 1959.8,
+      "spread_usd": 29.84,
+      "premium_percent": 1.52
+    },
+    {
+      "date": "2023-05-22",
+      "sge_cny_per_g": 446.49,
+      "usd_cny": 7.0309,
+      "sge_usd_per_oz": 1975.19,
+      "world_gold_usd": 1977.2,
+      "spread_usd": -2.01,
+      "premium_percent": -0.1
+    },
+    {
+      "date": "2023-05-23",
+      "sge_cny_per_g": 448.74,
+      "usd_cny": 7.0564,
+      "sge_usd_per_oz": 1977.97,
+      "world_gold_usd": 1974.5,
+      "spread_usd": 3.47,
+      "premium_percent": 0.18
+    },
+    {
+      "date": "2023-05-24",
+      "sge_cny_per_g": 446.97,
+      "usd_cny": 7.0598,
+      "sge_usd_per_oz": 1969.22,
+      "world_gold_usd": 1964.6,
+      "spread_usd": 4.62,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2023-05-25",
+      "sge_cny_per_g": 444.53,
+      "usd_cny": 7.0774,
+      "sge_usd_per_oz": 1953.6,
+      "world_gold_usd": 1943.7,
+      "spread_usd": 9.9,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2023-05-28",
+      "sge_cny_per_g": 444.6,
+      "usd_cny": 7.0548,
+      "sge_usd_per_oz": 1960.17,
+      "world_gold_usd": 1943.7,
+      "spread_usd": 16.47,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2023-05-29",
+      "sge_cny_per_g": 443.65,
+      "usd_cny": 7.0723,
+      "sge_usd_per_oz": 1951.14,
+      "world_gold_usd": 1943.7,
+      "spread_usd": 7.44,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2023-05-30",
+      "sge_cny_per_g": 449.55,
+      "usd_cny": 7.079,
+      "sge_usd_per_oz": 1975.22,
+      "world_gold_usd": 1958.0,
+      "spread_usd": 17.22,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2023-05-31",
+      "sge_cny_per_g": 449.82,
+      "usd_cny": 7.1108,
+      "sge_usd_per_oz": 1967.57,
+      "world_gold_usd": 1963.9,
+      "spread_usd": 3.67,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2023-06-01",
+      "sge_cny_per_g": 451.16,
+      "usd_cny": 7.093,
+      "sge_usd_per_oz": 1978.38,
+      "world_gold_usd": 1995.5,
+      "spread_usd": -17.12,
+      "premium_percent": -0.86
+    },
+    {
+      "date": "2023-06-04",
+      "sge_cny_per_g": 446.09,
+      "usd_cny": 7.0838,
+      "sge_usd_per_oz": 1958.69,
+      "world_gold_usd": 1995.5,
+      "spread_usd": -36.81,
+      "premium_percent": -1.84
+    },
+    {
+      "date": "2023-06-05",
+      "sge_cny_per_g": 449.03,
+      "usd_cny": 7.105,
+      "sge_usd_per_oz": 1965.71,
+      "world_gold_usd": 1974.3,
+      "spread_usd": -8.59,
+      "premium_percent": -0.43
+    },
+    {
+      "date": "2023-06-06",
+      "sge_cny_per_g": 449.71,
+      "usd_cny": 7.1188,
+      "sge_usd_per_oz": 1964.87,
+      "world_gold_usd": 1981.5,
+      "spread_usd": -16.63,
+      "premium_percent": -0.84
+    },
+    {
+      "date": "2023-06-07",
+      "sge_cny_per_g": 447.6,
+      "usd_cny": 7.1288,
+      "sge_usd_per_oz": 1952.91,
+      "world_gold_usd": 1958.4,
+      "spread_usd": -5.49,
+      "premium_percent": -0.28
+    },
+    {
+      "date": "2023-06-08",
+      "sge_cny_per_g": 451.17,
+      "usd_cny": 7.1112,
+      "sge_usd_per_oz": 1973.36,
+      "world_gold_usd": 1978.6,
+      "spread_usd": -5.24,
+      "premium_percent": -0.26
+    },
+    {
+      "date": "2023-06-11",
+      "sge_cny_per_g": 451.55,
+      "usd_cny": 7.1276,
+      "sge_usd_per_oz": 1970.48,
+      "world_gold_usd": 1978.6,
+      "spread_usd": -8.12,
+      "premium_percent": -0.41
+    },
+    {
+      "date": "2023-06-12",
+      "sge_cny_per_g": 452.72,
+      "usd_cny": 7.1446,
+      "sge_usd_per_oz": 1970.88,
+      "world_gold_usd": 1969.7,
+      "spread_usd": 1.18,
+      "premium_percent": 0.06
+    },
+    {
+      "date": "2023-06-13",
+      "sge_cny_per_g": 449.98,
+      "usd_cny": 7.1665,
+      "sge_usd_per_oz": 1952.97,
+      "world_gold_usd": 1958.6,
+      "spread_usd": -5.63,
+      "premium_percent": -0.29
+    },
+    {
+      "date": "2023-06-14",
+      "sge_cny_per_g": 446.1,
+      "usd_cny": 7.1626,
+      "sge_usd_per_oz": 1937.18,
+      "world_gold_usd": 1968.9,
+      "spread_usd": -31.72,
+      "premium_percent": -1.61
+    },
+    {
+      "date": "2023-06-15",
+      "sge_cny_per_g": 450.01,
+      "usd_cny": 7.1199,
+      "sge_usd_per_oz": 1965.88,
+      "world_gold_usd": 1970.7,
+      "spread_usd": -4.82,
+      "premium_percent": -0.24
+    },
+    {
+      "date": "2023-06-18",
+      "sge_cny_per_g": 450.45,
+      "usd_cny": 7.1256,
+      "sge_usd_per_oz": 1966.23,
+      "world_gold_usd": 1970.7,
+      "spread_usd": -4.47,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2023-06-19",
+      "sge_cny_per_g": 451.13,
+      "usd_cny": 7.1604,
+      "sge_usd_per_oz": 1959.63,
+      "world_gold_usd": 1970.7,
+      "spread_usd": -11.07,
+      "premium_percent": -0.56
+    },
+    {
+      "date": "2023-06-20",
+      "sge_cny_per_g": 449.33,
+      "usd_cny": 7.1808,
+      "sge_usd_per_oz": 1946.26,
+      "world_gold_usd": 1947.7,
+      "spread_usd": -1.44,
+      "premium_percent": -0.07
+    },
+    {
+      "date": "2023-06-25",
+      "sge_cny_per_g": 448.65,
+      "usd_cny": 7.1785,
+      "sge_usd_per_oz": 1943.94,
+      "world_gold_usd": 1947.7,
+      "spread_usd": -3.76,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2023-06-26",
+      "sge_cny_per_g": 448.49,
+      "usd_cny": 7.2365,
+      "sge_usd_per_oz": 1927.67,
+      "world_gold_usd": 1933.8,
+      "spread_usd": -6.13,
+      "premium_percent": -0.32
+    },
+    {
+      "date": "2023-06-27",
+      "sge_cny_per_g": 446.68,
+      "usd_cny": 7.2187,
+      "sge_usd_per_oz": 1924.63,
+      "world_gold_usd": 1923.8,
+      "spread_usd": 0.83,
+      "premium_percent": 0.04
+    },
+    {
+      "date": "2023-06-28",
+      "sge_cny_per_g": 447.5,
+      "usd_cny": 7.2434,
+      "sge_usd_per_oz": 1921.58,
+      "world_gold_usd": 1922.2,
+      "spread_usd": -0.62,
+      "premium_percent": -0.03
+    },
+    {
+      "date": "2023-06-29",
+      "sge_cny_per_g": 448.6,
+      "usd_cny": 7.2518,
+      "sge_usd_per_oz": 1924.08,
+      "world_gold_usd": 1917.9,
+      "spread_usd": 6.18,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2023-07-02",
+      "sge_cny_per_g": 449.46,
+      "usd_cny": 7.2424,
+      "sge_usd_per_oz": 1930.27,
+      "world_gold_usd": 1917.9,
+      "spread_usd": 12.37,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2023-07-03",
+      "sge_cny_per_g": 450.08,
+      "usd_cny": 7.2398,
+      "sge_usd_per_oz": 1933.62,
+      "world_gold_usd": 1929.5,
+      "spread_usd": 4.12,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2023-07-04",
+      "sge_cny_per_g": 450.44,
+      "usd_cny": 7.2135,
+      "sge_usd_per_oz": 1942.23,
+      "world_gold_usd": 1929.5,
+      "spread_usd": 12.73,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2023-07-05",
+      "sge_cny_per_g": 450.45,
+      "usd_cny": 7.2464,
+      "sge_usd_per_oz": 1933.45,
+      "world_gold_usd": 1927.1,
+      "spread_usd": 6.35,
+      "premium_percent": 0.33
+    },
+    {
+      "date": "2023-07-06",
+      "sge_cny_per_g": 449.56,
+      "usd_cny": 7.2492,
+      "sge_usd_per_oz": 1928.89,
+      "world_gold_usd": 1915.4,
+      "spread_usd": 13.49,
+      "premium_percent": 0.7
+    },
+    {
+      "date": "2023-07-09",
+      "sge_cny_per_g": 451.0,
+      "usd_cny": 7.2113,
+      "sge_usd_per_oz": 1945.23,
+      "world_gold_usd": 1915.4,
+      "spread_usd": 29.83,
+      "premium_percent": 1.56
+    },
+    {
+      "date": "2023-07-10",
+      "sge_cny_per_g": 450.99,
+      "usd_cny": 7.2306,
+      "sge_usd_per_oz": 1940.0,
+      "world_gold_usd": 1931.0,
+      "spread_usd": 9.0,
+      "premium_percent": 0.47
+    },
+    {
+      "date": "2023-07-11",
+      "sge_cny_per_g": 450.91,
+      "usd_cny": 7.2092,
+      "sge_usd_per_oz": 1945.41,
+      "world_gold_usd": 1937.1,
+      "spread_usd": 8.31,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2023-07-12",
+      "sge_cny_per_g": 455.0,
+      "usd_cny": 7.1653,
+      "sge_usd_per_oz": 1975.09,
+      "world_gold_usd": 1961.7,
+      "spread_usd": 13.39,
+      "premium_percent": 0.68
+    },
+    {
+      "date": "2023-07-13",
+      "sge_cny_per_g": 452.74,
+      "usd_cny": 7.15,
+      "sge_usd_per_oz": 1969.48,
+      "world_gold_usd": 1963.8,
+      "spread_usd": 5.68,
+      "premium_percent": 0.29
+    },
+    {
+      "date": "2023-07-16",
+      "sge_cny_per_g": 454.36,
+      "usd_cny": 7.1403,
+      "sge_usd_per_oz": 1979.21,
+      "world_gold_usd": 1963.8,
+      "spread_usd": 15.41,
+      "premium_percent": 0.78
+    },
+    {
+      "date": "2023-07-17",
+      "sge_cny_per_g": 455.77,
+      "usd_cny": 7.1706,
+      "sge_usd_per_oz": 1976.97,
+      "world_gold_usd": 1956.4,
+      "spread_usd": 20.57,
+      "premium_percent": 1.05
+    },
+    {
+      "date": "2023-07-18",
+      "sge_cny_per_g": 461.27,
+      "usd_cny": 7.1793,
+      "sge_usd_per_oz": 1998.4,
+      "world_gold_usd": 1980.8,
+      "spread_usd": 17.6,
+      "premium_percent": 0.89
+    },
+    {
+      "date": "2023-07-19",
+      "sge_cny_per_g": 460.93,
+      "usd_cny": 7.2259,
+      "sge_usd_per_oz": 1984.05,
+      "world_gold_usd": 1980.8,
+      "spread_usd": 3.25,
+      "premium_percent": 0.16
+    },
+    {
+      "date": "2023-07-20",
+      "sge_cny_per_g": 458.25,
+      "usd_cny": 7.1765,
+      "sge_usd_per_oz": 1986.09,
+      "world_gold_usd": 1970.9,
+      "spread_usd": 15.19,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2023-07-23",
+      "sge_cny_per_g": 457.98,
+      "usd_cny": 7.1779,
+      "sge_usd_per_oz": 1984.53,
+      "world_gold_usd": 1970.9,
+      "spread_usd": 13.63,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2023-07-24",
+      "sge_cny_per_g": 455.85,
+      "usd_cny": 7.1853,
+      "sge_usd_per_oz": 1973.27,
+      "world_gold_usd": 1962.2,
+      "spread_usd": 11.07,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2023-07-25",
+      "sge_cny_per_g": 457.59,
+      "usd_cny": 7.1354,
+      "sge_usd_per_oz": 1994.65,
+      "world_gold_usd": 1963.7,
+      "spread_usd": 30.95,
+      "premium_percent": 1.58
+    },
+    {
+      "date": "2023-07-26",
+      "sge_cny_per_g": 458.7,
+      "usd_cny": 7.15,
+      "sge_usd_per_oz": 1995.41,
+      "world_gold_usd": 1970.1,
+      "spread_usd": 25.31,
+      "premium_percent": 1.28
+    },
+    {
+      "date": "2023-07-27",
+      "sge_cny_per_g": 455.23,
+      "usd_cny": 7.1731,
+      "sge_usd_per_oz": 1973.94,
+      "world_gold_usd": 1945.7,
+      "spread_usd": 28.24,
+      "premium_percent": 1.45
+    },
+    {
+      "date": "2023-07-30",
+      "sge_cny_per_g": 455.28,
+      "usd_cny": 7.1028,
+      "sge_usd_per_oz": 1993.69,
+      "world_gold_usd": 1945.7,
+      "spread_usd": 47.99,
+      "premium_percent": 2.47
+    },
+    {
+      "date": "2023-07-31",
+      "sge_cny_per_g": 456.69,
+      "usd_cny": 7.0957,
+      "sge_usd_per_oz": 2001.87,
+      "world_gold_usd": 1970.5,
+      "spread_usd": 31.37,
+      "premium_percent": 1.59
+    },
+    {
+      "date": "2023-08-01",
+      "sge_cny_per_g": 456.38,
+      "usd_cny": 7.1765,
+      "sge_usd_per_oz": 1977.98,
+      "world_gold_usd": 1978.8,
+      "spread_usd": -0.82,
+      "premium_percent": -0.04
+    },
+    {
+      "date": "2023-08-02",
+      "sge_cny_per_g": 454.49,
+      "usd_cny": 7.1904,
+      "sge_usd_per_oz": 1965.99,
+      "world_gold_usd": 1975.0,
+      "spread_usd": -9.01,
+      "premium_percent": -0.46
+    },
+    {
+      "date": "2023-08-03",
+      "sge_cny_per_g": 453.88,
+      "usd_cny": 7.1628,
+      "sge_usd_per_oz": 1970.91,
+      "world_gold_usd": 1968.8,
+      "spread_usd": 2.11,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2023-08-06",
+      "sge_cny_per_g": 455.06,
+      "usd_cny": 7.1312,
+      "sge_usd_per_oz": 1984.79,
+      "world_gold_usd": 1968.8,
+      "spread_usd": 15.99,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2023-08-07",
+      "sge_cny_per_g": 455.21,
+      "usd_cny": 7.1923,
+      "sge_usd_per_oz": 1968.58,
+      "world_gold_usd": 1970.0,
+      "spread_usd": -1.42,
+      "premium_percent": -0.07
+    },
+    {
+      "date": "2023-08-08",
+      "sge_cny_per_g": 454.8,
+      "usd_cny": 7.2157,
+      "sge_usd_per_oz": 1960.43,
+      "world_gold_usd": 1959.9,
+      "spread_usd": 0.53,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2023-08-09",
+      "sge_cny_per_g": 453.43,
+      "usd_cny": 7.2086,
+      "sge_usd_per_oz": 1956.45,
+      "world_gold_usd": 1950.6,
+      "spread_usd": 5.85,
+      "premium_percent": 0.3
+    },
+    {
+      "date": "2023-08-10",
+      "sge_cny_per_g": 455.19,
+      "usd_cny": 7.2147,
+      "sge_usd_per_oz": 1962.38,
+      "world_gold_usd": 1948.9,
+      "spread_usd": 13.48,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2023-08-13",
+      "sge_cny_per_g": 455.89,
+      "usd_cny": 7.1923,
+      "sge_usd_per_oz": 1971.52,
+      "world_gold_usd": 1948.9,
+      "spread_usd": 22.62,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2023-08-14",
+      "sge_cny_per_g": 455.91,
+      "usd_cny": 7.2573,
+      "sge_usd_per_oz": 1953.95,
+      "world_gold_usd": 1944.0,
+      "spread_usd": 9.95,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2023-08-15",
+      "sge_cny_per_g": 457.06,
+      "usd_cny": 7.2815,
+      "sge_usd_per_oz": 1952.37,
+      "world_gold_usd": 1935.2,
+      "spread_usd": 17.17,
+      "premium_percent": 0.89
+    },
+    {
+      "date": "2023-08-16",
+      "sge_cny_per_g": 457.14,
+      "usd_cny": 7.297,
+      "sge_usd_per_oz": 1948.56,
+      "world_gold_usd": 1928.3,
+      "spread_usd": 20.26,
+      "premium_percent": 1.05
+    },
+    {
+      "date": "2023-08-17",
+      "sge_cny_per_g": 455.82,
+      "usd_cny": 7.2804,
+      "sge_usd_per_oz": 1947.36,
+      "world_gold_usd": 1915.2,
+      "spread_usd": 32.16,
+      "premium_percent": 1.68
+    },
+    {
+      "date": "2023-08-20",
+      "sge_cny_per_g": 457.67,
+      "usd_cny": 7.2807,
+      "sge_usd_per_oz": 1955.19,
+      "world_gold_usd": 1915.2,
+      "spread_usd": 39.99,
+      "premium_percent": 2.09
+    },
+    {
+      "date": "2023-08-21",
+      "sge_cny_per_g": 457.32,
+      "usd_cny": 7.198,
+      "sge_usd_per_oz": 1976.14,
+      "world_gold_usd": 1923.0,
+      "spread_usd": 53.14,
+      "premium_percent": 2.76
+    },
+    {
+      "date": "2023-08-22",
+      "sge_cny_per_g": 458.58,
+      "usd_cny": 7.2924,
+      "sge_usd_per_oz": 1955.93,
+      "world_gold_usd": 1926.0,
+      "spread_usd": 29.93,
+      "premium_percent": 1.55
+    },
+    {
+      "date": "2023-08-23",
+      "sge_cny_per_g": 460.04,
+      "usd_cny": 7.1705,
+      "sge_usd_per_oz": 1995.52,
+      "world_gold_usd": 1948.1,
+      "spread_usd": 47.42,
+      "premium_percent": 2.43
+    },
+    {
+      "date": "2023-08-24",
+      "sge_cny_per_g": 458.84,
+      "usd_cny": 7.2765,
+      "sge_usd_per_oz": 1961.32,
+      "world_gold_usd": 1947.1,
+      "spread_usd": 14.22,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2023-08-27",
+      "sge_cny_per_g": 459.06,
+      "usd_cny": 7.289,
+      "sge_usd_per_oz": 1958.89,
+      "world_gold_usd": 1947.1,
+      "spread_usd": 11.79,
+      "premium_percent": 0.61
+    },
+    {
+      "date": "2023-08-28",
+      "sge_cny_per_g": 460.59,
+      "usd_cny": 7.2891,
+      "sge_usd_per_oz": 1965.39,
+      "world_gold_usd": 1946.8,
+      "spread_usd": 18.59,
+      "premium_percent": 0.96
+    },
+    {
+      "date": "2023-08-29",
+      "sge_cny_per_g": 461.99,
+      "usd_cny": 7.2794,
+      "sge_usd_per_oz": 1973.99,
+      "world_gold_usd": 1965.1,
+      "spread_usd": 8.89,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2023-08-30",
+      "sge_cny_per_g": 463.51,
+      "usd_cny": 7.2836,
+      "sge_usd_per_oz": 1979.35,
+      "world_gold_usd": 1973.0,
+      "spread_usd": 6.35,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2023-08-31",
+      "sge_cny_per_g": 463.01,
+      "usd_cny": 7.2569,
+      "sge_usd_per_oz": 1984.49,
+      "world_gold_usd": 1965.9,
+      "spread_usd": 18.59,
+      "premium_percent": 0.95
+    },
+    {
+      "date": "2023-09-03",
+      "sge_cny_per_g": 465.28,
+      "usd_cny": 7.1401,
+      "sge_usd_per_oz": 2026.84,
+      "world_gold_usd": 1965.9,
+      "spread_usd": 60.94,
+      "premium_percent": 3.1
+    },
+    {
+      "date": "2023-09-04",
+      "sge_cny_per_g": 465.67,
+      "usd_cny": 7.2719,
+      "sge_usd_per_oz": 1991.77,
+      "world_gold_usd": 1965.9,
+      "spread_usd": 25.87,
+      "premium_percent": 1.32
+    },
+    {
+      "date": "2023-09-05",
+      "sge_cny_per_g": 464.68,
+      "usd_cny": 7.3034,
+      "sge_usd_per_oz": 1978.96,
+      "world_gold_usd": 1952.6,
+      "spread_usd": 26.36,
+      "premium_percent": 1.35
+    },
+    {
+      "date": "2023-09-06",
+      "sge_cny_per_g": 464.49,
+      "usd_cny": 7.3159,
+      "sge_usd_per_oz": 1974.77,
+      "world_gold_usd": 1944.2,
+      "spread_usd": 30.57,
+      "premium_percent": 1.57
+    },
+    {
+      "date": "2023-09-07",
+      "sge_cny_per_g": 467.41,
+      "usd_cny": 7.3278,
+      "sge_usd_per_oz": 1983.96,
+      "world_gold_usd": 1942.5,
+      "spread_usd": 41.46,
+      "premium_percent": 2.13
+    },
+    {
+      "date": "2023-09-10",
+      "sge_cny_per_g": 467.92,
+      "usd_cny": 7.2324,
+      "sge_usd_per_oz": 2012.32,
+      "world_gold_usd": 1942.5,
+      "spread_usd": 69.82,
+      "premium_percent": 3.59
+    },
+    {
+      "date": "2023-09-11",
+      "sge_cny_per_g": 468.62,
+      "usd_cny": 7.288,
+      "sge_usd_per_oz": 1999.96,
+      "world_gold_usd": 1947.2,
+      "spread_usd": 52.76,
+      "premium_percent": 2.71
+    },
+    {
+      "date": "2023-09-12",
+      "sge_cny_per_g": 470.0,
+      "usd_cny": 7.2909,
+      "sge_usd_per_oz": 2005.05,
+      "world_gold_usd": 1935.1,
+      "spread_usd": 69.95,
+      "premium_percent": 3.61
+    },
+    {
+      "date": "2023-09-13",
+      "sge_cny_per_g": 474.58,
+      "usd_cny": 7.2688,
+      "sge_usd_per_oz": 2030.75,
+      "world_gold_usd": 1932.5,
+      "spread_usd": 98.25,
+      "premium_percent": 5.08
+    },
+    {
+      "date": "2023-09-14",
+      "sge_cny_per_g": 470.43,
+      "usd_cny": 7.2759,
+      "sge_usd_per_oz": 2011.02,
+      "world_gold_usd": 1932.8,
+      "spread_usd": 78.22,
+      "premium_percent": 4.05
+    },
+    {
+      "date": "2023-09-17",
+      "sge_cny_per_g": 467.83,
+      "usd_cny": 7.2739,
+      "sge_usd_per_oz": 2000.46,
+      "world_gold_usd": 1932.8,
+      "spread_usd": 67.66,
+      "premium_percent": 3.5
+    },
+    {
+      "date": "2023-09-18",
+      "sge_cny_per_g": 471.06,
+      "usd_cny": 7.2906,
+      "sge_usd_per_oz": 2009.66,
+      "world_gold_usd": 1953.4,
+      "spread_usd": 56.26,
+      "premium_percent": 2.88
+    },
+    {
+      "date": "2023-09-19",
+      "sge_cny_per_g": 473.9,
+      "usd_cny": 7.2956,
+      "sge_usd_per_oz": 2020.39,
+      "world_gold_usd": 1953.7,
+      "spread_usd": 66.69,
+      "premium_percent": 3.41
+    },
+    {
+      "date": "2023-09-20",
+      "sge_cny_per_g": 472.87,
+      "usd_cny": 7.286,
+      "sge_usd_per_oz": 2018.65,
+      "world_gold_usd": 1967.1,
+      "spread_usd": 51.55,
+      "premium_percent": 2.62
+    },
+    {
+      "date": "2023-09-21",
+      "sge_cny_per_g": 471.71,
+      "usd_cny": 7.3065,
+      "sge_usd_per_oz": 2008.05,
+      "world_gold_usd": 1939.6,
+      "spread_usd": 68.45,
+      "premium_percent": 3.53
+    },
+    {
+      "date": "2023-09-24",
+      "sge_cny_per_g": 474.25,
+      "usd_cny": 7.2975,
+      "sge_usd_per_oz": 2021.35,
+      "world_gold_usd": 1939.6,
+      "spread_usd": 81.75,
+      "premium_percent": 4.21
+    },
+    {
+      "date": "2023-09-25",
+      "sge_cny_per_g": 474.34,
+      "usd_cny": 7.3099,
+      "sge_usd_per_oz": 2018.31,
+      "world_gold_usd": 1936.6,
+      "spread_usd": 81.71,
+      "premium_percent": 4.22
+    },
+    {
+      "date": "2023-09-26",
+      "sge_cny_per_g": 466.49,
+      "usd_cny": 7.3107,
+      "sge_usd_per_oz": 1984.69,
+      "world_gold_usd": 1919.8,
+      "spread_usd": 64.89,
+      "premium_percent": 3.38
+    },
+    {
+      "date": "2023-09-27",
+      "sge_cny_per_g": 450.36,
+      "usd_cny": 7.3081,
+      "sge_usd_per_oz": 1916.74,
+      "world_gold_usd": 1890.9,
+      "spread_usd": 25.84,
+      "premium_percent": 1.37
+    },
+    {
+      "date": "2023-10-08",
+      "sge_cny_per_g": 454.8,
+      "usd_cny": 7.3005,
+      "sge_usd_per_oz": 1937.66,
+      "world_gold_usd": 1890.9,
+      "spread_usd": 46.76,
+      "premium_percent": 2.47
+    },
+    {
+      "date": "2023-10-09",
+      "sge_cny_per_g": 448.86,
+      "usd_cny": 7.2904,
+      "sge_usd_per_oz": 1915.0,
+      "world_gold_usd": 1864.3,
+      "spread_usd": 50.7,
+      "premium_percent": 2.72
+    },
+    {
+      "date": "2023-10-10",
+      "sge_cny_per_g": 450.93,
+      "usd_cny": 7.295,
+      "sge_usd_per_oz": 1922.62,
+      "world_gold_usd": 1875.3,
+      "spread_usd": 47.32,
+      "premium_percent": 2.52
+    },
+    {
+      "date": "2023-10-11",
+      "sge_cny_per_g": 453.5,
+      "usd_cny": 7.2987,
+      "sge_usd_per_oz": 1932.59,
+      "world_gold_usd": 1887.3,
+      "spread_usd": 45.29,
+      "premium_percent": 2.4
+    },
+    {
+      "date": "2023-10-12",
+      "sge_cny_per_g": 455.18,
+      "usd_cny": 7.3015,
+      "sge_usd_per_oz": 1939.01,
+      "world_gold_usd": 1883.0,
+      "spread_usd": 56.01,
+      "premium_percent": 2.97
+    },
+    {
+      "date": "2023-10-15",
+      "sge_cny_per_g": 462.53,
+      "usd_cny": 7.1681,
+      "sge_usd_per_oz": 2006.99,
+      "world_gold_usd": 1883.0,
+      "spread_usd": 123.99,
+      "premium_percent": 6.58
+    },
+    {
+      "date": "2023-10-16",
+      "sge_cny_per_g": 463.52,
+      "usd_cny": 7.3093,
+      "sge_usd_per_oz": 1972.43,
+      "world_gold_usd": 1934.3,
+      "spread_usd": 38.13,
+      "premium_percent": 1.97
+    },
+    {
+      "date": "2023-10-17",
+      "sge_cny_per_g": 466.7,
+      "usd_cny": 7.3117,
+      "sge_usd_per_oz": 1985.31,
+      "world_gold_usd": 1935.7,
+      "spread_usd": 49.61,
+      "premium_percent": 2.56
+    },
+    {
+      "date": "2023-10-18",
+      "sge_cny_per_g": 469.78,
+      "usd_cny": 7.3135,
+      "sge_usd_per_oz": 1997.92,
+      "world_gold_usd": 1968.3,
+      "spread_usd": 29.62,
+      "premium_percent": 1.5
+    },
+    {
+      "date": "2023-10-19",
+      "sge_cny_per_g": 474.96,
+      "usd_cny": 7.3112,
+      "sge_usd_per_oz": 2020.59,
+      "world_gold_usd": 1980.5,
+      "spread_usd": 40.09,
+      "premium_percent": 2.02
+    },
+    {
+      "date": "2023-10-22",
+      "sge_cny_per_g": 473.98,
+      "usd_cny": 7.3154,
+      "sge_usd_per_oz": 2015.26,
+      "world_gold_usd": 1980.5,
+      "spread_usd": 34.76,
+      "premium_percent": 1.76
+    },
+    {
+      "date": "2023-10-23",
+      "sge_cny_per_g": 473.13,
+      "usd_cny": 7.3141,
+      "sge_usd_per_oz": 2012.0,
+      "world_gold_usd": 1987.8,
+      "spread_usd": 24.2,
+      "premium_percent": 1.22
+    },
+    {
+      "date": "2023-10-24",
+      "sge_cny_per_g": 472.52,
+      "usd_cny": 7.309,
+      "sge_usd_per_oz": 2010.81,
+      "world_gold_usd": 1986.1,
+      "spread_usd": 24.71,
+      "premium_percent": 1.24
+    },
+    {
+      "date": "2023-10-25",
+      "sge_cny_per_g": 475.19,
+      "usd_cny": 7.3157,
+      "sge_usd_per_oz": 2020.32,
+      "world_gold_usd": 1994.9,
+      "spread_usd": 25.42,
+      "premium_percent": 1.27
+    },
+    {
+      "date": "2023-10-26",
+      "sge_cny_per_g": 475.42,
+      "usd_cny": 7.3149,
+      "sge_usd_per_oz": 2021.52,
+      "world_gold_usd": 1997.4,
+      "spread_usd": 24.12,
+      "premium_percent": 1.21
+    },
+    {
+      "date": "2023-10-29",
+      "sge_cny_per_g": 477.88,
+      "usd_cny": 7.3149,
+      "sge_usd_per_oz": 2031.98,
+      "world_gold_usd": 1997.4,
+      "spread_usd": 34.58,
+      "premium_percent": 1.73
+    },
+    {
+      "date": "2023-10-30",
+      "sge_cny_per_g": 478.25,
+      "usd_cny": 7.1587,
+      "sge_usd_per_oz": 2077.92,
+      "world_gold_usd": 2005.6,
+      "spread_usd": 72.32,
+      "premium_percent": 3.61
+    },
+    {
+      "date": "2023-10-31",
+      "sge_cny_per_g": 476.06,
+      "usd_cny": 7.3121,
+      "sge_usd_per_oz": 2025.02,
+      "world_gold_usd": 1994.3,
+      "spread_usd": 30.72,
+      "premium_percent": 1.54
+    },
+    {
+      "date": "2023-11-01",
+      "sge_cny_per_g": 476.83,
+      "usd_cny": 7.3155,
+      "sge_usd_per_oz": 2027.35,
+      "world_gold_usd": 1987.5,
+      "spread_usd": 39.85,
+      "premium_percent": 2.0
+    },
+    {
+      "date": "2023-11-02",
+      "sge_cny_per_g": 476.83,
+      "usd_cny": 7.3159,
+      "sge_usd_per_oz": 2027.24,
+      "world_gold_usd": 1993.5,
+      "spread_usd": 33.74,
+      "premium_percent": 1.69
+    },
+    {
+      "date": "2023-11-05",
+      "sge_cny_per_g": 474.76,
+      "usd_cny": 7.3159,
+      "sge_usd_per_oz": 2018.44,
+      "world_gold_usd": 1993.5,
+      "spread_usd": 24.94,
+      "premium_percent": 1.25
+    },
+    {
+      "date": "2023-11-06",
+      "sge_cny_per_g": 472.83,
+      "usd_cny": 7.2985,
+      "sge_usd_per_oz": 2015.02,
+      "world_gold_usd": 1988.6,
+      "spread_usd": 26.42,
+      "premium_percent": 1.33
+    },
+    {
+      "date": "2023-11-07",
+      "sge_cny_per_g": 470.7,
+      "usd_cny": 7.2686,
+      "sge_usd_per_oz": 2014.2,
+      "world_gold_usd": 1973.5,
+      "spread_usd": 40.7,
+      "premium_percent": 2.06
+    },
+    {
+      "date": "2023-11-08",
+      "sge_cny_per_g": 467.94,
+      "usd_cny": 7.2781,
+      "sge_usd_per_oz": 1999.77,
+      "world_gold_usd": 1957.8,
+      "spread_usd": 41.97,
+      "premium_percent": 2.14
+    },
+    {
+      "date": "2023-11-09",
+      "sge_cny_per_g": 470.55,
+      "usd_cny": 7.2793,
+      "sge_usd_per_oz": 2010.6,
+      "world_gold_usd": 1969.8,
+      "spread_usd": 40.8,
+      "premium_percent": 2.07
+    },
+    {
+      "date": "2023-11-12",
+      "sge_cny_per_g": 468.84,
+      "usd_cny": 7.2793,
+      "sge_usd_per_oz": 2003.29,
+      "world_gold_usd": 1969.8,
+      "spread_usd": 33.49,
+      "premium_percent": 1.7
+    },
+    {
+      "date": "2023-11-13",
+      "sge_cny_per_g": 470.66,
+      "usd_cny": 7.1818,
+      "sge_usd_per_oz": 2038.37,
+      "world_gold_usd": 1950.2,
+      "spread_usd": 88.17,
+      "premium_percent": 4.52
+    },
+    {
+      "date": "2023-11-14",
+      "sge_cny_per_g": 472.23,
+      "usd_cny": 7.289,
+      "sge_usd_per_oz": 2015.09,
+      "world_gold_usd": 1966.5,
+      "spread_usd": 48.59,
+      "premium_percent": 2.47
+    },
+    {
+      "date": "2023-11-15",
+      "sge_cny_per_g": 470.82,
+      "usd_cny": 7.2521,
+      "sge_usd_per_oz": 2019.3,
+      "world_gold_usd": 1964.3,
+      "spread_usd": 55.0,
+      "premium_percent": 2.8
+    },
+    {
+      "date": "2023-11-16",
+      "sge_cny_per_g": 471.93,
+      "usd_cny": 7.2458,
+      "sge_usd_per_oz": 2025.82,
+      "world_gold_usd": 1987.3,
+      "spread_usd": 38.52,
+      "premium_percent": 1.94
+    },
+    {
+      "date": "2023-11-19",
+      "sge_cny_per_g": 467.54,
+      "usd_cny": 7.2458,
+      "sge_usd_per_oz": 2006.97,
+      "world_gold_usd": 1987.3,
+      "spread_usd": 19.67,
+      "premium_percent": 0.99
+    },
+    {
+      "date": "2023-11-20",
+      "sge_cny_per_g": 466.46,
+      "usd_cny": 7.2097,
+      "sge_usd_per_oz": 2012.36,
+      "world_gold_usd": 1980.3,
+      "spread_usd": 32.06,
+      "premium_percent": 1.62
+    },
+    {
+      "date": "2023-11-21",
+      "sge_cny_per_g": 464.8,
+      "usd_cny": 7.1675,
+      "sge_usd_per_oz": 2017.01,
+      "world_gold_usd": 2001.6,
+      "spread_usd": 15.41,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2023-11-22",
+      "sge_cny_per_g": 464.3,
+      "usd_cny": 7.0869,
+      "sge_usd_per_oz": 2037.75,
+      "world_gold_usd": 1992.8,
+      "spread_usd": 44.95,
+      "premium_percent": 2.26
+    },
+    {
+      "date": "2023-11-23",
+      "sge_cny_per_g": 464.82,
+      "usd_cny": 7.1542,
+      "sge_usd_per_oz": 2020.84,
+      "world_gold_usd": 1993.3,
+      "spread_usd": 27.54,
+      "premium_percent": 1.38
+    },
+    {
+      "date": "2023-11-26",
+      "sge_cny_per_g": 469.23,
+      "usd_cny": 7.1542,
+      "sge_usd_per_oz": 2040.02,
+      "world_gold_usd": 1993.3,
+      "spread_usd": 46.72,
+      "premium_percent": 2.34
+    },
+    {
+      "date": "2023-11-27",
+      "sge_cny_per_g": 471.82,
+      "usd_cny": 7.0819,
+      "sge_usd_per_oz": 2072.22,
+      "world_gold_usd": 2012.4,
+      "spread_usd": 59.82,
+      "premium_percent": 2.97
+    },
+    {
+      "date": "2023-11-28",
+      "sge_cny_per_g": 474.38,
+      "usd_cny": 7.1303,
+      "sge_usd_per_oz": 2069.32,
+      "world_gold_usd": 2040.0,
+      "spread_usd": 29.32,
+      "premium_percent": 1.44
+    },
+    {
+      "date": "2023-11-29",
+      "sge_cny_per_g": 474.54,
+      "usd_cny": 7.0638,
+      "sge_usd_per_oz": 2089.5,
+      "world_gold_usd": 2047.1,
+      "spread_usd": 42.4,
+      "premium_percent": 2.07
+    },
+    {
+      "date": "2023-11-30",
+      "sge_cny_per_g": 474.73,
+      "usd_cny": 7.0789,
+      "sge_usd_per_oz": 2085.88,
+      "world_gold_usd": 2038.1,
+      "spread_usd": 47.78,
+      "premium_percent": 2.34
+    },
+    {
+      "date": "2023-12-03",
+      "sge_cny_per_g": 480.89,
+      "usd_cny": 7.0789,
+      "sge_usd_per_oz": 2112.95,
+      "world_gold_usd": 2038.1,
+      "spread_usd": 74.85,
+      "premium_percent": 3.67
+    },
+    {
+      "date": "2023-12-04",
+      "sge_cny_per_g": 473.65,
+      "usd_cny": 7.0618,
+      "sge_usd_per_oz": 2086.18,
+      "world_gold_usd": 2042.2,
+      "spread_usd": 43.98,
+      "premium_percent": 2.15
+    },
+    {
+      "date": "2023-12-05",
+      "sge_cny_per_g": 472.88,
+      "usd_cny": 7.1352,
+      "sge_usd_per_oz": 2061.36,
+      "world_gold_usd": 2036.3,
+      "spread_usd": 25.06,
+      "premium_percent": 1.23
+    },
+    {
+      "date": "2023-12-06",
+      "sge_cny_per_g": 473.57,
+      "usd_cny": 7.1456,
+      "sge_usd_per_oz": 2061.36,
+      "world_gold_usd": 2047.9,
+      "spread_usd": 13.46,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2023-12-07",
+      "sge_cny_per_g": 474.3,
+      "usd_cny": 7.1446,
+      "sge_usd_per_oz": 2064.83,
+      "world_gold_usd": 2046.4,
+      "spread_usd": 18.43,
+      "premium_percent": 0.9
+    },
+    {
+      "date": "2023-12-10",
+      "sge_cny_per_g": 471.23,
+      "usd_cny": 7.1446,
+      "sge_usd_per_oz": 2051.46,
+      "world_gold_usd": 2046.4,
+      "spread_usd": 5.06,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2023-12-11",
+      "sge_cny_per_g": 468.86,
+      "usd_cny": 7.1266,
+      "sge_usd_per_oz": 2046.3,
+      "world_gold_usd": 1993.7,
+      "spread_usd": 52.6,
+      "premium_percent": 2.64
+    },
+    {
+      "date": "2023-12-12",
+      "sge_cny_per_g": 468.89,
+      "usd_cny": 7.1742,
+      "sge_usd_per_oz": 2032.86,
+      "world_gold_usd": 1993.2,
+      "spread_usd": 39.66,
+      "premium_percent": 1.99
+    },
+    {
+      "date": "2023-12-13",
+      "sge_cny_per_g": 475.37,
+      "usd_cny": 7.176,
+      "sge_usd_per_oz": 2060.43,
+      "world_gold_usd": 1997.3,
+      "spread_usd": 63.13,
+      "premium_percent": 3.16
+    },
+    {
+      "date": "2023-12-14",
+      "sge_cny_per_g": 474.81,
+      "usd_cny": 7.1717,
+      "sge_usd_per_oz": 2059.24,
+      "world_gold_usd": 2044.9,
+      "spread_usd": 14.34,
+      "premium_percent": 0.7
+    },
+    {
+      "date": "2023-12-17",
+      "sge_cny_per_g": 474.35,
+      "usd_cny": 7.1717,
+      "sge_usd_per_oz": 2057.24,
+      "world_gold_usd": 2044.9,
+      "spread_usd": 12.34,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2023-12-18",
+      "sge_cny_per_g": 474.77,
+      "usd_cny": 7.0705,
+      "sge_usd_per_oz": 2088.54,
+      "world_gold_usd": 2040.5,
+      "spread_usd": 48.04,
+      "premium_percent": 2.35
+    },
+    {
+      "date": "2023-12-19",
+      "sge_cny_per_g": 476.9,
+      "usd_cny": 7.132,
+      "sge_usd_per_oz": 2079.82,
+      "world_gold_usd": 2052.1,
+      "spread_usd": 27.72,
+      "premium_percent": 1.35
+    },
+    {
+      "date": "2023-12-20",
+      "sge_cny_per_g": 476.36,
+      "usd_cny": 7.0676,
+      "sge_usd_per_oz": 2096.39,
+      "world_gold_usd": 2047.7,
+      "spread_usd": 48.69,
+      "premium_percent": 2.38
+    },
+    {
+      "date": "2023-12-21",
+      "sge_cny_per_g": 479.1,
+      "usd_cny": 7.1341,
+      "sge_usd_per_oz": 2088.8,
+      "world_gold_usd": 2051.3,
+      "spread_usd": 37.5,
+      "premium_percent": 1.83
+    },
+    {
+      "date": "2023-12-24",
+      "sge_cny_per_g": 479.26,
+      "usd_cny": 7.1341,
+      "sge_usd_per_oz": 2089.49,
+      "world_gold_usd": 2051.3,
+      "spread_usd": 38.19,
+      "premium_percent": 1.86
+    },
+    {
+      "date": "2023-12-25",
+      "sge_cny_per_g": 481.46,
+      "usd_cny": 7.0833,
+      "sge_usd_per_oz": 2114.14,
+      "world_gold_usd": 2051.3,
+      "spread_usd": 62.84,
+      "premium_percent": 3.06
+    },
+    {
+      "date": "2023-12-26",
+      "sge_cny_per_g": 482.03,
+      "usd_cny": 7.1355,
+      "sge_usd_per_oz": 2101.16,
+      "world_gold_usd": 2069.8,
+      "spread_usd": 31.36,
+      "premium_percent": 1.51
+    },
+    {
+      "date": "2023-12-27",
+      "sge_cny_per_g": 482.65,
+      "usd_cny": 7.1424,
+      "sge_usd_per_oz": 2101.83,
+      "world_gold_usd": 2093.1,
+      "spread_usd": 8.73,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2023-12-28",
+      "sge_cny_per_g": 480.93,
+      "usd_cny": 7.1402,
+      "sge_usd_per_oz": 2094.98,
+      "world_gold_usd": 2083.5,
+      "spread_usd": 11.48,
+      "premium_percent": 0.55
+    },
+    {
+      "date": "2024-01-01",
+      "sge_cny_per_g": 482.37,
+      "usd_cny": 7.0686,
+      "sge_usd_per_oz": 2122.54,
+      "world_gold_usd": 2083.5,
+      "spread_usd": 39.04,
+      "premium_percent": 1.87
+    },
+    {
+      "date": "2024-01-02",
+      "sge_cny_per_g": 482.4,
+      "usd_cny": 7.0686,
+      "sge_usd_per_oz": 2122.67,
+      "world_gold_usd": 2073.4,
+      "spread_usd": 49.27,
+      "premium_percent": 2.38
+    },
+    {
+      "date": "2024-01-03",
+      "sge_cny_per_g": 480.93,
+      "usd_cny": 7.0896,
+      "sge_usd_per_oz": 2109.93,
+      "world_gold_usd": 2042.8,
+      "spread_usd": 67.13,
+      "premium_percent": 3.29
+    },
+    {
+      "date": "2024-01-04",
+      "sge_cny_per_g": 481.33,
+      "usd_cny": 7.0989,
+      "sge_usd_per_oz": 2108.92,
+      "world_gold_usd": 2050.0,
+      "spread_usd": 58.92,
+      "premium_percent": 2.87
+    },
+    {
+      "date": "2024-01-07",
+      "sge_cny_per_g": 482.05,
+      "usd_cny": 7.0989,
+      "sge_usd_per_oz": 2112.08,
+      "world_gold_usd": 2050.0,
+      "spread_usd": 62.08,
+      "premium_percent": 3.03
+    },
+    {
+      "date": "2024-01-08",
+      "sge_cny_per_g": 479.61,
+      "usd_cny": 7.0925,
+      "sge_usd_per_oz": 2103.28,
+      "world_gold_usd": 2033.5,
+      "spread_usd": 69.78,
+      "premium_percent": 3.43
+    },
+    {
+      "date": "2024-01-09",
+      "sge_cny_per_g": 478.9,
+      "usd_cny": 7.09,
+      "sge_usd_per_oz": 2100.91,
+      "world_gold_usd": 2033.0,
+      "spread_usd": 67.91,
+      "premium_percent": 3.34
+    },
+    {
+      "date": "2024-01-10",
+      "sge_cny_per_g": 479.06,
+      "usd_cny": 7.1016,
+      "sge_usd_per_oz": 2098.18,
+      "world_gold_usd": 2027.8,
+      "spread_usd": 70.38,
+      "premium_percent": 3.47
+    },
+    {
+      "date": "2024-01-11",
+      "sge_cny_per_g": 480.0,
+      "usd_cny": 7.1704,
+      "sge_usd_per_oz": 2082.12,
+      "world_gold_usd": 2019.2,
+      "spread_usd": 62.92,
+      "premium_percent": 3.12
+    },
+    {
+      "date": "2024-01-14",
+      "sge_cny_per_g": 482.67,
+      "usd_cny": 7.1704,
+      "sge_usd_per_oz": 2093.71,
+      "world_gold_usd": 2019.2,
+      "spread_usd": 74.51,
+      "premium_percent": 3.69
+    },
+    {
+      "date": "2024-01-15",
+      "sge_cny_per_g": 483.27,
+      "usd_cny": 7.1006,
+      "sge_usd_per_oz": 2116.92,
+      "world_gold_usd": 2019.2,
+      "spread_usd": 97.72,
+      "premium_percent": 4.84
+    },
+    {
+      "date": "2024-01-16",
+      "sge_cny_per_g": 479.98,
+      "usd_cny": 7.097,
+      "sge_usd_per_oz": 2103.57,
+      "world_gold_usd": 2030.2,
+      "spread_usd": 73.37,
+      "premium_percent": 3.61
+    },
+    {
+      "date": "2024-01-17",
+      "sge_cny_per_g": 478.14,
+      "usd_cny": 7.1165,
+      "sge_usd_per_oz": 2089.77,
+      "world_gold_usd": 2006.5,
+      "spread_usd": 83.27,
+      "premium_percent": 4.15
+    },
+    {
+      "date": "2024-01-18",
+      "sge_cny_per_g": 480.05,
+      "usd_cny": 7.1145,
+      "sge_usd_per_oz": 2098.7,
+      "world_gold_usd": 2021.6,
+      "spread_usd": 77.1,
+      "premium_percent": 3.81
+    },
+    {
+      "date": "2024-01-21",
+      "sge_cny_per_g": 478.83,
+      "usd_cny": 7.1145,
+      "sge_usd_per_oz": 2093.37,
+      "world_gold_usd": 2021.6,
+      "spread_usd": 71.77,
+      "premium_percent": 3.55
+    },
+    {
+      "date": "2024-01-22",
+      "sge_cny_per_g": 478.84,
+      "usd_cny": 7.1071,
+      "sge_usd_per_oz": 2095.59,
+      "world_gold_usd": 2022.2,
+      "spread_usd": 73.39,
+      "premium_percent": 3.63
+    },
+    {
+      "date": "2024-01-23",
+      "sge_cny_per_g": 478.85,
+      "usd_cny": 7.1927,
+      "sge_usd_per_oz": 2070.7,
+      "world_gold_usd": 2025.8,
+      "spread_usd": 44.9,
+      "premium_percent": 2.22
+    },
+    {
+      "date": "2024-01-24",
+      "sge_cny_per_g": 476.42,
+      "usd_cny": 7.0776,
+      "sge_usd_per_oz": 2093.69,
+      "world_gold_usd": 2016.0,
+      "spread_usd": 77.69,
+      "premium_percent": 3.85
+    },
+    {
+      "date": "2024-01-25",
+      "sge_cny_per_g": 478.61,
+      "usd_cny": 7.082,
+      "sge_usd_per_oz": 2102.01,
+      "world_gold_usd": 2017.8,
+      "spread_usd": 84.21,
+      "premium_percent": 4.17
+    },
+    {
+      "date": "2024-01-28",
+      "sge_cny_per_g": 479.78,
+      "usd_cny": 7.082,
+      "sge_usd_per_oz": 2107.15,
+      "world_gold_usd": 2017.8,
+      "spread_usd": 89.35,
+      "premium_percent": 4.43
+    },
+    {
+      "date": "2024-01-29",
+      "sge_cny_per_g": 480.92,
+      "usd_cny": 7.0866,
+      "sge_usd_per_oz": 2110.78,
+      "world_gold_usd": 2025.4,
+      "spread_usd": 85.38,
+      "premium_percent": 4.22
+    },
+    {
+      "date": "2024-01-30",
+      "sge_cny_per_g": 481.19,
+      "usd_cny": 7.0845,
+      "sge_usd_per_oz": 2112.6,
+      "world_gold_usd": 2031.5,
+      "spread_usd": 81.1,
+      "premium_percent": 3.99
+    },
+    {
+      "date": "2024-01-31",
+      "sge_cny_per_g": 481.87,
+      "usd_cny": 7.0941,
+      "sge_usd_per_oz": 2112.72,
+      "world_gold_usd": 2048.4,
+      "spread_usd": 64.32,
+      "premium_percent": 3.14
+    },
+    {
+      "date": "2024-02-01",
+      "sge_cny_per_g": 483.65,
+      "usd_cny": 7.1007,
+      "sge_usd_per_oz": 2118.55,
+      "world_gold_usd": 2071.1,
+      "spread_usd": 47.45,
+      "premium_percent": 2.29
+    },
+    {
+      "date": "2024-02-04",
+      "sge_cny_per_g": 480.74,
+      "usd_cny": 7.1007,
+      "sge_usd_per_oz": 2105.8,
+      "world_gold_usd": 2071.1,
+      "spread_usd": 34.7,
+      "premium_percent": 1.68
+    },
+    {
+      "date": "2024-02-05",
+      "sge_cny_per_g": 479.56,
+      "usd_cny": 7.1126,
+      "sge_usd_per_oz": 2097.12,
+      "world_gold_usd": 2042.9,
+      "spread_usd": 54.22,
+      "premium_percent": 2.65
+    },
+    {
+      "date": "2024-02-06",
+      "sge_cny_per_g": 480.8,
+      "usd_cny": 7.1085,
+      "sge_usd_per_oz": 2103.76,
+      "world_gold_usd": 2051.4,
+      "spread_usd": 52.36,
+      "premium_percent": 2.55
+    },
+    {
+      "date": "2024-02-07",
+      "sge_cny_per_g": 482.02,
+      "usd_cny": 7.1001,
+      "sge_usd_per_oz": 2111.59,
+      "world_gold_usd": 2051.7,
+      "spread_usd": 59.89,
+      "premium_percent": 2.92
+    },
+    {
+      "date": "2024-02-08",
+      "sge_cny_per_g": 480.24,
+      "usd_cny": 7.1011,
+      "sge_usd_per_oz": 2103.5,
+      "world_gold_usd": 2047.9,
+      "spread_usd": 55.6,
+      "premium_percent": 2.71
+    },
+    {
+      "date": "2024-02-18",
+      "sge_cny_per_g": 480.07,
+      "usd_cny": 7.1011,
+      "sge_usd_per_oz": 2102.75,
+      "world_gold_usd": 2047.9,
+      "spread_usd": 54.85,
+      "premium_percent": 2.68
+    },
+    {
+      "date": "2024-02-19",
+      "sge_cny_per_g": 479.91,
+      "usd_cny": 7.1186,
+      "sge_usd_per_oz": 2096.88,
+      "world_gold_usd": 2047.9,
+      "spread_usd": 48.98,
+      "premium_percent": 2.39
+    },
+    {
+      "date": "2024-02-20",
+      "sge_cny_per_g": 479.78,
+      "usd_cny": 7.1972,
+      "sge_usd_per_oz": 2073.42,
+      "world_gold_usd": 2039.8,
+      "spread_usd": 33.62,
+      "premium_percent": 1.65
+    },
+    {
+      "date": "2024-02-21",
+      "sge_cny_per_g": 479.57,
+      "usd_cny": 7.1897,
+      "sge_usd_per_oz": 2074.68,
+      "world_gold_usd": 2034.3,
+      "spread_usd": 40.38,
+      "premium_percent": 1.98
+    },
+    {
+      "date": "2024-02-22",
+      "sge_cny_per_g": 478.32,
+      "usd_cny": 7.1881,
+      "sge_usd_per_oz": 2069.73,
+      "world_gold_usd": 2030.7,
+      "spread_usd": 39.03,
+      "premium_percent": 1.92
+    },
+    {
+      "date": "2024-02-25",
+      "sge_cny_per_g": 480.91,
+      "usd_cny": 7.1881,
+      "sge_usd_per_oz": 2080.94,
+      "world_gold_usd": 2030.7,
+      "spread_usd": 50.24,
+      "premium_percent": 2.47
+    },
+    {
+      "date": "2024-02-26",
+      "sge_cny_per_g": 480.57,
+      "usd_cny": 7.1944,
+      "sge_usd_per_oz": 2077.64,
+      "world_gold_usd": 2038.9,
+      "spread_usd": 38.74,
+      "premium_percent": 1.9
+    },
+    {
+      "date": "2024-02-27",
+      "sge_cny_per_g": 480.42,
+      "usd_cny": 7.1963,
+      "sge_usd_per_oz": 2076.45,
+      "world_gold_usd": 2044.1,
+      "spread_usd": 32.35,
+      "premium_percent": 1.58
+    },
+    {
+      "date": "2024-02-28",
+      "sge_cny_per_g": 480.99,
+      "usd_cny": 7.1974,
+      "sge_usd_per_oz": 2078.59,
+      "world_gold_usd": 2042.7,
+      "spread_usd": 35.89,
+      "premium_percent": 1.76
+    },
+    {
+      "date": "2024-02-29",
+      "sge_cny_per_g": 482.99,
+      "usd_cny": 7.196,
+      "sge_usd_per_oz": 2087.64,
+      "world_gold_usd": 2054.7,
+      "spread_usd": 32.94,
+      "premium_percent": 1.6
+    },
+    {
+      "date": "2024-03-03",
+      "sge_cny_per_g": 489.12,
+      "usd_cny": 7.196,
+      "sge_usd_per_oz": 2114.14,
+      "world_gold_usd": 2054.7,
+      "spread_usd": 59.44,
+      "premium_percent": 2.89
+    },
+    {
+      "date": "2024-03-04",
+      "sge_cny_per_g": 496.29,
+      "usd_cny": 7.1958,
+      "sge_usd_per_oz": 2145.19,
+      "world_gold_usd": 2126.3,
+      "spread_usd": 18.89,
+      "premium_percent": 0.89
+    },
+    {
+      "date": "2024-03-05",
+      "sge_cny_per_g": 499.33,
+      "usd_cny": 7.1989,
+      "sge_usd_per_oz": 2157.4,
+      "world_gold_usd": 2141.9,
+      "spread_usd": 15.5,
+      "premium_percent": 0.72
+    },
+    {
+      "date": "2024-03-06",
+      "sge_cny_per_g": 505.09,
+      "usd_cny": 7.196,
+      "sge_usd_per_oz": 2183.16,
+      "world_gold_usd": 2158.2,
+      "spread_usd": 24.96,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2024-03-07",
+      "sge_cny_per_g": 505.12,
+      "usd_cny": 7.1959,
+      "sge_usd_per_oz": 2183.32,
+      "world_gold_usd": 2165.2,
+      "spread_usd": 18.13,
+      "premium_percent": 0.84
+    },
+    {
+      "date": "2024-03-10",
+      "sge_cny_per_g": 507.54,
+      "usd_cny": 7.1959,
+      "sge_usd_per_oz": 2193.79,
+      "world_gold_usd": 2165.2,
+      "spread_usd": 28.59,
+      "premium_percent": 1.32
+    },
+    {
+      "date": "2024-03-11",
+      "sge_cny_per_g": 505.42,
+      "usd_cny": 7.1852,
+      "sge_usd_per_oz": 2187.87,
+      "world_gold_usd": 2188.6,
+      "spread_usd": -0.73,
+      "premium_percent": -0.03
+    },
+    {
+      "date": "2024-03-12",
+      "sge_cny_per_g": 504.6,
+      "usd_cny": 7.1838,
+      "sge_usd_per_oz": 2184.75,
+      "world_gold_usd": 2166.1,
+      "spread_usd": 18.65,
+      "premium_percent": 0.86
+    },
+    {
+      "date": "2024-03-13",
+      "sge_cny_per_g": 505.41,
+      "usd_cny": 7.181,
+      "sge_usd_per_oz": 2189.11,
+      "world_gold_usd": 2180.8,
+      "spread_usd": 8.31,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2024-03-14",
+      "sge_cny_per_g": 506.75,
+      "usd_cny": 7.1866,
+      "sge_usd_per_oz": 2193.2,
+      "world_gold_usd": 2167.5,
+      "spread_usd": 25.7,
+      "premium_percent": 1.19
+    },
+    {
+      "date": "2024-03-17",
+      "sge_cny_per_g": 503.1,
+      "usd_cny": 7.1866,
+      "sge_usd_per_oz": 2177.41,
+      "world_gold_usd": 2167.5,
+      "spread_usd": 9.91,
+      "premium_percent": 0.46
+    },
+    {
+      "date": "2024-03-18",
+      "sge_cny_per_g": 503.97,
+      "usd_cny": 7.195,
+      "sge_usd_per_oz": 2178.63,
+      "world_gold_usd": 2164.3,
+      "spread_usd": 14.33,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2024-03-19",
+      "sge_cny_per_g": 504.64,
+      "usd_cny": 7.1972,
+      "sge_usd_per_oz": 2180.86,
+      "world_gold_usd": 2159.7,
+      "spread_usd": 21.16,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2024-03-20",
+      "sge_cny_per_g": 514.3,
+      "usd_cny": 7.198,
+      "sge_usd_per_oz": 2222.36,
+      "world_gold_usd": 2161.0,
+      "spread_usd": 61.36,
+      "premium_percent": 2.84
+    },
+    {
+      "date": "2024-03-21",
+      "sge_cny_per_g": 511.4,
+      "usd_cny": 7.1976,
+      "sge_usd_per_oz": 2209.95,
+      "world_gold_usd": 2184.7,
+      "spread_usd": 25.25,
+      "premium_percent": 1.16
+    },
+    {
+      "date": "2024-03-24",
+      "sge_cny_per_g": 511.92,
+      "usd_cny": 7.1976,
+      "sge_usd_per_oz": 2212.19,
+      "world_gold_usd": 2184.7,
+      "spread_usd": 27.49,
+      "premium_percent": 1.26
+    },
+    {
+      "date": "2024-03-25",
+      "sge_cny_per_g": 512.91,
+      "usd_cny": 7.2281,
+      "sge_usd_per_oz": 2207.12,
+      "world_gold_usd": 2176.4,
+      "spread_usd": 30.72,
+      "premium_percent": 1.41
+    },
+    {
+      "date": "2024-03-26",
+      "sge_cny_per_g": 515.3,
+      "usd_cny": 7.2084,
+      "sge_usd_per_oz": 2223.46,
+      "world_gold_usd": 2177.2,
+      "spread_usd": 46.26,
+      "premium_percent": 2.12
+    },
+    {
+      "date": "2024-03-27",
+      "sge_cny_per_g": 518.58,
+      "usd_cny": 7.2177,
+      "sge_usd_per_oz": 2234.73,
+      "world_gold_usd": 2190.6,
+      "spread_usd": 44.13,
+      "premium_percent": 2.01
+    },
+    {
+      "date": "2024-03-28",
+      "sge_cny_per_g": 529.8,
+      "usd_cny": 7.2258,
+      "sge_usd_per_oz": 2280.53,
+      "world_gold_usd": 2217.4,
+      "spread_usd": 63.13,
+      "premium_percent": 2.85
+    },
+    {
+      "date": "2024-03-31",
+      "sge_cny_per_g": 532.97,
+      "usd_cny": 7.2203,
+      "sge_usd_per_oz": 2295.92,
+      "world_gold_usd": 2217.4,
+      "spread_usd": 78.52,
+      "premium_percent": 3.54
+    },
+    {
+      "date": "2024-04-01",
+      "sge_cny_per_g": 533.38,
+      "usd_cny": 7.2297,
+      "sge_usd_per_oz": 2294.7,
+      "world_gold_usd": 2257.1,
+      "spread_usd": 37.6,
+      "premium_percent": 1.67
+    },
+    {
+      "date": "2024-04-02",
+      "sge_cny_per_g": 540.16,
+      "usd_cny": 7.2324,
+      "sge_usd_per_oz": 2323.0,
+      "world_gold_usd": 2281.8,
+      "spread_usd": 41.2,
+      "premium_percent": 1.81
+    },
+    {
+      "date": "2024-04-07",
+      "sge_cny_per_g": 553.7,
+      "usd_cny": 7.2314,
+      "sge_usd_per_oz": 2381.56,
+      "world_gold_usd": 2281.8,
+      "spread_usd": 99.76,
+      "premium_percent": 4.37
+    },
+    {
+      "date": "2024-04-08",
+      "sge_cny_per_g": 555.55,
+      "usd_cny": 7.2297,
+      "sge_usd_per_oz": 2390.08,
+      "world_gold_usd": 2351.0,
+      "spread_usd": 39.08,
+      "premium_percent": 1.66
+    },
+    {
+      "date": "2024-04-09",
+      "sge_cny_per_g": 557.69,
+      "usd_cny": 7.2307,
+      "sge_usd_per_oz": 2398.95,
+      "world_gold_usd": 2362.4,
+      "spread_usd": 36.55,
+      "premium_percent": 1.55
+    },
+    {
+      "date": "2024-04-10",
+      "sge_cny_per_g": 554.01,
+      "usd_cny": 7.2315,
+      "sge_usd_per_oz": 2382.86,
+      "world_gold_usd": 2348.4,
+      "spread_usd": 34.46,
+      "premium_percent": 1.47
+    },
+    {
+      "date": "2024-04-11",
+      "sge_cny_per_g": 568.1,
+      "usd_cny": 7.2359,
+      "sge_usd_per_oz": 2441.97,
+      "world_gold_usd": 2372.7,
+      "spread_usd": 69.27,
+      "premium_percent": 2.92
+    },
+    {
+      "date": "2024-04-14",
+      "sge_cny_per_g": 560.78,
+      "usd_cny": 7.2356,
+      "sge_usd_per_oz": 2410.61,
+      "world_gold_usd": 2372.7,
+      "spread_usd": 37.91,
+      "premium_percent": 1.6
+    },
+    {
+      "date": "2024-04-15",
+      "sge_cny_per_g": 564.66,
+      "usd_cny": 7.237,
+      "sge_usd_per_oz": 2426.82,
+      "world_gold_usd": 2383.0,
+      "spread_usd": 43.82,
+      "premium_percent": 1.84
+    },
+    {
+      "date": "2024-04-16",
+      "sge_cny_per_g": 565.63,
+      "usd_cny": 7.2362,
+      "sge_usd_per_oz": 2431.26,
+      "world_gold_usd": 2407.8,
+      "spread_usd": 23.46,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2024-04-17",
+      "sge_cny_per_g": 563.37,
+      "usd_cny": 7.2374,
+      "sge_usd_per_oz": 2421.14,
+      "world_gold_usd": 2388.4,
+      "spread_usd": 32.74,
+      "premium_percent": 1.37
+    },
+    {
+      "date": "2024-04-18",
+      "sge_cny_per_g": 565.83,
+      "usd_cny": 7.2367,
+      "sge_usd_per_oz": 2431.95,
+      "world_gold_usd": 2398.0,
+      "spread_usd": 33.95,
+      "premium_percent": 1.42
+    },
+    {
+      "date": "2024-04-21",
+      "sge_cny_per_g": 556.11,
+      "usd_cny": 7.2394,
+      "sge_usd_per_oz": 2389.28,
+      "world_gold_usd": 2398.0,
+      "spread_usd": -8.72,
+      "premium_percent": -0.36
+    },
+    {
+      "date": "2024-04-22",
+      "sge_cny_per_g": 542.93,
+      "usd_cny": 7.2425,
+      "sge_usd_per_oz": 2331.65,
+      "world_gold_usd": 2346.4,
+      "spread_usd": -14.74,
+      "premium_percent": -0.63
+    },
+    {
+      "date": "2024-04-23",
+      "sge_cny_per_g": 548.15,
+      "usd_cny": 7.2445,
+      "sge_usd_per_oz": 2353.42,
+      "world_gold_usd": 2342.1,
+      "spread_usd": 11.32,
+      "premium_percent": 0.48
+    },
+    {
+      "date": "2024-04-24",
+      "sge_cny_per_g": 547.68,
+      "usd_cny": 7.2442,
+      "sge_usd_per_oz": 2351.5,
+      "world_gold_usd": 2338.4,
+      "spread_usd": 13.1,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2024-04-25",
+      "sge_cny_per_g": 551.65,
+      "usd_cny": 7.2386,
+      "sge_usd_per_oz": 2370.38,
+      "world_gold_usd": 2342.5,
+      "spread_usd": 27.88,
+      "premium_percent": 1.19
+    },
+    {
+      "date": "2024-04-28",
+      "sge_cny_per_g": 548.52,
+      "usd_cny": 7.2446,
+      "sge_usd_per_oz": 2354.98,
+      "world_gold_usd": 2342.5,
+      "spread_usd": 12.48,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2024-04-29",
+      "sge_cny_per_g": 546.99,
+      "usd_cny": 7.2377,
+      "sge_usd_per_oz": 2350.65,
+      "world_gold_usd": 2357.7,
+      "spread_usd": -7.05,
+      "premium_percent": -0.3
+    },
+    {
+      "date": "2024-05-05",
+      "sge_cny_per_g": 544.08,
+      "usd_cny": 7.2362,
+      "sge_usd_per_oz": 2338.63,
+      "world_gold_usd": 2357.7,
+      "spread_usd": -19.07,
+      "premium_percent": -0.81
+    },
+    {
+      "date": "2024-05-06",
+      "sge_cny_per_g": 545.28,
+      "usd_cny": 7.208,
+      "sge_usd_per_oz": 2352.96,
+      "world_gold_usd": 2331.2,
+      "spread_usd": 21.76,
+      "premium_percent": 0.93
+    },
+    {
+      "date": "2024-05-07",
+      "sge_cny_per_g": 544.54,
+      "usd_cny": 7.2184,
+      "sge_usd_per_oz": 2346.38,
+      "world_gold_usd": 2324.2,
+      "spread_usd": 22.18,
+      "premium_percent": 0.95
+    },
+    {
+      "date": "2024-05-08",
+      "sge_cny_per_g": 543.61,
+      "usd_cny": 7.2238,
+      "sge_usd_per_oz": 2340.62,
+      "world_gold_usd": 2322.3,
+      "spread_usd": 18.32,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2024-05-09",
+      "sge_cny_per_g": 556.44,
+      "usd_cny": 7.2187,
+      "sge_usd_per_oz": 2397.55,
+      "world_gold_usd": 2340.3,
+      "spread_usd": 57.25,
+      "premium_percent": 2.45
+    },
+    {
+      "date": "2024-05-12",
+      "sge_cny_per_g": 553.36,
+      "usd_cny": 7.2258,
+      "sge_usd_per_oz": 2381.94,
+      "world_gold_usd": 2340.3,
+      "spread_usd": 41.64,
+      "premium_percent": 1.78
+    },
+    {
+      "date": "2024-05-13",
+      "sge_cny_per_g": 551.81,
+      "usd_cny": 7.2323,
+      "sge_usd_per_oz": 2373.13,
+      "world_gold_usd": 2343.0,
+      "spread_usd": 30.13,
+      "premium_percent": 1.29
+    },
+    {
+      "date": "2024-05-14",
+      "sge_cny_per_g": 555.46,
+      "usd_cny": 7.2323,
+      "sge_usd_per_oz": 2388.83,
+      "world_gold_usd": 2359.9,
+      "spread_usd": 28.93,
+      "premium_percent": 1.23
+    },
+    {
+      "date": "2024-05-15",
+      "sge_cny_per_g": 560.67,
+      "usd_cny": 7.2177,
+      "sge_usd_per_oz": 2416.11,
+      "world_gold_usd": 2394.9,
+      "spread_usd": 21.21,
+      "premium_percent": 0.89
+    },
+    {
+      "date": "2024-05-16",
+      "sge_cny_per_g": 561.14,
+      "usd_cny": 7.217,
+      "sge_usd_per_oz": 2418.37,
+      "world_gold_usd": 2385.5,
+      "spread_usd": 32.87,
+      "premium_percent": 1.38
+    },
+    {
+      "date": "2024-05-19",
+      "sge_cny_per_g": 574.83,
+      "usd_cny": 7.2227,
+      "sge_usd_per_oz": 2475.42,
+      "world_gold_usd": 2385.5,
+      "spread_usd": 89.92,
+      "premium_percent": 3.77
+    },
+    {
+      "date": "2024-05-20",
+      "sge_cny_per_g": 568.2,
+      "usd_cny": 7.2317,
+      "sge_usd_per_oz": 2443.82,
+      "world_gold_usd": 2438.5,
+      "spread_usd": 5.32,
+      "premium_percent": 0.22
+    },
+    {
+      "date": "2024-05-21",
+      "sge_cny_per_g": 568.9,
+      "usd_cny": 7.2376,
+      "sge_usd_per_oz": 2444.84,
+      "world_gold_usd": 2425.9,
+      "spread_usd": 18.94,
+      "premium_percent": 0.78
+    },
+    {
+      "date": "2024-05-22",
+      "sge_cny_per_g": 556.29,
+      "usd_cny": 7.2403,
+      "sge_usd_per_oz": 2389.76,
+      "world_gold_usd": 2392.9,
+      "spread_usd": -3.14,
+      "premium_percent": -0.13
+    },
+    {
+      "date": "2024-05-23",
+      "sge_cny_per_g": 550.57,
+      "usd_cny": 7.2415,
+      "sge_usd_per_oz": 2364.79,
+      "world_gold_usd": 2337.2,
+      "spread_usd": 27.59,
+      "premium_percent": 1.18
+    },
+    {
+      "date": "2024-05-26",
+      "sge_cny_per_g": 552.51,
+      "usd_cny": 7.2415,
+      "sge_usd_per_oz": 2373.12,
+      "world_gold_usd": 2337.2,
+      "spread_usd": 35.92,
+      "premium_percent": 1.54
+    },
+    {
+      "date": "2024-05-27",
+      "sge_cny_per_g": 552.72,
+      "usd_cny": 7.2415,
+      "sge_usd_per_oz": 2374.03,
+      "world_gold_usd": 2337.2,
+      "spread_usd": 36.83,
+      "premium_percent": 1.58
+    },
+    {
+      "date": "2024-05-28",
+      "sge_cny_per_g": 555.96,
+      "usd_cny": 7.245,
+      "sge_usd_per_oz": 2386.79,
+      "world_gold_usd": 2356.5,
+      "spread_usd": 30.29,
+      "premium_percent": 1.29
+    },
+    {
+      "date": "2024-05-29",
+      "sge_cny_per_g": 551.69,
+      "usd_cny": 7.2494,
+      "sge_usd_per_oz": 2367.02,
+      "world_gold_usd": 2341.2,
+      "spread_usd": 25.82,
+      "premium_percent": 1.1
+    },
+    {
+      "date": "2024-05-30",
+      "sge_cny_per_g": 553.45,
+      "usd_cny": 7.2335,
+      "sge_usd_per_oz": 2379.79,
+      "world_gold_usd": 2342.9,
+      "spread_usd": 36.89,
+      "premium_percent": 1.57
+    },
+    {
+      "date": "2024-06-02",
+      "sge_cny_per_g": 549.25,
+      "usd_cny": 7.241,
+      "sge_usd_per_oz": 2359.29,
+      "world_gold_usd": 2342.9,
+      "spread_usd": 16.39,
+      "premium_percent": 0.7
+    },
+    {
+      "date": "2024-06-03",
+      "sge_cny_per_g": 553.56,
+      "usd_cny": 7.242,
+      "sge_usd_per_oz": 2377.47,
+      "world_gold_usd": 2369.3,
+      "spread_usd": 8.17,
+      "premium_percent": 0.34
+    },
+    {
+      "date": "2024-06-04",
+      "sge_cny_per_g": 550.9,
+      "usd_cny": 7.242,
+      "sge_usd_per_oz": 2366.05,
+      "world_gold_usd": 2347.4,
+      "spread_usd": 18.65,
+      "premium_percent": 0.79
+    },
+    {
+      "date": "2024-06-05",
+      "sge_cny_per_g": 558.97,
+      "usd_cny": 7.2467,
+      "sge_usd_per_oz": 2399.15,
+      "world_gold_usd": 2375.5,
+      "spread_usd": 23.65,
+      "premium_percent": 1.0
+    },
+    {
+      "date": "2024-06-06",
+      "sge_cny_per_g": 559.6,
+      "usd_cny": 7.2441,
+      "sge_usd_per_oz": 2402.71,
+      "world_gold_usd": 2390.9,
+      "spread_usd": 11.81,
+      "premium_percent": 0.49
+    },
+    {
+      "date": "2024-06-10",
+      "sge_cny_per_g": 542.78,
+      "usd_cny": 7.2468,
+      "sge_usd_per_oz": 2329.63,
+      "world_gold_usd": 2327.0,
+      "spread_usd": 2.63,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2024-06-11",
+      "sge_cny_per_g": 545.87,
+      "usd_cny": 7.2467,
+      "sge_usd_per_oz": 2342.92,
+      "world_gold_usd": 2326.6,
+      "spread_usd": 16.32,
+      "premium_percent": 0.7
+    },
+    {
+      "date": "2024-06-12",
+      "sge_cny_per_g": 545.9,
+      "usd_cny": 7.2381,
+      "sge_usd_per_oz": 2345.83,
+      "world_gold_usd": 2354.8,
+      "spread_usd": -8.97,
+      "premium_percent": -0.38
+    },
+    {
+      "date": "2024-06-13",
+      "sge_cny_per_g": 546.36,
+      "usd_cny": 7.2516,
+      "sge_usd_per_oz": 2343.44,
+      "world_gold_usd": 2318.0,
+      "spread_usd": 25.44,
+      "premium_percent": 1.1
+    },
+    {
+      "date": "2024-06-16",
+      "sge_cny_per_g": 547.08,
+      "usd_cny": 7.2543,
+      "sge_usd_per_oz": 2345.66,
+      "world_gold_usd": 2318.0,
+      "spread_usd": 27.66,
+      "premium_percent": 1.19
+    },
+    {
+      "date": "2024-06-17",
+      "sge_cny_per_g": 547.66,
+      "usd_cny": 7.255,
+      "sge_usd_per_oz": 2347.92,
+      "world_gold_usd": 2329.0,
+      "spread_usd": 18.92,
+      "premium_percent": 0.81
+    },
+    {
+      "date": "2024-06-18",
+      "sge_cny_per_g": 549.54,
+      "usd_cny": 7.2527,
+      "sge_usd_per_oz": 2356.72,
+      "world_gold_usd": 2346.9,
+      "spread_usd": 9.82,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2024-06-19",
+      "sge_cny_per_g": 553.96,
+      "usd_cny": 7.2563,
+      "sge_usd_per_oz": 2374.5,
+      "world_gold_usd": 2346.9,
+      "spread_usd": 27.6,
+      "premium_percent": 1.18
+    },
+    {
+      "date": "2024-06-20",
+      "sge_cny_per_g": 556.92,
+      "usd_cny": 7.2591,
+      "sge_usd_per_oz": 2386.27,
+      "world_gold_usd": 2369.0,
+      "spread_usd": 17.27,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2024-06-23",
+      "sge_cny_per_g": 548.59,
+      "usd_cny": 7.2592,
+      "sge_usd_per_oz": 2350.54,
+      "world_gold_usd": 2369.0,
+      "spread_usd": -18.46,
+      "premium_percent": -0.78
+    },
+    {
+      "date": "2024-06-24",
+      "sge_cny_per_g": 549.49,
+      "usd_cny": 7.2577,
+      "sge_usd_per_oz": 2354.89,
+      "world_gold_usd": 2344.4,
+      "spread_usd": 10.49,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2024-06-25",
+      "sge_cny_per_g": 546.21,
+      "usd_cny": 7.2614,
+      "sge_usd_per_oz": 2339.64,
+      "world_gold_usd": 2330.8,
+      "spread_usd": 8.84,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2024-06-26",
+      "sge_cny_per_g": 543.06,
+      "usd_cny": 7.2635,
+      "sge_usd_per_oz": 2325.47,
+      "world_gold_usd": 2313.2,
+      "spread_usd": 12.27,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2024-06-27",
+      "sge_cny_per_g": 549.47,
+      "usd_cny": 7.2672,
+      "sge_usd_per_oz": 2351.72,
+      "world_gold_usd": 2336.6,
+      "spread_usd": 15.12,
+      "premium_percent": 0.65
+    },
+    {
+      "date": "2024-06-30",
+      "sge_cny_per_g": 549.47,
+      "usd_cny": 7.2658,
+      "sge_usd_per_oz": 2352.17,
+      "world_gold_usd": 2336.6,
+      "spread_usd": 15.57,
+      "premium_percent": 0.67
+    },
+    {
+      "date": "2024-07-01",
+      "sge_cny_per_g": 550.41,
+      "usd_cny": 7.2669,
+      "sge_usd_per_oz": 2355.84,
+      "world_gold_usd": 2338.9,
+      "spread_usd": 16.94,
+      "premium_percent": 0.72
+    },
+    {
+      "date": "2024-07-02",
+      "sge_cny_per_g": 553.52,
+      "usd_cny": 7.2694,
+      "sge_usd_per_oz": 2368.34,
+      "world_gold_usd": 2333.4,
+      "spread_usd": 34.94,
+      "premium_percent": 1.5
+    },
+    {
+      "date": "2024-07-03",
+      "sge_cny_per_g": 556.4,
+      "usd_cny": 7.2686,
+      "sge_usd_per_oz": 2380.92,
+      "world_gold_usd": 2369.4,
+      "spread_usd": 11.52,
+      "premium_percent": 0.49
+    },
+    {
+      "date": "2024-07-04",
+      "sge_cny_per_g": 557.81,
+      "usd_cny": 7.2658,
+      "sge_usd_per_oz": 2387.88,
+      "world_gold_usd": 2369.4,
+      "spread_usd": 18.48,
+      "premium_percent": 0.78
+    },
+    {
+      "date": "2024-07-07",
+      "sge_cny_per_g": 559.43,
+      "usd_cny": 7.2678,
+      "sge_usd_per_oz": 2394.15,
+      "world_gold_usd": 2369.4,
+      "spread_usd": 24.75,
+      "premium_percent": 1.04
+    },
+    {
+      "date": "2024-07-08",
+      "sge_cny_per_g": 556.81,
+      "usd_cny": 7.2671,
+      "sge_usd_per_oz": 2383.17,
+      "world_gold_usd": 2363.5,
+      "spread_usd": 19.67,
+      "premium_percent": 0.83
+    },
+    {
+      "date": "2024-07-09",
+      "sge_cny_per_g": 559.46,
+      "usd_cny": 7.2717,
+      "sge_usd_per_oz": 2393.0,
+      "world_gold_usd": 2367.9,
+      "spread_usd": 25.1,
+      "premium_percent": 1.06
+    },
+    {
+      "date": "2024-07-10",
+      "sge_cny_per_g": 561.49,
+      "usd_cny": 7.2745,
+      "sge_usd_per_oz": 2400.75,
+      "world_gold_usd": 2379.7,
+      "spread_usd": 21.05,
+      "premium_percent": 0.88
+    },
+    {
+      "date": "2024-07-11",
+      "sge_cny_per_g": 564.46,
+      "usd_cny": 7.2548,
+      "sge_usd_per_oz": 2420.01,
+      "world_gold_usd": 2421.9,
+      "spread_usd": -1.89,
+      "premium_percent": -0.08
+    },
+    {
+      "date": "2024-07-14",
+      "sge_cny_per_g": 564.29,
+      "usd_cny": 7.2494,
+      "sge_usd_per_oz": 2421.08,
+      "world_gold_usd": 2421.9,
+      "spread_usd": -0.82,
+      "premium_percent": -0.03
+    },
+    {
+      "date": "2024-07-15",
+      "sge_cny_per_g": 570.2,
+      "usd_cny": 7.2589,
+      "sge_usd_per_oz": 2443.24,
+      "world_gold_usd": 2428.9,
+      "spread_usd": 14.34,
+      "premium_percent": 0.59
+    },
+    {
+      "date": "2024-07-16",
+      "sge_cny_per_g": 577.33,
+      "usd_cny": 7.2606,
+      "sge_usd_per_oz": 2473.21,
+      "world_gold_usd": 2467.8,
+      "spread_usd": 5.41,
+      "premium_percent": 0.22
+    },
+    {
+      "date": "2024-07-17",
+      "sge_cny_per_g": 577.12,
+      "usd_cny": 7.2594,
+      "sge_usd_per_oz": 2472.72,
+      "world_gold_usd": 2459.9,
+      "spread_usd": 12.82,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2024-07-18",
+      "sge_cny_per_g": 562.3,
+      "usd_cny": 7.2589,
+      "sge_usd_per_oz": 2409.38,
+      "world_gold_usd": 2456.4,
+      "spread_usd": -47.01,
+      "premium_percent": -1.91
+    },
+    {
+      "date": "2024-07-21",
+      "sge_cny_per_g": 562.59,
+      "usd_cny": 7.269,
+      "sge_usd_per_oz": 2407.28,
+      "world_gold_usd": 2456.4,
+      "spread_usd": -49.12,
+      "premium_percent": -2.0
+    },
+    {
+      "date": "2024-07-22",
+      "sge_cny_per_g": 559.65,
+      "usd_cny": 7.2727,
+      "sge_usd_per_oz": 2393.48,
+      "world_gold_usd": 2394.7,
+      "spread_usd": -1.22,
+      "premium_percent": -0.05
+    },
+    {
+      "date": "2024-07-23",
+      "sge_cny_per_g": 566.13,
+      "usd_cny": 7.2743,
+      "sge_usd_per_oz": 2420.66,
+      "world_gold_usd": 2407.3,
+      "spread_usd": 13.36,
+      "premium_percent": 0.55
+    },
+    {
+      "date": "2024-07-24",
+      "sge_cny_per_g": 552.54,
+      "usd_cny": 7.2612,
+      "sge_usd_per_oz": 2366.81,
+      "world_gold_usd": 2415.7,
+      "spread_usd": -48.89,
+      "premium_percent": -2.02
+    },
+    {
+      "date": "2024-07-25",
+      "sge_cny_per_g": 554.8,
+      "usd_cny": 7.2301,
+      "sge_usd_per_oz": 2386.72,
+      "world_gold_usd": 2353.5,
+      "spread_usd": 33.22,
+      "premium_percent": 1.41
+    },
+    {
+      "date": "2024-07-28",
+      "sge_cny_per_g": 558.68,
+      "usd_cny": 7.2501,
+      "sge_usd_per_oz": 2396.78,
+      "world_gold_usd": 2353.5,
+      "spread_usd": 43.28,
+      "premium_percent": 1.84
+    },
+    {
+      "date": "2024-07-29",
+      "sge_cny_per_g": 558.91,
+      "usd_cny": 7.2583,
+      "sge_usd_per_oz": 2395.06,
+      "world_gold_usd": 2377.8,
+      "spread_usd": 17.26,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2024-07-30",
+      "sge_cny_per_g": 564.0,
+      "usd_cny": 7.2507,
+      "sge_usd_per_oz": 2419.4,
+      "world_gold_usd": 2405.0,
+      "spread_usd": 14.4,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2024-07-31",
+      "sge_cny_per_g": 568.49,
+      "usd_cny": 7.2172,
+      "sge_usd_per_oz": 2449.98,
+      "world_gold_usd": 2426.5,
+      "spread_usd": 23.48,
+      "premium_percent": 0.97
+    },
+    {
+      "date": "2024-08-01",
+      "sge_cny_per_g": 571.09,
+      "usd_cny": 7.2428,
+      "sge_usd_per_oz": 2452.49,
+      "world_gold_usd": 2480.8,
+      "spread_usd": -28.31,
+      "premium_percent": -1.14
+    },
+    {
+      "date": "2024-08-04",
+      "sge_cny_per_g": 558.05,
+      "usd_cny": 7.1572,
+      "sge_usd_per_oz": 2425.15,
+      "world_gold_usd": 2480.8,
+      "spread_usd": -55.65,
+      "premium_percent": -2.24
+    },
+    {
+      "date": "2024-08-05",
+      "sge_cny_per_g": 553.24,
+      "usd_cny": 7.1202,
+      "sge_usd_per_oz": 2416.74,
+      "world_gold_usd": 2444.4,
+      "spread_usd": -27.66,
+      "premium_percent": -1.13
+    },
+    {
+      "date": "2024-08-06",
+      "sge_cny_per_g": 554.77,
+      "usd_cny": 7.1563,
+      "sge_usd_per_oz": 2411.2,
+      "world_gold_usd": 2431.6,
+      "spread_usd": -20.4,
+      "premium_percent": -0.84
+    },
+    {
+      "date": "2024-08-07",
+      "sge_cny_per_g": 554.81,
+      "usd_cny": 7.1803,
+      "sge_usd_per_oz": 2403.31,
+      "world_gold_usd": 2432.4,
+      "spread_usd": -29.09,
+      "premium_percent": -1.2
+    },
+    {
+      "date": "2024-08-08",
+      "sge_cny_per_g": 559.5,
+      "usd_cny": 7.1737,
+      "sge_usd_per_oz": 2425.86,
+      "world_gold_usd": 2463.3,
+      "spread_usd": -37.44,
+      "premium_percent": -1.52
+    },
+    {
+      "date": "2024-08-11",
+      "sge_cny_per_g": 563.74,
+      "usd_cny": 7.1663,
+      "sge_usd_per_oz": 2446.77,
+      "world_gold_usd": 2463.3,
+      "spread_usd": -16.53,
+      "premium_percent": -0.67
+    },
+    {
+      "date": "2024-08-12",
+      "sge_cny_per_g": 568.1,
+      "usd_cny": 7.174,
+      "sge_usd_per_oz": 2463.05,
+      "world_gold_usd": 2504.0,
+      "spread_usd": -40.95,
+      "premium_percent": -1.64
+    },
+    {
+      "date": "2024-08-13",
+      "sge_cny_per_g": 566.6,
+      "usd_cny": 7.1529,
+      "sge_usd_per_oz": 2463.79,
+      "world_gold_usd": 2507.8,
+      "spread_usd": -44.01,
+      "premium_percent": -1.76
+    },
+    {
+      "date": "2024-08-14",
+      "sge_cny_per_g": 565.69,
+      "usd_cny": 7.1373,
+      "sge_usd_per_oz": 2465.21,
+      "world_gold_usd": 2479.7,
+      "spread_usd": -14.49,
+      "premium_percent": -0.58
+    },
+    {
+      "date": "2024-08-15",
+      "sge_cny_per_g": 566.41,
+      "usd_cny": 7.1734,
+      "sge_usd_per_oz": 2455.92,
+      "world_gold_usd": 2492.4,
+      "spread_usd": -36.48,
+      "premium_percent": -1.46
+    },
+    {
+      "date": "2024-08-18",
+      "sge_cny_per_g": 572.14,
+      "usd_cny": 7.164,
+      "sge_usd_per_oz": 2484.02,
+      "world_gold_usd": 2492.4,
+      "spread_usd": -8.38,
+      "premium_percent": -0.34
+    },
+    {
+      "date": "2024-08-19",
+      "sge_cny_per_g": 572.7,
+      "usd_cny": 7.1405,
+      "sge_usd_per_oz": 2494.64,
+      "world_gold_usd": 2541.3,
+      "spread_usd": -46.66,
+      "premium_percent": -1.84
+    },
+    {
+      "date": "2024-08-20",
+      "sge_cny_per_g": 574.63,
+      "usd_cny": 7.132,
+      "sge_usd_per_oz": 2506.03,
+      "world_gold_usd": 2550.6,
+      "spread_usd": -44.57,
+      "premium_percent": -1.75
+    },
+    {
+      "date": "2024-08-21",
+      "sge_cny_per_g": 573.01,
+      "usd_cny": 7.1318,
+      "sge_usd_per_oz": 2499.03,
+      "world_gold_usd": 2547.5,
+      "spread_usd": -48.47,
+      "premium_percent": -1.9
+    },
+    {
+      "date": "2024-08-22",
+      "sge_cny_per_g": 571.3,
+      "usd_cny": 7.1444,
+      "sge_usd_per_oz": 2487.18,
+      "world_gold_usd": 2516.7,
+      "spread_usd": -29.52,
+      "premium_percent": -1.17
+    },
+    {
+      "date": "2024-08-25",
+      "sge_cny_per_g": 574.45,
+      "usd_cny": 7.124,
+      "sge_usd_per_oz": 2508.06,
+      "world_gold_usd": 2516.7,
+      "spread_usd": -8.64,
+      "premium_percent": -0.34
+    },
+    {
+      "date": "2024-08-26",
+      "sge_cny_per_g": 574.6,
+      "usd_cny": 7.1181,
+      "sge_usd_per_oz": 2510.79,
+      "world_gold_usd": 2555.2,
+      "spread_usd": -44.41,
+      "premium_percent": -1.74
+    },
+    {
+      "date": "2024-08-27",
+      "sge_cny_per_g": 573.78,
+      "usd_cny": 7.1231,
+      "sge_usd_per_oz": 2505.45,
+      "world_gold_usd": 2552.9,
+      "spread_usd": -47.45,
+      "premium_percent": -1.86
+    },
+    {
+      "date": "2024-08-28",
+      "sge_cny_per_g": 574.16,
+      "usd_cny": 7.1243,
+      "sge_usd_per_oz": 2506.68,
+      "world_gold_usd": 2537.8,
+      "spread_usd": -31.12,
+      "premium_percent": -1.23
+    },
+    {
+      "date": "2024-08-29",
+      "sge_cny_per_g": 573.63,
+      "usd_cny": 7.0955,
+      "sge_usd_per_oz": 2514.54,
+      "world_gold_usd": 2560.3,
+      "spread_usd": -45.76,
+      "premium_percent": -1.79
+    },
+    {
+      "date": "2024-09-01",
+      "sge_cny_per_g": 569.91,
+      "usd_cny": 7.0921,
+      "sge_usd_per_oz": 2499.43,
+      "world_gold_usd": 2560.3,
+      "spread_usd": -60.87,
+      "premium_percent": -2.38
+    },
+    {
+      "date": "2024-09-02",
+      "sge_cny_per_g": 570.96,
+      "usd_cny": 7.1166,
+      "sge_usd_per_oz": 2495.41,
+      "world_gold_usd": 2560.3,
+      "spread_usd": -64.89,
+      "premium_percent": -2.53
+    },
+    {
+      "date": "2024-09-03",
+      "sge_cny_per_g": 567.4,
+      "usd_cny": 7.1204,
+      "sge_usd_per_oz": 2478.53,
+      "world_gold_usd": 2523.0,
+      "spread_usd": -44.47,
+      "premium_percent": -1.76
+    },
+    {
+      "date": "2024-09-04",
+      "sge_cny_per_g": 570.83,
+      "usd_cny": 7.1119,
+      "sge_usd_per_oz": 2496.49,
+      "world_gold_usd": 2526.0,
+      "spread_usd": -29.51,
+      "premium_percent": -1.17
+    },
+    {
+      "date": "2024-09-05",
+      "sge_cny_per_g": 572.5,
+      "usd_cny": 7.0913,
+      "sge_usd_per_oz": 2511.07,
+      "world_gold_usd": 2543.1,
+      "spread_usd": -32.03,
+      "premium_percent": -1.26
+    },
+    {
+      "date": "2024-09-08",
+      "sge_cny_per_g": 568.62,
+      "usd_cny": 7.0879,
+      "sge_usd_per_oz": 2495.25,
+      "world_gold_usd": 2543.1,
+      "spread_usd": -47.85,
+      "premium_percent": -1.88
+    },
+    {
+      "date": "2024-09-09",
+      "sge_cny_per_g": 572.44,
+      "usd_cny": 7.1136,
+      "sge_usd_per_oz": 2502.93,
+      "world_gold_usd": 2532.7,
+      "spread_usd": -29.77,
+      "premium_percent": -1.18
+    },
+    {
+      "date": "2024-09-10",
+      "sge_cny_per_g": 575.24,
+      "usd_cny": 7.1208,
+      "sge_usd_per_oz": 2512.63,
+      "world_gold_usd": 2543.1,
+      "spread_usd": -30.47,
+      "premium_percent": -1.2
+    },
+    {
+      "date": "2024-09-11",
+      "sge_cny_per_g": 574.43,
+      "usd_cny": 7.1197,
+      "sge_usd_per_oz": 2509.48,
+      "world_gold_usd": 2542.4,
+      "spread_usd": -32.92,
+      "premium_percent": -1.29
+    },
+    {
+      "date": "2024-09-12",
+      "sge_cny_per_g": 583.19,
+      "usd_cny": 7.1166,
+      "sge_usd_per_oz": 2548.86,
+      "world_gold_usd": 2580.6,
+      "spread_usd": -31.74,
+      "premium_percent": -1.23
+    },
+    {
+      "date": "2024-09-17",
+      "sge_cny_per_g": 582.63,
+      "usd_cny": 7.0925,
+      "sge_usd_per_oz": 2555.07,
+      "world_gold_usd": 2592.4,
+      "spread_usd": -37.33,
+      "premium_percent": -1.44
+    },
+    {
+      "date": "2024-09-18",
+      "sge_cny_per_g": 581.62,
+      "usd_cny": 7.081,
+      "sge_usd_per_oz": 2554.78,
+      "world_gold_usd": 2598.6,
+      "spread_usd": -43.82,
+      "premium_percent": -1.69
+    },
+    {
+      "date": "2024-09-19",
+      "sge_cny_per_g": 587.29,
+      "usd_cny": 7.067,
+      "sge_usd_per_oz": 2584.8,
+      "world_gold_usd": 2614.6,
+      "spread_usd": -29.8,
+      "premium_percent": -1.14
+    },
+    {
+      "date": "2024-09-22",
+      "sge_cny_per_g": 592.56,
+      "usd_cny": 7.0509,
+      "sge_usd_per_oz": 2613.95,
+      "world_gold_usd": 2614.6,
+      "spread_usd": -0.65,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2024-09-23",
+      "sge_cny_per_g": 592.12,
+      "usd_cny": 7.0513,
+      "sge_usd_per_oz": 2611.86,
+      "world_gold_usd": 2652.5,
+      "spread_usd": -40.64,
+      "premium_percent": -1.53
+    },
+    {
+      "date": "2024-09-24",
+      "sge_cny_per_g": 596.26,
+      "usd_cny": 7.0302,
+      "sge_usd_per_oz": 2638.01,
+      "world_gold_usd": 2677.0,
+      "spread_usd": -38.99,
+      "premium_percent": -1.46
+    },
+    {
+      "date": "2024-09-25",
+      "sge_cny_per_g": 597.46,
+      "usd_cny": 7.0323,
+      "sge_usd_per_oz": 2642.53,
+      "world_gold_usd": 2684.7,
+      "spread_usd": -42.17,
+      "premium_percent": -1.57
+    },
+    {
+      "date": "2024-09-26",
+      "sge_cny_per_g": 597.53,
+      "usd_cny": 7.009,
+      "sge_usd_per_oz": 2651.63,
+      "world_gold_usd": 2694.9,
+      "spread_usd": -43.27,
+      "premium_percent": -1.61
+    },
+    {
+      "date": "2024-09-29",
+      "sge_cny_per_g": 594.57,
+      "usd_cny": 7.0103,
+      "sge_usd_per_oz": 2638.0,
+      "world_gold_usd": 2694.9,
+      "spread_usd": -56.9,
+      "premium_percent": -2.11
+    },
+    {
+      "date": "2024-10-07",
+      "sge_cny_per_g": 593.87,
+      "usd_cny": 7.0191,
+      "sge_usd_per_oz": 2631.59,
+      "world_gold_usd": 2666.0,
+      "spread_usd": -34.41,
+      "premium_percent": -1.29
+    },
+    {
+      "date": "2024-10-08",
+      "sge_cny_per_g": 586.76,
+      "usd_cny": 7.0578,
+      "sge_usd_per_oz": 2585.83,
+      "world_gold_usd": 2635.4,
+      "spread_usd": -49.57,
+      "premium_percent": -1.88
+    },
+    {
+      "date": "2024-10-09",
+      "sge_cny_per_g": 588.93,
+      "usd_cny": 7.0801,
+      "sge_usd_per_oz": 2587.22,
+      "world_gold_usd": 2626.0,
+      "spread_usd": -38.78,
+      "premium_percent": -1.48
+    },
+    {
+      "date": "2024-10-10",
+      "sge_cny_per_g": 595.48,
+      "usd_cny": 7.0801,
+      "sge_usd_per_oz": 2615.99,
+      "world_gold_usd": 2639.3,
+      "spread_usd": -23.31,
+      "premium_percent": -0.88
+    },
+    {
+      "date": "2024-10-13",
+      "sge_cny_per_g": 601.39,
+      "usd_cny": 7.0652,
+      "sge_usd_per_oz": 2647.53,
+      "world_gold_usd": 2639.3,
+      "spread_usd": 8.23,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2024-10-14",
+      "sge_cny_per_g": 601.67,
+      "usd_cny": 7.0872,
+      "sge_usd_per_oz": 2640.54,
+      "world_gold_usd": 2665.6,
+      "spread_usd": -25.06,
+      "premium_percent": -0.94
+    },
+    {
+      "date": "2024-10-15",
+      "sge_cny_per_g": 610.06,
+      "usd_cny": 7.1178,
+      "sge_usd_per_oz": 2665.85,
+      "world_gold_usd": 2678.9,
+      "spread_usd": -13.05,
+      "premium_percent": -0.49
+    },
+    {
+      "date": "2024-10-16",
+      "sge_cny_per_g": 612.74,
+      "usd_cny": 7.1184,
+      "sge_usd_per_oz": 2677.34,
+      "world_gold_usd": 2691.3,
+      "spread_usd": -13.96,
+      "premium_percent": -0.52
+    },
+    {
+      "date": "2024-10-17",
+      "sge_cny_per_g": 617.18,
+      "usd_cny": 7.123,
+      "sge_usd_per_oz": 2694.99,
+      "world_gold_usd": 2707.5,
+      "spread_usd": -12.51,
+      "premium_percent": -0.46
+    },
+    {
+      "date": "2024-10-20",
+      "sge_cny_per_g": 624.21,
+      "usd_cny": 7.1008,
+      "sge_usd_per_oz": 2734.21,
+      "world_gold_usd": 2707.5,
+      "spread_usd": 26.71,
+      "premium_percent": 0.99
+    },
+    {
+      "date": "2024-10-21",
+      "sge_cny_per_g": 624.79,
+      "usd_cny": 7.118,
+      "sge_usd_per_oz": 2730.14,
+      "world_gold_usd": 2738.9,
+      "spread_usd": -8.76,
+      "premium_percent": -0.32
+    },
+    {
+      "date": "2024-10-22",
+      "sge_cny_per_g": 628.21,
+      "usd_cny": 7.1217,
+      "sge_usd_per_oz": 2743.66,
+      "world_gold_usd": 2759.8,
+      "spread_usd": -16.14,
+      "premium_percent": -0.58
+    },
+    {
+      "date": "2024-10-23",
+      "sge_cny_per_g": 622.96,
+      "usd_cny": 7.1253,
+      "sge_usd_per_oz": 2719.36,
+      "world_gold_usd": 2729.4,
+      "spread_usd": -10.04,
+      "premium_percent": -0.37
+    },
+    {
+      "date": "2024-10-24",
+      "sge_cny_per_g": 622.77,
+      "usd_cny": 7.1187,
+      "sge_usd_per_oz": 2721.05,
+      "world_gold_usd": 2748.9,
+      "spread_usd": -27.85,
+      "premium_percent": -1.01
+    },
+    {
+      "date": "2024-10-27",
+      "sge_cny_per_g": 625.28,
+      "usd_cny": 7.1187,
+      "sge_usd_per_oz": 2732.01,
+      "world_gold_usd": 2748.9,
+      "spread_usd": -16.89,
+      "premium_percent": -0.61
+    },
+    {
+      "date": "2024-10-28",
+      "sge_cny_per_g": 629.96,
+      "usd_cny": 7.1201,
+      "sge_usd_per_oz": 2751.92,
+      "world_gold_usd": 2755.9,
+      "spread_usd": -3.98,
+      "premium_percent": -0.14
+    },
+    {
+      "date": "2024-10-29",
+      "sge_cny_per_g": 636.83,
+      "usd_cny": 7.1275,
+      "sge_usd_per_oz": 2779.04,
+      "world_gold_usd": 2781.1,
+      "spread_usd": -2.06,
+      "premium_percent": -0.07
+    },
+    {
+      "date": "2024-10-30",
+      "sge_cny_per_g": 634.27,
+      "usd_cny": 7.1301,
+      "sge_usd_per_oz": 2766.86,
+      "world_gold_usd": 2800.8,
+      "spread_usd": -33.94,
+      "premium_percent": -1.21
+    },
+    {
+      "date": "2024-10-31",
+      "sge_cny_per_g": 628.2,
+      "usd_cny": 7.1148,
+      "sge_usd_per_oz": 2746.28,
+      "world_gold_usd": 2749.3,
+      "spread_usd": -3.02,
+      "premium_percent": -0.11
+    },
+    {
+      "date": "2024-11-03",
+      "sge_cny_per_g": 623.68,
+      "usd_cny": 7.1148,
+      "sge_usd_per_oz": 2726.52,
+      "world_gold_usd": 2749.3,
+      "spread_usd": -22.78,
+      "premium_percent": -0.83
+    },
+    {
+      "date": "2024-11-04",
+      "sge_cny_per_g": 623.47,
+      "usd_cny": 7.1217,
+      "sge_usd_per_oz": 2722.96,
+      "world_gold_usd": 2746.2,
+      "spread_usd": -23.24,
+      "premium_percent": -0.85
+    },
+    {
+      "date": "2024-11-05",
+      "sge_cny_per_g": 623.24,
+      "usd_cny": 7.0978,
+      "sge_usd_per_oz": 2731.12,
+      "world_gold_usd": 2749.7,
+      "spread_usd": -18.58,
+      "premium_percent": -0.68
+    },
+    {
+      "date": "2024-11-06",
+      "sge_cny_per_g": 609.72,
+      "usd_cny": 7.1022,
+      "sge_usd_per_oz": 2670.22,
+      "world_gold_usd": 2676.3,
+      "spread_usd": -6.08,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2024-11-07",
+      "sge_cny_per_g": 613.73,
+      "usd_cny": 7.1769,
+      "sge_usd_per_oz": 2659.8,
+      "world_gold_usd": 2705.8,
+      "spread_usd": -46.0,
+      "premium_percent": -1.7
+    },
+    {
+      "date": "2024-11-10",
+      "sge_cny_per_g": 614.06,
+      "usd_cny": 7.1769,
+      "sge_usd_per_oz": 2661.23,
+      "world_gold_usd": 2705.8,
+      "spread_usd": -44.57,
+      "premium_percent": -1.65
+    },
+    {
+      "date": "2024-11-11",
+      "sge_cny_per_g": 604.04,
+      "usd_cny": 7.1782,
+      "sge_usd_per_oz": 2617.33,
+      "world_gold_usd": 2617.7,
+      "spread_usd": -0.37,
+      "premium_percent": -0.01
+    },
+    {
+      "date": "2024-11-12",
+      "sge_cny_per_g": 602.87,
+      "usd_cny": 7.2111,
+      "sge_usd_per_oz": 2600.35,
+      "world_gold_usd": 2606.3,
+      "spread_usd": -5.95,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2024-11-13",
+      "sge_cny_per_g": 591.42,
+      "usd_cny": 7.2316,
+      "sge_usd_per_oz": 2543.73,
+      "world_gold_usd": 2586.5,
+      "spread_usd": -42.77,
+      "premium_percent": -1.65
+    },
+    {
+      "date": "2024-11-14",
+      "sge_cny_per_g": 591.93,
+      "usd_cny": 7.2235,
+      "sge_usd_per_oz": 2548.78,
+      "world_gold_usd": 2572.9,
+      "spread_usd": -24.12,
+      "premium_percent": -0.94
+    },
+    {
+      "date": "2024-11-17",
+      "sge_cny_per_g": 598.79,
+      "usd_cny": 7.2235,
+      "sge_usd_per_oz": 2578.31,
+      "world_gold_usd": 2572.9,
+      "spread_usd": 5.41,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2024-11-18",
+      "sge_cny_per_g": 608.12,
+      "usd_cny": 7.231,
+      "sge_usd_per_oz": 2615.77,
+      "world_gold_usd": 2614.6,
+      "spread_usd": 1.17,
+      "premium_percent": 0.04
+    },
+    {
+      "date": "2024-11-19",
+      "sge_cny_per_g": 609.35,
+      "usd_cny": 7.2354,
+      "sge_usd_per_oz": 2619.47,
+      "world_gold_usd": 2631.0,
+      "spread_usd": -11.53,
+      "premium_percent": -0.44
+    },
+    {
+      "date": "2024-11-20",
+      "sge_cny_per_g": 616.16,
+      "usd_cny": 7.2381,
+      "sge_usd_per_oz": 2647.76,
+      "world_gold_usd": 2651.7,
+      "spread_usd": -3.94,
+      "premium_percent": -0.15
+    },
+    {
+      "date": "2024-11-21",
+      "sge_cny_per_g": 623.75,
+      "usd_cny": 7.244,
+      "sge_usd_per_oz": 2678.19,
+      "world_gold_usd": 2674.9,
+      "spread_usd": 3.29,
+      "premium_percent": 0.12
+    },
+    {
+      "date": "2024-11-24",
+      "sge_cny_per_g": 616.26,
+      "usd_cny": 7.244,
+      "sge_usd_per_oz": 2646.03,
+      "world_gold_usd": 2674.9,
+      "spread_usd": -28.87,
+      "premium_percent": -1.08
+    },
+    {
+      "date": "2024-11-25",
+      "sge_cny_per_g": 608.21,
+      "usd_cny": 7.242,
+      "sge_usd_per_oz": 2612.19,
+      "world_gold_usd": 2618.5,
+      "spread_usd": -6.31,
+      "premium_percent": -0.24
+    },
+    {
+      "date": "2024-11-26",
+      "sge_cny_per_g": 614.31,
+      "usd_cny": 7.2395,
+      "sge_usd_per_oz": 2639.3,
+      "world_gold_usd": 2621.3,
+      "spread_usd": 18.0,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2024-11-27",
+      "sge_cny_per_g": 610.69,
+      "usd_cny": 7.252,
+      "sge_usd_per_oz": 2619.22,
+      "world_gold_usd": 2639.9,
+      "spread_usd": -20.68,
+      "premium_percent": -0.78
+    },
+    {
+      "date": "2024-11-28",
+      "sge_cny_per_g": 615.69,
+      "usd_cny": 7.2462,
+      "sge_usd_per_oz": 2642.78,
+      "world_gold_usd": 2639.9,
+      "spread_usd": 2.88,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2024-12-01",
+      "sge_cny_per_g": 611.57,
+      "usd_cny": 7.2462,
+      "sge_usd_per_oz": 2625.09,
+      "world_gold_usd": 2639.9,
+      "spread_usd": -14.81,
+      "premium_percent": -0.56
+    },
+    {
+      "date": "2024-12-02",
+      "sge_cny_per_g": 617.04,
+      "usd_cny": 7.2407,
+      "sge_usd_per_oz": 2650.58,
+      "world_gold_usd": 2658.5,
+      "spread_usd": -7.92,
+      "premium_percent": -0.3
+    },
+    {
+      "date": "2024-12-03",
+      "sge_cny_per_g": 616.15,
+      "usd_cny": 7.2709,
+      "sge_usd_per_oz": 2635.77,
+      "world_gold_usd": 2667.9,
+      "spread_usd": -32.13,
+      "premium_percent": -1.2
+    },
+    {
+      "date": "2024-12-04",
+      "sge_cny_per_g": 616.35,
+      "usd_cny": 7.2838,
+      "sge_usd_per_oz": 2631.95,
+      "world_gold_usd": 2676.2,
+      "spread_usd": -44.25,
+      "premium_percent": -1.65
+    },
+    {
+      "date": "2024-12-05",
+      "sge_cny_per_g": 614.01,
+      "usd_cny": 7.263,
+      "sge_usd_per_oz": 2629.47,
+      "world_gold_usd": 2648.4,
+      "spread_usd": -18.93,
+      "premium_percent": -0.71
+    },
+    {
+      "date": "2024-12-08",
+      "sge_cny_per_g": 617.15,
+      "usd_cny": 7.263,
+      "sge_usd_per_oz": 2642.92,
+      "world_gold_usd": 2648.4,
+      "spread_usd": -5.48,
+      "premium_percent": -0.21
+    },
+    {
+      "date": "2024-12-09",
+      "sge_cny_per_g": 619.41,
+      "usd_cny": 7.2693,
+      "sge_usd_per_oz": 2650.3,
+      "world_gold_usd": 2685.8,
+      "spread_usd": -35.5,
+      "premium_percent": -1.32
+    },
+    {
+      "date": "2024-12-10",
+      "sge_cny_per_g": 624.79,
+      "usd_cny": 7.2595,
+      "sge_usd_per_oz": 2676.93,
+      "world_gold_usd": 2718.4,
+      "spread_usd": -41.47,
+      "premium_percent": -1.53
+    },
+    {
+      "date": "2024-12-11",
+      "sge_cny_per_g": 629.04,
+      "usd_cny": 7.2487,
+      "sge_usd_per_oz": 2699.15,
+      "world_gold_usd": 2756.7,
+      "spread_usd": -57.55,
+      "premium_percent": -2.09
+    },
+    {
+      "date": "2024-12-12",
+      "sge_cny_per_g": 623.77,
+      "usd_cny": 7.2611,
+      "sge_usd_per_oz": 2671.97,
+      "world_gold_usd": 2709.4,
+      "spread_usd": -37.43,
+      "premium_percent": -1.38
+    },
+    {
+      "date": "2024-12-15",
+      "sge_cny_per_g": 617.67,
+      "usd_cny": 7.2611,
+      "sge_usd_per_oz": 2645.84,
+      "world_gold_usd": 2709.4,
+      "spread_usd": -63.56,
+      "premium_percent": -2.35
+    },
+    {
+      "date": "2024-12-16",
+      "sge_cny_per_g": 617.3,
+      "usd_cny": 7.2751,
+      "sge_usd_per_oz": 2639.16,
+      "world_gold_usd": 2670.0,
+      "spread_usd": -30.84,
+      "premium_percent": -1.15
+    },
+    {
+      "date": "2024-12-17",
+      "sge_cny_per_g": 616.7,
+      "usd_cny": 7.2824,
+      "sge_usd_per_oz": 2633.95,
+      "world_gold_usd": 2662.0,
+      "spread_usd": -28.05,
+      "premium_percent": -1.05
+    },
+    {
+      "date": "2024-12-18",
+      "sge_cny_per_g": 611.85,
+      "usd_cny": 7.2846,
+      "sge_usd_per_oz": 2612.45,
+      "world_gold_usd": 2653.3,
+      "spread_usd": -40.85,
+      "premium_percent": -1.54
+    },
+    {
+      "date": "2024-12-19",
+      "sge_cny_per_g": 612.32,
+      "usd_cny": 7.2854,
+      "sge_usd_per_oz": 2614.17,
+      "world_gold_usd": 2608.1,
+      "spread_usd": 6.07,
+      "premium_percent": 0.23
+    },
+    {
+      "date": "2024-12-22",
+      "sge_cny_per_g": 618.26,
+      "usd_cny": 7.2854,
+      "sge_usd_per_oz": 2639.53,
+      "world_gold_usd": 2608.1,
+      "spread_usd": 31.43,
+      "premium_percent": 1.21
+    },
+    {
+      "date": "2024-12-23",
+      "sge_cny_per_g": 616.12,
+      "usd_cny": 7.2954,
+      "sge_usd_per_oz": 2626.79,
+      "world_gold_usd": 2628.2,
+      "spread_usd": -1.41,
+      "premium_percent": -0.05
+    },
+    {
+      "date": "2024-12-24",
+      "sge_cny_per_g": 617.08,
+      "usd_cny": 7.297,
+      "sge_usd_per_oz": 2630.3,
+      "world_gold_usd": 2635.5,
+      "spread_usd": -5.2,
+      "premium_percent": -0.2
+    },
+    {
+      "date": "2024-12-25",
+      "sge_cny_per_g": 617.96,
+      "usd_cny": 7.2946,
+      "sge_usd_per_oz": 2634.92,
+      "world_gold_usd": 2635.5,
+      "spread_usd": -0.58,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2024-12-26",
+      "sge_cny_per_g": 618.43,
+      "usd_cny": 7.2972,
+      "sge_usd_per_oz": 2635.99,
+      "world_gold_usd": 2653.9,
+      "spread_usd": -17.91,
+      "premium_percent": -0.67
+    },
+    {
+      "date": "2024-12-29",
+      "sge_cny_per_g": 616.32,
+      "usd_cny": 7.2972,
+      "sge_usd_per_oz": 2626.99,
+      "world_gold_usd": 2653.9,
+      "spread_usd": -26.91,
+      "premium_percent": -1.01
+    },
+    {
+      "date": "2024-12-30",
+      "sge_cny_per_g": 616.26,
+      "usd_cny": 7.2978,
+      "sge_usd_per_oz": 2626.52,
+      "world_gold_usd": 2618.1,
+      "spread_usd": 8.42,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2025-01-01",
+      "sge_cny_per_g": 621.68,
+      "usd_cny": 7.2981,
+      "sge_usd_per_oz": 2649.51,
+      "world_gold_usd": 2618.1,
+      "spread_usd": 31.41,
+      "premium_percent": 1.2
+    },
+    {
+      "date": "2025-01-02",
+      "sge_cny_per_g": 626.77,
+      "usd_cny": 7.2981,
+      "sge_usd_per_oz": 2671.21,
+      "world_gold_usd": 2669.0,
+      "spread_usd": 2.21,
+      "premium_percent": 0.08
+    },
+    {
+      "date": "2025-01-05",
+      "sge_cny_per_g": 624.1,
+      "usd_cny": 7.2981,
+      "sge_usd_per_oz": 2659.83,
+      "world_gold_usd": 2669.0,
+      "spread_usd": -9.17,
+      "premium_percent": -0.34
+    },
+    {
+      "date": "2025-01-06",
+      "sge_cny_per_g": 624.76,
+      "usd_cny": 7.3196,
+      "sge_usd_per_oz": 2654.82,
+      "world_gold_usd": 2647.4,
+      "spread_usd": 7.42,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2025-01-07",
+      "sge_cny_per_g": 627.13,
+      "usd_cny": 7.3223,
+      "sge_usd_per_oz": 2663.91,
+      "world_gold_usd": 2665.4,
+      "spread_usd": -1.49,
+      "premium_percent": -0.06
+    },
+    {
+      "date": "2025-01-08",
+      "sge_cny_per_g": 630.36,
+      "usd_cny": 7.3264,
+      "sge_usd_per_oz": 2676.13,
+      "world_gold_usd": 2672.4,
+      "spread_usd": 3.73,
+      "premium_percent": 0.14
+    },
+    {
+      "date": "2025-01-09",
+      "sge_cny_per_g": 634.72,
+      "usd_cny": 7.3315,
+      "sge_usd_per_oz": 2692.76,
+      "world_gold_usd": 2690.8,
+      "spread_usd": 1.96,
+      "premium_percent": 0.07
+    },
+    {
+      "date": "2025-01-12",
+      "sge_cny_per_g": 636.66,
+      "usd_cny": 7.3315,
+      "sge_usd_per_oz": 2700.99,
+      "world_gold_usd": 2690.8,
+      "spread_usd": 10.19,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2025-01-13",
+      "sge_cny_per_g": 632.29,
+      "usd_cny": 7.3317,
+      "sge_usd_per_oz": 2682.38,
+      "world_gold_usd": 2678.6,
+      "spread_usd": 3.78,
+      "premium_percent": 0.14
+    },
+    {
+      "date": "2025-01-14",
+      "sge_cny_per_g": 634.74,
+      "usd_cny": 7.3298,
+      "sge_usd_per_oz": 2693.47,
+      "world_gold_usd": 2682.3,
+      "spread_usd": 11.17,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2025-01-15",
+      "sge_cny_per_g": 636.95,
+      "usd_cny": 7.3309,
+      "sge_usd_per_oz": 2702.45,
+      "world_gold_usd": 2717.8,
+      "spread_usd": -15.35,
+      "premium_percent": -0.56
+    },
+    {
+      "date": "2025-01-16",
+      "sge_cny_per_g": 638.72,
+      "usd_cny": 7.3301,
+      "sge_usd_per_oz": 2710.25,
+      "world_gold_usd": 2750.9,
+      "spread_usd": -40.65,
+      "premium_percent": -1.48
+    },
+    {
+      "date": "2025-01-19",
+      "sge_cny_per_g": 637.91,
+      "usd_cny": 7.3301,
+      "sge_usd_per_oz": 2706.81,
+      "world_gold_usd": 2750.9,
+      "spread_usd": -44.09,
+      "premium_percent": -1.6
+    },
+    {
+      "date": "2025-01-20",
+      "sge_cny_per_g": 637.85,
+      "usd_cny": 7.324,
+      "sge_usd_per_oz": 2708.81,
+      "world_gold_usd": 2750.9,
+      "spread_usd": -42.09,
+      "premium_percent": -1.53
+    },
+    {
+      "date": "2025-01-21",
+      "sge_cny_per_g": 643.32,
+      "usd_cny": 7.3133,
+      "sge_usd_per_oz": 2736.04,
+      "world_gold_usd": 2759.2,
+      "spread_usd": -23.16,
+      "premium_percent": -0.84
+    },
+    {
+      "date": "2025-01-22",
+      "sge_cny_per_g": 643.9,
+      "usd_cny": 7.2712,
+      "sge_usd_per_oz": 2754.36,
+      "world_gold_usd": 2770.9,
+      "spread_usd": -16.54,
+      "premium_percent": -0.6
+    },
+    {
+      "date": "2025-01-23",
+      "sge_cny_per_g": 646.59,
+      "usd_cny": 7.2712,
+      "sge_usd_per_oz": 2765.87,
+      "world_gold_usd": 2765.0,
+      "spread_usd": 0.87,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2025-01-26",
+      "sge_cny_per_g": 644.29,
+      "usd_cny": 7.2712,
+      "sge_usd_per_oz": 2756.03,
+      "world_gold_usd": 2765.0,
+      "spread_usd": -8.97,
+      "premium_percent": -0.32
+    },
+    {
+      "date": "2025-02-04",
+      "sge_cny_per_g": 668.01,
+      "usd_cny": 7.195,
+      "sge_usd_per_oz": 2887.76,
+      "world_gold_usd": 2875.8,
+      "spread_usd": 11.96,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2025-02-05",
+      "sge_cny_per_g": 667.52,
+      "usd_cny": 7.1819,
+      "sge_usd_per_oz": 2890.91,
+      "world_gold_usd": 2893.0,
+      "spread_usd": -2.09,
+      "premium_percent": -0.07
+    },
+    {
+      "date": "2025-02-06",
+      "sge_cny_per_g": 668.03,
+      "usd_cny": 7.2705,
+      "sge_usd_per_oz": 2857.86,
+      "world_gold_usd": 2876.7,
+      "spread_usd": -18.84,
+      "premium_percent": -0.65
+    },
+    {
+      "date": "2025-02-09",
+      "sge_cny_per_g": 677.64,
+      "usd_cny": 7.2705,
+      "sge_usd_per_oz": 2898.97,
+      "world_gold_usd": 2876.7,
+      "spread_usd": 22.27,
+      "premium_percent": 0.77
+    },
+    {
+      "date": "2025-02-10",
+      "sge_cny_per_g": 684.64,
+      "usd_cny": 7.2868,
+      "sge_usd_per_oz": 2922.36,
+      "world_gold_usd": 2934.4,
+      "spread_usd": -12.04,
+      "premium_percent": -0.41
+    },
+    {
+      "date": "2025-02-11",
+      "sge_cny_per_g": 680.44,
+      "usd_cny": 7.3045,
+      "sge_usd_per_oz": 2897.4,
+      "world_gold_usd": 2932.6,
+      "spread_usd": -35.2,
+      "premium_percent": -1.2
+    },
+    {
+      "date": "2025-02-12",
+      "sge_cny_per_g": 683.34,
+      "usd_cny": 7.3072,
+      "sge_usd_per_oz": 2908.67,
+      "world_gold_usd": 2928.7,
+      "spread_usd": -20.03,
+      "premium_percent": -0.68
+    },
+    {
+      "date": "2025-02-13",
+      "sge_cny_per_g": 686.99,
+      "usd_cny": 7.3088,
+      "sge_usd_per_oz": 2923.57,
+      "world_gold_usd": 2945.4,
+      "spread_usd": -21.83,
+      "premium_percent": -0.74
+    },
+    {
+      "date": "2025-02-16",
+      "sge_cny_per_g": 676.02,
+      "usd_cny": 7.3088,
+      "sge_usd_per_oz": 2876.88,
+      "world_gold_usd": 2945.4,
+      "spread_usd": -68.52,
+      "premium_percent": -2.33
+    },
+    {
+      "date": "2025-02-17",
+      "sge_cny_per_g": 682.21,
+      "usd_cny": 7.253,
+      "sge_usd_per_oz": 2925.56,
+      "world_gold_usd": 2945.4,
+      "spread_usd": -19.84,
+      "premium_percent": -0.67
+    },
+    {
+      "date": "2025-02-18",
+      "sge_cny_per_g": 686.61,
+      "usd_cny": 7.253,
+      "sge_usd_per_oz": 2944.43,
+      "world_gold_usd": 2949.0,
+      "spread_usd": -4.57,
+      "premium_percent": -0.15
+    },
+    {
+      "date": "2025-02-19",
+      "sge_cny_per_g": 688.76,
+      "usd_cny": 7.2786,
+      "sge_usd_per_oz": 2943.26,
+      "world_gold_usd": 2936.1,
+      "spread_usd": 7.16,
+      "premium_percent": 0.24
+    },
+    {
+      "date": "2025-02-20",
+      "sge_cny_per_g": 683.66,
+      "usd_cny": 7.2833,
+      "sge_usd_per_oz": 2919.58,
+      "world_gold_usd": 2956.1,
+      "spread_usd": -36.52,
+      "premium_percent": -1.24
+    },
+    {
+      "date": "2025-02-23",
+      "sge_cny_per_g": 685.46,
+      "usd_cny": 7.2833,
+      "sge_usd_per_oz": 2927.27,
+      "world_gold_usd": 2956.1,
+      "spread_usd": -28.83,
+      "premium_percent": -0.98
+    },
+    {
+      "date": "2025-02-24",
+      "sge_cny_per_g": 684.99,
+      "usd_cny": 7.25,
+      "sge_usd_per_oz": 2938.7,
+      "world_gold_usd": 2963.2,
+      "spread_usd": -24.5,
+      "premium_percent": -0.83
+    },
+    {
+      "date": "2025-02-25",
+      "sge_cny_per_g": 679.22,
+      "usd_cny": 7.2476,
+      "sge_usd_per_oz": 2914.91,
+      "world_gold_usd": 2918.8,
+      "spread_usd": -3.89,
+      "premium_percent": -0.13
+    },
+    {
+      "date": "2025-02-26",
+      "sge_cny_per_g": 676.54,
+      "usd_cny": 7.2476,
+      "sge_usd_per_oz": 2903.41,
+      "world_gold_usd": 2930.6,
+      "spread_usd": -27.19,
+      "premium_percent": -0.93
+    },
+    {
+      "date": "2025-02-27",
+      "sge_cny_per_g": 671.8,
+      "usd_cny": 7.258,
+      "sge_usd_per_oz": 2878.94,
+      "world_gold_usd": 2895.9,
+      "spread_usd": -16.96,
+      "premium_percent": -0.59
+    },
+    {
+      "date": "2025-03-02",
+      "sge_cny_per_g": 672.23,
+      "usd_cny": 7.258,
+      "sge_usd_per_oz": 2880.78,
+      "world_gold_usd": 2895.9,
+      "spread_usd": -15.12,
+      "premium_percent": -0.52
+    },
+    {
+      "date": "2025-03-03",
+      "sge_cny_per_g": 676.35,
+      "usd_cny": 7.2828,
+      "sge_usd_per_oz": 2888.56,
+      "world_gold_usd": 2901.1,
+      "spread_usd": -12.54,
+      "premium_percent": -0.43
+    },
+    {
+      "date": "2025-03-04",
+      "sge_cny_per_g": 681.66,
+      "usd_cny": 7.2843,
+      "sge_usd_per_oz": 2910.64,
+      "world_gold_usd": 2920.6,
+      "spread_usd": -9.96,
+      "premium_percent": -0.34
+    },
+    {
+      "date": "2025-03-05",
+      "sge_cny_per_g": 680.5,
+      "usd_cny": 7.2651,
+      "sge_usd_per_oz": 2913.37,
+      "world_gold_usd": 2926.0,
+      "spread_usd": -12.63,
+      "premium_percent": -0.43
+    },
+    {
+      "date": "2025-03-06",
+      "sge_cny_per_g": 679.43,
+      "usd_cny": 7.2506,
+      "sge_usd_per_oz": 2914.61,
+      "world_gold_usd": 2926.6,
+      "spread_usd": -12.0,
+      "premium_percent": -0.41
+    },
+    {
+      "date": "2025-03-09",
+      "sge_cny_per_g": 681.17,
+      "usd_cny": 7.2506,
+      "sge_usd_per_oz": 2922.07,
+      "world_gold_usd": 2926.6,
+      "spread_usd": -4.53,
+      "premium_percent": -0.15
+    },
+    {
+      "date": "2025-03-10",
+      "sge_cny_per_g": 677.38,
+      "usd_cny": 7.234,
+      "sge_usd_per_oz": 2912.48,
+      "world_gold_usd": 2899.4,
+      "spread_usd": 13.08,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2025-03-11",
+      "sge_cny_per_g": 679.54,
+      "usd_cny": 7.2591,
+      "sge_usd_per_oz": 2911.66,
+      "world_gold_usd": 2920.9,
+      "spread_usd": -9.24,
+      "premium_percent": -0.32
+    },
+    {
+      "date": "2025-03-12",
+      "sge_cny_per_g": 684.56,
+      "usd_cny": 7.2591,
+      "sge_usd_per_oz": 2933.17,
+      "world_gold_usd": 2946.8,
+      "spread_usd": -13.63,
+      "premium_percent": -0.46
+    },
+    {
+      "date": "2025-03-13",
+      "sge_cny_per_g": 694.6,
+      "usd_cny": 7.2371,
+      "sge_usd_per_oz": 2985.24,
+      "world_gold_usd": 2991.3,
+      "spread_usd": -6.06,
+      "premium_percent": -0.2
+    },
+    {
+      "date": "2025-03-16",
+      "sge_cny_per_g": 695.68,
+      "usd_cny": 7.2371,
+      "sge_usd_per_oz": 2989.88,
+      "world_gold_usd": 2991.3,
+      "spread_usd": -1.42,
+      "premium_percent": -0.05
+    },
+    {
+      "date": "2025-03-17",
+      "sge_cny_per_g": 700.24,
+      "usd_cny": 7.2371,
+      "sge_usd_per_oz": 3009.48,
+      "world_gold_usd": 3006.1,
+      "spread_usd": 3.38,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2025-03-18",
+      "sge_cny_per_g": 707.67,
+      "usd_cny": 7.2327,
+      "sge_usd_per_oz": 3043.26,
+      "world_gold_usd": 3040.8,
+      "spread_usd": 2.46,
+      "premium_percent": 0.08
+    },
+    {
+      "date": "2025-03-19",
+      "sge_cny_per_g": 709.12,
+      "usd_cny": 7.2273,
+      "sge_usd_per_oz": 3051.78,
+      "world_gold_usd": 3041.2,
+      "spread_usd": 10.58,
+      "premium_percent": 0.35
+    },
+    {
+      "date": "2025-03-20",
+      "sge_cny_per_g": 705.83,
+      "usd_cny": 7.23,
+      "sge_usd_per_oz": 3036.48,
+      "world_gold_usd": 3043.8,
+      "spread_usd": -7.32,
+      "premium_percent": -0.24
+    },
+    {
+      "date": "2025-03-23",
+      "sge_cny_per_g": 706.01,
+      "usd_cny": 7.23,
+      "sge_usd_per_oz": 3037.26,
+      "world_gold_usd": 3043.8,
+      "spread_usd": -6.54,
+      "premium_percent": -0.21
+    },
+    {
+      "date": "2025-03-24",
+      "sge_cny_per_g": 705.12,
+      "usd_cny": 7.2485,
+      "sge_usd_per_oz": 3025.69,
+      "world_gold_usd": 3015.6,
+      "spread_usd": 10.09,
+      "premium_percent": 0.33
+    },
+    {
+      "date": "2025-03-25",
+      "sge_cny_per_g": 707.36,
+      "usd_cny": 7.253,
+      "sge_usd_per_oz": 3033.41,
+      "world_gold_usd": 3025.9,
+      "spread_usd": 7.51,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2025-03-26",
+      "sge_cny_per_g": 708.8,
+      "usd_cny": 7.2569,
+      "sge_usd_per_oz": 3037.96,
+      "world_gold_usd": 3022.5,
+      "spread_usd": 15.46,
+      "premium_percent": 0.51
+    },
+    {
+      "date": "2025-03-27",
+      "sge_cny_per_g": 721.16,
+      "usd_cny": 7.2569,
+      "sge_usd_per_oz": 3090.93,
+      "world_gold_usd": 3061.0,
+      "spread_usd": 29.93,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2025-03-30",
+      "sge_cny_per_g": 728.34,
+      "usd_cny": 7.2628,
+      "sge_usd_per_oz": 3119.17,
+      "world_gold_usd": 3061.0,
+      "spread_usd": 58.17,
+      "premium_percent": 1.9
+    },
+    {
+      "date": "2025-03-31",
+      "sge_cny_per_g": 735.51,
+      "usd_cny": 7.2567,
+      "sge_usd_per_oz": 3152.52,
+      "world_gold_usd": 3122.8,
+      "spread_usd": 29.72,
+      "premium_percent": 0.95
+    },
+    {
+      "date": "2025-04-01",
+      "sge_cny_per_g": 732.66,
+      "usd_cny": 7.2697,
+      "sge_usd_per_oz": 3134.69,
+      "world_gold_usd": 3146.0,
+      "spread_usd": -11.31,
+      "premium_percent": -0.36
+    },
+    {
+      "date": "2025-04-02",
+      "sge_cny_per_g": 737.95,
+      "usd_cny": 7.2675,
+      "sge_usd_per_oz": 3158.28,
+      "world_gold_usd": 3166.2,
+      "spread_usd": -7.92,
+      "premium_percent": -0.25
+    },
+    {
+      "date": "2025-04-06",
+      "sge_cny_per_g": 716.19,
+      "usd_cny": 7.2813,
+      "sge_usd_per_oz": 3059.34,
+      "world_gold_usd": 3166.2,
+      "spread_usd": -106.86,
+      "premium_percent": -3.37
+    },
+    {
+      "date": "2025-04-07",
+      "sge_cny_per_g": 718.34,
+      "usd_cny": 7.3081,
+      "sge_usd_per_oz": 3057.27,
+      "world_gold_usd": 2973.6,
+      "spread_usd": 83.67,
+      "premium_percent": 2.81
+    },
+    {
+      "date": "2025-04-08",
+      "sge_cny_per_g": 726.26,
+      "usd_cny": 7.3388,
+      "sge_usd_per_oz": 3078.05,
+      "world_gold_usd": 2990.2,
+      "spread_usd": 87.85,
+      "premium_percent": 2.94
+    },
+    {
+      "date": "2025-04-09",
+      "sge_cny_per_g": 742.95,
+      "usd_cny": 7.35,
+      "sge_usd_per_oz": 3143.99,
+      "world_gold_usd": 3079.4,
+      "spread_usd": 64.59,
+      "premium_percent": 2.1
+    },
+    {
+      "date": "2025-04-10",
+      "sge_cny_per_g": 756.94,
+      "usd_cny": 7.314,
+      "sge_usd_per_oz": 3218.96,
+      "world_gold_usd": 3177.5,
+      "spread_usd": 41.46,
+      "premium_percent": 1.3
+    },
+    {
+      "date": "2025-04-13",
+      "sge_cny_per_g": 762.48,
+      "usd_cny": 7.2916,
+      "sge_usd_per_oz": 3252.48,
+      "world_gold_usd": 3177.5,
+      "spread_usd": 74.98,
+      "premium_percent": 2.36
+    },
+    {
+      "date": "2025-04-14",
+      "sge_cny_per_g": 762.75,
+      "usd_cny": 7.3119,
+      "sge_usd_per_oz": 3244.6,
+      "world_gold_usd": 3226.3,
+      "spread_usd": 18.3,
+      "premium_percent": 0.57
+    },
+    {
+      "date": "2025-04-15",
+      "sge_cny_per_g": 779.86,
+      "usd_cny": 7.3119,
+      "sge_usd_per_oz": 3317.38,
+      "world_gold_usd": 3240.4,
+      "spread_usd": 76.98,
+      "premium_percent": 2.38
+    },
+    {
+      "date": "2025-04-16",
+      "sge_cny_per_g": 788.32,
+      "usd_cny": 7.3119,
+      "sge_usd_per_oz": 3353.37,
+      "world_gold_usd": 3346.4,
+      "spread_usd": 6.97,
+      "premium_percent": 0.21
+    },
+    {
+      "date": "2025-04-17",
+      "sge_cny_per_g": 790.46,
+      "usd_cny": 7.3119,
+      "sge_usd_per_oz": 3362.47,
+      "world_gold_usd": 3328.4,
+      "spread_usd": 34.07,
+      "premium_percent": 1.02
+    },
+    {
+      "date": "2025-04-20",
+      "sge_cny_per_g": 803.84,
+      "usd_cny": 7.3119,
+      "sge_usd_per_oz": 3419.39,
+      "world_gold_usd": 3328.4,
+      "spread_usd": 90.99,
+      "premium_percent": 2.73
+    },
+    {
+      "date": "2025-04-21",
+      "sge_cny_per_g": 830.03,
+      "usd_cny": 7.299,
+      "sge_usd_per_oz": 3537.04,
+      "world_gold_usd": 3425.3,
+      "spread_usd": 111.74,
+      "premium_percent": 3.26
+    },
+    {
+      "date": "2025-04-22",
+      "sge_cny_per_g": 786.16,
+      "usd_cny": 7.3118,
+      "sge_usd_per_oz": 3344.23,
+      "world_gold_usd": 3419.4,
+      "spread_usd": -75.17,
+      "premium_percent": -2.2
+    },
+    {
+      "date": "2025-04-23",
+      "sge_cny_per_g": 793.13,
+      "usd_cny": 7.286,
+      "sge_usd_per_oz": 3385.82,
+      "world_gold_usd": 3294.1,
+      "spread_usd": 91.72,
+      "premium_percent": 2.78
+    },
+    {
+      "date": "2025-04-24",
+      "sge_cny_per_g": 785.9,
+      "usd_cny": 7.286,
+      "sge_usd_per_oz": 3354.96,
+      "world_gold_usd": 3348.6,
+      "spread_usd": 6.36,
+      "premium_percent": 0.19
+    },
+    {
+      "date": "2025-04-27",
+      "sge_cny_per_g": 778.7,
+      "usd_cny": 7.2864,
+      "sge_usd_per_oz": 3324.04,
+      "world_gold_usd": 3348.6,
+      "spread_usd": -24.56,
+      "premium_percent": -0.73
+    },
+    {
+      "date": "2025-04-28",
+      "sge_cny_per_g": 782.74,
+      "usd_cny": 7.294,
+      "sge_usd_per_oz": 3337.8,
+      "world_gold_usd": 3347.7,
+      "spread_usd": -9.9,
+      "premium_percent": -0.3
+    },
+    {
+      "date": "2025-04-29",
+      "sge_cny_per_g": 778.89,
+      "usd_cny": 7.269,
+      "sge_usd_per_oz": 3332.81,
+      "world_gold_usd": 3333.6,
+      "spread_usd": -0.79,
+      "premium_percent": -0.02
+    },
+    {
+      "date": "2025-05-05",
+      "sge_cny_per_g": 792.86,
+      "usd_cny": 7.27,
+      "sge_usd_per_oz": 3392.12,
+      "world_gold_usd": 3322.3,
+      "spread_usd": 69.82,
+      "premium_percent": 2.1
+    },
+    {
+      "date": "2025-05-06",
+      "sge_cny_per_g": 799.1,
+      "usd_cny": 7.2163,
+      "sge_usd_per_oz": 3444.26,
+      "world_gold_usd": 3422.8,
+      "spread_usd": 21.46,
+      "premium_percent": 0.63
+    },
+    {
+      "date": "2025-05-07",
+      "sge_cny_per_g": 786.98,
+      "usd_cny": 7.2252,
+      "sge_usd_per_oz": 3387.84,
+      "world_gold_usd": 3391.9,
+      "spread_usd": -4.06,
+      "premium_percent": -0.12
+    },
+    {
+      "date": "2025-05-08",
+      "sge_cny_per_g": 785.54,
+      "usd_cny": 7.2252,
+      "sge_usd_per_oz": 3381.64,
+      "world_gold_usd": 3306.0,
+      "spread_usd": 75.64,
+      "premium_percent": 2.29
+    },
+    {
+      "date": "2025-05-11",
+      "sge_cny_per_g": 766.27,
+      "usd_cny": 7.2363,
+      "sge_usd_per_oz": 3293.63,
+      "world_gold_usd": 3306.0,
+      "spread_usd": -12.37,
+      "premium_percent": -0.37
+    },
+    {
+      "date": "2025-05-12",
+      "sge_cny_per_g": 763.87,
+      "usd_cny": 7.2018,
+      "sge_usd_per_oz": 3299.04,
+      "world_gold_usd": 3228.0,
+      "spread_usd": 71.04,
+      "premium_percent": 2.2
+    },
+    {
+      "date": "2025-05-13",
+      "sge_cny_per_g": 758.55,
+      "usd_cny": 7.2057,
+      "sge_usd_per_oz": 3274.29,
+      "world_gold_usd": 3247.8,
+      "spread_usd": 26.49,
+      "premium_percent": 0.82
+    },
+    {
+      "date": "2025-05-14",
+      "sge_cny_per_g": 736.17,
+      "usd_cny": 7.2057,
+      "sge_usd_per_oz": 3177.69,
+      "world_gold_usd": 3188.3,
+      "spread_usd": -10.61,
+      "premium_percent": -0.33
+    },
+    {
+      "date": "2025-05-15",
+      "sge_cny_per_g": 748.62,
+      "usd_cny": 7.2065,
+      "sge_usd_per_oz": 3231.07,
+      "world_gold_usd": 3226.6,
+      "spread_usd": 4.47,
+      "premium_percent": 0.14
+    },
+    {
+      "date": "2025-05-18",
+      "sge_cny_per_g": 752.66,
+      "usd_cny": 7.209,
+      "sge_usd_per_oz": 3247.38,
+      "world_gold_usd": 3226.6,
+      "spread_usd": 20.78,
+      "premium_percent": 0.64
+    },
+    {
+      "date": "2025-05-19",
+      "sge_cny_per_g": 751.54,
+      "usd_cny": 7.209,
+      "sge_usd_per_oz": 3242.54,
+      "world_gold_usd": 3233.5,
+      "spread_usd": 9.04,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2025-05-20",
+      "sge_cny_per_g": 775.17,
+      "usd_cny": 7.2194,
+      "sge_usd_per_oz": 3339.68,
+      "world_gold_usd": 3284.6,
+      "spread_usd": 55.08,
+      "premium_percent": 1.68
+    },
+    {
+      "date": "2025-05-21",
+      "sge_cny_per_g": 776.85,
+      "usd_cny": 7.2019,
+      "sge_usd_per_oz": 3355.05,
+      "world_gold_usd": 3313.5,
+      "spread_usd": 41.55,
+      "premium_percent": 1.25
+    },
+    {
+      "date": "2025-05-22",
+      "sge_cny_per_g": 776.65,
+      "usd_cny": 7.2037,
+      "sge_usd_per_oz": 3353.35,
+      "world_gold_usd": 3295.0,
+      "spread_usd": 58.35,
+      "premium_percent": 1.77
+    },
+    {
+      "date": "2025-05-25",
+      "sge_cny_per_g": 774.33,
+      "usd_cny": 7.2037,
+      "sge_usd_per_oz": 3343.33,
+      "world_gold_usd": 3295.0,
+      "spread_usd": 48.33,
+      "premium_percent": 1.47
+    },
+    {
+      "date": "2025-05-26",
+      "sge_cny_per_g": 768.07,
+      "usd_cny": 7.2037,
+      "sge_usd_per_oz": 3316.3,
+      "world_gold_usd": 3365.8,
+      "spread_usd": -49.5,
+      "premium_percent": -1.47
+    },
+    {
+      "date": "2025-05-27",
+      "sge_cny_per_g": 768.61,
+      "usd_cny": 7.2037,
+      "sge_usd_per_oz": 3318.63,
+      "world_gold_usd": 3300.4,
+      "spread_usd": 18.23,
+      "premium_percent": 0.55
+    },
+    {
+      "date": "2025-05-28",
+      "sge_cny_per_g": 761.27,
+      "usd_cny": 7.2037,
+      "sge_usd_per_oz": 3286.94,
+      "world_gold_usd": 3294.9,
+      "spread_usd": -7.96,
+      "premium_percent": -0.24
+    },
+    {
+      "date": "2025-05-29",
+      "sge_cny_per_g": 768.02,
+      "usd_cny": 7.2037,
+      "sge_usd_per_oz": 3316.09,
+      "world_gold_usd": 3317.1,
+      "spread_usd": -1.01,
+      "premium_percent": -0.03
+    },
+    {
+      "date": "2025-06-02",
+      "sge_cny_per_g": 779.5,
+      "usd_cny": 7.2037,
+      "sge_usd_per_oz": 3365.65,
+      "world_gold_usd": 3397.2,
+      "spread_usd": -31.55,
+      "premium_percent": -0.93
+    },
+    {
+      "date": "2025-06-03",
+      "sge_cny_per_g": 779.61,
+      "usd_cny": 7.2037,
+      "sge_usd_per_oz": 3366.13,
+      "world_gold_usd": 3377.1,
+      "spread_usd": -10.97,
+      "premium_percent": -0.32
+    },
+    {
+      "date": "2025-06-04",
+      "sge_cny_per_g": 780.37,
+      "usd_cny": 7.2037,
+      "sge_usd_per_oz": 3369.41,
+      "world_gold_usd": 3399.2,
+      "spread_usd": -29.79,
+      "premium_percent": -0.88
+    },
+    {
+      "date": "2025-06-05",
+      "sge_cny_per_g": 779.91,
+      "usd_cny": 7.175,
+      "sge_usd_per_oz": 3380.89,
+      "world_gold_usd": 3375.1,
+      "spread_usd": 5.79,
+      "premium_percent": 0.17
+    },
+    {
+      "date": "2025-06-08",
+      "sge_cny_per_g": 771.29,
+      "usd_cny": 7.1886,
+      "sge_usd_per_oz": 3337.2,
+      "world_gold_usd": 3375.1,
+      "spread_usd": -37.9,
+      "premium_percent": -1.12
+    },
+    {
+      "date": "2025-06-09",
+      "sge_cny_per_g": 772.7,
+      "usd_cny": 7.1802,
+      "sge_usd_per_oz": 3347.21,
+      "world_gold_usd": 3354.9,
+      "spread_usd": -7.69,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2025-06-10",
+      "sge_cny_per_g": 774.74,
+      "usd_cny": 7.1802,
+      "sge_usd_per_oz": 3356.05,
+      "world_gold_usd": 3343.4,
+      "spread_usd": 12.65,
+      "premium_percent": 0.38
+    },
+    {
+      "date": "2025-06-11",
+      "sge_cny_per_g": 781.68,
+      "usd_cny": 7.1928,
+      "sge_usd_per_oz": 3380.18,
+      "world_gold_usd": 3343.7,
+      "spread_usd": 36.48,
+      "premium_percent": 1.09
+    },
+    {
+      "date": "2025-06-12",
+      "sge_cny_per_g": 790.75,
+      "usd_cny": 7.1928,
+      "sge_usd_per_oz": 3419.4,
+      "world_gold_usd": 3402.4,
+      "spread_usd": 17.0,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2025-06-15",
+      "sge_cny_per_g": 788.88,
+      "usd_cny": 7.181,
+      "sge_usd_per_oz": 3416.92,
+      "world_gold_usd": 3402.4,
+      "spread_usd": 14.52,
+      "premium_percent": 0.43
+    },
+    {
+      "date": "2025-06-16",
+      "sge_cny_per_g": 781.72,
+      "usd_cny": 7.179,
+      "sge_usd_per_oz": 3386.85,
+      "world_gold_usd": 3417.3,
+      "spread_usd": -30.45,
+      "premium_percent": -0.89
+    },
+    {
+      "date": "2025-06-17",
+      "sge_cny_per_g": 782.37,
+      "usd_cny": 7.1845,
+      "sge_usd_per_oz": 3387.07,
+      "world_gold_usd": 3406.9,
+      "spread_usd": -19.83,
+      "premium_percent": -0.58
+    },
+    {
+      "date": "2025-06-18",
+      "sge_cny_per_g": 778.63,
+      "usd_cny": 7.1888,
+      "sge_usd_per_oz": 3368.87,
+      "world_gold_usd": 3408.1,
+      "spread_usd": -39.23,
+      "premium_percent": -1.15
+    },
+    {
+      "date": "2025-06-19",
+      "sge_cny_per_g": 775.46,
+      "usd_cny": 7.188,
+      "sge_usd_per_oz": 3355.52,
+      "world_gold_usd": 3408.1,
+      "spread_usd": -52.58,
+      "premium_percent": -1.54
+    },
+    {
+      "date": "2025-06-22",
+      "sge_cny_per_g": 778.15,
+      "usd_cny": 7.188,
+      "sge_usd_per_oz": 3367.16,
+      "world_gold_usd": 3408.1,
+      "spread_usd": -40.94,
+      "premium_percent": -1.2
+    },
+    {
+      "date": "2025-06-23",
+      "sge_cny_per_g": 769.24,
+      "usd_cny": 7.179,
+      "sge_usd_per_oz": 3332.78,
+      "world_gold_usd": 3395.0,
+      "spread_usd": -62.22,
+      "premium_percent": -1.83
+    },
+    {
+      "date": "2025-06-24",
+      "sge_cny_per_g": 771.26,
+      "usd_cny": 7.1713,
+      "sge_usd_per_oz": 3345.12,
+      "world_gold_usd": 3333.9,
+      "spread_usd": 11.22,
+      "premium_percent": 0.34
+    },
+    {
+      "date": "2025-06-25",
+      "sge_cny_per_g": 772.07,
+      "usd_cny": 7.1764,
+      "sge_usd_per_oz": 3346.25,
+      "world_gold_usd": 3343.1,
+      "spread_usd": 3.15,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2025-06-26",
+      "sge_cny_per_g": 763.68,
+      "usd_cny": 7.1675,
+      "sge_usd_per_oz": 3314.0,
+      "world_gold_usd": 3348.0,
+      "spread_usd": -34.0,
+      "premium_percent": -1.02
+    },
+    {
+      "date": "2025-06-29",
+      "sge_cny_per_g": 762.95,
+      "usd_cny": 7.1721,
+      "sge_usd_per_oz": 3308.71,
+      "world_gold_usd": 3348.0,
+      "spread_usd": -39.29,
+      "premium_percent": -1.17
+    },
+    {
+      "date": "2025-06-30",
+      "sge_cny_per_g": 771.22,
+      "usd_cny": 7.1636,
+      "sge_usd_per_oz": 3348.54,
+      "world_gold_usd": 3307.7,
+      "spread_usd": 40.84,
+      "premium_percent": 1.23
+    },
+    {
+      "date": "2025-07-01",
+      "sge_cny_per_g": 771.38,
+      "usd_cny": 7.1645,
+      "sge_usd_per_oz": 3348.82,
+      "world_gold_usd": 3349.8,
+      "spread_usd": -0.98,
+      "premium_percent": -0.03
+    },
+    {
+      "date": "2025-07-02",
+      "sge_cny_per_g": 776.94,
+      "usd_cny": 7.1649,
+      "sge_usd_per_oz": 3372.77,
+      "world_gold_usd": 3359.7,
+      "spread_usd": 13.07,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2025-07-03",
+      "sge_cny_per_g": 772.79,
+      "usd_cny": 7.1649,
+      "sge_usd_per_oz": 3354.75,
+      "world_gold_usd": 3342.9,
+      "spread_usd": 11.85,
+      "premium_percent": 0.35
+    },
+    {
+      "date": "2025-07-06",
+      "sge_cny_per_g": 767.19,
+      "usd_cny": 7.1649,
+      "sge_usd_per_oz": 3330.44,
+      "world_gold_usd": 3342.9,
+      "spread_usd": -12.46,
+      "premium_percent": -0.37
+    },
+    {
+      "date": "2025-07-07",
+      "sge_cny_per_g": 772.23,
+      "usd_cny": 7.1744,
+      "sge_usd_per_oz": 3347.88,
+      "world_gold_usd": 3342.8,
+      "spread_usd": 5.08,
+      "premium_percent": 0.15
+    },
+    {
+      "date": "2025-07-08",
+      "sge_cny_per_g": 763.11,
+      "usd_cny": 7.1738,
+      "sge_usd_per_oz": 3308.62,
+      "world_gold_usd": 3316.9,
+      "spread_usd": -8.28,
+      "premium_percent": -0.25
+    },
+    {
+      "date": "2025-07-09",
+      "sge_cny_per_g": 769.27,
+      "usd_cny": 7.18,
+      "sge_usd_per_oz": 3332.45,
+      "world_gold_usd": 3321.0,
+      "spread_usd": 11.45,
+      "premium_percent": 0.34
+    },
+    {
+      "date": "2025-07-10",
+      "sge_cny_per_g": 769.97,
+      "usd_cny": 7.1748,
+      "sge_usd_per_oz": 3337.9,
+      "world_gold_usd": 3325.7,
+      "spread_usd": 12.2,
+      "premium_percent": 0.37
+    },
+    {
+      "date": "2025-07-13",
+      "sge_cny_per_g": 776.79,
+      "usd_cny": 7.1681,
+      "sge_usd_per_oz": 3370.61,
+      "world_gold_usd": 3325.7,
+      "spread_usd": 44.91,
+      "premium_percent": 1.35
+    },
+    {
+      "date": "2025-07-14",
+      "sge_cny_per_g": 775.99,
+      "usd_cny": 7.167,
+      "sge_usd_per_oz": 3367.66,
+      "world_gold_usd": 3359.1,
+      "spread_usd": 8.56,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2025-07-15",
+      "sge_cny_per_g": 772.47,
+      "usd_cny": 7.1729,
+      "sge_usd_per_oz": 3349.62,
+      "world_gold_usd": 3336.7,
+      "spread_usd": 12.92,
+      "premium_percent": 0.39
+    },
+    {
+      "date": "2025-07-16",
+      "sge_cny_per_g": 772.0,
+      "usd_cny": 7.1785,
+      "sge_usd_per_oz": 3344.97,
+      "world_gold_usd": 3359.1,
+      "spread_usd": -14.13,
+      "premium_percent": -0.42
+    },
+    {
+      "date": "2025-07-17",
+      "sge_cny_per_g": 772.72,
+      "usd_cny": 7.1832,
+      "sge_usd_per_oz": 3345.9,
+      "world_gold_usd": 3345.3,
+      "spread_usd": 0.6,
+      "premium_percent": 0.02
+    },
+    {
+      "date": "2025-07-20",
+      "sge_cny_per_g": 777.6,
+      "usd_cny": 7.1777,
+      "sge_usd_per_oz": 3369.61,
+      "world_gold_usd": 3345.3,
+      "spread_usd": 24.31,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2025-07-21",
+      "sge_cny_per_g": 780.79,
+      "usd_cny": 7.1755,
+      "sge_usd_per_oz": 3384.47,
+      "world_gold_usd": 3406.4,
+      "spread_usd": -21.93,
+      "premium_percent": -0.64
+    },
+    {
+      "date": "2025-07-22",
+      "sge_cny_per_g": 788.42,
+      "usd_cny": 7.1743,
+      "sge_usd_per_oz": 3418.12,
+      "world_gold_usd": 3443.7,
+      "spread_usd": -25.58,
+      "premium_percent": -0.74
+    },
+    {
+      "date": "2025-07-23",
+      "sge_cny_per_g": 774.8,
+      "usd_cny": 7.1595,
+      "sge_usd_per_oz": 3366.01,
+      "world_gold_usd": 3397.6,
+      "spread_usd": -31.59,
+      "premium_percent": -0.93
+    },
+    {
+      "date": "2025-07-24",
+      "sge_cny_per_g": 773.26,
+      "usd_cny": 7.1535,
+      "sge_usd_per_oz": 3362.14,
+      "world_gold_usd": 3373.5,
+      "spread_usd": -11.36,
+      "premium_percent": -0.34
+    },
+    {
+      "date": "2025-07-27",
+      "sge_cny_per_g": 771.23,
+      "usd_cny": 7.1535,
+      "sge_usd_per_oz": 3353.31,
+      "world_gold_usd": 3373.5,
+      "spread_usd": -20.19,
+      "premium_percent": -0.6
+    },
+    {
+      "date": "2025-07-28",
+      "sge_cny_per_g": 767.85,
+      "usd_cny": 7.1778,
+      "sge_usd_per_oz": 3327.32,
+      "world_gold_usd": 3310.0,
+      "spread_usd": 17.32,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2025-07-29",
+      "sge_cny_per_g": 769.74,
+      "usd_cny": 7.1764,
+      "sge_usd_per_oz": 3336.16,
+      "world_gold_usd": 3324.0,
+      "spread_usd": 12.16,
+      "premium_percent": 0.37
+    },
+    {
+      "date": "2025-07-30",
+      "sge_cny_per_g": 766.68,
+      "usd_cny": 7.1764,
+      "sge_usd_per_oz": 3322.89,
+      "world_gold_usd": 3295.8,
+      "spread_usd": 27.09,
+      "premium_percent": 0.82
+    },
+    {
+      "date": "2025-07-31",
+      "sge_cny_per_g": 767.07,
+      "usd_cny": 7.2002,
+      "sge_usd_per_oz": 3313.59,
+      "world_gold_usd": 3293.2,
+      "spread_usd": 20.39,
+      "premium_percent": 0.62
+    },
+    {
+      "date": "2025-08-03",
+      "sge_cny_per_g": 777.29,
+      "usd_cny": 7.2116,
+      "sge_usd_per_oz": 3352.44,
+      "world_gold_usd": 3293.2,
+      "spread_usd": 59.24,
+      "premium_percent": 1.8
+    },
+    {
+      "date": "2025-08-04",
+      "sge_cny_per_g": 778.88,
+      "usd_cny": 7.178,
+      "sge_usd_per_oz": 3375.02,
+      "world_gold_usd": 3426.4,
+      "spread_usd": -51.38,
+      "premium_percent": -1.5
+    },
+    {
+      "date": "2025-08-05",
+      "sge_cny_per_g": 780.05,
+      "usd_cny": 7.1834,
+      "sge_usd_per_oz": 3377.55,
+      "world_gold_usd": 3434.7,
+      "spread_usd": -57.15,
+      "premium_percent": -1.66
+    },
+    {
+      "date": "2025-08-06",
+      "sge_cny_per_g": 781.41,
+      "usd_cny": 7.1828,
+      "sge_usd_per_oz": 3383.72,
+      "world_gold_usd": 3433.4,
+      "spread_usd": -49.68,
+      "premium_percent": -1.45
+    },
+    {
+      "date": "2025-08-07",
+      "sge_cny_per_g": 784.05,
+      "usd_cny": 7.181,
+      "sge_usd_per_oz": 3396.0,
+      "world_gold_usd": 3453.7,
+      "spread_usd": -57.7,
+      "premium_percent": -1.67
+    },
+    {
+      "date": "2025-08-10",
+      "sge_cny_per_g": 776.2,
+      "usd_cny": 7.181,
+      "sge_usd_per_oz": 3362.0,
+      "world_gold_usd": 3453.7,
+      "spread_usd": -91.7,
+      "premium_percent": -2.66
+    },
+    {
+      "date": "2025-08-11",
+      "sge_cny_per_g": 772.76,
+      "usd_cny": 7.1877,
+      "sge_usd_per_oz": 3343.98,
+      "world_gold_usd": 3404.7,
+      "spread_usd": -60.72,
+      "premium_percent": -1.78
+    },
+    {
+      "date": "2025-08-12",
+      "sge_cny_per_g": 774.2,
+      "usd_cny": 7.1785,
+      "sge_usd_per_oz": 3354.5,
+      "world_gold_usd": 3399.0,
+      "spread_usd": -44.5,
+      "premium_percent": -1.31
+    },
+    {
+      "date": "2025-08-13",
+      "sge_cny_per_g": 775.51,
+      "usd_cny": 7.1743,
+      "sge_usd_per_oz": 3362.15,
+      "world_gold_usd": 3408.3,
+      "spread_usd": -46.15,
+      "premium_percent": -1.35
+    },
+    {
+      "date": "2025-08-14",
+      "sge_cny_per_g": 772.66,
+      "usd_cny": 7.1795,
+      "sge_usd_per_oz": 3347.37,
+      "world_gold_usd": 3383.2,
+      "spread_usd": -35.83,
+      "premium_percent": -1.06
+    },
+    {
+      "date": "2025-08-17",
+      "sge_cny_per_g": 774.31,
+      "usd_cny": 7.1817,
+      "sge_usd_per_oz": 3353.49,
+      "world_gold_usd": 3383.2,
+      "spread_usd": -29.71,
+      "premium_percent": -0.88
+    },
+    {
+      "date": "2025-08-18",
+      "sge_cny_per_g": 771.9,
+      "usd_cny": 7.1846,
+      "sge_usd_per_oz": 3341.7,
+      "world_gold_usd": 3378.0,
+      "spread_usd": -36.3,
+      "premium_percent": -1.07
+    },
+    {
+      "date": "2025-08-19",
+      "sge_cny_per_g": 769.54,
+      "usd_cny": 7.1819,
+      "sge_usd_per_oz": 3332.73,
+      "world_gold_usd": 3358.7,
+      "spread_usd": -25.96,
+      "premium_percent": -0.77
+    },
+    {
+      "date": "2025-08-20",
+      "sge_cny_per_g": 771.83,
+      "usd_cny": 7.1757,
+      "sge_usd_per_oz": 3345.54,
+      "world_gold_usd": 3388.5,
+      "spread_usd": -42.96,
+      "premium_percent": -1.27
+    },
+    {
+      "date": "2025-08-21",
+      "sge_cny_per_g": 770.55,
+      "usd_cny": 7.1799,
+      "sge_usd_per_oz": 3338.04,
+      "world_gold_usd": 3381.6,
+      "spread_usd": -43.56,
+      "premium_percent": -1.29
+    },
+    {
+      "date": "2025-08-24",
+      "sge_cny_per_g": 775.89,
+      "usd_cny": 7.1675,
+      "sge_usd_per_oz": 3366.99,
+      "world_gold_usd": 3381.6,
+      "spread_usd": -14.61,
+      "premium_percent": -0.43
+    },
+    {
+      "date": "2025-08-25",
+      "sge_cny_per_g": 777.89,
+      "usd_cny": 7.151,
+      "sge_usd_per_oz": 3383.45,
+      "world_gold_usd": 3417.5,
+      "spread_usd": -34.05,
+      "premium_percent": -1.0
+    },
+    {
+      "date": "2025-08-26",
+      "sge_cny_per_g": 778.31,
+      "usd_cny": 7.152,
+      "sge_usd_per_oz": 3384.81,
+      "world_gold_usd": 3433.0,
+      "spread_usd": -48.19,
+      "premium_percent": -1.4
+    },
+    {
+      "date": "2025-08-27",
+      "sge_cny_per_g": 780.38,
+      "usd_cny": 7.153,
+      "sge_usd_per_oz": 3393.34,
+      "world_gold_usd": 3448.6,
+      "spread_usd": -55.26,
+      "premium_percent": -1.6
+    },
+    {
+      "date": "2025-08-28",
+      "sge_cny_per_g": 782.17,
+      "usd_cny": 7.153,
+      "sge_usd_per_oz": 3401.12,
+      "world_gold_usd": 3474.3,
+      "spread_usd": -73.18,
+      "premium_percent": -2.11
+    },
+    {
+      "date": "2025-08-31",
+      "sge_cny_per_g": 795.01,
+      "usd_cny": 7.1304,
+      "sge_usd_per_oz": 3467.91,
+      "world_gold_usd": 3474.3,
+      "spread_usd": -6.39,
+      "premium_percent": -0.18
+    },
+    {
+      "date": "2025-09-01",
+      "sge_cny_per_g": 799.95,
+      "usd_cny": 7.1304,
+      "sge_usd_per_oz": 3489.46,
+      "world_gold_usd": 3474.3,
+      "spread_usd": 15.16,
+      "premium_percent": 0.44
+    },
+    {
+      "date": "2025-09-02",
+      "sge_cny_per_g": 810.72,
+      "usd_cny": 7.139,
+      "sge_usd_per_oz": 3532.18,
+      "world_gold_usd": 3592.2,
+      "spread_usd": -60.02,
+      "premium_percent": -1.67
+    },
+    {
+      "date": "2025-09-03",
+      "sge_cny_per_g": 808.93,
+      "usd_cny": 7.1414,
+      "sge_usd_per_oz": 3523.19,
+      "world_gold_usd": 3635.5,
+      "spread_usd": -112.31,
+      "premium_percent": -3.09
+    },
+    {
+      "date": "2025-09-04",
+      "sge_cny_per_g": 811.94,
+      "usd_cny": 7.1414,
+      "sge_usd_per_oz": 3536.3,
+      "world_gold_usd": 3606.7,
+      "spread_usd": -70.4,
+      "premium_percent": -1.95
+    },
+    {
+      "date": "2025-09-07",
+      "sge_cny_per_g": 819.45,
+      "usd_cny": 7.1325,
+      "sge_usd_per_oz": 3573.47,
+      "world_gold_usd": 3606.7,
+      "spread_usd": -33.23,
+      "premium_percent": -0.92
+    },
+    {
+      "date": "2025-09-08",
+      "sge_cny_per_g": 831.08,
+      "usd_cny": 7.1293,
+      "sge_usd_per_oz": 3625.81,
+      "world_gold_usd": 3677.4,
+      "spread_usd": -51.59,
+      "premium_percent": -1.4
+    },
+    {
+      "date": "2025-09-09",
+      "sge_cny_per_g": 829.88,
+      "usd_cny": 7.1209,
+      "sge_usd_per_oz": 3624.84,
+      "world_gold_usd": 3682.2,
+      "spread_usd": -57.36,
+      "premium_percent": -1.56
+    },
+    {
+      "date": "2025-09-10",
+      "sge_cny_per_g": 827.78,
+      "usd_cny": 7.1207,
+      "sge_usd_per_oz": 3615.77,
+      "world_gold_usd": 3682.0,
+      "spread_usd": -66.23,
+      "premium_percent": -1.8
+    },
+    {
+      "date": "2025-09-11",
+      "sge_cny_per_g": 830.98,
+      "usd_cny": 7.1184,
+      "sge_usd_per_oz": 3630.92,
+      "world_gold_usd": 3673.6,
+      "spread_usd": -42.68,
+      "premium_percent": -1.16
+    },
+    {
+      "date": "2025-09-14",
+      "sge_cny_per_g": 828.53,
+      "usd_cny": 7.1242,
+      "sge_usd_per_oz": 3617.27,
+      "world_gold_usd": 3673.6,
+      "spread_usd": -56.33,
+      "premium_percent": -1.53
+    },
+    {
+      "date": "2025-09-15",
+      "sge_cny_per_g": 838.42,
+      "usd_cny": 7.1185,
+      "sge_usd_per_oz": 3663.38,
+      "world_gold_usd": 3719.0,
+      "spread_usd": -55.62,
+      "premium_percent": -1.5
+    },
+    {
+      "date": "2025-09-16",
+      "sge_cny_per_g": 832.53,
+      "usd_cny": 7.1142,
+      "sge_usd_per_oz": 3639.84,
+      "world_gold_usd": 3725.1,
+      "spread_usd": -85.26,
+      "premium_percent": -2.29
+    },
+    {
+      "date": "2025-09-17",
+      "sge_cny_per_g": 822.49,
+      "usd_cny": 7.1033,
+      "sge_usd_per_oz": 3601.47,
+      "world_gold_usd": 3717.8,
+      "spread_usd": -116.33,
+      "premium_percent": -3.13
+    },
+    {
+      "date": "2025-09-18",
+      "sge_cny_per_g": 825.63,
+      "usd_cny": 7.1129,
+      "sge_usd_per_oz": 3610.34,
+      "world_gold_usd": 3678.3,
+      "spread_usd": -67.96,
+      "premium_percent": -1.85
+    },
+    {
+      "date": "2025-09-21",
+      "sge_cny_per_g": 840.77,
+      "usd_cny": 7.1129,
+      "sge_usd_per_oz": 3676.54,
+      "world_gold_usd": 3678.3,
+      "spread_usd": -1.76,
+      "premium_percent": -0.05
+    },
+    {
+      "date": "2025-09-22",
+      "sge_cny_per_g": 850.09,
+      "usd_cny": 7.114,
+      "sge_usd_per_oz": 3716.72,
+      "world_gold_usd": 3775.1,
+      "spread_usd": -58.38,
+      "premium_percent": -1.55
+    },
+    {
+      "date": "2025-09-23",
+      "sge_cny_per_g": 855.42,
+      "usd_cny": 7.1116,
+      "sge_usd_per_oz": 3741.29,
+      "world_gold_usd": 3815.7,
+      "spread_usd": -74.41,
+      "premium_percent": -1.95
+    },
+    {
+      "date": "2025-09-24",
+      "sge_cny_per_g": 850.68,
+      "usd_cny": 7.1315,
+      "sge_usd_per_oz": 3710.17,
+      "world_gold_usd": 3768.1,
+      "spread_usd": -57.93,
+      "premium_percent": -1.54
+    },
+    {
+      "date": "2025-09-25",
+      "sge_cny_per_g": 852.4,
+      "usd_cny": 7.1338,
+      "sge_usd_per_oz": 3716.48,
+      "world_gold_usd": 3771.1,
+      "spread_usd": -54.62,
+      "premium_percent": -1.45
+    },
+    {
+      "date": "2025-09-28",
+      "sge_cny_per_g": 862.34,
+      "usd_cny": 7.1328,
+      "sge_usd_per_oz": 3760.34,
+      "world_gold_usd": 3771.1,
+      "spread_usd": -10.76,
+      "premium_percent": -0.29
+    },
+    {
+      "date": "2025-09-29",
+      "sge_cny_per_g": 872.38,
+      "usd_cny": 7.1194,
+      "sge_usd_per_oz": 3811.28,
+      "world_gold_usd": 3855.2,
+      "spread_usd": -43.92,
+      "premium_percent": -1.14
+    },
+    {
+      "date": "2025-10-08",
+      "sge_cny_per_g": 911.33,
+      "usd_cny": 7.1185,
+      "sge_usd_per_oz": 3981.95,
+      "world_gold_usd": 4070.5,
+      "spread_usd": -88.55,
+      "premium_percent": -2.18
+    },
+    {
+      "date": "2025-10-09",
+      "sge_cny_per_g": 898.59,
+      "usd_cny": 7.1275,
+      "sge_usd_per_oz": 3921.33,
+      "world_gold_usd": 3972.6,
+      "spread_usd": -51.27,
+      "premium_percent": -1.29
+    },
+    {
+      "date": "2025-10-12",
+      "sge_cny_per_g": 924.55,
+      "usd_cny": 7.1,
+      "sge_usd_per_oz": 4050.24,
+      "world_gold_usd": 3972.6,
+      "spread_usd": 77.64,
+      "premium_percent": 1.95
+    },
+    {
+      "date": "2025-10-13",
+      "sge_cny_per_g": 936.14,
+      "usd_cny": 7.1,
+      "sge_usd_per_oz": 4101.02,
+      "world_gold_usd": 4133.0,
+      "spread_usd": -31.98,
+      "premium_percent": -0.77
+    },
+    {
+      "date": "2025-10-14",
+      "sge_cny_per_g": 957.71,
+      "usd_cny": 7.1384,
+      "sge_usd_per_oz": 4172.94,
+      "world_gold_usd": 4163.4,
+      "spread_usd": 9.54,
+      "premium_percent": 0.23
+    },
+    {
+      "date": "2025-10-15",
+      "sge_cny_per_g": 967.46,
+      "usd_cny": 7.1262,
+      "sge_usd_per_oz": 4222.64,
+      "world_gold_usd": 4201.6,
+      "spread_usd": 21.04,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2025-10-16",
+      "sge_cny_per_g": 998.8,
+      "usd_cny": 7.123,
+      "sge_usd_per_oz": 4361.39,
+      "world_gold_usd": 4304.6,
+      "spread_usd": 56.79,
+      "premium_percent": 1.32
+    },
+    {
+      "date": "2025-10-19",
+      "sge_cny_per_g": 972.39,
+      "usd_cny": 7.1264,
+      "sge_usd_per_oz": 4244.04,
+      "world_gold_usd": 4304.6,
+      "spread_usd": -60.56,
+      "premium_percent": -1.41
+    },
+    {
+      "date": "2025-10-20",
+      "sge_cny_per_g": 991.8,
+      "usd_cny": 7.1195,
+      "sge_usd_per_oz": 4332.95,
+      "world_gold_usd": 4359.4,
+      "spread_usd": -26.45,
+      "premium_percent": -0.61
+    },
+    {
+      "date": "2025-10-21",
+      "sge_cny_per_g": 951.41,
+      "usd_cny": 7.1218,
+      "sge_usd_per_oz": 4155.15,
+      "world_gold_usd": 4109.1,
+      "spread_usd": 46.05,
+      "premium_percent": 1.12
+    },
+    {
+      "date": "2025-10-22",
+      "sge_cny_per_g": 941.53,
+      "usd_cny": 7.1257,
+      "sge_usd_per_oz": 4109.75,
+      "world_gold_usd": 4065.4,
+      "spread_usd": 44.35,
+      "premium_percent": 1.09
+    },
+    {
+      "date": "2025-10-23",
+      "sge_cny_per_g": 936.94,
+      "usd_cny": 7.1257,
+      "sge_usd_per_oz": 4089.72,
+      "world_gold_usd": 4145.6,
+      "spread_usd": -55.88,
+      "premium_percent": -1.35
+    },
+    {
+      "date": "2025-10-26",
+      "sge_cny_per_g": 932.58,
+      "usd_cny": 7.1257,
+      "sge_usd_per_oz": 4070.69,
+      "world_gold_usd": 4145.6,
+      "spread_usd": -74.92,
+      "premium_percent": -1.81
+    },
+    {
+      "date": "2025-10-27",
+      "sge_cny_per_g": 899.11,
+      "usd_cny": 7.1211,
+      "sge_usd_per_oz": 3927.12,
+      "world_gold_usd": 4019.7,
+      "spread_usd": -92.58,
+      "premium_percent": -2.3
+    },
+    {
+      "date": "2025-10-28",
+      "sge_cny_per_g": 908.34,
+      "usd_cny": 7.1102,
+      "sge_usd_per_oz": 3973.52,
+      "world_gold_usd": 3983.1,
+      "spread_usd": -9.58,
+      "premium_percent": -0.24
+    },
+    {
+      "date": "2025-10-29",
+      "sge_cny_per_g": 908.96,
+      "usd_cny": 7.0988,
+      "sge_usd_per_oz": 3982.62,
+      "world_gold_usd": 4000.7,
+      "spread_usd": -18.08,
+      "premium_percent": -0.45
+    },
+    {
+      "date": "2025-10-30",
+      "sge_cny_per_g": 920.45,
+      "usd_cny": 7.099,
+      "sge_usd_per_oz": 4032.85,
+      "world_gold_usd": 4015.9,
+      "spread_usd": 16.95,
+      "premium_percent": 0.42
+    },
+    {
+      "date": "2025-11-02",
+      "sge_cny_per_g": 919.45,
+      "usd_cny": 7.099,
+      "sge_usd_per_oz": 4028.47,
+      "world_gold_usd": 4015.9,
+      "spread_usd": 12.57,
+      "premium_percent": 0.31
+    },
+    {
+      "date": "2025-11-03",
+      "sge_cny_per_g": 913.54,
+      "usd_cny": 7.1169,
+      "sge_usd_per_oz": 3992.51,
+      "world_gold_usd": 4014.0,
+      "spread_usd": -21.49,
+      "premium_percent": -0.54
+    },
+    {
+      "date": "2025-11-04",
+      "sge_cny_per_g": 910.37,
+      "usd_cny": 7.1718,
+      "sge_usd_per_oz": 3948.2,
+      "world_gold_usd": 3960.5,
+      "spread_usd": -12.3,
+      "premium_percent": -0.31
+    },
+    {
+      "date": "2025-11-05",
+      "sge_cny_per_g": 916.45,
+      "usd_cny": 7.1295,
+      "sge_usd_per_oz": 3998.15,
+      "world_gold_usd": 3992.9,
+      "spread_usd": 5.25,
+      "premium_percent": 0.13
+    },
+    {
+      "date": "2025-11-06",
+      "sge_cny_per_g": 919.3,
+      "usd_cny": 7.126,
+      "sge_usd_per_oz": 4012.55,
+      "world_gold_usd": 3991.0,
+      "spread_usd": 21.55,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2025-11-09",
+      "sge_cny_per_g": 933.87,
+      "usd_cny": 7.126,
+      "sge_usd_per_oz": 4076.14,
+      "world_gold_usd": 3991.0,
+      "spread_usd": 85.14,
+      "premium_percent": 2.13
+    },
+    {
+      "date": "2025-11-10",
+      "sge_cny_per_g": 946.77,
+      "usd_cny": 7.1186,
+      "sge_usd_per_oz": 4136.75,
+      "world_gold_usd": 4122.0,
+      "spread_usd": 14.75,
+      "premium_percent": 0.36
+    },
+    {
+      "date": "2025-11-11",
+      "sge_cny_per_g": 943.52,
+      "usd_cny": 7.1193,
+      "sge_usd_per_oz": 4122.14,
+      "world_gold_usd": 4116.3,
+      "spread_usd": 5.84,
+      "premium_percent": 0.14
+    },
+    {
+      "date": "2025-11-12",
+      "sge_cny_per_g": 958.72,
+      "usd_cny": 7.1193,
+      "sge_usd_per_oz": 4188.55,
+      "world_gold_usd": 4213.6,
+      "spread_usd": -25.05,
+      "premium_percent": -0.59
+    },
+    {
+      "date": "2025-11-13",
+      "sge_cny_per_g": 951.06,
+      "usd_cny": 7.1193,
+      "sge_usd_per_oz": 4155.08,
+      "world_gold_usd": 4194.5,
+      "spread_usd": -39.42,
+      "premium_percent": -0.94
+    },
+    {
+      "date": "2025-11-16",
+      "sge_cny_per_g": 928.44,
+      "usd_cny": 7.1193,
+      "sge_usd_per_oz": 4056.26,
+      "world_gold_usd": 4194.5,
+      "spread_usd": -138.24,
+      "premium_percent": -3.3
+    },
+    {
+      "date": "2025-11-17",
+      "sge_cny_per_g": 917.54,
+      "usd_cny": 7.0992,
+      "sge_usd_per_oz": 4019.99,
+      "world_gold_usd": 4074.5,
+      "spread_usd": -54.51,
+      "premium_percent": -1.34
+    },
+    {
+      "date": "2025-11-18",
+      "sge_cny_per_g": 936.04,
+      "usd_cny": 7.1075,
+      "sge_usd_per_oz": 4096.25,
+      "world_gold_usd": 4066.5,
+      "spread_usd": 29.75,
+      "premium_percent": 0.73
+    },
+    {
+      "date": "2025-11-19",
+      "sge_cny_per_g": 930.85,
+      "usd_cny": 7.1075,
+      "sge_usd_per_oz": 4073.54,
+      "world_gold_usd": 4082.8,
+      "spread_usd": -9.26,
+      "premium_percent": -0.23
+    },
+    {
+      "date": "2025-11-20",
+      "sge_cny_per_g": 922.7,
+      "usd_cny": 7.1075,
+      "sge_usd_per_oz": 4037.87,
+      "world_gold_usd": 4060.0,
+      "spread_usd": -22.13,
+      "premium_percent": -0.55
+    },
+    {
+      "date": "2025-11-23",
+      "sge_cny_per_g": 926.34,
+      "usd_cny": 7.1075,
+      "sge_usd_per_oz": 4053.8,
+      "world_gold_usd": 4060.0,
+      "spread_usd": -6.2,
+      "premium_percent": -0.15
+    },
+    {
+      "date": "2025-11-24",
+      "sge_cny_per_g": 942.4,
+      "usd_cny": 7.1066,
+      "sge_usd_per_oz": 4124.6,
+      "world_gold_usd": 4094.2,
+      "spread_usd": 30.4,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2025-11-25",
+      "sge_cny_per_g": 942.19,
+      "usd_cny": 7.1022,
+      "sge_usd_per_oz": 4126.24,
+      "world_gold_usd": 4140.0,
+      "spread_usd": -13.76,
+      "premium_percent": -0.33
+    },
+    {
+      "date": "2025-11-26",
+      "sge_cny_per_g": 942.44,
+      "usd_cny": 7.0845,
+      "sge_usd_per_oz": 4137.65,
+      "world_gold_usd": 4165.2,
+      "spread_usd": -27.55,
+      "premium_percent": -0.66
+    },
+    {
+      "date": "2025-11-27",
+      "sge_cny_per_g": 948.34,
+      "usd_cny": 7.0758,
+      "sge_usd_per_oz": 4168.67,
+      "world_gold_usd": 4165.2,
+      "spread_usd": 3.47,
+      "premium_percent": 0.08
+    },
+    {
+      "date": "2025-11-30",
+      "sge_cny_per_g": 958.0,
+      "usd_cny": 7.0758,
+      "sge_usd_per_oz": 4211.13,
+      "world_gold_usd": 4165.2,
+      "spread_usd": 45.93,
+      "premium_percent": 1.1
+    },
+    {
+      "date": "2025-12-01",
+      "sge_cny_per_g": 953.74,
+      "usd_cny": 7.0751,
+      "sge_usd_per_oz": 4192.82,
+      "world_gold_usd": 4274.8,
+      "spread_usd": -81.98,
+      "premium_percent": -1.92
+    },
+    {
+      "date": "2025-12-02",
+      "sge_cny_per_g": 951.51,
+      "usd_cny": 7.0717,
+      "sge_usd_per_oz": 4185.03,
+      "world_gold_usd": 4220.8,
+      "spread_usd": -35.77,
+      "premium_percent": -0.85
+    },
+    {
+      "date": "2025-12-03",
+      "sge_cny_per_g": 948.63,
+      "usd_cny": 7.07,
+      "sge_usd_per_oz": 4173.36,
+      "world_gold_usd": 4232.5,
+      "spread_usd": -59.14,
+      "premium_percent": -1.4
+    },
+    {
+      "date": "2025-12-04",
+      "sge_cny_per_g": 955.9,
+      "usd_cny": 7.0636,
+      "sge_usd_per_oz": 4209.16,
+      "world_gold_usd": 4243.0,
+      "spread_usd": -33.84,
+      "premium_percent": -0.8
+    },
+    {
+      "date": "2025-12-07",
+      "sge_cny_per_g": 953.33,
+      "usd_cny": 7.0636,
+      "sge_usd_per_oz": 4197.84,
+      "world_gold_usd": 4243.0,
+      "spread_usd": -45.16,
+      "premium_percent": -1.06
+    },
+    {
+      "date": "2025-12-08",
+      "sge_cny_per_g": 946.96,
+      "usd_cny": 7.0696,
+      "sge_usd_per_oz": 4166.25,
+      "world_gold_usd": 4217.7,
+      "spread_usd": -51.45,
+      "premium_percent": -1.22
+    },
+    {
+      "date": "2025-12-09",
+      "sge_cny_per_g": 951.34,
+      "usd_cny": 7.071,
+      "sge_usd_per_oz": 4184.7,
+      "world_gold_usd": 4236.2,
+      "spread_usd": -51.5,
+      "premium_percent": -1.22
+    },
+    {
+      "date": "2025-12-10",
+      "sge_cny_per_g": 952.81,
+      "usd_cny": 7.0633,
+      "sge_usd_per_oz": 4195.73,
+      "world_gold_usd": 4224.7,
+      "spread_usd": -28.97,
+      "premium_percent": -0.69
+    },
+    {
+      "date": "2025-12-11",
+      "sge_cny_per_g": 965.28,
+      "usd_cny": 7.064,
+      "sge_usd_per_oz": 4250.22,
+      "world_gold_usd": 4313.0,
+      "spread_usd": -62.78,
+      "premium_percent": -1.46
+    },
+    {
+      "date": "2025-12-14",
+      "sge_cny_per_g": 978.02,
+      "usd_cny": 7.064,
+      "sge_usd_per_oz": 4306.32,
+      "world_gold_usd": 4313.0,
+      "spread_usd": -6.68,
+      "premium_percent": -0.15
+    },
+    {
+      "date": "2025-12-15",
+      "sge_cny_per_g": 966.73,
+      "usd_cny": 7.054,
+      "sge_usd_per_oz": 4262.64,
+      "world_gold_usd": 4335.2,
+      "spread_usd": -72.56,
+      "premium_percent": -1.67
+    },
+    {
+      "date": "2025-12-16",
+      "sge_cny_per_g": 974.09,
+      "usd_cny": 7.047,
+      "sge_usd_per_oz": 4299.36,
+      "world_gold_usd": 4332.3,
+      "spread_usd": -32.94,
+      "premium_percent": -0.76
+    },
+    {
+      "date": "2025-12-17",
+      "sge_cny_per_g": 974.99,
+      "usd_cny": 7.0417,
+      "sge_usd_per_oz": 4306.57,
+      "world_gold_usd": 4373.9,
+      "spread_usd": -67.33,
+      "premium_percent": -1.54
+    },
+    {
+      "date": "2025-12-18",
+      "sge_cny_per_g": 974.76,
+      "usd_cny": 7.043,
+      "sge_usd_per_oz": 4304.76,
+      "world_gold_usd": 4364.5,
+      "spread_usd": -59.74,
+      "premium_percent": -1.37
+    },
+    {
+      "date": "2025-12-21",
+      "sge_cny_per_g": 993.82,
+      "usd_cny": 7.043,
+      "sge_usd_per_oz": 4388.93,
+      "world_gold_usd": 4364.5,
+      "spread_usd": 24.43,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2025-12-22",
+      "sge_cny_per_g": 1007.57,
+      "usd_cny": 7.0409,
+      "sge_usd_per_oz": 4450.98,
+      "world_gold_usd": 4469.4,
+      "spread_usd": -18.42,
+      "premium_percent": -0.41
+    },
+    {
+      "date": "2025-12-23",
+      "sge_cny_per_g": 1008.94,
+      "usd_cny": 7.0409,
+      "sge_usd_per_oz": 4457.04,
+      "world_gold_usd": 4505.7,
+      "spread_usd": -48.66,
+      "premium_percent": -1.08
+    },
+    {
+      "date": "2025-12-24",
+      "sge_cny_per_g": 1002.83,
+      "usd_cny": 7.028,
+      "sge_usd_per_oz": 4438.18,
+      "world_gold_usd": 4502.8,
+      "spread_usd": -64.62,
+      "premium_percent": -1.44
+    },
+    {
+      "date": "2025-12-25",
+      "sge_cny_per_g": 1009.96,
+      "usd_cny": 7.028,
+      "sge_usd_per_oz": 4469.73,
+      "world_gold_usd": 4502.8,
+      "spread_usd": -33.07,
+      "premium_percent": -0.73
+    },
+    {
+      "date": "2025-12-28",
+      "sge_cny_per_g": 1001.63,
+      "usd_cny": 7.028,
+      "sge_usd_per_oz": 4432.87,
+      "world_gold_usd": 4502.8,
+      "spread_usd": -69.93,
+      "premium_percent": -1.55
+    },
+    {
+      "date": "2025-12-29",
+      "sge_cny_per_g": 980.74,
+      "usd_cny": 7.028,
+      "sge_usd_per_oz": 4340.41,
+      "world_gold_usd": 4343.6,
+      "spread_usd": -3.19,
+      "premium_percent": -0.07
+    },
+    {
+      "date": "2025-12-30",
+      "sge_cny_per_g": 973.33,
+      "usd_cny": 7.0056,
+      "sge_usd_per_oz": 4321.39,
+      "world_gold_usd": 4386.3,
+      "spread_usd": -64.91,
+      "premium_percent": -1.48
+    },
+    {
+      "date": "2026-01-04",
+      "sge_cny_per_g": 992.86,
+      "usd_cny": 7.0056,
+      "sge_usd_per_oz": 4408.1,
+      "world_gold_usd": 4386.3,
+      "spread_usd": 21.8,
+      "premium_percent": 0.5
+    },
+    {
+      "date": "2026-01-05",
+      "sge_cny_per_g": 1002.84,
+      "usd_cny": 6.9931,
+      "sge_usd_per_oz": 4460.37,
+      "world_gold_usd": 4451.5,
+      "spread_usd": 8.87,
+      "premium_percent": 0.2
+    },
+    {
+      "date": "2026-01-06",
+      "sge_cny_per_g": 997.08,
+      "usd_cny": 6.988,
+      "sge_usd_per_oz": 4437.99,
+      "world_gold_usd": 4496.1,
+      "spread_usd": -58.11,
+      "premium_percent": -1.29
+    },
+    {
+      "date": "2026-01-07",
+      "sge_cny_per_g": 995.88,
+      "usd_cny": 6.9834,
+      "sge_usd_per_oz": 4435.57,
+      "world_gold_usd": 4462.5,
+      "spread_usd": -26.93,
+      "premium_percent": -0.6
+    },
+    {
+      "date": "2026-01-08",
+      "sge_cny_per_g": 1003.71,
+      "usd_cny": 6.9965,
+      "sge_usd_per_oz": 4462.07,
+      "world_gold_usd": 4460.7,
+      "spread_usd": 1.37,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2026-01-11",
+      "sge_cny_per_g": 1023.27,
+      "usd_cny": 6.9965,
+      "sge_usd_per_oz": 4549.03,
+      "world_gold_usd": 4460.7,
+      "spread_usd": 88.32,
+      "premium_percent": 1.98
+    },
+    {
+      "date": "2026-01-12",
+      "sge_cny_per_g": 1024.88,
+      "usd_cny": 6.9772,
+      "sge_usd_per_oz": 4568.79,
+      "world_gold_usd": 4614.7,
+      "spread_usd": -45.91,
+      "premium_percent": -0.99
+    },
+    {
+      "date": "2026-01-13",
+      "sge_cny_per_g": 1037.55,
+      "usd_cny": 6.9731,
+      "sge_usd_per_oz": 4627.99,
+      "world_gold_usd": 4599.1,
+      "spread_usd": 28.89,
+      "premium_percent": 0.63
+    },
+    {
+      "date": "2026-01-14",
+      "sge_cny_per_g": 1032.73,
+      "usd_cny": 6.9775,
+      "sge_usd_per_oz": 4603.58,
+      "world_gold_usd": 4635.7,
+      "spread_usd": -32.12,
+      "premium_percent": -0.69
+    },
+    {
+      "date": "2026-01-15",
+      "sge_cny_per_g": 1032.44,
+      "usd_cny": 6.973,
+      "sge_usd_per_oz": 4605.26,
+      "world_gold_usd": 4623.7,
+      "spread_usd": -18.44,
+      "premium_percent": -0.4
+    },
+    {
+      "date": "2026-01-18",
+      "sge_cny_per_g": 1046.77,
+      "usd_cny": 6.973,
+      "sge_usd_per_oz": 4669.18,
+      "world_gold_usd": 4623.7,
+      "spread_usd": 45.48,
+      "premium_percent": 0.98
+    },
+    {
+      "date": "2026-01-19",
+      "sge_cny_per_g": 1055.0,
+      "usd_cny": 6.9681,
+      "sge_usd_per_oz": 4709.2,
+      "world_gold_usd": 4623.7,
+      "spread_usd": 85.5,
+      "premium_percent": 1.85
+    },
+    {
+      "date": "2026-01-20",
+      "sge_cny_per_g": 1088.51,
+      "usd_cny": 6.9681,
+      "sge_usd_per_oz": 4858.78,
+      "world_gold_usd": 4765.8,
+      "spread_usd": 92.98,
+      "premium_percent": 1.95
+    },
+    {
+      "date": "2026-01-21",
+      "sge_cny_per_g": 1082.97,
+      "usd_cny": 6.9599,
+      "sge_usd_per_oz": 4839.74,
+      "world_gold_usd": 4837.5,
+      "spread_usd": 2.24,
+      "premium_percent": 0.05
+    },
+    {
+      "date": "2026-01-22",
+      "sge_cny_per_g": 1110.56,
+      "usd_cny": 6.9637,
+      "sge_usd_per_oz": 4960.33,
+      "world_gold_usd": 4913.4,
+      "spread_usd": 46.93,
+      "premium_percent": 0.96
+    },
+    {
+      "date": "2026-01-25",
+      "sge_cny_per_g": 1142.06,
+      "usd_cny": 6.9637,
+      "sge_usd_per_oz": 5101.03,
+      "world_gold_usd": 4913.4,
+      "spread_usd": 187.63,
+      "premium_percent": 3.82
+    },
+    {
+      "date": "2026-01-26",
+      "sge_cny_per_g": 1143.87,
+      "usd_cny": 6.9726,
+      "sge_usd_per_oz": 5102.59,
+      "world_gold_usd": 5082.5,
+      "spread_usd": 20.09,
+      "premium_percent": 0.4
+    },
+    {
+      "date": "2026-01-27",
+      "sge_cny_per_g": 1181.32,
+      "usd_cny": 6.9542,
+      "sge_usd_per_oz": 5283.59,
+      "world_gold_usd": 5082.6,
+      "spread_usd": 200.99,
+      "premium_percent": 3.95
+    },
+    {
+      "date": "2026-01-28",
+      "sge_cny_per_g": 1248.22,
+      "usd_cny": 6.9545,
+      "sge_usd_per_oz": 5582.57,
+      "world_gold_usd": 5303.6,
+      "spread_usd": 278.97,
+      "premium_percent": 5.26
+    },
+    {
+      "date": "2026-01-29",
+      "sge_cny_per_g": 1160.68,
+      "usd_cny": 6.9545,
+      "sge_usd_per_oz": 5191.05,
+      "world_gold_usd": 5318.4,
+      "spread_usd": -127.35,
+      "premium_percent": -2.39
+    },
+    {
+      "date": "2026-02-01",
+      "sge_cny_per_g": 1011.14,
+      "usd_cny": 6.9545,
+      "sge_usd_per_oz": 4522.25,
+      "world_gold_usd": 5318.4,
+      "spread_usd": -796.15,
+      "premium_percent": -14.97
+    },
+    {
+      "date": "2026-02-02",
+      "sge_cny_per_g": 1089.93,
+      "usd_cny": 6.951,
+      "sge_usd_per_oz": 4877.08,
+      "world_gold_usd": 4652.6,
+      "spread_usd": 224.48,
+      "premium_percent": 4.82
+    },
+    {
+      "date": "2026-02-03",
+      "sge_cny_per_g": 1137.94,
+      "usd_cny": 6.9463,
+      "sge_usd_per_oz": 5095.36,
+      "world_gold_usd": 4935.0,
+      "spread_usd": 160.36,
+      "premium_percent": 3.25
+    },
+    {
+      "date": "2026-02-04",
+      "sge_cny_per_g": 1102.14,
+      "usd_cny": 6.9377,
+      "sge_usd_per_oz": 4941.17,
+      "world_gold_usd": 4950.8,
+      "spread_usd": -9.63,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2026-02-05",
+      "sge_cny_per_g": 1085.72,
+      "usd_cny": 6.9377,
+      "sge_usd_per_oz": 4867.56,
+      "world_gold_usd": 4889.5,
+      "spread_usd": -21.94,
+      "premium_percent": -0.45
+    },
+    {
+      "date": "2026-02-08",
+      "sge_cny_per_g": 1124.04,
+      "usd_cny": 6.9377,
+      "sge_usd_per_oz": 5039.36,
+      "world_gold_usd": 4889.5,
+      "spread_usd": 149.86,
+      "premium_percent": 3.06
+    },
+    {
+      "date": "2026-02-09",
+      "sge_cny_per_g": 1118.1,
+      "usd_cny": 6.9388,
+      "sge_usd_per_oz": 5011.93,
+      "world_gold_usd": 5079.4,
+      "spread_usd": -67.47,
+      "premium_percent": -1.33
+    },
+    {
+      "date": "2026-02-10",
+      "sge_cny_per_g": 1125.69,
+      "usd_cny": 6.922,
+      "sge_usd_per_oz": 5058.2,
+      "world_gold_usd": 5031.0,
+      "spread_usd": 27.2,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2026-02-11",
+      "sge_cny_per_g": 1123.27,
+      "usd_cny": 6.9106,
+      "sge_usd_per_oz": 5055.65,
+      "world_gold_usd": 5098.5,
+      "spread_usd": -42.85,
+      "premium_percent": -0.84
+    },
+    {
+      "date": "2026-02-12",
+      "sge_cny_per_g": 1104.67,
+      "usd_cny": 6.9125,
+      "sge_usd_per_oz": 4970.57,
+      "world_gold_usd": 4948.4,
+      "spread_usd": 22.17,
+      "premium_percent": 0.45
+    },
+    {
+      "date": "2026-02-23",
+      "sge_cny_per_g": 1146.73,
+      "usd_cny": 6.908,
+      "sge_usd_per_oz": 5163.19,
+      "world_gold_usd": 5225.6,
+      "spread_usd": -62.41,
+      "premium_percent": -1.19
+    },
+    {
+      "date": "2026-02-24",
+      "sge_cny_per_g": 1147.47,
+      "usd_cny": 6.908,
+      "sge_usd_per_oz": 5166.52,
+      "world_gold_usd": 5176.3,
+      "spread_usd": -9.78,
+      "premium_percent": -0.19
+    },
+    {
+      "date": "2026-02-25",
+      "sge_cny_per_g": 1143.36,
+      "usd_cny": 6.8831,
+      "sge_usd_per_oz": 5166.64,
+      "world_gold_usd": 5226.2,
+      "spread_usd": -59.56,
+      "premium_percent": -1.14
+    },
+    {
+      "date": "2026-02-26",
+      "sge_cny_per_g": 1145.03,
+      "usd_cny": 6.8692,
+      "sge_usd_per_oz": 5184.65,
+      "world_gold_usd": 5194.2,
+      "spread_usd": -9.55,
+      "premium_percent": -0.18
+    },
+    {
+      "date": "2026-03-01",
+      "sge_cny_per_g": 1194.07,
+      "usd_cny": 6.8692,
+      "sge_usd_per_oz": 5406.7,
+      "world_gold_usd": 5194.2,
+      "spread_usd": 212.5,
+      "premium_percent": 4.09
+    },
+    {
+      "date": "2026-03-02",
+      "sge_cny_per_g": 1180.89,
+      "usd_cny": 6.8579,
+      "sge_usd_per_oz": 5355.84,
+      "world_gold_usd": 5311.6,
+      "spread_usd": 44.24,
+      "premium_percent": 0.83
+    },
+    {
+      "date": "2026-03-03",
+      "sge_cny_per_g": 1151.26,
+      "usd_cny": 6.882,
+      "sge_usd_per_oz": 5203.17,
+      "world_gold_usd": 5123.7,
+      "spread_usd": 79.47,
+      "premium_percent": 1.55
+    },
+    {
+      "date": "2026-03-04",
+      "sge_cny_per_g": 1148.76,
+      "usd_cny": 6.8997,
+      "sge_usd_per_oz": 5178.55,
+      "world_gold_usd": 5134.7,
+      "spread_usd": 43.85,
+      "premium_percent": 0.85
+    },
+    {
+      "date": "2026-03-05",
+      "sge_cny_per_g": 1139.95,
+      "usd_cny": 6.897,
+      "sge_usd_per_oz": 5140.85,
+      "world_gold_usd": 5078.7,
+      "spread_usd": 62.14,
+      "premium_percent": 1.22
+    },
+    {
+      "date": "2026-03-08",
+      "sge_cny_per_g": 1137.97,
+      "usd_cny": 6.897,
+      "sge_usd_per_oz": 5131.92,
+      "world_gold_usd": 5078.7,
+      "spread_usd": 53.22,
+      "premium_percent": 1.05
+    },
+    {
+      "date": "2026-03-09",
+      "sge_cny_per_g": 1147.94,
+      "usd_cny": 6.8965,
+      "sge_usd_per_oz": 5177.25,
+      "world_gold_usd": 5103.7,
+      "spread_usd": 73.55,
+      "premium_percent": 1.44
+    },
+    {
+      "date": "2026-03-10",
+      "sge_cny_per_g": 1149.92,
+      "usd_cny": 6.911,
+      "sge_usd_per_oz": 5175.3,
+      "world_gold_usd": 5242.1,
+      "spread_usd": -66.8,
+      "premium_percent": -1.27
+    },
+    {
+      "date": "2026-03-11",
+      "sge_cny_per_g": 1146.31,
+      "usd_cny": 6.8765,
+      "sge_usd_per_oz": 5184.94,
+      "world_gold_usd": 5179.1,
+      "spread_usd": 5.84,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2026-03-12",
+      "sge_cny_per_g": 1131.73,
+      "usd_cny": 6.8655,
+      "sge_usd_per_oz": 5127.19,
+      "world_gold_usd": 5125.8,
+      "spread_usd": 1.39,
+      "premium_percent": 0.03
+    },
+    {
+      "date": "2026-03-15",
+      "sge_cny_per_g": 1117.17,
+      "usd_cny": 6.8655,
+      "sge_usd_per_oz": 5061.23,
+      "world_gold_usd": 5125.8,
+      "spread_usd": -64.57,
+      "premium_percent": -1.26
+    },
+    {
+      "date": "2026-03-16",
+      "sge_cny_per_g": 1114.86,
+      "usd_cny": 6.8961,
+      "sge_usd_per_oz": 5028.35,
+      "world_gold_usd": 5002.2,
+      "spread_usd": 26.15,
+      "premium_percent": 0.52
+    },
+    {
+      "date": "2026-03-17",
+      "sge_cny_per_g": 1112.41,
+      "usd_cny": 6.9555,
+      "sge_usd_per_oz": 4974.45,
+      "world_gold_usd": 5008.2,
+      "spread_usd": -33.75,
+      "premium_percent": -0.67
+    },
+    {
+      "date": "2026-03-18",
+      "sge_cny_per_g": 1061.35,
+      "usd_cny": 6.8863,
+      "sge_usd_per_oz": 4793.82,
+      "world_gold_usd": 4896.2,
+      "spread_usd": -102.38,
+      "premium_percent": -2.09
+    },
+    {
+      "date": "2026-03-19",
+      "sge_cny_per_g": 1038.52,
+      "usd_cny": 6.8726,
+      "sge_usd_per_oz": 4700.05,
+      "world_gold_usd": 4605.7,
+      "spread_usd": 94.35,
+      "premium_percent": 2.05
+    },
+    {
+      "date": "2026-03-22",
+      "sge_cny_per_g": 938.58,
+      "usd_cny": 6.8726,
+      "sge_usd_per_oz": 4247.75,
+      "world_gold_usd": 4605.7,
+      "spread_usd": -357.95,
+      "premium_percent": -7.77
+    },
+    {
+      "date": "2026-03-23",
+      "sge_cny_per_g": 977.02,
+      "usd_cny": 6.8857,
+      "sge_usd_per_oz": 4413.31,
+      "world_gold_usd": 4407.3,
+      "spread_usd": 6.01,
+      "premium_percent": 0.14
+    },
+    {
+      "date": "2026-03-24",
+      "sge_cny_per_g": 1014.14,
+      "usd_cny": 6.88,
+      "sge_usd_per_oz": 4584.78,
+      "world_gold_usd": 4402.0,
+      "spread_usd": 182.78,
+      "premium_percent": 4.15
+    },
+    {
+      "date": "2026-03-25",
+      "sge_cny_per_g": 992.09,
+      "usd_cny": 6.8918,
+      "sge_usd_per_oz": 4477.41,
+      "world_gold_usd": 4552.3,
+      "spread_usd": -74.88,
+      "premium_percent": -1.64
+    },
+    {
+      "date": "2026-03-26",
+      "sge_cny_per_g": 995.34,
+      "usd_cny": 6.901,
+      "sge_usd_per_oz": 4486.09,
+      "world_gold_usd": 4376.3,
+      "spread_usd": 109.79,
+      "premium_percent": 2.51
+    },
+    {
+      "date": "2026-03-29",
+      "sge_cny_per_g": 1011.43,
+      "usd_cny": 6.9116,
+      "sge_usd_per_oz": 4551.62,
+      "world_gold_usd": 4376.3,
+      "spread_usd": 175.32,
+      "premium_percent": 4.01
+    },
+    {
+      "date": "2026-03-30",
+      "sge_cny_per_g": 1016.94,
+      "usd_cny": 6.9116,
+      "sge_usd_per_oz": 4576.42,
+      "world_gold_usd": 4526.0,
+      "spread_usd": 50.42,
+      "premium_percent": 1.11
+    },
+    {
+      "date": "2026-03-31",
+      "sge_cny_per_g": 1048.62,
+      "usd_cny": 6.8942,
+      "sge_usd_per_oz": 4730.89,
+      "world_gold_usd": 4647.6,
+      "spread_usd": 83.29,
+      "premium_percent": 1.79
+    },
+    {
+      "date": "2026-04-01",
+      "sge_cny_per_g": 1021.3,
+      "usd_cny": 6.8705,
+      "sge_usd_per_oz": 4623.53,
+      "world_gold_usd": 4813.1,
+      "spread_usd": -189.57,
+      "premium_percent": -3.94
+    },
+    {
+      "date": "2026-04-02",
+      "sge_cny_per_g": 1032.04,
+      "usd_cny": 6.8851,
+      "sge_usd_per_oz": 4662.25,
+      "world_gold_usd": 4679.7,
+      "spread_usd": -17.45,
+      "premium_percent": -0.37
+    },
+    {
+      "date": "2026-04-06",
+      "sge_cny_per_g": 1031.14,
+      "usd_cny": 6.8823,
+      "sge_usd_per_oz": 4660.08,
+      "world_gold_usd": 4684.7,
+      "spread_usd": -24.62,
+      "premium_percent": -0.53
+    },
+    {
+      "date": "2026-04-07",
+      "sge_cny_per_g": 1058.84,
+      "usd_cny": 6.8567,
+      "sge_usd_per_oz": 4803.13,
+      "world_gold_usd": 4684.7,
+      "spread_usd": 118.43,
+      "premium_percent": 2.53
+    },
+    {
+      "date": "2026-04-08",
+      "sge_cny_per_g": 1038.52,
+      "usd_cny": 6.8287,
+      "sge_usd_per_oz": 4730.27,
+      "world_gold_usd": 4777.2,
+      "spread_usd": -46.93,
+      "premium_percent": -0.98
+    },
+    {
+      "date": "2026-04-09",
+      "sge_cny_per_g": 1045.68,
+      "usd_cny": 6.8314,
+      "sge_usd_per_oz": 4761.0,
+      "world_gold_usd": 4818.0,
+      "spread_usd": -57.0,
+      "premium_percent": -1.18
+    },
+    {
+      "date": "2026-04-12",
+      "sge_cny_per_g": 1041.58,
+      "usd_cny": 6.8278,
+      "sge_usd_per_oz": 4744.83,
+      "world_gold_usd": 4818.0,
+      "spread_usd": -73.17,
+      "premium_percent": -1.52
+    },
+    {
+      "date": "2026-04-13",
+      "sge_cny_per_g": 1050.49,
+      "usd_cny": 6.8303,
+      "sge_usd_per_oz": 4783.67,
+      "world_gold_usd": 4767.4,
+      "spread_usd": 16.27,
+      "premium_percent": 0.34
+    },
+    {
+      "date": "2026-04-14",
+      "sge_cny_per_g": 1055.39,
+      "usd_cny": 6.8157,
+      "sge_usd_per_oz": 4816.28,
+      "world_gold_usd": 4850.1,
+      "spread_usd": -33.82,
+      "premium_percent": -0.7
+    },
+    {
+      "date": "2026-04-15",
+      "sge_cny_per_g": 1058.62,
+      "usd_cny": 6.818,
+      "sge_usd_per_oz": 4829.39,
+      "world_gold_usd": 4823.6,
+      "spread_usd": 5.79,
+      "premium_percent": 0.12
+    },
+    {
+      "date": "2026-04-16",
+      "sge_cny_per_g": 1051.22,
+      "usd_cny": 6.8211,
+      "sge_usd_per_oz": 4793.45,
+      "world_gold_usd": 4808.3,
+      "spread_usd": -14.85,
+      "premium_percent": -0.31
+    },
+    {
+      "date": "2026-04-19",
+      "sge_cny_per_g": 1052.36,
+      "usd_cny": 6.817,
+      "sge_usd_per_oz": 4801.53,
+      "world_gold_usd": 4808.3,
+      "spread_usd": -6.77,
+      "premium_percent": -0.14
+    },
+    {
+      "date": "2026-04-20",
+      "sge_cny_per_g": 1049.29,
+      "usd_cny": 6.8174,
+      "sge_usd_per_oz": 4787.25,
+      "world_gold_usd": 4828.8,
+      "spread_usd": -41.55,
+      "premium_percent": -0.86
+    },
+    {
+      "date": "2026-04-21",
+      "sge_cny_per_g": 1048.93,
+      "usd_cny": 6.8208,
+      "sge_usd_per_oz": 4783.22,
+      "world_gold_usd": 4719.6,
+      "spread_usd": 63.62,
+      "premium_percent": 1.35
+    },
+    {
+      "date": "2026-04-22",
+      "sge_cny_per_g": 1038.58,
+      "usd_cny": 6.8242,
+      "sge_usd_per_oz": 4733.66,
+      "world_gold_usd": 4753.0,
+      "spread_usd": -19.34,
+      "premium_percent": -0.41
+    },
+    {
+      "date": "2026-04-23",
+      "sge_cny_per_g": 1030.62,
+      "usd_cny": 6.826,
+      "sge_usd_per_oz": 4696.14,
+      "world_gold_usd": 4724.0,
+      "spread_usd": -27.86,
+      "premium_percent": -0.59
+    },
+    {
+      "date": "2026-04-26",
+      "sge_cny_per_g": 1037.69,
+      "usd_cny": 6.8359,
+      "sge_usd_per_oz": 4721.51,
+      "world_gold_usd": 4724.0,
+      "spread_usd": -2.49,
+      "premium_percent": -0.05
+    },
+    {
+      "date": "2026-04-27",
+      "sge_cny_per_g": 1021.57,
+      "usd_cny": 6.8228,
+      "sge_usd_per_oz": 4657.09,
+      "world_gold_usd": 4693.7,
+      "spread_usd": -36.61,
+      "premium_percent": -0.78
+    },
+    {
+      "date": "2026-04-28",
+      "sge_cny_per_g": 1010.5,
+      "usd_cny": 6.8374,
+      "sge_usd_per_oz": 4596.79,
+      "world_gold_usd": 4608.4,
+      "spread_usd": -11.61,
+      "premium_percent": -0.25
+    },
+    {
+      "date": "2026-04-29",
+      "sge_cny_per_g": 1013.36,
+      "usd_cny": 6.8375,
+      "sge_usd_per_oz": 4609.73,
+      "world_gold_usd": 4561.5,
+      "spread_usd": 48.23,
+      "premium_percent": 1.06
+    },
+    {
+      "date": "2026-05-05",
+      "sge_cny_per_g": 1026.44,
+      "usd_cny": 6.8301,
+      "sge_usd_per_oz": 4674.29,
+      "world_gold_usd": 4568.5,
+      "spread_usd": 105.79,
+      "premium_percent": 2.32
+    },
+    {
+      "date": "2026-05-06",
+      "sge_cny_per_g": 1038.9,
+      "usd_cny": 6.811,
+      "sge_usd_per_oz": 4744.3,
+      "world_gold_usd": 4694.3,
+      "spread_usd": 50.0,
+      "premium_percent": 1.07
+    },
+    {
+      "date": "2026-05-07",
+      "sge_cny_per_g": 1036.11,
+      "usd_cny": 6.8014,
+      "sge_usd_per_oz": 4738.23,
+      "world_gold_usd": 4710.9,
+      "spread_usd": 27.33,
+      "premium_percent": 0.58
+    },
+    {
+      "date": "2026-05-10",
+      "sge_cny_per_g": 1025.56,
+      "usd_cny": 6.8005,
+      "sge_usd_per_oz": 4690.61,
+      "world_gold_usd": 4710.9,
+      "spread_usd": -20.29,
+      "premium_percent": -0.43
+    },
+    {
+      "date": "2026-05-11",
+      "sge_cny_per_g": 1028.92,
+      "usd_cny": 6.7948,
+      "sge_usd_per_oz": 4709.92,
+      "world_gold_usd": 4728.7,
+      "spread_usd": -18.78,
+      "premium_percent": -0.4
+    },
+    {
+      "date": "2026-05-12",
+      "sge_cny_per_g": 1029.29,
+      "usd_cny": 6.792,
+      "sge_usd_per_oz": 4713.56,
+      "world_gold_usd": 4686.7,
+      "spread_usd": 26.86,
+      "premium_percent": 0.57
+    },
+    {
+      "date": "2026-05-13",
+      "sge_cny_per_g": 1027.51,
+      "usd_cny": 6.7908,
+      "sge_usd_per_oz": 4706.24,
+      "world_gold_usd": 4706.7,
+      "spread_usd": -0.46,
+      "premium_percent": -0.01
+    },
+    {
+      "date": "2026-05-14",
+      "sge_cny_per_g": 1003.05,
+      "usd_cny": 6.7851,
+      "sge_usd_per_oz": 4598.07,
+      "world_gold_usd": 4685.3,
+      "spread_usd": -87.23,
+      "premium_percent": -1.86
+    },
+    {
+      "date": "2026-05-17",
+      "sge_cny_per_g": 998.55,
+      "usd_cny": 6.8092,
+      "sge_usd_per_oz": 4561.24,
+      "world_gold_usd": 4685.3,
+      "spread_usd": -124.06,
+      "premium_percent": -2.65
+    },
+    {
+      "date": "2026-05-18",
+      "sge_cny_per_g": 998.07,
+      "usd_cny": 6.8,
+      "sge_usd_per_oz": 4565.21,
+      "world_gold_usd": 4558.0,
+      "spread_usd": 7.21,
+      "premium_percent": 0.16
+    },
+    {
+      "date": "2026-05-19",
+      "sge_cny_per_g": 983.69,
+      "usd_cny": 6.8145,
+      "sge_usd_per_oz": 4489.86,
+      "world_gold_usd": 4511.2,
+      "spread_usd": -21.34,
+      "premium_percent": -0.47
+    },
+    {
+      "date": "2026-05-20",
+      "sge_cny_per_g": 992.5,
+      "usd_cny": 6.8005,
+      "sge_usd_per_oz": 4539.4,
+      "world_gold_usd": 4535.3,
+      "spread_usd": 4.1,
+      "premium_percent": 0.09
+    },
+    {
+      "date": "2026-05-21",
+      "sge_cny_per_g": 992.31,
+      "usd_cny": 6.8025,
+      "sge_usd_per_oz": 4537.2,
+      "world_gold_usd": 4542.5,
+      "spread_usd": -5.3,
+      "premium_percent": -0.12
+    },
+    {
+      "date": "2026-05-24",
+      "sge_cny_per_g": 997.85,
+      "usd_cny": 6.7945,
+      "sge_usd_per_oz": 4567.9,
+      "world_gold_usd": 4542.5,
+      "spread_usd": 25.4,
+      "premium_percent": 0.56
+    },
+    {
+      "date": "2026-05-25",
+      "sge_cny_per_g": 991.92,
+      "usd_cny": 6.7945,
+      "sge_usd_per_oz": 4540.76,
+      "world_gold_usd": 4542.5,
+      "spread_usd": -1.74,
+      "premium_percent": -0.04
+    },
+    {
+      "date": "2026-05-26",
+      "sge_cny_per_g": 981.19,
+      "usd_cny": 6.786,
+      "sge_usd_per_oz": 4497.26,
+      "world_gold_usd": 4502.3,
+      "spread_usd": -5.04,
+      "premium_percent": -0.11
+    },
+    {
+      "date": "2026-05-27",
+      "sge_cny_per_g": 958.82,
+      "usd_cny": 6.7788,
+      "sge_usd_per_oz": 4399.4,
+      "world_gold_usd": 4448.4,
+      "spread_usd": -49.0,
+      "premium_percent": -1.1
+    },
+    {
+      "date": "2026-05-28",
+      "sge_cny_per_g": 985.98,
+      "usd_cny": 6.7795,
+      "sge_usd_per_oz": 4523.55,
+      "world_gold_usd": 4499.3,
+      "spread_usd": 24.25,
+      "premium_percent": 0.54
+    },
+    {
+      "date": "2026-05-31",
+      "sge_cny_per_g": 981.24,
+      "usd_cny": 6.7662,
+      "sge_usd_per_oz": 4510.65,
+      "world_gold_usd": 4499.3,
+      "spread_usd": 11.35,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2026-06-01",
+      "sge_cny_per_g": 987.34,
+      "usd_cny": 6.765,
+      "sge_usd_per_oz": 4539.5,
+      "world_gold_usd": 4506.3,
+      "spread_usd": 33.2,
+      "premium_percent": 0.74
+    },
+    {
+      "date": "2026-06-02",
+      "sge_cny_per_g": 975.0,
+      "usd_cny": 6.7622,
+      "sge_usd_per_oz": 4484.62,
+      "world_gold_usd": 4519.9,
+      "spread_usd": -35.28,
+      "premium_percent": -0.78
+    },
+    {
+      "date": "2026-06-03",
+      "sge_cny_per_g": 974.87,
+      "usd_cny": 6.7692,
+      "sge_usd_per_oz": 4479.38,
+      "world_gold_usd": 4466.9,
+      "spread_usd": 12.48,
+      "premium_percent": 0.28
+    },
+    {
+      "date": "2026-06-04",
+      "sge_cny_per_g": 971.11,
+      "usd_cny": 6.7735,
+      "sge_usd_per_oz": 4459.27,
+      "world_gold_usd": 4505.0,
+      "spread_usd": -45.73,
+      "premium_percent": -1.01
+    },
+    {
+      "date": "2026-06-07",
+      "sge_cny_per_g": 939.8,
+      "usd_cny": 6.7655,
+      "sge_usd_per_oz": 4320.6,
+      "world_gold_usd": 4505.0,
+      "spread_usd": -184.4,
+      "premium_percent": -4.09
+    },
+    {
+      "date": "2026-06-08",
+      "sge_cny_per_g": 945.66,
+      "usd_cny": 6.7655,
+      "sge_usd_per_oz": 4347.54,
+      "world_gold_usd": 4363.4,
+      "spread_usd": -15.86,
+      "premium_percent": -0.36
+    },
+    {
+      "date": "2026-06-09",
+      "sge_cny_per_g": 917.44,
+      "usd_cny": 6.7725,
+      "sge_usd_per_oz": 4213.45,
+      "world_gold_usd": 4286.4,
+      "spread_usd": -72.95,
+      "premium_percent": -1.7
+    },
+    {
+      "date": "2026-06-10",
+      "sge_cny_per_g": 893.06,
+      "usd_cny": 6.7725,
+      "sge_usd_per_oz": 4101.48,
+      "world_gold_usd": 4133.3,
+      "spread_usd": -31.82,
+      "premium_percent": -0.77
+    },
+    {
+      "date": "2026-06-11",
+      "sge_cny_per_g": 908.64,
+      "usd_cny": 6.7755,
+      "sge_usd_per_oz": 4171.18,
+      "world_gold_usd": 4114.0,
+      "spread_usd": 57.18,
+      "premium_percent": 1.39
+    },
+    {
+      "date": "2026-06-14",
+      "sge_cny_per_g": 936.39,
+      "usd_cny": 6.766,
+      "sge_usd_per_oz": 4304.61,
+      "world_gold_usd": 4114.0,
+      "spread_usd": 190.61,
+      "premium_percent": 4.63
+    },
+    {
+      "date": "2026-06-15",
+      "sge_cny_per_g": 940.34,
+      "usd_cny": 6.757,
+      "sge_usd_per_oz": 4328.53,
+      "world_gold_usd": 4351.6,
+      "spread_usd": -23.08,
+      "premium_percent": -0.53
+    },
+    {
+      "date": "2026-06-16",
+      "sge_cny_per_g": 940.33,
+      "usd_cny": 6.7572,
+      "sge_usd_per_oz": 4328.35,
+      "world_gold_usd": 4354.4,
+      "spread_usd": -26.05,
+      "premium_percent": -0.6
+    },
+    {
+      "date": "2026-06-17",
+      "sge_cny_per_g": 935.58,
+      "usd_cny": 6.7572,
+      "sge_usd_per_oz": 4306.49,
+      "world_gold_usd": 4381.4,
+      "spread_usd": -74.91,
+      "premium_percent": -1.71
+    },
+    {
+      "date": "2026-06-21",
+      "sge_cny_per_g": 915.68,
+      "usd_cny": 6.7686,
+      "sge_usd_per_oz": 4207.79,
+      "world_gold_usd": 4381.4,
+      "spread_usd": -173.61,
+      "premium_percent": -3.96
+    },
+    {
+      "date": "2026-06-22",
+      "sge_cny_per_g": 897.32,
+      "usd_cny": 6.7745,
+      "sge_usd_per_oz": 4119.83,
+      "world_gold_usd": 4202.7,
+      "spread_usd": -82.87,
+      "premium_percent": -1.97
+    },
+    {
+      "date": "2026-06-23",
+      "sge_cny_per_g": 894.82,
+      "usd_cny": 6.79,
+      "sge_usd_per_oz": 4098.97,
+      "world_gold_usd": 4149.4,
+      "spread_usd": -50.43,
+      "premium_percent": -1.22
+    },
+    {
+      "date": "2026-06-24",
+      "sge_cny_per_g": 870.36,
+      "usd_cny": 6.79,
+      "sge_usd_per_oz": 3986.93,
+      "world_gold_usd": 4008.8,
+      "spread_usd": -21.87,
+      "premium_percent": -0.55
+    },
+    {
+      "date": "2026-06-25",
+      "sge_cny_per_g": 880.71,
+      "usd_cny": 6.79,
+      "sge_usd_per_oz": 4034.34,
+      "world_gold_usd": 4047.6,
+      "spread_usd": -13.26,
+      "premium_percent": -0.33
+    },
+    {
+      "date": "2026-06-28",
+      "sge_cny_per_g": 886.87,
+      "usd_cny": 6.798,
+      "sge_usd_per_oz": 4057.77,
+      "world_gold_usd": 4047.6,
+      "spread_usd": 10.17,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2026-06-29",
+      "sge_cny_per_g": 879.06,
+      "usd_cny": 6.7936,
+      "sge_usd_per_oz": 4024.64,
+      "world_gold_usd": 4038.9,
+      "spread_usd": -14.26,
+      "premium_percent": -0.35
+    },
+    {
+      "date": "2026-06-30",
+      "sge_cny_per_g": 867.23,
+      "usd_cny": 6.7936,
+      "sge_usd_per_oz": 3970.48,
+      "world_gold_usd": 4038.5,
+      "spread_usd": -68.02,
+      "premium_percent": -1.68
+    },
+    {
+      "date": "2026-07-01",
+      "sge_cny_per_g": 888.61,
+      "usd_cny": 6.7942,
+      "sge_usd_per_oz": 4068.01,
+      "world_gold_usd": 4082.4,
+      "spread_usd": -14.39,
+      "premium_percent": -0.35
+    },
+    {
+      "date": "2026-07-02",
+      "sge_cny_per_g": 909.92,
+      "usd_cny": 6.7886,
+      "sge_usd_per_oz": 4169.0,
+      "world_gold_usd": 4125.7,
+      "spread_usd": 43.3,
+      "premium_percent": 1.05
+    },
+    {
+      "date": "2026-07-05",
+      "sge_cny_per_g": 906.68,
+      "usd_cny": 6.7886,
+      "sge_usd_per_oz": 4154.16,
+      "world_gold_usd": 4125.7,
+      "spread_usd": 28.46,
+      "premium_percent": 0.69
+    },
+    {
+      "date": "2026-07-06",
+      "sge_cny_per_g": 902.7,
+      "usd_cny": 6.7958,
+      "sge_usd_per_oz": 4131.54,
+      "world_gold_usd": 4167.5,
+      "spread_usd": -35.96,
+      "premium_percent": -0.86
+    },
+    {
+      "date": "2026-07-07",
+      "sge_cny_per_g": 901.03,
+      "usd_cny": 6.7934,
+      "sge_usd_per_oz": 4125.35,
+      "world_gold_usd": 4157.4,
+      "spread_usd": -32.05,
+      "premium_percent": -0.77
+    },
+    {
+      "date": "2026-07-08",
+      "sge_cny_per_g": 897.58,
+      "usd_cny": 6.8025,
+      "sge_usd_per_oz": 4104.06,
+      "world_gold_usd": 4082.4,
+      "spread_usd": 21.66,
+      "premium_percent": 0.53
+    },
+    {
+      "date": "2026-07-09",
+      "sge_cny_per_g": 897.25,
+      "usd_cny": 6.7921,
+      "sge_usd_per_oz": 4108.83,
+      "world_gold_usd": 4140.8,
+      "spread_usd": -31.97,
+      "premium_percent": -0.77
+    },
+    {
+      "date": "2026-07-12",
+      "sge_cny_per_g": 884.84,
+      "usd_cny": 6.7766,
+      "sge_usd_per_oz": 4061.27,
+      "world_gold_usd": 4140.8,
+      "spread_usd": -79.53,
+      "premium_percent": -1.92
+    },
+    {
+      "date": "2026-07-13",
+      "sge_cny_per_g": 878.9,
+      "usd_cny": 6.7795,
+      "sge_usd_per_oz": 4032.28,
+      "world_gold_usd": 4005.7,
+      "spread_usd": 26.58,
+      "premium_percent": 0.66
+    },
+    {
+      "date": "2026-07-14",
+      "sge_cny_per_g": 878.82,
+      "usd_cny": 6.77,
+      "sge_usd_per_oz": 4037.57,
+      "world_gold_usd": 4069.7,
+      "spread_usd": -32.13,
+      "premium_percent": -0.79
+    },
+    {
+      "date": "2026-07-15",
+      "sge_cny_per_g": 878.07,
+      "usd_cny": 6.7682,
+      "sge_usd_per_oz": 4035.2,
+      "world_gold_usd": 4051.8,
+      "spread_usd": -16.6,
+      "premium_percent": -0.41
+    },
+    {
+      "date": "2026-07-16",
+      "sge_cny_per_g": 872.37,
+      "usd_cny": 6.7725,
+      "sge_usd_per_oz": 4006.46,
+      "world_gold_usd": 3992.1,
+      "spread_usd": 14.36,
+      "premium_percent": 0.36
+    },
+    {
+      "date": "2026-07-19",
+      "sge_cny_per_g": 873.46,
+      "usd_cny": 6.7725,
+      "sge_usd_per_oz": 4011.46,
+      "world_gold_usd": 3992.1,
+      "spread_usd": 19.36,
+      "premium_percent": 0.49
+    },
+    {
+      "date": "2026-07-20",
+      "sge_cny_per_g": 888.94,
+      "usd_cny": 6.7725,
+      "sge_usd_per_oz": 4082.56,
+      "world_gold_usd": 4015.9,
+      "spread_usd": 66.66,
+      "premium_percent": 1.66
+    },
+    {
+      "date": "2026-07-21",
+      "sge_cny_per_g": 897.76,
+      "usd_cny": 6.7656,
+      "sge_usd_per_oz": 4127.27,
+      "world_gold_usd": 4076.4,
+      "spread_usd": 50.87,
+      "premium_percent": 1.25
+    },
+    {
+      "date": "2026-07-22",
+      "sge_cny_per_g": 896.63,
+      "usd_cny": 6.7725,
+      "sge_usd_per_oz": 4117.88,
+      "world_gold_usd": 4151.9,
+      "spread_usd": -34.02,
+      "premium_percent": -0.82
+    },
+    {
+      "date": "2026-07-23",
+      "sge_cny_per_g": 881.09,
+      "usd_cny": 6.7725,
+      "sge_usd_per_oz": 4046.51,
+      "world_gold_usd": 4050.2,
+      "spread_usd": -3.69,
+      "premium_percent": -0.09
+    },
+    {
+      "date": "2026-07-26",
+      "sge_cny_per_g": 893.19,
+      "usd_cny": 6.7718,
+      "sge_usd_per_oz": 4102.5,
+      "world_gold_usd": 4050.2,
+      "spread_usd": 52.3,
+      "premium_percent": 1.29
+    },
+    {
+      "date": "2026-07-27",
+      "sge_cny_per_g": 882.55,
+      "usd_cny": 6.7657,
+      "sge_usd_per_oz": 4057.29,
+      "world_gold_usd": 4077.0,
+      "spread_usd": -19.71,
+      "premium_percent": -0.48
+    },
+    {
+      "date": "2026-07-28",
+      "sge_cny_per_g": 881.35,
+      "usd_cny": 6.771,
+      "sge_usd_per_oz": 4048.6,
+      "world_gold_usd": 4038.7,
+      "spread_usd": 9.9,
+      "premium_percent": 0.25
+    },
+    {
+      "date": "2026-07-29",
+      "sge_cny_per_g": 878.99,
+      "usd_cny": 6.7661,
+      "sge_usd_per_oz": 4040.68,
+      "world_gold_usd": 4036.3,
+      "spread_usd": 4.38,
+      "premium_percent": 0.11
+    },
+    {
+      "date": "2026-07-30",
+      "sge_cny_per_g": 885.33,
+      "usd_cny": 6.755,
+      "sge_usd_per_oz": 4076.51,
+      "world_gold_usd": 4100.1,
+      "spread_usd": -23.59,
+      "premium_percent": -0.58
+    },
+    {
+      "date": "2026-08-02",
+      "sge_cny_per_g": 884.23,
+      "usd_cny": 6.7509,
+      "sge_usd_per_oz": 4073.92,
+      "world_gold_usd": 4100.1,
+      "spread_usd": -26.18,
+      "premium_percent": -0.64
+    },
+    {
+      "date": "2026-08-03",
+      "sge_cny_per_g": 883.88,
+      "usd_cny": 6.7523,
+      "sge_usd_per_oz": 4071.46,
+      "world_gold_usd": 4090.5,
+      "spread_usd": -19.04,
+      "premium_percent": -0.47
+    },
+    {
+      "date": "2026-08-04",
+      "sge_cny_per_g": 907.05,
+      "usd_cny": 6.7532,
+      "sge_usd_per_oz": 4177.64,
+      "world_gold_usd": 4152.6,
+      "spread_usd": 25.04,
+      "premium_percent": 0.6
+    },
+    {
+      "date": "2026-08-05",
+      "sge_cny_per_g": 923.43,
+      "usd_cny": 6.7497,
+      "sge_usd_per_oz": 4255.28,
+      "world_gold_usd": 4305.2,
+      "spread_usd": -49.92,
+      "premium_percent": -1.16
+    },
+    {
+      "date": "2026-08-06",
+      "sge_cny_per_g": 932.83,
+      "usd_cny": 6.7488,
+      "sge_usd_per_oz": 4299.17,
+      "world_gold_usd": 4299.6,
+      "spread_usd": -0.43,
+      "premium_percent": -0.01
+    },
+    {
+      "date": "2026-08-09",
+      "sge_cny_per_g": 945.22,
+      "usd_cny": 6.7474,
+      "sge_usd_per_oz": 4357.18,
+      "world_gold_usd": 4299.6,
+      "spread_usd": 57.58,
+      "premium_percent": 1.34
+    },
+    {
+      "date": "2026-08-10",
+      "sge_cny_per_g": 946.95,
+      "usd_cny": 6.7474,
+      "sge_usd_per_oz": 4365.15,
+      "world_gold_usd": 4419.7,
+      "spread_usd": -54.55,
+      "premium_percent": -1.23
+    },
+    {
+      "date": "2026-08-11",
+      "sge_cny_per_g": 955.85,
+      "usd_cny": 6.745,
+      "sge_usd_per_oz": 4407.75,
+      "world_gold_usd": 4441.1,
+      "spread_usd": -33.35,
+      "premium_percent": -0.75
+    },
+    {
+      "date": "2026-08-12",
+      "sge_cny_per_g": 950.18,
+      "usd_cny": 6.7433,
+      "sge_usd_per_oz": 4382.71,
+      "world_gold_usd": 4467.5,
+      "spread_usd": -84.79,
+      "premium_percent": -1.9
+    },
+    {
+      "date": "2026-08-13",
+      "sge_cny_per_g": 940.03,
+      "usd_cny": 6.7428,
+      "sge_usd_per_oz": 4336.21,
+      "world_gold_usd": 4420.4,
+      "spread_usd": -84.19,
+      "premium_percent": -1.9
+    },
+    {
+      "date": "2026-08-16",
+      "sge_cny_per_g": 952.98,
+      "usd_cny": 6.7428,
+      "sge_usd_per_oz": 4395.95,
+      "world_gold_usd": 4420.4,
+      "spread_usd": -24.45,
+      "premium_percent": -0.55
+    },
+    {
+      "date": "2026-08-17",
+      "sge_cny_per_g": 953.88,
+      "usd_cny": 6.7399,
+      "sge_usd_per_oz": 4401.99,
+      "world_gold_usd": 4473.7,
+      "spread_usd": -71.71,
+      "premium_percent": -1.6
+    },
+    {
+      "date": "2026-08-18",
+      "sge_cny_per_g": 943.32,
+      "usd_cny": 6.7426,
+      "sge_usd_per_oz": 4351.52,
+      "world_gold_usd": 4420.6,
+      "spread_usd": -69.08,
+      "premium_percent": -1.56
+    },
+    {
+      "date": "2026-08-19",
+      "sge_cny_per_g": 969.96,
+      "usd_cny": 6.7295,
+      "sge_usd_per_oz": 4483.12,
+      "world_gold_usd": 4545.3,
+      "spread_usd": -62.18,
+      "premium_percent": -1.37
+    },
+    {
+      "date": "2026-08-20",
+      "sge_cny_per_g": 984.86,
+      "usd_cny": 6.7225,
+      "sge_usd_per_oz": 4556.72,
+      "world_gold_usd": 4571.4,
+      "spread_usd": -14.68,
+      "premium_percent": -0.32
+    },
+    {
+      "date": "2026-08-23",
+      "sge_cny_per_g": 1004.41,
+      "usd_cny": 6.721,
+      "sge_usd_per_oz": 4648.21,
+      "world_gold_usd": 4571.4,
+      "spread_usd": 76.81,
+      "premium_percent": 1.68
+    },
+    {
+      "date": "2026-08-24",
+      "sge_cny_per_g": 1002.3,
+      "usd_cny": 6.7219,
+      "sge_usd_per_oz": 4637.83,
+      "world_gold_usd": 4697.8,
+      "spread_usd": -59.97,
+      "premium_percent": -1.28
+    },
+    {
+      "date": "2026-08-25",
+      "sge_cny_per_g": 1000.12,
+      "usd_cny": 6.7203,
+      "sge_usd_per_oz": 4628.84,
+      "world_gold_usd": 4694.5,
+      "spread_usd": -65.66,
+      "premium_percent": -1.4
+    },
+    {
+      "date": "2026-08-26",
+      "sge_cny_per_g": 993.37,
+      "usd_cny": 6.7225,
+      "sge_usd_per_oz": 4596.1,
+      "world_gold_usd": 4653.3,
+      "spread_usd": -57.2,
+      "premium_percent": -1.23
+    },
+    {
+      "date": "2026-08-27",
+      "sge_cny_per_g": 995.35,
+      "usd_cny": 6.7225,
+      "sge_usd_per_oz": 4605.26,
+      "world_gold_usd": 4664.0,
+      "spread_usd": -58.74,
+      "premium_percent": -1.26
+    },
+    {
+      "date": "2026-08-30",
+      "sge_cny_per_g": 959.97,
+      "usd_cny": 6.726,
+      "sge_usd_per_oz": 4439.25,
+      "world_gold_usd": 4664.0,
+      "spread_usd": -224.75,
+      "premium_percent": -4.82
+    },
+    {
+      "date": "2026-08-31",
+      "sge_cny_per_g": 958.5,
+      "usd_cny": 6.726,
+      "sge_usd_per_oz": 4432.45,
+      "world_gold_usd": 4481.5,
+      "spread_usd": -49.05,
+      "premium_percent": -1.09
+    },
+    {
+      "date": "2026-09-01",
+      "sge_cny_per_g": 935.4,
+      "usd_cny": 6.7202,
+      "sge_usd_per_oz": 4329.36,
+      "world_gold_usd": 4396.4,
+      "spread_usd": -67.04,
+      "premium_percent": -1.52
+    },
+    {
+      "date": "2026-09-02",
+      "sge_cny_per_g": 956.67,
+      "usd_cny": 6.719,
+      "sge_usd_per_oz": 4428.6,
+      "world_gold_usd": 4414.6,
+      "spread_usd": 14.0,
+      "premium_percent": 0.32
+    },
+    {
+      "date": "2026-09-03",
+      "sge_cny_per_g": 963.44,
+      "usd_cny": 6.719,
+      "sge_usd_per_oz": 4459.94,
+      "world_gold_usd": 4539.9,
+      "spread_usd": -79.96,
+      "premium_percent": -1.76
+    },
+    {
+      "date": "2026-09-06",
+      "sge_cny_per_g": 949.09,
+      "usd_cny": 6.7108,
+      "sge_usd_per_oz": 4398.88,
+      "world_gold_usd": 4539.9,
+      "spread_usd": -141.02,
+      "premium_percent": -3.11
+    },
+    {
+      "date": "2026-09-07",
+      "sge_cny_per_g": 951.22,
+      "usd_cny": 6.7108,
+      "sge_usd_per_oz": 4408.75,
+      "world_gold_usd": 4539.9,
+      "spread_usd": -131.15,
+      "premium_percent": -2.89
+    },
+    {
+      "date": "2026-09-08",
+      "sge_cny_per_g": 949.93,
+      "usd_cny": 6.7105,
+      "sge_usd_per_oz": 4402.97,
+      "world_gold_usd": 4439.0,
+      "spread_usd": -36.03,
+      "premium_percent": -0.81
+    },
+    {
+      "date": "2026-09-09",
+      "sge_cny_per_g": 953.79,
+      "usd_cny": 6.7105,
+      "sge_usd_per_oz": 4420.86,
+      "world_gold_usd": 4460.7,
+      "spread_usd": -39.84,
+      "premium_percent": -0.89
+    },
+    {
+      "date": "2026-09-10",
+      "sge_cny_per_g": 940.46,
+      "usd_cny": 6.7061,
+      "sge_usd_per_oz": 4361.94,
+      "world_gold_usd": 4407.3,
+      "spread_usd": -45.36,
+      "premium_percent": -1.03
+    },
+    {
+      "date": "2026-09-13",
+      "sge_cny_per_g": 933.32,
+      "usd_cny": 6.708,
+      "sge_usd_per_oz": 4327.59,
+      "world_gold_usd": 4407.3,
+      "spread_usd": -79.71,
+      "premium_percent": -1.81
+    },
+    {
+      "date": "2026-09-14",
+      "sge_cny_per_g": 928.49,
+      "usd_cny": 6.7082,
+      "sge_usd_per_oz": 4305.07,
+      "world_gold_usd": 4351.9,
+      "spread_usd": -46.83,
+      "premium_percent": -1.08
+    }
+  ]
+};

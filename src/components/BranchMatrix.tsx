@@ -157,6 +157,36 @@ export const BranchMatrix: React.FC<BranchMatrixProps> = ({
           </div>
         )}
 
+        {/* Shanghai Gold Exchange (SGE) Benchmark Ribbon */}
+        {showGold && matrix.sge && (
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-2 p-2 rounded-xl bg-black/5 dark:bg-black/30 border border-[var(--p-border)] text-[10px]">
+            <div className="flex items-center gap-2">
+              <span className="px-1.5 py-0.5 rounded-md font-bold text-amber-500 bg-amber-500/10 border border-amber-500/20">
+                SGE {matrix.sge.contract}
+              </span>
+              <span className="text-[var(--p-text)] font-semibold">
+                Thượng Hải: ¥{matrix.sge.priceCnyPerGram.toFixed(2)}/g
+              </span>
+              <span className="text-[var(--p-muted)] hidden md:inline">
+                (Quy đổi: ${matrix.sge.sgeUsdPerOz.toFixed(2)}/oz @ USD/CNY {matrix.sge.usdCnyRate})
+              </span>
+            </div>
+            <div className="flex items-center gap-2 font-mono">
+              <span className="text-[var(--p-muted)]">Shanghai Premium:</span>
+              <span className={`font-bold px-1.5 py-0.5 rounded-md ${
+                matrix.sge.spreadUsd >= 0
+                  ? 'text-emerald-500 bg-emerald-500/10 border border-emerald-500/20'
+                  : 'text-rose-500 bg-rose-500/10 border border-rose-500/20'
+              }`}>
+                {matrix.sge.spreadUsd >= 0 ? '+' : ''}${matrix.sge.spreadUsd.toFixed(2)}/oz ({matrix.sge.spreadUsd >= 0 ? '+' : ''}{matrix.sge.premiumPercent}%)
+              </span>
+              <span className="text-[var(--p-muted)] text-[9px] hidden lg:inline">
+                • {matrix.sge.updated}
+              </span>
+            </div>
+          </div>
+        )}
+
         {/* Silver Dealers Bento Strip */}
         {showSilver && (
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-2">

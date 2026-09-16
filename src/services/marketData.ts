@@ -326,6 +326,48 @@ export async function fetchMarketSummaries(
 }
 
 export const TROY_OZ_TO_LUONG = 1.205653; // 1 lượng = 37.5g, 1 troy oz = 31.1035g
+export const TROY_OZ_TO_GRAMS = 31.1034768; // 1 troy oz = 31.1034768 grams
+export const DEFAULT_USD_CNY_RATE = 7.24;
+
+export interface SgePremiumResult {
+  sgeCnyPerGram: number;
+  sgeUsdPerOz: number;
+  worldUsdPerOz: number;
+  worldCnyPerGram: number;
+  spreadUsd: number;
+  spreadCny: number;
+  premiumPercent: number;
+}
+
+/**
+ * Calculate Shanghai Gold Exchange (SGE) premium over London Spot (XAU/USD)
+ * Formula:
+ *   SGE_USD_per_oz = (SGE_CNY_per_g / USD_CNY) * 31.1034768
+ *   Spread_USD = SGE_USD_per_oz - World_XAU_USD
+ *   Premium_% = (Spread_USD / World_XAU_USD) * 100
+ */
+export function calculateSgePremium(
+  sgeCnyPerGram: number,
+  worldUsdPrice: number,
+  usdCnyRate: number = DEFAULT_USD_CNY_RATE
+): SgePremiumResult {
+  const sgeUsdPerOz = (sgeCnyPerGram / usdCnyRate) * TROY_OZ_TO_GRAMS;
+  const worldCnyPerGram = (worldUsdPrice * usdCnyRate) / TROY_OZ_TO_GRAMS;
+  const spreadUsd = sgeUsdPerOz - worldUsdPrice;
+  const spreadCny = sgeCnyPerGram - worldCnyPerGram;
+  const premiumPercent = (spreadUsd / worldUsdPrice) * 100;
+
+  return {
+    sgeCnyPerGram,
+    sgeUsdPerOz: Number(sgeUsdPerOz.toFixed(2)),
+    worldUsdPerOz: Number(worldUsdPrice.toFixed(2)),
+    worldCnyPerGram: Number(worldCnyPerGram.toFixed(2)),
+    spreadUsd: Number(spreadUsd.toFixed(2)),
+    spreadCny: Number(spreadCny.toFixed(2)),
+    premiumPercent: Number(premiumPercent.toFixed(2)),
+  };
+}
+
 
 /**
  * Calculate Vietnam SJC markup over converted World Spot

@@ -1,24 +1,28 @@
 import React from 'react';
-import { RefreshCw, Layers, Scale, Zap, Sun, Moon } from 'lucide-react';
-import type { CommoditySummary } from '../types/commodity';
+import { RefreshCw, Layers, Scale, Zap, Sun, Moon, Globe } from 'lucide-react';
+import type { CommoditySummary, SgeBenchmarkInfo } from '../types/commodity';
 import { calculateSjcPremium } from '../services/marketData';
 
 interface VaultHeaderProps {
   gold: CommoditySummary | null;
   silver: CommoditySummary | null;
+  sge?: SgeBenchmarkInfo | null;
   isRefreshing: boolean;
   onRefresh: () => void;
   themeMode: 'dark' | 'light';
   onToggleTheme: () => void;
+  onSelectSge?: () => void;
 }
 
 export const VaultHeader: React.FC<VaultHeaderProps> = ({
   gold,
   silver,
   isRefreshing,
+  sge,
   onRefresh,
   themeMode,
   onToggleTheme,
+  onSelectSge,
 }) => {
   const usdRate = gold?.currencyRate ?? 25850;
 
@@ -108,11 +112,25 @@ export const VaultHeader: React.FC<VaultHeaderProps> = ({
               {sjcMarkup && (
                 <div className="flex items-center gap-1.5">
                   <Zap className="w-3 h-3 text-[var(--p-gold)]" />
-                  <span className="text-[var(--p-muted)]">Chênh nội địa</span>
+                  <span className="text-[var(--p-muted)]">Chênh SJC</span>
                   <span className="font-bold text-emerald-600 dark:text-emerald-400">
                     +{sjcMarkup.percent}%
                   </span>
                 </div>
+              )}
+
+              {sge && (
+                <button
+                  onClick={onSelectSge}
+                  className="flex items-center gap-1.5 px-2 py-0.5 rounded-full hover:bg-amber-500/10 active:scale-[0.98] border border-transparent hover:border-amber-500/30 transition-all cursor-pointer text-left"
+                  title={`Xem biểu đồ Shanghai Au99.99 (Click để mở biểu đồ chi tiết)`}
+                >
+                  <Globe className="w-3 h-3 text-amber-500" />
+                  <span className="text-[var(--p-muted)]">SGE Premium:</span>
+                  <span className={`font-bold ${sge.spreadUsd >= 0 ? 'text-emerald-600 dark:text-emerald-400' : 'text-rose-500'}`}>
+                    {sge.spreadUsd >= 0 ? '+' : ''}${sge.spreadUsd.toFixed(1)}/oz ({sge.spreadUsd >= 0 ? '+' : ''}{sge.premiumPercent}%)
+                  </span>
+                </button>
               )}
 
               <div className="flex items-center gap-1.5">

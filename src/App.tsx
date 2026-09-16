@@ -3,6 +3,7 @@ import { VaultHeader } from './components/VaultHeader';
 import { ControlRibbon } from './components/ControlRibbon';
 import { BranchMatrix } from './components/BranchMatrix';
 import { TerminalChart } from './components/TerminalChart';
+import { SgeTerminalChart } from './components/SgeTerminalChart';
 import { PALETTES } from './styles/palettes';
 import type {
   CommoditySummary,
@@ -128,10 +129,12 @@ export function App() {
       <VaultHeader
         gold={goldSummary}
         silver={silverSummary}
+        sge={bullionMatrix?.sge}
         isRefreshing={isRefreshing}
         onRefresh={loadSummaries}
         themeMode={themeMode}
         onToggleTheme={() => setThemeMode(themeMode === 'dark' ? 'light' : 'dark')}
+        onSelectSge={() => setViewMode('sge')}
       />
 
       {/* Main Terminal Body - Expansive Full-Bleed Widescreen */}
@@ -224,6 +227,14 @@ export function App() {
             unit={unit}
             timeframe={timeframe}
             chartScale={chartScale}
+            palette={currentPalette}
+            height={620}
+          />
+        )}
+
+        {viewMode === 'sge' && (
+          <SgeTerminalChart
+            timeframe={timeframe}
             palette={currentPalette}
             height={620}
           />

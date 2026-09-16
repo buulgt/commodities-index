@@ -3,6 +3,17 @@
   "usdRate": 25850,
   "goldWorld": 4334.5,
   "silverWorld": 63.65,
+  "sge": {
+    "contract": "Au99.99",
+    "name": "Shanghai Gold Exchange",
+    "priceCnyPerGram": 1018.50,
+    "usdCnyRate": 7.24,
+    "sgeUsdPerOz": 4375.54,
+    "worldUsdPerOz": 4334.50,
+    "spreadUsd": 41.04,
+    "premiumPercent": 0.95,
+    "updated": "15:30 CST (SGE Close)"
+  },
   "dealers": {
     "sjc": {
       "id": "sjc",

@@ -1,5 +1,5 @@
 export type Timeframe = '5D' | '1M' | '3M' | '6M' | 'YTD' | '1Y' | '5Y' | 'ALL';
-export type ViewMode = 'stacked' | 'gold' | 'silver' | 'ratio';
+export type ViewMode = 'stacked' | 'gold' | 'silver' | 'ratio' | 'sge';
 export type UnitMode = 'luong' | 'chi' | 'kg';
 /** Absolute prices on dual axes, or percent-change so both countries align on one axis. */
 export type ChartScale = 'absolute' | 'percent';
@@ -45,6 +45,18 @@ export interface DealerInfo {
   premiumPercent?: number;
 }
 
+export interface SgeBenchmarkInfo {
+  contract: string; // e.g. 'Au99.99'
+  name: string; // e.g. 'Shanghai Gold Exchange (SGE)'
+  priceCnyPerGram: number; // e.g. 1018.50 CNY/g
+  usdCnyRate: number; // e.g. 7.24
+  sgeUsdPerOz: number; // converted USD/oz equivalent
+  worldUsdPerOz: number; // LBMA XAU/USD spot
+  spreadUsd: number; // USD/oz premium
+  premiumPercent: number; // % premium over LBMA
+  updated: string;
+}
+
 export interface BullionMatrixData {
   syncedAt: string;
   usdRate: number;
@@ -52,6 +64,7 @@ export interface BullionMatrixData {
   silverWorld: number;
   dealers: Record<string, DealerInfo>;
   silverDealers: Record<string, DealerInfo>;
+  sge?: SgeBenchmarkInfo;
 }
 
 export interface PricePoint {

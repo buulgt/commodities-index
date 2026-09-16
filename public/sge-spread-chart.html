@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shanghai Gold Premium (SGE vs LBMA) • 10-Year Terminal Chart</title>
+  <script src="./sge-spread-data.js"></script>
+  <script src="https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;600;700&family=Plus+Jakarta+Sans:wght@500;700;800&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #06080d;
+      --card: #0d1117;
+      --border: rgba(255, 255, 255, 0.08);
+      --gold: #f59e0b;
+      --world: #38bdf8;
+      --green: #10b981;
+      --red: #f43f5e;
+      --text: #f1f5f9;
+      --muted: #64748b;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      padding: 16px;
+    }
+    .header {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 16px 20px;
+      margin-bottom: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+    }
+    .title-group h1 {
+      font-size: 16px;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .badge {
+      font-size: 10px;
+      font-family: 'Geist Mono', monospace;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: rgba(245, 158, 11, 0.15);
+      color: var(--gold);
+      border: 1px solid rgba(245, 158, 11, 0.3);
+    }
+    .sub {
+      font-size: 11px;
+      color: var(--muted);
+      font-family: 'Geist Mono', monospace;
+      margin-top: 4px;
+    }
+    .stats {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      font-family: 'Geist Mono', monospace;
+      font-size: 11px;
+    }
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+    .stat-label { color: var(--muted); font-size: 9px; text-transform: uppercase; }
+    .stat-val { font-weight: 700; }
+    
+    /* Nav Tabs */
+    .tab-bar {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 12px;
+      background: var(--card);
+      padding: 6px;
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      width: fit-content;
+    }
+    .tab-btn {
+      background: transparent;
+      border: 1px solid transparent;
+      color: var(--muted);
+      font-family: 'Geist Mono', monospace;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 6px 16px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    .tab-btn:hover {
+      color: var(--text);
+    }
+    .tab-btn.active {
+      background: rgba(245, 158, 11, 0.15);
+      color: var(--gold);
+      border-color: rgba(245, 158, 11, 0.3);
+    }
+
+    .chart-container {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-height: 580px;
+    }
+    .panel {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 12px;
+      position: relative;
+    }
+    .panel-label {
+      position: absolute;
+      top: 14px;
+      left: 18px;
+      z-index: 10;
+      font-size: 11px;
+      font-family: 'Geist Mono', monospace;
+      font-weight: 700;
+      display: flex;
+      gap: 16px;
+      pointer-events: none;
+    }
+    .legend-item { display: flex; align-items: center; gap: 6px; }
+    .legend-dot { width: 8px; height: 8px; border-radius: 50%; }
+    .chart-box { width: 100%; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="title-group">
+      <h1>
+        Shanghai Gold Premium <span class="badge">SGE Au99.99 vs LBMA XAU/USD</span>
+      </h1>
+      <div class="sub">10-Year Historical Daily Time Series (2016 – 2026) • 2,532 Trading Days</div>
+    </div>
+    <div class="stats">
+      <div class="stat-item">
+        <span class="stat-label">10Y Mean Spread</span>
+        <span class="stat-val" style="color: var(--green);">+$2.47/oz (+0.27%)</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-label">Max Chinese Premium</span>
+        <span class="stat-val" style="color: var(--gold);">+$278.97/oz (+5.26%)</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-label">Latest Date</span>
+        <span class="stat-val" id="statLatestDate">--</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-label">Latest Spread</span>
+        <span class="stat-val" id="statLatestSpread">--</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Separate Tabs -->
+  <div class="tab-bar">
+    <button class="tab-btn active" onclick="switchTab('spread')">📈 Arbitrage Spread ($/oz)</button>
+    <button class="tab-btn" onclick="switchTab('percent')">📊 Premium Percent (%)</button>
+    <button class="tab-btn" onclick="switchTab('comparison')">⚖️ SGE vs LBMA Dual Prices</button>
+    <button class="tab-btn" onclick="switchTab('stacked')">📑 Stacked Dual Panels</button>
+  </div>
+
+  <div class="chart-container">
+    <!-- Panel 1: Prices -->
+    <div class="panel" id="panelPrice" style="display: none;">
+      <div class="panel-label">
+        <div class="legend-item"><span class="legend-dot" style="background: var(--gold)"></span> SGE Au99.99 ($/oz Equiv)</div>
+        <div class="legend-item"><span class="legend-dot" style="background: var(--world)"></span> LBMA Spot Gold ($/oz)</div>
+      </div>
+      <div id="chartPrice" class="chart-box" style="height: 520px;"></div>
+    </div>
+
+    <!-- Panel 2: Spread ($/oz) -->
+    <div class="panel" id="panelSpread">
+      <div class="panel-label">
+        <div class="legend-item"><span class="legend-dot" style="background: var(--green)"></span> Shanghai Arbitrage Spread ($/oz over London)</div>
+      </div>
+      <div id="chartSpread" class="chart-box" style="height: 520px;"></div>
+    </div>
+
+    <!-- Panel 3: Premium (%) -->
+    <div class="panel" id="panelPercent" style="display: none;">
+      <div class="panel-label">
+        <div class="legend-item"><span class="legend-dot" style="background: #a855f7"></span> Shanghai Premium Percent (% over London)</div>
+      </div>
+      <div id="chartPercent" class="chart-box" style="height: 520px;"></div>
+    </div>
+  </div>
+
+  <script>
+    let currentTab = 'spread';
+    let chartPrice, chartSpread, chartPercent;
+    let records = [];
+
+    function switchTab(tab) {
+      currentTab = tab;
+      document.querySelectorAll('.tab-btn').forEach((b, idx) => {
+        b.classList.remove('active');
+      });
+      const btns = document.querySelectorAll('.tab-btn');
+      if (tab === 'spread') btns[0].classList.add('active');
+      if (tab === 'percent') btns[1].classList.add('active');
+      if (tab === 'comparison') btns[2].classList.add('active');
+      if (tab === 'stacked') btns[3].classList.add('active');
+
+      const pPrice = document.getElementById('panelPrice');
+      const pSpread = document.getElementById('panelSpread');
+      const pPercent = document.getElementById('panelPercent');
+      const cPrice = document.getElementById('chartPrice');
+      const cSpread = document.getElementById('chartSpread');
+
+      if (tab === 'spread') {
+        pPrice.style.display = 'none';
+        pPercent.style.display = 'none';
+        pSpread.style.display = 'block';
+        cSpread.style.height = '540px';
+      } else if (tab === 'percent') {
+        pPrice.style.display = 'none';
+        pSpread.style.display = 'none';
+        pPercent.style.display = 'block';
+        document.getElementById('chartPercent').style.height = '540px';
+      } else if (tab === 'comparison') {
+        pSpread.style.display = 'none';
+        pPercent.style.display = 'none';
+        pPrice.style.display = 'block';
+        cPrice.style.height = '540px';
+      } else if (tab === 'stacked') {
+        pPrice.style.display = 'block';
+        pSpread.style.display = 'block';
+        pPercent.style.display = 'none';
+        cPrice.style.height = '340px';
+        cSpread.style.height = '240px';
+      }
+      window.dispatchEvent(new Event('resize'));
+    }
+
+    async function init() {
+      if (window.SGE_SPREAD_DATA && window.SGE_SPREAD_DATA.data) {
+        records = window.SGE_SPREAD_DATA.data;
+      } else {
+        try {
+          const res = await fetch('./sge-spread-history.json');
+          const payload = await res.json();
+          records = payload.data;
+        } catch (e) {
+          console.error('Failed to load records:', e);
+          return;
+        }
+      }
+
+      if (!records || records.length === 0) return;
+
+      // Update Header stats
+      const latest = records[records.length - 1];
+      const dateEl = document.getElementById('statLatestDate');
+      if (dateEl) dateEl.textContent = latest.date;
+
+      const spreadEl = document.getElementById('statLatestSpread');
+      if (spreadEl) {
+        spreadEl.textContent = `${latest.spread_usd >= 0 ? '+' : ''}$${latest.spread_usd}/oz (${latest.spread_usd >= 0 ? '+' : ''}${latest.premium_percent}%)`;
+        spreadEl.style.color = latest.spread_usd >= 0 ? 'var(--green)' : 'var(--red)';
+      }
+
+      const chartOptions = {
+        layout: {
+          background: { color: 'transparent' },
+          textColor: '#64748b',
+          fontFamily: "'Geist Mono', monospace",
+        },
+        grid: {
+          vertLines: { color: 'rgba(255, 255, 255, 0.04)' },
+          horzLines: { color: 'rgba(255, 255, 255, 0.04)' },
+        },
+        timeScale: {
+          borderColor: 'rgba(255, 255, 255, 0.08)',
+          timeVisible: true,
+          secondsVisible: false,
+        },
+        rightPriceScale: {
+          borderColor: 'rgba(255, 255, 255, 0.08)',
+        },
+      };
+
+      // 1. Price Chart
+      const pEl = document.getElementById('chartPrice');
+      chartPrice = LightweightCharts.createChart(pEl, {
+        ...chartOptions,
+        width: pEl.clientWidth || 1000,
+        height: 520,
+      });
+      const sgeSeries = chartPrice.addSeries(LightweightCharts.LineSeries, { color: '#f59e0b', lineWidth: 2 });
+      const worldSeries = chartPrice.addSeries(LightweightCharts.LineSeries, { color: '#38bdf8', lineWidth: 1.5, lineStyle: LightweightCharts.LineStyle.Dotted });
+      sgeSeries.setData(records.map(r => ({ time: r.date, value: r.sge_usd_per_oz })));
+      worldSeries.setData(records.map(r => ({ time: r.date, value: r.world_gold_usd })));
+      chartPrice.timeScale().fitContent();
+
+      // 2. Spread Chart ($/oz)
+      const sEl = document.getElementById('chartSpread');
+      chartSpread = LightweightCharts.createChart(sEl, {
+        ...chartOptions,
+        width: sEl.clientWidth || 1000,
+        height: 520,
+      });
+      const spreadSeries = chartSpread.addSeries(LightweightCharts.BaselineSeries, {
+        baseValue: { type: 'price', price: 0 },
+        topLineColor: '#10b981',
+        topFillColor1: 'rgba(16, 185, 129, 0.35)',
+        topFillColor2: 'rgba(16, 185, 129, 0.02)',
+        bottomLineColor: '#f43f5e',
+        bottomFillColor1: 'rgba(244, 63, 94, 0.02)',
+        bottomFillColor2: 'rgba(244, 63, 94, 0.35)',
+        lineWidth: 1.5,
+      });
+      spreadSeries.setData(records.map(r => ({ time: r.date, value: r.spread_usd })));
+      chartSpread.timeScale().fitContent();
+
+      // 3. Percent Chart (%)
+      const pctEl = document.getElementById('chartPercent');
+      chartPercent = LightweightCharts.createChart(pctEl, {
+        ...chartOptions,
+        width: pctEl.clientWidth || 1000,
+        height: 520,
+      });
+      const pctSeries = chartPercent.addSeries(LightweightCharts.BaselineSeries, {
+        baseValue: { type: 'price', price: 0 },
+        topLineColor: '#a855f7',
+        topFillColor1: 'rgba(168, 85, 247, 0.35)',
+        topFillColor2: 'rgba(168, 85, 247, 0.02)',
+        bottomLineColor: '#f43f5e',
+        bottomFillColor1: 'rgba(244, 63, 94, 0.02)',
+        bottomFillColor2: 'rgba(244, 63, 94, 0.35)',
+        lineWidth: 1.5,
+      });
+      pctSeries.setData(records.map(r => ({ time: r.date, value: r.premium_percent })));
+      chartPercent.timeScale().fitContent();
+
+      // Sync time scales
+      const syncCharts = [chartPrice, chartSpread, chartPercent];
+      syncCharts.forEach(source => {
+        source.timeScale().subscribeVisibleLogicalRangeChange(range => {
+          syncCharts.forEach(target => {
+            if (target !== source) target.timeScale().setVisibleLogicalRange(range);
+          });
+        });
+      });
+
+      window.addEventListener('resize', () => {
+        if (pEl.clientWidth) chartPrice.applyOptions({ width: pEl.clientWidth });
+        if (sEl.clientWidth) chartSpread.applyOptions({ width: sEl.clientWidth });
+        if (pctEl.clientWidth) chartPercent.applyOptions({ width: pctEl.clientWidth });
+      });
+    }
+
+    document.addEventListener('DOMContentLoaded', init);
+    if (document.readyState === 'complete' || document.readyState === 'interactive') {
+      init();
+    }
+  </script>
+</body>
+</html>

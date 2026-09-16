@@ -1,6 +1,6 @@
 import React from 'react';
 import type { Timeframe, ViewMode, UnitMode, ChartScale } from '../types/commodity';
-import { Rows2, Scale, Clock } from 'lucide-react';
+import { Rows2, Scale, Clock, Globe } from 'lucide-react';
 
 interface ControlRibbonProps {
   viewMode: ViewMode;
@@ -77,6 +77,18 @@ export const ControlRibbon: React.FC<ControlRibbonProps> = ({
           >
             <Scale className="w-3 h-3 text-cyan-400" />
             <span>GSR Ratio</span>
+          </button>
+
+          <button
+            onClick={() => onViewModeChange('sge')}
+            className={`flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
+              viewMode === 'sge'
+                ? 'bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/40 shadow-sm'
+                : 'text-[var(--p-muted)] hover:text-[var(--p-text)] hover:bg-black/5 dark:hover:bg-white/[0.04]'
+            }`}
+          >
+            <Globe className="w-3 h-3 text-amber-500" />
+            <span>SGE Premium</span>
           </button>
         </div>
 
