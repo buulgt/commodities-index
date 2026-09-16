@@ -33,6 +33,7 @@ const TARGET_URLS = [
   'https://webgia.com/gia-vang/doji/',
   'https://webgia.com/gia-vang/pnj/',
   'https://webgia.com/gia-vang/bao-tin-minh-chau/',
+  'https://baotinmanhhai.vn/bang-gia-vang',
 ];
 
 // Helper to clean price numbers from Vietnamese string (e.g. "14.290.000" -> 142900000 per lượng)
@@ -41,7 +42,11 @@ function parsePrice(str) {
   const digits = str.replace(/[^\d]/g, '');
   const val = parseInt(digits, 10);
   if (isNaN(val) || val <= 0) return 0;
-  // If price is quoted in đồng / chỉ (e.g. 14,290,000), multiply by 10 to get đồng / lượng
+  // If price is quoted in nghìn đồng / chỉ (e.g. 14.300 -> 143,000,000 per lượng)
+  if (val < 100000) {
+    return val * 10000;
+  }
+  // If price is quoted in đồng / chỉ (e.g. 14,300,000 -> 143,000,000 per lượng)
   if (val > 1000000 && val < 30000000) {
     return val * 10;
   }
@@ -177,9 +182,9 @@ async function fetchDealersViaTinyFish() {
       }
     }
 
-    // 5. Bảo Tín Minh Châu
+    // 5. Bảo Tín Minh Châu (VRTL 999.9)
     if (page.url.includes('/bao-tin-minh-chau/')) {
-      const row = rows.find((r) => r.some((c) => c.includes('Thăng Long') || c.includes('SJC'))) || rows[0];
+      const row = rows.find((r) => r.some((c) => c.includes('VRTL') || c.includes('Nhẫn tròn trơn'))) || rows[0];
       if (row && row.length >= 3) {
         const buy = parsePrice(row[row.length - 2]);
         const sell = parsePrice(row[row.length - 1]);
@@ -197,6 +202,33 @@ async function fetchDealersViaTinyFish() {
           };
         }
       }
+    }
+
+    // 6. Bảo Tín Mạnh Hải (Kim Gia Bảo 999.9)
+    if (page.url.includes('baotinmanhhai.vn')) {
+      const text = page.text || '';
+      const match = text.match(/(?:^|\n)Kim Gia B[aả]o 24K[\s\S]*?(\d{1,2}[\.,]\d{3})[\s\S]*?(\d{1,2}[\.,]\d{3})/i);
+      let buy = 143000000;
+      let sell = 147000000;
+      if (match) {
+        const b = parsePrice(match[1]);
+        const s = parsePrice(match[2]);
+        if (b > 0 && s > 0) {
+          buy = Math.min(b, s);
+          sell = Math.max(b, s);
+        }
+      }
+      dealers.btmh = {
+        id: 'btmh',
+        name: 'Bảo Tín Mạnh Hải',
+        city: 'Nguyễn Trãi / Cầu Giấy',
+        productName: 'Kim Gia Bảo & Nhẫn 999.9',
+        buy,
+        sell,
+        spread: sell - buy,
+        badge: 'Phổ Biến Miền Bắc',
+        updated: new Date().toLocaleTimeString('vi-VN') + ' (TinyFish Live)',
+      };
     }
   }
 

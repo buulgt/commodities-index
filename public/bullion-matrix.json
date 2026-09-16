@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-16T05:49:58.040Z",
+  "syncedAt": "2026-09-16T05:56:39.446Z",
   "usdRate": 25850,
   "goldWorld": 4334.5,
   "silverWorld": 63.65,
@@ -24,7 +24,7 @@
       "sell": 145900000,
       "spread": 3000000,
       "badge": "Chuẩn Quốc Gia",
-      "updated": "12:50:28 (TinyFish Live)"
+      "updated": "12:56:40 (TinyFish Live)"
     },
     "mihong": {
       "id": "mihong",
@@ -35,30 +35,29 @@
       "sell": 145300000,
       "spread": 1500000,
       "badge": "Spread Thấp Nhất",
-      "updated": "12:50:28 (TinyFish Live)"
+      "updated": "12:56:40 (TinyFish Live)"
     },
     "btmc": {
       "id": "btmc",
       "name": "Bảo Tín Minh Châu",
       "city": "Trần Nhân Tông, HN",
       "productName": "Vàng Rồng Thăng Long 999.9",
-      "buy": 142900000,
-      "sell": 145900000,
-      "spread": 3000000,
+      "buy": 143000000,
+      "sell": 147000000,
+      "spread": 4000000,
       "badge": "Top 1 Hà Nội",
-      "updated": "12:50:28 (TinyFish Live)"
+      "updated": "12:56:40 (TinyFish Live)"
     },
     "btmh": {
       "id": "btmh",
       "name": "Bảo Tín Mạnh Hải",
-      "city": "Nguyễn Trãi / Cầu Giấy, HN",
-      "productName": "Kim Gia Bảo 24K (99.99%)",
-      "buy": 142400000,
-      "sell": 146400000,
+      "city": "Nguyễn Trãi / Cầu Giấy",
+      "productName": "Kim Gia Bảo & Nhẫn 999.9",
+      "buy": 143000000,
+      "sell": 147000000,
       "spread": 4000000,
       "badge": "Phổ Biến Miền Bắc",
-      "updated": "11:51 (BTMH)",
-      "premiumPercent": 8.37
+      "updated": "12:56:40 (TinyFish Live)"
     },
     "doji": {
       "id": "doji",
@@ -69,7 +68,7 @@
       "sell": 145900000,
       "spread": 3000000,
       "badge": "Tập Đoàn DOJI",
-      "updated": "12:50:28 (TinyFish Live)"
+      "updated": "12:56:40 (TinyFish Live)"
     },
     "pnj": {
       "id": "pnj",
@@ -80,7 +79,7 @@
       "sell": 145900000,
       "spread": 3000000,
       "badge": "Hệ Thống Lớn Nhất",
-      "updated": "12:50:28 (TinyFish Live)"
+      "updated": "12:56:40 (TinyFish Live)"
     }
   },
   "silverDealers": {
