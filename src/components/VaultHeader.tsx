@@ -91,31 +91,31 @@ export const VaultHeader: React.FC<VaultHeaderProps> = ({
             <div className="flex flex-wrap items-center gap-2 sm:gap-3 flex-1 font-mono text-xs">
               
               {/* World Gold Spot */}
-              <div className="flex items-center gap-2 bg-black/10 dark:bg-black/30 border border-[var(--p-border)] px-3 py-1.5 rounded-xl">
-                <span className="w-2.5 h-2.5 rounded-full bg-[var(--p-gold)] shrink-0" />
-                <span className="text-[var(--p-muted)] text-xs">Vàng TG:</span>
-                <span className="font-bold text-sm text-[var(--p-text)] tabular-nums">
+              <div className="flex items-center gap-2 bg-slate-100 dark:bg-black/30 border border-slate-300 dark:border-[var(--p-border)] px-3 py-1.5 rounded-xl shadow-sm">
+                <span className="w-2.5 h-2.5 rounded-full bg-amber-500 shrink-0" />
+                <span className="text-slate-600 dark:text-[var(--p-muted)] text-xs font-semibold">Vàng TG:</span>
+                <span className="font-extrabold text-sm text-slate-950 dark:text-[var(--p-text)] tabular-nums">
                   ${gold.worldPrice.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}
                 </span>
-                <span className="text-[11px] text-[var(--p-muted)]">/oz</span>
+                <span className="text-[11px] text-slate-500 dark:text-[var(--p-muted)]">/oz</span>
               </div>
 
               {/* World Silver Spot */}
-              <div className="flex items-center gap-2 bg-black/10 dark:bg-black/30 border border-[var(--p-border)] px-3 py-1.5 rounded-xl">
-                <span className="w-2.5 h-2.5 rounded-full bg-[var(--p-silver)] shrink-0" />
-                <span className="text-[var(--p-muted)] text-xs">Bạc TG:</span>
-                <span className="font-bold text-sm text-[var(--p-text)] tabular-nums">
+              <div className="flex items-center gap-2 bg-slate-100 dark:bg-black/30 border border-slate-300 dark:border-[var(--p-border)] px-3 py-1.5 rounded-xl shadow-sm">
+                <span className="w-2.5 h-2.5 rounded-full bg-slate-400 shrink-0" />
+                <span className="text-slate-600 dark:text-[var(--p-muted)] text-xs font-semibold">Bạc TG:</span>
+                <span className="font-extrabold text-sm text-slate-950 dark:text-[var(--p-text)] tabular-nums">
                   ${silver.worldPrice.toFixed(2)}
                 </span>
-                <span className="text-[11px] text-[var(--p-muted)]">/oz</span>
+                <span className="text-[11px] text-slate-500 dark:text-[var(--p-muted)]">/oz</span>
               </div>
 
               {/* SJC Markup */}
               {sjcMarkup && (
-                <div className="flex items-center gap-2 bg-black/10 dark:bg-black/30 border border-[var(--p-border)] px-3 py-1.5 rounded-xl">
-                  <Zap className="w-3.5 h-3.5 text-[var(--p-gold)] shrink-0" />
-                  <span className="text-[var(--p-muted)] text-xs">Chênh SJC:</span>
-                  <span className="font-bold text-sm text-emerald-500 tabular-nums">
+                <div className="flex items-center gap-2 bg-amber-50/80 dark:bg-black/30 border border-amber-300 dark:border-[var(--p-border)] px-3 py-1.5 rounded-xl shadow-sm">
+                  <Zap className="w-3.5 h-3.5 text-amber-600 dark:text-[var(--p-gold)] shrink-0" />
+                  <span className="text-slate-600 dark:text-[var(--p-muted)] text-xs font-semibold">Chênh SJC:</span>
+                  <span className="font-extrabold text-sm text-emerald-700 dark:text-emerald-400 tabular-nums">
                     +{sjcMarkup.percent}%
                   </span>
                 </div>
@@ -125,23 +125,23 @@ export const VaultHeader: React.FC<VaultHeaderProps> = ({
               {sge && (
                 <button
                   onClick={onSelectSge}
-                  className="flex items-center gap-2 bg-amber-500/10 hover:bg-amber-500/20 border border-amber-500/30 px-3 py-1.5 rounded-xl transition-all cursor-pointer active:scale-[0.98] group"
+                  className="flex items-center gap-2 bg-amber-100/90 dark:bg-amber-500/10 hover:bg-amber-200/80 dark:hover:bg-amber-500/20 border border-amber-400 dark:border-amber-500/30 px-3 py-1.5 rounded-xl transition-all cursor-pointer active:scale-[0.98] shadow-sm group"
                   title="Click to view 10-Year Shanghai Gold Premium Chart"
                 >
-                  <Globe className="w-3.5 h-3.5 text-amber-500 shrink-0 group-hover:scale-110 transition-transform" />
-                  <span className="text-[var(--p-muted)] text-xs">SGE Premium:</span>
-                  <span className={`font-bold text-sm tabular-nums ${sge.spreadUsd >= 0 ? 'text-emerald-500' : 'text-rose-500'}`}>
+                  <Globe className="w-3.5 h-3.5 text-amber-700 dark:text-amber-500 shrink-0 group-hover:scale-110 transition-transform" />
+                  <span className="text-slate-700 dark:text-[var(--p-muted)] text-xs font-semibold">SGE Premium:</span>
+                  <span className={`font-extrabold text-sm tabular-nums ${sge.spreadUsd >= 0 ? 'text-emerald-700 dark:text-emerald-400' : 'text-rose-600 dark:text-rose-500'}`}>
                     {sge.spreadUsd >= 0 ? '+' : ''}${sge.spreadUsd.toFixed(1)}/oz ({sge.spreadUsd >= 0 ? '+' : ''}{sge.premiumPercent}%)
                   </span>
                 </button>
               )}
 
               {/* Gold/Silver Ratio */}
-              <div className="flex items-center gap-2 bg-black/10 dark:bg-black/30 border border-[var(--p-border)] px-3 py-1.5 rounded-xl">
-                <Scale className="w-3.5 h-3.5 text-cyan-400 shrink-0" />
-                <span className="text-[var(--p-muted)] text-xs">GSR:</span>
-                <span className="font-bold text-sm text-[var(--p-text)] tabular-nums">{gsr}x</span>
-                <span className="text-xs font-semibold text-cyan-400">
+              <div className="flex items-center gap-2 bg-cyan-50/80 dark:bg-black/30 border border-cyan-300 dark:border-[var(--p-border)] px-3 py-1.5 rounded-xl shadow-sm">
+                <Scale className="w-3.5 h-3.5 text-cyan-600 dark:text-cyan-400 shrink-0" />
+                <span className="text-slate-600 dark:text-[var(--p-muted)] text-xs font-semibold">GSR:</span>
+                <span className="font-extrabold text-sm text-slate-950 dark:text-[var(--p-text)] tabular-nums">{gsr}x</span>
+                <span className="text-xs font-bold text-cyan-700 dark:text-cyan-400">
                   ({gsrNum > 75 ? 'Bạc rẻ' : gsrNum < 55 ? 'Vàng rẻ' : 'Cân bằng'})
                 </span>
               </div>

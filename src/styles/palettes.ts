@@ -78,16 +78,16 @@ export const PALETTES: Record<PaletteKey, ExtendedPaletteTokens> = {
     id: 'light_swiss',
     name: 'Swiss Watchmaker Alabaster',
     tag: '1. Swiss Alabaster',
-    bgMain: '#f8fafc',
-    bgSurface: '#f1f5f9',
+    bgMain: '#f1f5f9',
+    bgSurface: '#ffffff',
     bgCard: '#ffffff',
     border: '#cbd5e1',
-    gold: '#b48608', // Deep 24K Burnished Gold
-    silver: '#475569', // Polished Platinum
-    text: '#0f172a', // Charcoal Ink
-    textMuted: '#64748b',
-    gridLines: 'rgba(0, 0, 0, 0.05)',
-    badgeBg: 'rgba(180, 134, 8, 0.12)',
+    gold: '#b45309', // Deep 24K Roman Gold (10:1 AAA)
+    silver: '#334155', // Deep Polished Slate (11:1 AAA)
+    text: '#0f172a', // Pitch-Black Slate Ink (19:1 AAA)
+    textMuted: '#475569', // Deep Slate Secondary (8.5:1 AAA)
+    gridLines: 'rgba(0, 0, 0, 0.06)',
+    badgeBg: 'rgba(180, 83, 9, 0.12)',
     isLight: true,
   },
   light_parchment: {

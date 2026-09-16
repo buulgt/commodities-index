@@ -104,8 +104,8 @@ export const BranchMatrix: React.FC<BranchMatrixProps> = ({
                   onClick={() => onSelectGoldDealer(d.id as GoldDealerKey)}
                   className={`rounded-2xl p-3.5 transition-all cursor-pointer flex flex-col justify-between relative group active:scale-[0.98] ${
                     isSelected
-                      ? 'bg-[var(--p-card)] border-2 border-[var(--p-gold)] shadow-xl ring-1 ring-amber-500/20'
-                      : 'bg-[var(--p-surface)] border border-[var(--p-border)] hover:border-[var(--p-gold)]/50'
+                      ? 'bg-amber-50/70 dark:bg-[var(--p-card)] border-2 border-amber-600 dark:border-[var(--p-gold)] shadow-md ring-1 ring-amber-500/30'
+                      : 'bg-white dark:bg-[var(--p-surface)] border border-slate-200 dark:border-[var(--p-border)] shadow-sm hover:border-amber-500/60'
                   }`}
                 >
                   {/* Active Pin Badge */}
@@ -125,7 +125,7 @@ export const BranchMatrix: React.FC<BranchMatrixProps> = ({
                       <MapPin className="w-3 h-3 shrink-0" />
                       <span className="truncate">{d.city}</span>
                     </div>
-                    <div className="text-xs text-amber-400 truncate mt-1 font-semibold">
+                    <div className="text-xs text-amber-700 dark:text-amber-400 truncate mt-1 font-bold">
                       {d.badge}
                     </div>
                   </div>
@@ -139,14 +139,14 @@ export const BranchMatrix: React.FC<BranchMatrixProps> = ({
                       </span>
                     </div>
                     <div className="flex items-baseline justify-between text-xs">
-                      <span className="text-[var(--p-muted)] text-xs">Bán:</span>
-                      <span className="font-bold text-sm text-[var(--p-gold)] tabular-nums">
+                      <span className="text-slate-600 dark:text-[var(--p-muted)] text-xs font-medium">Bán:</span>
+                      <span className="font-extrabold text-sm text-amber-800 dark:text-[var(--p-gold)] tabular-nums">
                         {(sellConverted / (isLuong ? 1000000 : 100000)).toFixed(isLuong ? 2 : 1)}{isLuong ? 'M' : 'tr'}
                       </span>
                     </div>
-                    <div className="flex items-baseline justify-between text-xs text-[var(--p-muted)] pt-1 border-t border-[var(--p-border)]/60">
+                    <div className="flex items-baseline justify-between text-xs text-slate-500 dark:text-[var(--p-muted)] pt-1 border-t border-slate-200 dark:border-[var(--p-border)]/60">
                       <span>Spread:</span>
-                      <span className={`font-bold tabular-nums ${d.spread <= 2000000 ? 'text-emerald-500' : 'text-[var(--p-text)]'}`}>
+                      <span className={`font-bold tabular-nums ${d.spread <= 2000000 ? 'text-emerald-700 dark:text-emerald-500 font-extrabold' : 'text-slate-900 dark:text-[var(--p-text)]'}`}>
                         {(spreadConverted / 1000000).toFixed(1)}M
                       </span>
                     </div>
@@ -159,28 +159,28 @@ export const BranchMatrix: React.FC<BranchMatrixProps> = ({
 
         {/* Shanghai Gold Exchange (SGE) Benchmark Ribbon */}
         {showGold && matrix.sge && (
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 p-3 rounded-2xl bg-black/10 dark:bg-black/40 border border-[var(--p-border)] text-xs font-mono">
+          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 p-3 rounded-2xl bg-slate-100 dark:bg-black/40 border border-slate-300 dark:border-[var(--p-border)] text-xs font-mono shadow-sm">
             <div className="flex items-center gap-2.5 flex-wrap">
-              <span className="px-2.5 py-1 rounded-lg font-bold text-amber-500 bg-amber-500/15 border border-amber-500/30">
+              <span className="px-2.5 py-1 rounded-lg font-bold text-amber-800 dark:text-amber-500 bg-amber-100 dark:bg-amber-500/15 border border-amber-300 dark:border-amber-500/30">
                 SGE {matrix.sge.contract}
               </span>
-              <span className="text-[var(--p-text)] font-semibold text-xs">
-                Thượng Hải: <span className="text-amber-400 font-bold">¥{matrix.sge.priceCnyPerGram.toFixed(2)}/g</span>
+              <span className="text-slate-900 dark:text-[var(--p-text)] font-semibold text-xs">
+                Thượng Hải: <span className="text-amber-800 dark:text-amber-400 font-extrabold">¥{matrix.sge.priceCnyPerGram.toFixed(2)}/g</span>
               </span>
-              <span className="text-[var(--p-muted)] hidden md:inline text-xs">
-                (Quy đổi: <span className="text-[var(--p-text)] font-medium">${matrix.sge.sgeUsdPerOz.toFixed(2)}/oz</span> @ USD/CNY {matrix.sge.usdCnyRate})
+              <span className="text-slate-600 dark:text-[var(--p-muted)] hidden md:inline text-xs">
+                (Quy đổi: <span className="text-slate-900 dark:text-[var(--p-text)] font-medium">${matrix.sge.sgeUsdPerOz.toFixed(2)}/oz</span> @ USD/CNY {matrix.sge.usdCnyRate})
               </span>
             </div>
             <div className="flex items-center gap-2.5">
-              <span className="text-[var(--p-muted)] text-xs">Shanghai Premium:</span>
+              <span className="text-slate-600 dark:text-[var(--p-muted)] text-xs font-medium">Shanghai Premium:</span>
               <span className={`font-bold px-2.5 py-1 rounded-lg text-xs ${
                 matrix.sge.spreadUsd >= 0
-                  ? 'text-emerald-500 bg-emerald-500/15 border border-emerald-500/30'
-                  : 'text-rose-500 bg-rose-500/15 border border-rose-500/30'
+                  ? 'text-emerald-700 dark:text-emerald-400 bg-emerald-100 dark:bg-emerald-500/15 border border-emerald-300 dark:border-emerald-500/30 font-extrabold'
+                  : 'text-rose-700 dark:text-rose-500 bg-rose-100 dark:bg-rose-500/15 border border-rose-300 dark:border-rose-500/30 font-extrabold'
               }`}>
                 {matrix.sge.spreadUsd >= 0 ? '+' : ''}${matrix.sge.spreadUsd.toFixed(2)}/oz ({matrix.sge.spreadUsd >= 0 ? '+' : ''}{matrix.sge.premiumPercent}%)
               </span>
-              <span className="text-[var(--p-muted)] text-xs hidden lg:inline">
+              <span className="text-slate-500 dark:text-[var(--p-muted)] text-xs hidden lg:inline">
                 • {matrix.sge.updated}
               </span>
             </div>
