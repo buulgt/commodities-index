@@ -27,84 +27,84 @@ export const ControlRibbon: React.FC<ControlRibbonProps> = ({
 
   return (
     <div className="vault-shell">
-      <div className="vault-core px-3 py-2 flex flex-col md:flex-row items-stretch md:items-center justify-between gap-2.5">
+      <div className="vault-core px-4 py-2.5 flex flex-col lg:flex-row items-stretch lg:items-center justify-between gap-3 font-sans">
         
         {/* 1. View Mode Segmented Island */}
-        <div className="flex items-center gap-1 bg-black/5 dark:bg-black/40 border border-[var(--p-border)] p-1 rounded-full overflow-x-auto shadow-inner">
+        <div className="flex items-center gap-1.5 bg-slate-200/70 dark:bg-black/50 border border-[var(--p-border)] p-1.5 rounded-2xl overflow-x-auto shadow-inner">
           <button
             onClick={() => onViewModeChange('stacked')}
-            className={`flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
+            className={`flex items-center gap-2 px-3.5 py-1.5 text-xs font-bold rounded-xl transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
               viewMode === 'stacked'
-                ? 'bg-amber-500/20 text-[var(--p-gold)] border border-amber-500/40 shadow-sm'
+                ? 'bg-amber-500/25 text-[var(--p-gold)] border border-amber-500/50 shadow-sm'
                 : 'text-[var(--p-muted)] hover:text-[var(--p-text)] hover:bg-black/5 dark:hover:bg-white/[0.04]'
             }`}
           >
-            <Rows2 className="w-3 h-3 text-amber-300" />
+            <Rows2 className="w-3.5 h-3.5 text-amber-400" />
             <span>Stacked Deck</span>
           </button>
 
           <button
             onClick={() => onViewModeChange('gold')}
-            className={`flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
+            className={`flex items-center gap-2 px-3.5 py-1.5 text-xs font-bold rounded-xl transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
               viewMode === 'gold'
-                ? 'bg-amber-500/20 text-[var(--p-gold)] border border-amber-500/40 shadow-sm'
+                ? 'bg-amber-500/25 text-[var(--p-gold)] border border-amber-500/50 shadow-sm'
                 : 'text-[var(--p-muted)] hover:text-[var(--p-text)] hover:bg-black/5 dark:hover:bg-white/[0.04]'
             }`}
           >
-            <span className="w-1.5 h-1.5 rounded-full bg-amber-400" />
+            <span className="w-2 h-2 rounded-full bg-amber-400" />
             <span>Gold Solo</span>
           </button>
 
           <button
             onClick={() => onViewModeChange('silver')}
-            className={`flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
+            className={`flex items-center gap-2 px-3.5 py-1.5 text-xs font-bold rounded-xl transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
               viewMode === 'silver'
-                ? 'bg-slate-500/20 text-[var(--p-text)] border border-[var(--p-border)] shadow-sm'
+                ? 'bg-slate-400/25 text-[var(--p-text)] border border-slate-400/50 shadow-sm'
                 : 'text-[var(--p-muted)] hover:text-[var(--p-text)] hover:bg-black/5 dark:hover:bg-white/[0.04]'
             }`}
           >
-            <span className="w-1.5 h-1.5 rounded-full bg-slate-300" />
+            <span className="w-2 h-2 rounded-full bg-slate-300" />
             <span>Silver Solo</span>
           </button>
 
           <button
             onClick={() => onViewModeChange('ratio')}
-            className={`flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
+            className={`flex items-center gap-2 px-3.5 py-1.5 text-xs font-bold rounded-xl transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
               viewMode === 'ratio'
-                ? 'bg-cyan-500/20 text-cyan-600 dark:text-cyan-300 border border-cyan-500/40 shadow-sm'
+                ? 'bg-cyan-500/25 text-cyan-400 border border-cyan-500/50 shadow-sm'
                 : 'text-[var(--p-muted)] hover:text-[var(--p-text)] hover:bg-black/5 dark:hover:bg-white/[0.04]'
             }`}
           >
-            <Scale className="w-3 h-3 text-cyan-400" />
+            <Scale className="w-3.5 h-3.5 text-cyan-400" />
             <span>GSR Ratio</span>
           </button>
 
           <button
             onClick={() => onViewModeChange('sge')}
-            className={`flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
+            className={`flex items-center gap-2 px-3.5 py-1.5 text-xs font-bold rounded-xl transition-all cursor-pointer whitespace-nowrap active:scale-[0.98] ${
               viewMode === 'sge'
-                ? 'bg-emerald-500/20 text-emerald-600 dark:text-emerald-400 border border-emerald-500/40 shadow-sm'
+                ? 'bg-emerald-500/25 text-emerald-400 border border-emerald-500/50 shadow-sm'
                 : 'text-[var(--p-muted)] hover:text-[var(--p-text)] hover:bg-black/5 dark:hover:bg-white/[0.04]'
             }`}
           >
-            <Globe className="w-3 h-3 text-amber-500" />
+            <Globe className="w-3.5 h-3.5 text-amber-500" />
             <span>SGE Premium</span>
           </button>
         </div>
 
         {/* Right Controls: Timeframe & Unit Segmented Groups */}
-        <div className="flex items-center gap-2.5 self-end md:self-auto flex-wrap">
+        <div className="flex items-center gap-2.5 self-end lg:self-auto flex-wrap">
           
           {/* Timeframe Island */}
-          <div className="flex items-center gap-1 bg-black/5 dark:bg-black/40 border border-[var(--p-border)] p-1 rounded-full shadow-inner">
-            <Clock className="w-2.5 h-2.5 text-[var(--p-muted)] ml-1.5 mr-0.5" />
+          <div className="flex items-center gap-1 bg-slate-200/70 dark:bg-black/50 border border-[var(--p-border)] p-1.5 rounded-2xl shadow-inner font-mono">
+            <Clock className="w-3.5 h-3.5 text-[var(--p-muted)] ml-1.5 mr-0.5" />
             {timeframes.map((tf) => (
               <button
                 key={tf}
                 onClick={() => onTimeframeChange(tf)}
-                className={`px-2.5 py-0.5 text-[11px] font-mono font-semibold rounded-full transition-all cursor-pointer active:scale-[0.98] ${
+                className={`px-3 py-1 text-xs font-bold rounded-xl transition-all cursor-pointer active:scale-[0.98] ${
                   timeframe === tf
-                    ? 'bg-amber-500/25 text-[var(--p-gold)] border border-amber-500/40 shadow-sm'
+                    ? 'bg-amber-500/25 text-[var(--p-gold)] border border-amber-500/50 shadow-sm'
                     : 'text-[var(--p-muted)] hover:text-[var(--p-text)] hover:bg-black/5 dark:hover:bg-white/[0.04]'
                 }`}
               >
@@ -114,7 +114,7 @@ export const ControlRibbon: React.FC<ControlRibbonProps> = ({
           </div>
 
           {/* Scale Island: dual absolute axes vs percent-aligned */}
-          <div className="flex items-center gap-1 bg-black/5 dark:bg-black/40 border border-[var(--p-border)] p-1 rounded-full text-xs font-mono shadow-inner">
+          <div className="flex items-center gap-1 bg-slate-200/70 dark:bg-black/50 border border-[var(--p-border)] p-1.5 rounded-2xl text-xs font-mono shadow-inner">
             {(['absolute', 'percent'] as ChartScale[]).map((s) => (
               <button
                 key={s}
@@ -124,9 +124,9 @@ export const ControlRibbon: React.FC<ControlRibbonProps> = ({
                     ? 'Căn chỉnh 2 đường giá theo % thay đổi — so sánh trực tiếp Thế Giới vs Việt Nam'
                     : 'Trục kép: Thế Giới (USD/oz) và Việt Nam (VND/lượng)'
                 }
-                className={`px-2.5 py-0.5 uppercase text-[10px] font-bold rounded-full transition-all cursor-pointer active:scale-[0.98] ${
+                className={`px-3 py-1 uppercase text-xs font-bold rounded-xl transition-all cursor-pointer active:scale-[0.98] ${
                   chartScale === s
-                    ? 'bg-amber-500/25 text-[var(--p-gold)] border border-amber-500/40 shadow-sm'
+                    ? 'bg-amber-500/25 text-[var(--p-gold)] border border-amber-500/50 shadow-sm'
                     : 'text-[var(--p-muted)] hover:text-[var(--p-text)] hover:bg-black/5 dark:hover:bg-white/[0.04]'
                 }`}
               >
@@ -136,14 +136,14 @@ export const ControlRibbon: React.FC<ControlRibbonProps> = ({
           </div>
 
           {/* Unit Island */}
-          <div className="flex items-center gap-1 bg-black/5 dark:bg-black/40 border border-[var(--p-border)] p-1 rounded-full text-xs font-mono shadow-inner">
+          <div className="flex items-center gap-1 bg-slate-200/70 dark:bg-black/50 border border-[var(--p-border)] p-1.5 rounded-2xl text-xs font-mono shadow-inner">
             {(['luong', 'chi', 'kg'] as UnitMode[]).map((u) => (
               <button
                 key={u}
                 onClick={() => onUnitChange(u)}
-                className={`px-2.5 py-0.5 uppercase text-[10px] font-bold rounded-full transition-all cursor-pointer active:scale-[0.98] ${
+                className={`px-3 py-1 uppercase text-xs font-bold rounded-xl transition-all cursor-pointer active:scale-[0.98] ${
                   unit === u
-                    ? 'bg-black/10 dark:bg-white/15 text-[var(--p-text)] border border-[var(--p-border)] shadow-sm'
+                    ? 'bg-black/10 dark:bg-white/20 text-[var(--p-text)] border border-[var(--p-border)] shadow-sm'
                     : 'text-[var(--p-muted)] hover:text-[var(--p-text)] hover:bg-black/5 dark:hover:bg-white/[0.04]'
                 }`}
               >

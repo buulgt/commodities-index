@@ -36,13 +36,14 @@ export function App() {
   const [chartScale, setChartScale] = useState<ChartScale>('absolute');
   const [selectedGoldDealer, setSelectedGoldDealer] = useState<GoldDealerKey>('sjc');
   const [selectedSilverDealer, setSelectedSilverDealer] = useState<SilverDealerKey>('phuquy');
-  // Theme state: Option 2 Dark (Nordic) vs Option 2 Light (FT Parchment)
-  const [themeMode, setThemeMode] = useState<'dark' | 'light'>('light');
-  const currentPalette = themeMode === 'dark' ? PALETTES.nordic : PALETTES.light_parchment;
+  // Theme state: Bold Obsidian Dark (Swiss) vs Alabaster Clean Light (Swiss Light)
+  const [themeMode, setThemeMode] = useState<'dark' | 'light'>('dark');
+  const currentPalette = themeMode === 'dark' ? PALETTES.swiss : PALETTES.light_swiss;
 
-  // Apply dynamic theme variables globally to root document
+  // Apply dynamic theme variables and class globally to root document
   useEffect(() => {
     const root = document.documentElement;
+    root.classList.toggle('dark', themeMode === 'dark');
     root.style.setProperty('--p-bg', currentPalette.bgMain);
     root.style.setProperty('--p-surface', currentPalette.bgSurface);
     root.style.setProperty('--p-card', currentPalette.bgCard);
@@ -51,7 +52,7 @@ export function App() {
     root.style.setProperty('--p-silver', currentPalette.silver);
     root.style.setProperty('--p-text', currentPalette.text);
     root.style.setProperty('--p-muted', currentPalette.textMuted);
-  }, [currentPalette]);
+  }, [themeMode, currentPalette]);
 
   // Load live matrix and summaries based on selected dealers
   const loadSummaries = useCallback(async (silent = false) => {
