@@ -11,7 +11,6 @@ import type {
   Timeframe,
   ViewMode,
   UnitMode,
-  ChartScale,
   GoldDealerKey,
   SilverDealerKey,
   BullionMatrixData,
@@ -30,10 +29,6 @@ export function App() {
   const [viewMode, setViewMode] = useState<ViewMode>('stacked');
   const [timeframe, setTimeframe] = useState<Timeframe>('ALL');
   const [unit, setUnit] = useState<UnitMode>('luong');
-  // Dual axis is the default: World gold (USD/oz) on the left, Vietnam gold
-  // (VND/lượng) on the right, both with real prices. "% Align" is available
-  // when you want to read the domestic premium directly.
-  const [chartScale, setChartScale] = useState<ChartScale>('absolute');
   const [selectedGoldDealer, setSelectedGoldDealer] = useState<GoldDealerKey>('sjc');
   const [selectedSilverDealer, setSelectedSilverDealer] = useState<SilverDealerKey>('phuquy');
   // Theme state: Bold Obsidian Dark (Swiss) vs Alabaster Clean Light (Swiss Light)
@@ -148,8 +143,6 @@ export function App() {
           onTimeframeChange={setTimeframe}
           unit={unit}
           onUnitChange={setUnit}
-          chartScale={chartScale}
-          onScaleChange={setChartScale}
         />
 
         {/* 3. The Interactive Domestic Branch Arbitrage Matrix */}
@@ -173,7 +166,6 @@ export function App() {
               data={goldData}
               unit={unit}
               timeframe={timeframe}
-              chartScale={chartScale}
               palette={currentPalette}
               height={370}
             />
@@ -184,7 +176,6 @@ export function App() {
               data={silverData}
               unit={unit}
               timeframe={timeframe}
-              chartScale={chartScale}
               palette={currentPalette}
               height={370}
             />
@@ -199,7 +190,6 @@ export function App() {
             data={goldData}
             unit={unit}
             timeframe={timeframe}
-            chartScale={chartScale}
             palette={currentPalette}
             height={620}
           />
@@ -213,7 +203,6 @@ export function App() {
             data={silverData}
             unit={unit}
             timeframe={timeframe}
-            chartScale={chartScale}
             palette={currentPalette}
             height={620}
           />
@@ -227,7 +216,6 @@ export function App() {
             data={ratioData}
             unit={unit}
             timeframe={timeframe}
-            chartScale={chartScale}
             palette={currentPalette}
             height={620}
           />

@@ -1,5 +1,5 @@
 import React from 'react';
-import type { Timeframe, ViewMode, UnitMode, ChartScale } from '../types/commodity';
+import type { Timeframe, ViewMode, UnitMode } from '../types/commodity';
 import { Rows2, Scale, Clock, Globe } from 'lucide-react';
 
 interface ControlRibbonProps {
@@ -9,8 +9,6 @@ interface ControlRibbonProps {
   onTimeframeChange: (tf: Timeframe) => void;
   unit: UnitMode;
   onUnitChange: (unit: UnitMode) => void;
-  chartScale: ChartScale;
-  onScaleChange: (scale: ChartScale) => void;
 }
 
 export const ControlRibbon: React.FC<ControlRibbonProps> = ({
@@ -20,8 +18,6 @@ export const ControlRibbon: React.FC<ControlRibbonProps> = ({
   onTimeframeChange,
   unit,
   onUnitChange,
-  chartScale,
-  onScaleChange,
 }) => {
   const timeframes: Timeframe[] = ['5D', '1M', '3M', '6M', 'YTD', '1Y', '5Y', 'ALL'];
 
@@ -113,27 +109,6 @@ export const ControlRibbon: React.FC<ControlRibbonProps> = ({
             ))}
           </div>
 
-          {/* Scale Island: dual absolute axes vs percent-aligned */}
-          <div className="flex items-center gap-1 bg-slate-200/70 dark:bg-black/50 border border-[var(--p-border)] p-1.5 rounded-2xl text-xs font-mono shadow-inner">
-            {(['absolute', 'percent'] as ChartScale[]).map((s) => (
-              <button
-                key={s}
-                onClick={() => onScaleChange(s)}
-                title={
-                  s === 'percent'
-                    ? 'Căn chỉnh 2 đường giá theo % thay đổi — so sánh trực tiếp Thế Giới vs Việt Nam'
-                    : 'Trục kép: Thế Giới (USD/oz) và Việt Nam (VND/lượng)'
-                }
-                className={`px-3 py-1 uppercase text-xs font-bold rounded-xl transition-all cursor-pointer active:scale-[0.98] ${
-                  chartScale === s
-                    ? 'bg-amber-500/25 text-[var(--p-gold)] border border-amber-500/50 shadow-sm'
-                    : 'text-[var(--p-muted)] hover:text-[var(--p-text)] hover:bg-black/5 dark:hover:bg-white/[0.04]'
-                }`}
-              >
-                {s === 'percent' ? '% Align' : 'Trục Kép'}
-              </button>
-            ))}
-          </div>
 
           {/* Unit Island */}
           <div className="flex items-center gap-1 bg-slate-200/70 dark:bg-black/50 border border-[var(--p-border)] p-1.5 rounded-2xl text-xs font-mono shadow-inner">

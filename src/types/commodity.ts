@@ -1,8 +1,6 @@
 export type Timeframe = '5D' | '1M' | '3M' | '6M' | 'YTD' | '1Y' | '5Y' | 'ALL';
 export type ViewMode = 'stacked' | 'gold' | 'silver' | 'ratio' | 'sge';
 export type UnitMode = 'luong' | 'chi' | 'kg';
-/** Absolute prices on dual axes, or percent-change so both countries align on one axis. */
-export type ChartScale = 'absolute' | 'percent';
 export type BrandMode = 'sjc' | 'btmh';
 export type PaletteKey =
   | 'swiss'

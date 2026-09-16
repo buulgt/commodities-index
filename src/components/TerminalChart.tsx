@@ -10,7 +10,7 @@ import type {
   ISeriesApi,
   UTCTimestamp,
 } from 'lightweight-charts';
-import type { PricePoint, UnitMode, Timeframe, PaletteTokens, ChartScale } from '../types/commodity';
+import type { PricePoint, UnitMode, Timeframe, PaletteTokens } from '../types/commodity';
 import { convertVnPrice } from '../services/marketData';
 import { Calendar, Crosshair, Eye, EyeOff } from 'lucide-react';
 
@@ -21,7 +21,6 @@ interface TerminalChartProps {
   data: PricePoint[];
   unit: UnitMode;
   timeframe: Timeframe;
-  chartScale: ChartScale;
   palette?: PaletteTokens;
   height?: number;
 }
@@ -33,11 +32,10 @@ export const TerminalChart: React.FC<TerminalChartProps> = ({
   data,
   unit,
   timeframe,
-  chartScale,
   height = 370,
   palette,
 }) => {
-  const isPercent = chartScale === 'percent' && type !== 'ratio';
+  const isPercent = type !== 'ratio';
   const chartContainerRef = useRef<HTMLDivElement>(null);
   const chartRef = useRef<IChartApi | null>(null);
   const worldSeriesRef = useRef<ISeriesApi<'Line'> | null>(null);
@@ -405,7 +403,7 @@ export const TerminalChart: React.FC<TerminalChartProps> = ({
     const bars = barsForPreset(timeframe, data);
     if (bars === 0) return;
 
-    const presetKey = `${timeframe}|${data.length}|${chartScale}`;
+    const presetKey = `${timeframe}|${data.length}|percent`;
     if (presetRef.current === presetKey) return;
     presetRef.current = presetKey;
 
@@ -420,7 +418,7 @@ export const TerminalChart: React.FC<TerminalChartProps> = ({
       from: data.length - bars - 0.5,
       to: data.length - 0.5,
     });
-  }, [timeframe, data, isPercent, isRatio, chartScale, barsForPreset]);
+  }, [timeframe, data, isPercent, isRatio, barsForPreset]);
 
   return (
     <div className="vault-shell">
