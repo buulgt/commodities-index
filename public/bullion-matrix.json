@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-16T05:56:39.446Z",
+  "syncedAt": "2026-09-17T00:34:05.709Z",
   "usdRate": 25850,
   "goldWorld": 4334.5,
   "silverWorld": 63.65,
@@ -20,11 +20,11 @@
       "name": "SJC Official",
       "city": "Hồ Chí Minh",
       "productName": "Vàng SJC 1L, 10L, 1KG",
-      "buy": 142900000,
-      "sell": 145900000,
+      "buy": 143500000,
+      "sell": 146500000,
       "spread": 3000000,
       "badge": "Chuẩn Quốc Gia",
-      "updated": "12:56:40 (TinyFish Live)"
+      "updated": "07:34:09 (TinyFish Live)"
     },
     "mihong": {
       "id": "mihong",
@@ -35,7 +35,7 @@
       "sell": 145300000,
       "spread": 1500000,
       "badge": "Spread Thấp Nhất",
-      "updated": "12:56:40 (TinyFish Live)"
+      "updated": "07:34:09 (TinyFish Live)"
     },
     "btmc": {
       "id": "btmc",
@@ -46,7 +46,7 @@
       "sell": 147000000,
       "spread": 4000000,
       "badge": "Top 1 Hà Nội",
-      "updated": "12:56:40 (TinyFish Live)"
+      "updated": "07:34:09 (TinyFish Live)"
     },
     "btmh": {
       "id": "btmh",
@@ -57,29 +57,29 @@
       "sell": 147000000,
       "spread": 4000000,
       "badge": "Phổ Biến Miền Bắc",
-      "updated": "12:56:40 (TinyFish Live)"
+      "updated": "07:34:09 (TinyFish Live)"
     },
     "doji": {
       "id": "doji",
       "name": "DOJI Group",
       "city": "Hà Nội & HCM",
       "productName": "Vàng SJC & Hưng Thịnh Vượng",
-      "buy": 142900000,
-      "sell": 145900000,
+      "buy": 143500000,
+      "sell": 146500000,
       "spread": 3000000,
       "badge": "Tập Đoàn DOJI",
-      "updated": "12:56:40 (TinyFish Live)"
+      "updated": "07:34:09 (TinyFish Live)"
     },
     "pnj": {
       "id": "pnj",
       "name": "PNJ",
       "city": "Toàn Quốc (Phú Nhuận)",
       "productName": "Vàng Miếng PNJ & SJC",
-      "buy": 142900000,
-      "sell": 145900000,
+      "buy": 143500000,
+      "sell": 146500000,
       "spread": 3000000,
       "badge": "Hệ Thống Lớn Nhất",
-      "updated": "12:56:40 (TinyFish Live)"
+      "updated": "07:34:09 (TinyFish Live)"
     }
   },
   "silverDealers": {
